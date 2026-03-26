@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Life as a Movie Trailer | Turn Your Photos into Cinema</title>
+    <meta name="description" content="Transform your photos into an epic movie trailer with AI voiceover and music. Choose from 5 styles. Start free!">
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;900&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container nav-container">
+            <div class="logo">🎬 MovieTrailer</div>
+            <div class="nav-links">
+                <a href="#how-it-works">How It Works</a>
+                <a href="#examples">Examples</a>
+                <a href="#pricing">Pricing</a>
+                <a href="#create" class="btn btn-primary">Create Your Trailer</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container hero-container">
+            <div class="hero-content">
+                <h1 class="hero-title">Your Life as a <span class="highlight">Movie Trailer</span></h1>
+                <p class="hero-subtitle">Upload your photos. Choose your style. Watch AI transform your memories into an epic cinematic trailer.</p>
+                <div class="hero-cta">
+                    <a href="#create" class="btn btn-large btn-primary">🎬 Create Your Trailer Free</a>
+                    <p class="hero-note">No credit card required • Watermarked preview free</p>
+                </div>
+                <div class="hero-stats">
+                    <div class="stat">
+                        <span class="stat-number">10,000+</span>
+                        <span class="stat-label">Trailers Created</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">4.9★</span>
+                        <span class="stat-label">User Rating</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">2 min</span>
+                        <span class="stat-label">Avg. Creation Time</span>
+                    </div>
+                </div>
+            </div>
+            <div class="hero-video">
+                <div class="video-placeholder">
+                    <div class="play-button">▶</div>
+                    <p>Watch Sample Trailer</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How It Works -->
+    <section id="how-it-works" class="how-it-works">
+        <div class="container">
+            <h2 class="section-title">How It Works</h2>
+            <p class="section-subtitle">Three simple steps to your cinematic masterpiece</p>
+            <div class="steps-grid">
+                <div class="step-card">
+                    <div class="step-number">1</div>
+                    <div class="step-icon">📸</div>
+                    <h3>Upload Your Photos</h3>
+                    <p>Select 5-10 of your best photos. Drag & drop or browse. We accept JPG, PNG, HEIC up to 10MB each.</p>
+                </div>
+                <div class="step-card">
+                    <div class="step-number">2</div>
+                    <div class="step-icon">🎭</div>
+                    <h3>Choose Your Style</h3>
+                    <p>Pick from 5 trailer styles: Epic, Romantic, Funny, Nostalgic, or Action. Each has unique voice & music.</p>
+                </div>
+                <div class="step-card">
+                    <div class="step-number">3</div>
+                    <div class="step-icon">🎬</div>
+                    <h3>Watch the Magic</h3>
+                    <p>AI generates your trailer in 2-5 minutes. Preview, tweak, then download or share with the world.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Style Options Preview -->
+    <section class="styles-preview">
+        <div class="container">
+            <h2 class="section-title">Choose Your Style</h2>
+            <p class="section-subtitle">Each style includes custom AI voiceover and music</p>
+            <div class="styles-grid">
+                <div class="style-card" data-style="epic">
+                    <div class="style-emoji">🎬</div>
+                    <h3>Epic</h3>
+                    <p>Blockbuster drama. Deep voice. Orchestral score. Think Marvel meets your memories.</p>
+                    <button class="btn btn-outline" onclick="previewStyle('epic')">Preview Voice</button>
+                </div>
+                <div class="style-card" data-style="romantic">
+                    <div class="style-emoji">💕</div>
+                    <h3>Romantic</h3>
+                    <p>Warm and emotional. Soft narration. Gentle piano. Your love story on screen.</p>
+                    <button class="btn btn-outline" onclick="previewStyle('romantic')">Preview Voice</button>
+                </div>
+                <div class="style-card" data-style="funny">
+                    <div class="style-emoji">😂</div>
+                    <h3>Funny</h3>
+                    <p>Lighthearted comedy. Witty narrator. Upbeat tunes. Because life's too short.</p>
+                    <button class="btn btn-outline" onclick="previewStyle('funny')">Preview Voice</button>
+                </div>
+                <div class="style-card" data-style="nostalgic">
+                    <div class="style-emoji">📼</div>
+                    <h3>Nostalgic</h3>
+                    <p>Vintage warmth. Sentimental tone. Classic melodies. Journey through time.</p>
+                    <button class="btn btn-outline" onclick="previewStyle('nostalgic')">Preview Voice</button>
+                </div>
+                <div class="style-card" data-style="action">
+                    <div class="style-emoji">⚡</div>
+                    <h3>Action</h3>
+                    <p>High energy. Intense delivery. Epic drums. Your life as an action movie.</p>
+                    <button class="btn btn-outline" onclick="previewStyle('action')">Preview Voice</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Examples Section -->
+    <section id="examples" class="examples">
+        <div class="container">
+            <h2 class="section-title">See What's Possible</h2>
+            <p class="section-subtitle">Real trailers created by real people</p>
+            <div class="examples-grid">
+                <div class="example-card">
+                    <div class="example-thumbnail">
+                        <span class="example-tag">Epic</span>
+                        <div class="play-overlay">▶</div>
+                    </div>
+                    <h4>Sarah's Wedding</h4>
+                    <p>Epic style • 2:34</p>
+                </div>
+                <div class="example-card">
+                    <div class="example-thumbnail">
+                        <span class="example-tag">Romantic</span>
+                        <div class="play-overlay">▶</div>
+                    </div>
+                    <h4>Our First Year</h4>
+                    <p>Romantic style • 1:58</p>
+                </div>
+                <div class="example-card">
+                    <div class="example-thumbnail">
+                        <span class="example-tag">Funny</span>
+                        <div class="play-overlay">▶</div>
+                    </div>
+                    <h4>College Chaos</h4>
+                    <p>Funny style • 2:12</p>
+                </div>
+                <div class="example-card">
+                    <div class="example-thumbnail">
+                        <span class="example-tag">Action</span>
+                        <div class="play-overlay">▶</div>
+                    </div>
+                    <h4>Adventure 2024</h4>
+                    <p>Action style • 2:45</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section id="pricing" class="pricing">
+        <div class="container">
+            <h2 class="section-title">Simple Pricing</h2>
+            <p class="section-subtitle">Start free. Upgrade for more.</p>
+            <div class="pricing-grid">
+                <div class="pricing-card">
+                    <div class="pricing-tier">Free</div>
+                    <div class="pricing-price">$0</div>
+                    <ul class="pricing-features">
+                        <li>✓ 720p HD quality</li>
+                        <li>✓ Watermarked video</li>
+                        <li>✓ All 5 styles</li>
+                        <li>✓ 30 second trailer</li>
+                        <li>✗ No custom voice</li>
+                        <li>✗ No commercial use</li>
+                    </ul>
+                    <a href="#create" class="btn btn-outline btn-full">Start Free</a>
+                </div>
+                <div class="pricing-card featured">
+                    <div class="pricing-badge">Most Popular</div>
+                    <div class="pricing-tier">HD</div>
+                    <div class="pricing-price">$19</div>
+                    <ul class="pricing-features">
+                        <li>✓ 1080p Full HD</li>
+                        <li>✓ No watermark</li>
+                        <li>✓ All 5 styles</li>
+                        <li>✓ 60 second trailer</li>
+                        <li>✓ Download & share</li>
+                        <li>✓ Commercial use</li>
+                    </ul>
+                    <a href="#create" class="btn btn-primary btn-full">Get HD</a>
+                </div>
+                <div class="pricing-card">
+                    <div class="pricing-tier">4K Premium</div>
+                    <div class="pricing-price">$49</div>
+                    <ul class="pricing-features">
+                        <li>✓ 4K Ultra HD</li>
+                        <li>✓ No watermark</li>
+                        <li>✓ All 5 styles</li>
+                        <li>✓ 90 second trailer</li>
+                        <li>✓ Custom voice option</li>
+                        <li>✓ Priority support</li>
+                    </ul>
+                    <a href="#create" class="btn btn-outline btn-full">Go Premium</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Create Section (Upload Interface) -->
+    <section id="create" class="create-section">
+        <div class="container">
+            <h2 class="section-title">Create Your Trailer</h2>
+            <p class="section-subtitle">Let's make some movie magic</p>
+            
+            <div class="creator-container" id="creator">
+                <!-- Step 1: Upload -->
+                <div class="creator-step active" id="step-upload">
+                    <div class="upload-area" id="dropzone">
+                        <div class="upload-icon">📸</div>
+                        <h3>Drop Your Photos Here</h3>
+                        <p>or click to browse (5-10 photos, max 10MB each)</p>
+                        <input type="file" id="fileInput" multiple accept="image/*" hidden>
+                        <button class="btn btn-primary" onclick="document.getElementById('fileInput').click()">
+                            Choose Photos
+                        </button>
+                    </div>
+                    <div class="photo-preview" id="photoPreview"></div>
+                    <div class="step-progress">
+                        <span class="progress-text">Photos: <span id="photoCount">0</span>/10</span>
+                        <div class="progress-bar"><div class="progress-fill" id="uploadProgress"></div></div>
+                    </div>
+                    <button class="btn btn-primary btn-large" id="continueToStyle" disabled>
+                        Continue to Style →
+                    </button>
+                </div>
+
+                <!-- Step 2: Style Selection -->
+                <div class="creator-step" id="step-style">
+                    <h3>Choose Your Trailer Style</h3>
+                    <div class="style-selector">
+                        <div class="style-option" data-style="epic" onclick="selectStyle('epic')">
+                            <div class="style-option-emoji">🎬</div>
+                            <div class="style-option-name">Epic</div>
+                        </div>
+                        <div class="style-option" data-style="romantic" onclick="selectStyle('romantic')">
+                            <div class="style-option-emoji">💕</div>
+                            <div class="style-option-name">Romantic</div>
+                        </div>
+                        <div class="style-option" data-style="funny" onclick="selectStyle('funny')">
+                            <div class="style-option-emoji">😂</div>
+                            <div class="style-option-name">Funny</div>
+                        </div>
+                        <div class="style-option" data-style="nostalgic" onclick="selectStyle('nostalgic')">
+                            <div class="style-option-emoji">📼</div>
+                            <div class="style-option-name">Nostalgic</div>
+                        </div>
+                        <div class="style-option" data-style="action" onclick="selectStyle('action')">
+                            <div class="style-option-emoji">⚡</div>
+                            <div class="style-option-name">Action</div>
+                        </div>
+                    </div>
+                    <div class="selected-style-info" id="selectedStyleInfo" style="display:none;">
+                        <h4>Selected: <span id="selectedStyleName"></span></h4>
+                        <p id="selectedStyleDesc"></p>
+                    </div>
+                    <div class="step-actions">
+                        <button class="btn btn-outline" onclick="goToStep('upload')">← Back</button>
+                        <button class="btn btn-primary btn-large" id="generateTrailer" disabled>
+                            🎬 Generate My Trailer
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Step 3: Generation -->
+                <div class="creator-step" id="step-generating">
+                    <div class="generating-animation">
+                        <div class="film-reel">🎬</div>
+                        <h3>Creating Your Masterpiece...</h3>
+                        <p>This takes 2-5 minutes. Don't close this page!</p>
+                        <div class="progress-bar large">
+                            <div class="progress-fill" id="generationProgress"></div>
+                        </div>
+                        <div class="generation-steps">
+                            <div class="gen-step" id="gen-step-1">⏳ Analyzing photos...</div>
+                            <div class="gen-step" id="gen-step-2">⏳ Generating voiceover...</div>
+                            <div class="gen-step" id="gen-step-3">⏳ Selecting music...</div>
+                            <div class="gen-step" id="gen-step-4">⏳ Assembling video...</div>
+                            <div class="gen-step" id="gen-step-5">⏳ Finalizing...</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Step 4: Preview & Download -->
+                <div class="creator-step" id="step-preview">
+                    <h3>🎉 Your Trailer is Ready!</h3>
+                    <div class="video-player" id="videoPlayer">
+                        <div class="video-placeholder">
+                            <div class="play-button">▶</div>
+                            <p>Your trailer preview</p>
+                        </div>
+                    </div>
+                    <div class="download-options">
+                        <div class="download-option" onclick="selectDownload('free')">
+                            <div class="option-name">Free</div>
+                            <div class="option-price">$0</div>
+                            <div class="option-desc">720p • Watermarked</div>
+                        </div>
+                        <div class="download-option" onclick="selectDownload('hd')">
+                            <div class="option-name">HD</div>
+                            <div class="option-price">$19</div>
+                            <div class="option-desc">1080p • No watermark</div>
+                        </div>
+                        <div class="download-option" onclick="selectDownload('4k')">
+                            <div class="option-name">4K</div>
+                            <div class="option-price">$49</div>
+                            <div class="option-desc">4K • Custom voice</div>
+                        </div>
+                    </div>
+                    <div class="step-actions">
+                        <button class="btn btn-outline" onclick="goToStep('upload')">Create Another</button>
+                        <button class="btn btn-primary btn-large" id="downloadBtn" disabled>
+                            Download Trailer
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <div class="logo">🎬 MovieTrailer</div>
+                    <p>Turn your memories into cinema.</p>
+                </div>
+                <div class="footer-links">
+                    <a href="#">Terms of Service</a>
+                    <a href="#">Privacy Policy</a>
+                    <a href="#">Contact</a>
+                    <a href="#">FAQ</a>
+                </div>
+                <div class="footer-social">
+                    <a href="#">📱 Instagram</a>
+                    <a href="#">🐦 Twitter</a>
+                    <a href="#">📺 TikTok</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 MovieTrailer. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="scripts/main.js"></script>
+</body>
+</html>

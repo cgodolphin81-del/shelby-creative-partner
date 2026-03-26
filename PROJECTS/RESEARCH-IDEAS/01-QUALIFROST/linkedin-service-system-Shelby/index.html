@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkedIn Ghostwriting Service | Premium Content That Sounds Like You</title>
+    <meta name="description" content="Premium LinkedIn ghostwriting service for founders, executives, and thought leaders. Get consistent, authentic content that builds your brand and generates leads.">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        /* Header */
+        header {
+            background: linear-gradient(135deg, #0077b5 0%, #005582 100%);
+            color: white;
+            padding: 80px 0;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            font-weight: 700;
+        }
+        
+        header p {
+            font-size: 1.3rem;
+            max-width: 700px;
+            margin: 0 auto 30px;
+            opacity: 0.95;
+        }
+        
+        .cta-button {
+            display: inline-block;
+            background: #ffffff;
+            color: #0077b5;
+            padding: 18px 40px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+        
+        .cta-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+        }
+        
+        /* Features */
+        .features {
+            padding: 80px 0;
+            background: #f8f9fa;
+        }
+        
+        .features h2 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 60px;
+        }
+        
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 40px;
+        }
+        
+        .feature {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        
+        .feature h3 {
+            font-size: 1.4rem;
+            margin-bottom: 15px;
+            color: #0077b5;
+        }
+        
+        .feature-icon {
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+        
+        /* How It Works */
+        .how-it-works {
+            padding: 80px 0;
+        }
+        
+        .how-it-works h2 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 60px;
+        }
+        
+        .steps {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 40px;
+        }
+        
+        .step {
+            text-align: center;
+            padding: 30px;
+        }
+        
+        .step-number {
+            width: 60px;
+            height: 60px;
+            background: #0077b5;
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin: 0 auto 20px;
+        }
+        
+        .step h3 {
+            font-size: 1.3rem;
+            margin-bottom: 10px;
+        }
+        
+        /* Pricing */
+        .pricing {
+            padding: 80px 0;
+            background: #f8f9fa;
+        }
+        
+        .pricing h2 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+        
+        .pricing-subtitle {
+            text-align: center;
+            font-size: 1.1rem;
+            color: #666;
+            margin-bottom: 60px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .pricing-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        .pricing-card {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            text-align: center;
+            position: relative;
+        }
+        
+        .pricing-card.featured {
+            border: 3px solid #0077b5;
+            transform: scale(1.05);
+        }
+        
+        .pricing-card.popular {
+            background: #0077b5;
+            color: white;
+        }
+        
+        .pricing-card.popular h3,
+        .pricing-card.popular .price {
+            color: white;
+        }
+        
+        .pricing-card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+        }
+        
+        .price {
+            font-size: 3rem;
+            font-weight: 700;
+            color: #0077b5;
+            margin-bottom: 10px;
+        }
+        
+        .price span {
+            font-size: 1rem;
+            font-weight: 400;
+            color: #666;
+        }
+        
+        .pricing-card.popular .price span {
+            color: rgba(255,255,255,0.8);
+        }
+        
+        .pricing-card ul {
+            list-style: none;
+            margin: 30px 0;
+            text-align: left;
+        }
+        
+        .pricing-card li {
+            padding: 10px 0;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .pricing-card.popular li {
+            border-bottom-color: rgba(255,255,255,0.2);
+        }
+        
+        .pricing-card li:before {
+            content: "✓ ";
+            color: #0077b5;
+            font-weight: 700;
+        }
+        
+        .pricing-card.popular li:before {
+            color: white;
+        }
+        
+        .pricing-card .cta-button {
+            width: 100%;
+            margin-top: 20px;
+        }
+        
+        .pricing-card.popular .cta-button {
+            background: white;
+            color: #0077b5;
+        }
+        
+        /* Testimonials */
+        .testimonials {
+            padding: 80px 0;
+        }
+        
+        .testimonials h2 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 60px;
+        }
+        
+        .testimonial-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 40px;
+        }
+        
+        .testimonial {
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 12px;
+            border-left: 4px solid #0077b5;
+        }
+        
+        .testimonial p {
+            font-style: italic;
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+        }
+        
+        .testimonial-author {
+            font-weight: 600;
+            color: #0077b5;
+        }
+        
+        .testimonial-role {
+            font-size: 0.9rem;
+            color: #666;
+        }
+        
+        /* FAQ */
+        .faq {
+            padding: 80px 0;
+            background: #f8f9fa;
+        }
+        
+        .faq h2 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 60px;
+        }
+        
+        .faq-item {
+            max-width: 800px;
+            margin: 0 auto 30px;
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+        }
+        
+        .faq-item h3 {
+            font-size: 1.2rem;
+            margin-bottom: 15px;
+            color: #0077b5;
+        }
+        
+        /* CTA Section */
+        .cta-section {
+            padding: 100px 0;
+            background: linear-gradient(135deg, #0077b5 0%, #005582 100%);
+            color: white;
+            text-align: center;
+        }
+        
+        .cta-section h2 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+        
+        .cta-section p {
+            font-size: 1.2rem;
+            max-width: 600px;
+            margin: 0 auto 40px;
+            opacity: 0.95;
+        }
+        
+        .cta-section .cta-button {
+            background: white;
+            color: #0077b5;
+        }
+        
+        /* Footer */
+        footer {
+            background: #1a1a1a;
+            color: white;
+            padding: 40px 0;
+            text-align: center;
+        }
+        
+        footer p {
+            opacity: 0.7;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2rem;
+            }
+            
+            header p {
+                font-size: 1.1rem;
+            }
+            
+            .pricing-card.featured {
+                transform: scale(1);
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <header>
+        <div class="container">
+            <h1>LinkedIn Ghostwriting That Sounds Like You</h1>
+            <p>Premium content creation for founders, executives, and thought leaders who want to build their brand without spending hours writing posts.</p>
+            <a href="#pricing" class="cta-button">Book Your Free Strategy Call</a>
+        </div>
+    </header>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2>Why Choose Our LinkedIn Ghostwriting?</h2>
+            <div class="feature-grid">
+                <div class="feature">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Authentic Voice Capture</h3>
+                    <p>We don't write generic content. Our deep voice capture process ensures every post sounds authentically like you, not a generic AI or copywriter.</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">📊</div>
+                    <h3>Proven Results</h3>
+                    <p>Clients see 2-3x engagement growth within 90 days, with consistent follower growth and inbound lead generation.</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">⏰</div>
+                    <h3>Save 10+ Hours/Week</h3>
+                    <p>Stop stressing about what to post. We handle everything from strategy to scheduling while you focus on running your business.</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">🤝</div>
+                    <h3>Dedicated Account Manager</h3>
+                    <p>Work with a dedicated strategist who learns your business, goals, and voice. Weekly check-ins and monthly strategy calls included.</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">📈</div>
+                    <h3>Transparent Analytics</h3>
+                    <p>Get detailed monthly reports showing exactly what's working, what's not, and how your LinkedIn presence is driving business results.</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">🔄</div>
+                    <h3>Unlimited Revisions</h3>
+                    <p>Not quite right? We'll revise until it's perfect. Your satisfaction is guaranteed with our collaborative review process.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How It Works -->
+    <section class="how-it-works">
+        <div class="container">
+            <h2>How It Works</h2>
+            <div class="steps">
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <h3>Book Strategy Call</h3>
+                    <p>15-minute discovery call to discuss your goals, audience, and content needs.</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <h3>Voice Capture</h3>
+                    <p>Complete our detailed questionnaire and 60-minute onboarding call to capture your unique voice.</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">3</div>
+                    <h3>Content Creation</h3>
+                    <p>We create your posts using our proven framework. You review and approve in our easy workflow system.</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">4</div>
+                    <h3>Launch & Grow</h3>
+                    <p>Posts go live on your schedule. We track results, optimize, and scale what works.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section class="pricing" id="pricing">
+        <div class="container">
+            <h2>Simple, Transparent Pricing</h2>
+            <p class="pricing-subtitle">Choose the package that fits your goals. All plans include voice capture, dedicated account manager, and monthly strategy calls.</p>
+            <div class="pricing-grid">
+                <div class="pricing-card">
+                    <h3>Starter</h3>
+                    <div class="price">$1,500<span>/month</span></div>
+                    <ul>
+                        <li>2 posts per week (8/month)</li>
+                        <li>Voice capture questionnaire</li>
+                        <li>60-minute onboarding call</li>
+                        <li>Content approval workflow</li>
+                        <li>Monthly analytics report</li>
+                        <li>48-hour revision turnaround</li>
+                        <li>Email support</li>
+                    </ul>
+                    <a href="https://calendly.com/" class="cta-button" target="_blank">Get Started</a>
+                </div>
+                <div class="pricing-card featured popular">
+                    <h3>Pro ⭐ Most Popular</h3>
+                    <div class="price">$3,000<span>/month</span></div>
+                    <ul>
+                        <li>3 posts per week (12/month)</li>
+                        <li>Everything in Starter</li>
+                        <li>Profile optimization ($500 value)</li>
+                        <li>Engagement management</li>
+                        <li>Bi-weekly strategy calls</li>
+                        <li>Priority support</li>
+                        <li>Content repurposing (1x/month)</li>
+                        <li>Lead tracking dashboard</li>
+                    </ul>
+                    <a href="https://calendly.com/" class="cta-button" target="_blank">Get Started</a>
+                </div>
+                <div class="pricing-card">
+                    <h3>Enterprise</h3>
+                    <div class="price">$5,000+<span>/month</span></div>
+                    <ul>
+                        <li>5 posts per week (20/month)</li>
+                        <li>Everything in Pro</li>
+                        <li>Dedicated ghostwriter</li>
+                        <li>Weekly strategy calls</li>
+                        <li>LinkedIn newsletter management</li>
+                        <li>Video script writing</li>
+                        <li>Carousel design (4/month)</li>
+                        <li>Team training session</li>
+                        <li>Custom analytics dashboard</li>
+                    </ul>
+                    <a href="https://calendly.com/" class="cta-button" target="_blank">Get Started</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <h2>What Our Clients Say</h2>
+            <div class="testimonial-grid">
+                <div class="testimonial">
+                    <p>"I was skeptical about ghostwriting, but this team captured my voice perfectly. My engagement is up 3x and I'm getting inbound leads weekly. Best investment I've made for my personal brand."</p>
+                    <div class="testimonial-author">Sarah Chen</div>
+                    <div class="testimonial-role">CEO, TechStart Inc.</div>
+                </div>
+                <div class="testimonial">
+                    <p>"Finally, a service that understands that LinkedIn isn't about posting for the sake of posting. Every piece of content has strategy behind it. My pipeline has never been stronger."</p>
+                    <div class="testimonial-author">Marcus Rodriguez</div>
+                    <div class="testimonial-role">Founder, GrowthLabs</div>
+                </div>
+                <div class="testimonial">
+                    <p>"I save at least 10 hours a week not having to think about LinkedIn. The team is professional, responsive, and the quality is consistently excellent. Highly recommend."</p>
+                    <div class="testimonial-author">Jennifer Park</div>
+                    <div class="testimonial-role">VP Marketing, ScaleUp Co.</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq">
+        <div class="container">
+            <h2>Frequently Asked Questions</h2>
+            <div class="faq-item">
+                <h3>How do you capture my voice?</h3>
+                <p>We use a comprehensive voice capture process including a 20-question written questionnaire and a 60-minute onboarding call. We analyze your past content, communication style, and key messages to create a detailed voice profile that guides all content creation.</p>
+            </div>
+            <div class="faq-item">
+                <h3>How long does it take to see results?</h3>
+                <p>Most clients see increased engagement within the first 30 days. Follower growth and inbound leads typically accelerate in months 2-3 as the algorithm recognizes your consistent, high-quality content. Our 90-day target is 500-1,000 new followers and 2-5 inbound leads per month.</p>
+            </div>
+            <div class="faq-item">
+                <h3>What if I don't like the content?</h3>
+                <p>We have an unlimited revision policy. Every post goes through our collaborative approval workflow where you can request changes. We don't stop until you're 100% satisfied. Our goal is to make you look good, not to push content you're uncomfortable with.</p>
+            </div>
+            <div class="faq-item">
+                <h3>Do I need to be active on LinkedIn myself?</h3>
+                <p>We recommend engaging with comments on your posts and occasionally commenting on others' content, but we can handle 100% of the content creation and posting. Some clients choose our Engagement Management add-on where we handle all community interaction.</p>
+            </div>
+            <div class="faq-item">
+                <h3>What's the minimum commitment?</h3>
+                <p>We require a 3-month minimum commitment. This gives us enough time to implement strategy, see results, and optimize. After 3 months, you can continue month-to-month or cancel with 30 days notice.</p>
+            </div>
+            <div class="faq-item">
+                <h3>Can you work with my existing content?</h3>
+                <p>Absolutely! We love repurposing your existing content (podcasts, blogs, speeches, etc.) into LinkedIn posts. This is included in our Pro and Enterprise packages, or available as an add-on for Starter.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container">
+            <h2>Ready to Transform Your LinkedIn Presence?</h2>
+            <p>Book a free 15-minute strategy call to discuss your goals and see if we're a good fit. No pressure, no sales pitch—just a conversation about how we can help you build your brand.</p>
+            <a href="https://calendly.com/" class="cta-button" target="_blank">Book Your Free Strategy Call</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 LinkedIn Ghostwriting Service. All rights reserved.</p>
+            <p style="margin-top: 10px; font-size: 0.9rem;">Professional LinkedIn content creation for founders and executives.</p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,32 @@
+FOLLOW-UP EMAIL #2 - 7 Days (Value Add)
+========================================
+
+SUBJECT: Quick AI search insight for {{Company}}
+
+Hi {{FirstName}},
+
+Following up on my note about AI search visibility.
+
+I ran a quick check this morning. Here's what I found for {{Industry}} queries:
+
+❌ "Best {{Industry}} in {{City}}" → {{Competitor1}}, {{Competitor2}}
+❌ "{{Industry}} companies for {{UseCase}}" → Same competitors
+❌ "{{Industry}} recommendations" → {{Competitor3}} now appearing
+
+{{Company}}: Not in top recommendations for any of these.
+
+The gap is widening. AI search is growing 40% YoY, and early movers are locking in visibility.
+
+I can still run that free AI visibility audit for {{Company}}. Shows:
+→ Exactly which queries you're missing
+→ What competitors are doing differently
+→ Quick fixes to get started
+
+15 minutes this week or next?
+
+Best,
+{{YourName}}
+
+---
+Timing: 7 days after initial
+Tone: Helpful, data-driven, urgency without pressure

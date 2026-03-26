@@ -1,0 +1,187 @@
+═══════════════════════════════════════════════════════════════
+GEO SEO - ONBOARDING CHECKLIST
+Send as separate email or PDF attachment
+═══════════════════════════════════════════════════════════════
+
+GEO SEO ONBOARDING CHECKLIST
+[CLIENT COMPANY NAME]
+
+Complete these items to accelerate your GEO launch.
+Target completion: Within 5 business days
+
+═══════════════════════════════════════════════════════════════
+SECTION 1: WEBSITE ACCESS
+═══════════════════════════════════════════════════════════════
+
+□ CMS Access (WordPress, Shopify, Webflow, etc.)
+  What we need: Admin-level access
+  Why: To implement on-page optimizations
+  Share via: [INSTRUCTIONS]
+  Status: [ ] Pending [ ] Complete
+
+□ Hosting/Server Access (if custom site)
+  What we need: SFTP or file manager access
+  Why: For technical optimizations
+  Share via: [INSTRUCTIONS]
+  Status: [ ] Pending [ ] Complete
+
+□ CDN/Security (Cloudflare, etc.)
+  What we need: View access
+  Why: To ensure AI crawlers aren't blocked
+  Share via: [INSTRUCTIONS]
+  Status: [ ] Pending [ ] Complete
+
+═══════════════════════════════════════════════════════════════
+SECTION 2: ANALYTICS & TRACKING
+═══════════════════════════════════════════════════════════════
+
+□ Google Analytics
+  What we need: Read access
+  Why: To establish baseline and track improvements
+  Share via: Invite [YOUR EMAIL] as Viewer
+  Status: [ ] Pending [ ] Complete
+
+□ Google Search Console
+  What we need: Full access
+  Why: To monitor search performance and indexing
+  Share via: Add [YOUR EMAIL] as Owner
+  Status: [ ] Pending [ ] Complete
+
+□ Other Analytics (if applicable)
+  Tool: [NAME]
+  What we need: [ACCESS LEVEL]
+  Share via: [INSTRUCTIONS]
+  Status: [ ] Pending [ ] Complete
+
+□ Conversion Tracking
+  What we need: Access to goal/conversion setup
+  Why: To attribute revenue to GEO efforts
+  Share via: [INSTRUCTIONS]
+  Status: [ ] Pending [ ] Complete
+
+═══════════════════════════════════════════════════════════════
+SECTION 3: BUSINESS INFORMATION
+═══════════════════════════════════════════════════════════════
+
+□ Top 10 Target Keywords/Services
+  Format: List of phrases customers use to find you
+  Example: "best [service] in [city]", "[service] near me"
+  Status: [ ] Pending [ ] Complete
+
+□ Top 5 Competitors
+  List: Company names and websites
+  Why: We analyze their AI visibility to find gaps
+  Status: [ ] Pending [ ] Complete
+
+□ Brand Guidelines
+  What we need: Logo, colors, tone of voice, messaging
+  Why: To ensure all content aligns with your brand
+  Share via: [Google Drive/Dropbox link or attachment]
+  Status: [ ] Pending [ ] Complete
+
+□ Existing Content Assets
+  What we need: Links to whitepapers, reports, guides
+  Why: We'll optimize these for AI citation
+  Share via: [LINKS]
+  Status: [ ] Pending [ ] Complete
+
+□ Previous SEO/Marketing Reports (if available)
+  What we need: Any past audits, keyword research, etc.
+  Why: To understand what's been tried before
+  Share via: [LINKS OR ATTACHMENTS]
+  Status: [ ] Pending [ ] Complete
+
+═══════════════════════════════════════════════════════════════
+SECTION 4: TEAM & CONTACTS
+═══════════════════════════════════════════════════════════════
+
+□ Primary Point of Contact
+  Name: [NAME]
+  Email: [EMAIL]
+  Phone: [PHONE]
+  Role: [ROLE]
+  Status: [ ] Pending [ ] Complete
+
+□ Technical Contact (for implementation)
+  Name: [NAME]
+  Email: [EMAIL]
+  Phone: [PHONE]
+  Role: [ROLE]
+  Status: [ ] Pending [ ] Complete
+
+□ Content/Marketing Contact (if applicable)
+  Name: [NAME]
+  Email: [EMAIL]
+  Phone: [PHONE]
+  Role: [ROLE]
+  Status: [ ] Pending [ ] Complete
+
+□ Decision Maker (if different from above)
+  Name: [NAME]
+  Email: [EMAIL]
+  Phone: [PHONE]
+  Role: [ROLE]
+  Status: [ ] Pending [ ] Complete
+
+═══════════════════════════════════════════════════════════════
+SECTION 5: OPTIONAL BUT HELPFUL
+═══════════════════════════════════════════════════════════════
+
+□ Customer Personas
+  What we need: Description of ideal customers
+  Why: Helps us target the right AI queries
+  Share via: [LINK OR ATTACHMENT]
+  Status: [ ] Not Applicable [ ] Pending [ ] Complete
+
+□ Sales Data/Revenue by Service
+  What we need: Which services are most profitable
+  Why: We prioritize high-value opportunities
+  Share via: [INSTRUCTIONS]
+  Status: [ ] Not Applicable [ ] Pending [ ] Complete
+
+□ Previous PR/Press Coverage
+  What we need: Links to any media mentions
+  Why: We'll amplify these for authority signals
+  Share via: [LINKS]
+  Status: [ ] Not Applicable [ ] Pending [ ] Complete
+
+□ Industry Associations/Memberships
+  What we need: List of organizations you belong to
+  Why: Additional authority signal opportunities
+  Share via: [LIST]
+  Status: [ ] Not Applicable [ ] Pending [ ] Complete
+
+═══════════════════════════════════════════════════════════════
+HOW TO SHARE ACCESS
+═══════════════════════════════════════════════════════════════
+
+OPTION 1: Password Manager (Preferred)
+Use LastPass, 1Password, or similar to share credentials securely.
+
+OPTION 2: Temporary Credentials
+Create temporary login credentials. We'll change passwords after
+onboarding is complete.
+
+OPTION 3: Team Member Introduction
+Introduce us to the team member who manages these tools. We'll
+work directly with them.
+
+OPTION 4: Screen Share
+For one-time setup, we can do a screen share call where you
+navigate while we guide you.
+
+═══════════════════════════════════════════════════════════════
+SUBMIT COMPLETED CHECKLIST
+═══════════════════════════════════════════════════════════════
+
+Once complete, reply to this email with:
+1. This checklist with status boxes marked
+2. All access credentials/invites sent
+3. Any documents attached or linked
+
+QUESTIONS?
+Contact your Account Manager: [NAME] at [EMAIL]
+
+TARGET COMPLETION: [DATE - 5 business days from send]
+
+═══════════════════════════════════════════════════════════════

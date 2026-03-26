@@ -1,0 +1,195 @@
+═══════════════════════════════════════════════════════════════
+AI AGENCY - DISCOVERY CALL SCRIPT
+45 minutes. Follow this exactly.
+═══════════════════════════════════════════════════════════════
+
+───────────────────────────────────────────────────────────────
+PRE-CALL PREP (15 min before call)
+───────────────────────────────────────────────────────────────
+
+□ Research their company (website, LinkedIn, news)
+□ Identify 3-5 automatable processes in their industry
+□ Have proposal template open
+□ Have Calendly ready for booking follow-up
+□ Prepare 2-3 specific automation ideas for them
+
+───────────────────────────────────────────────────────────────
+OPENING (Minutes 0-3)
+───────────────────────────────────────────────────────────────
+
+YOU: "Thanks for making time, [FIRST NAME]. I know you're busy.
+
+Before I jump into anything, I want to make sure this is actually valuable for you. Can I start by asking a few questions about [COMPANY NAME]'s current operations and where you're feeling the most pressure?"
+
+[WAIT FOR YES]
+
+YOU: "Perfect. Two things upfront:
+1. This is about you - I'll listen more than I talk
+2. If I think we can help, I'll tell you. If not, I'll be honest. Fair?"
+
+───────────────────────────────────────────────────────────────
+QUALIFYING QUESTIONS (Minutes 3-15)
+───────────────────────────────────────────────────────────────
+
+CURRENT OPERATIONS:
+
+1. "Walk me through a typical week - what processes consume the most of your team's time?"
+
+2. "What's the one thing your team complains about most?"
+
+3. "How are you currently handling [SPECIFIC PROCESS RELEVANT TO THEIR INDUSTRY]?"
+
+PAIN POINTS:
+
+4. "If you could eliminate one operational headache overnight, what would it be?"
+
+5. "Where are you losing money due to inefficiency or errors?"
+
+6. "What's preventing you from scaling faster?"
+
+AI AWARENESS:
+
+7. "What's your current approach to AI and automation?"
+
+8. "Have you tried any AI tools before? What worked, what didn't?"
+
+DECISION PROCESS:
+
+9. "Who else would be involved in a decision like this?"
+
+10. "What would success look like 90 days from now?"
+
+[TAKE NOTES. Reference these later.]
+
+───────────────────────────────────────────────────────────────
+PRESENTATION (Minutes 15-30)
+───────────────────────────────────────────────────────────────
+
+YOU: "[FIRST NAME], thank you for sharing all that. Based on what you've told me, here's what I'm seeing..."
+
+[SHARE SCREEN - SHOW SIMPLE DECK OR DOCUMENT]
+
+1. THE PROBLEM (3 min)
+
+"You're spending [X] hours/week on [PROCESS]. At your team's cost, that's $[X]/month on work that doesn't require human judgment.
+
+And I bet your team would rather be doing [HIGHER-VALUE WORK] than [REPETITIVE TASK]."
+
+2. THE OPPORTUNITY (3 min)
+
+"AI can automate 70-80% of this. That's [X] hours/week back, [SPECIFIC BUSINESS IMPACT].
+
+Your team gets to focus on high-value work. You reduce costs. Everyone wins."
+
+3. OUR APPROACH (5 min)
+
+"We use a 3-phase methodology:
+
+PHASE 1 - DISCOVER (Week 1-2)
+• Process mapping and documentation
+• Automation opportunity assessment
+• ROI modeling for each opportunity
+• Technology stack selection
+
+PHASE 2 - DEPLOY (Week 3-6)
+• AI system development
+• Integration with existing tools
+• Testing and quality assurance
+• Team training and onboarding
+
+PHASE 3 - SCALE (Week 7-12)
+• Performance monitoring
+• Iterative improvements
+• Additional automation deployment
+• Advanced feature rollout"
+
+4. PROOF (4 min)
+
+[SHOW CASE STUDY SLIDE]
+
+"We've done this for [X] companies. Here's a recent example:
+
+[CLIENT] was drowning in [PROCESS]. 45 days after our automation:
+• 87% automated
+• 35 hours/week reclaimed
+• Zero errors
+• 340% ROI in first quarter"
+
+───────────────────────────────────────────────────────────────
+HANDLING OBJECTIONS (Minutes 30-38)
+───────────────────────────────────────────────────────────────
+
+BE READY FOR THESE:
+
+OBJECTION 1: "We need to think about it"
+
+YOU: "I understand. Can I ask - what specifically do you need to think through? Is it the investment, the timeline, or something else?"
+
+OBJECTION 2: "This sounds expensive"
+
+YOU: "What number are you thinking? ... [LISTEN] ... I hear you. Here's the framing: our clients typically see payback in [X] weeks. After that, it's pure margin. Does that change the equation?"
+
+OBJECTION 3: "We don't have time for implementation"
+
+YOU: "That's the beauty of our approach - we handle everything. Your team spends maybe 3-4 hours total for onboarding and training. We do the heavy lifting. What part concerns you most?"
+
+OBJECTION 4: "Send me information"
+
+YOU: "Absolutely. To make it relevant, what's the one thing you'd need to see to feel confident moving forward?"
+
+[This reveals the REAL objection.]
+
+───────────────────────────────────────────────────────────────
+CLOSE (Minutes 38-45)
+───────────────────────────────────────────────────────────────
+
+YOU: "[FIRST NAME], I think there's a real opportunity here. Here's what I'd recommend..."
+
+[PRESENT SPECIFIC RECOMMENDATION]
+
+"For a company at your stage, I'd recommend our [PACKAGE NAME] package. This includes:
+
+• Full automation audit
+• [X] processes automated
+• Full build, deploy, and train
+• 30-day post-launch support
+• Ongoing optimization
+
+The investment is $[XX,XXX] one-time (or $[X,XXX]/month for 3 months). Most clients see payback within [X] weeks.
+
+[PAUSE. Let them respond.]
+
+Does this feel like the right next step for [COMPANY NAME]?"
+
+[IF YES]
+
+YOU: "Great. Here's what happens next:
+
+1. I'll send over the proposal today
+2. You review it - any questions, just ask
+3. We sign and schedule kickoff
+4. We start the audit within 48 hours
+
+I can have the proposal to you within 2 hours. What's the best email?"
+
+[IF THEY NEED TO THINK]
+
+YOU: "Of course. What specifically do you need to think through? Is it the investment, the timeline, or something about the approach?"
+
+[ADDRESS THE CONCERN. Then:]
+
+YOU: "Tell you what - let me send the proposal so you have something concrete to review. No obligation. We can schedule a follow-up call for [DAY] to answer any questions. Does that work?"
+
+[BOOK THE FOLLOW-UP BEFORE HANGING UP]
+
+───────────────────────────────────────────────────────────────
+POST-CALL ACTIONS (Within 1 hour)
+───────────────────────────────────────────────────────────────
+
+□ Send personalized email recapping the call
+□ Attach proposal
+□ Include Calendly for follow-up
+□ Log all notes in CRM
+□ Set reminder for follow-up date
+
+═══════════════════════════════════════════════════════════════

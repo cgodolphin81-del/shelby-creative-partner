@@ -1,0 +1,196 @@
+CONTRACT TEMPLATE - Service Agreement
+======================================
+
+[Copy this into your preferred contract tool and customize]
+[NOTE: Have legal counsel review before use]
+
+---
+
+GEO SEO SERVICES AGREEMENT
+
+This Agreement is entered into as of {{EffectiveDate}} (the "Effective Date") by and between:
+
+{{Your Company Name}}, a {{State}} {{Entity Type}} ("Provider")
+AND
+{{Client Company Name}}, a {{State}} {{Entity Type}} ("Client")
+
+Collectively, the "Parties."
+
+---
+
+1. SERVICES
+-----------
+
+Provider agrees to deliver GEO (Generative Engine Optimization) services as described in Exhibit A (Statement of Work), attached and incorporated by reference.
+
+Services include:
+• AI Visibility Audit
+• Citation Strategy and Implementation
+• Content Optimization for AI Systems
+• Authority Signal Development
+• Monthly Monitoring and Reporting
+
+---
+
+2. TERM
+-------
+
+This Agreement shall commence on the Effective Date and continue for an initial term of {{InitialTerm}} months (the "Initial Term").
+
+After the Initial Term, this Agreement shall automatically renew for successive {{RenewalTerm}}-month periods unless either Party provides written notice of non-renewal at least {{NoticePeriod}} days prior to the end of the then-current term.
+
+---
+
+3. COMPENSATION
+---------------
+
+Client agrees to pay Provider as follows:
+
+One-Time Setup Fee: ${{SetupFee}}
+Due upon execution of this Agreement
+
+Monthly Fee: ${{MonthlyFee}}
+Due on the 1st of each month, beginning {{FirstPaymentDate}}
+
+Payment Terms: Net 15 days from invoice date
+
+Late Payments: Invoices not paid within 30 days of due date shall accrue interest at 1.5% per month or the maximum rate permitted by law, whichever is less.
+
+---
+
+4. CLIENT RESPONSIBILITIES
+--------------------------
+
+Client agrees to:
+• Provide timely access to necessary systems, accounts, and information
+• Respond to Provider requests within 5 business days
+• Review and approve deliverables within 5 business days of submission
+• Designate a single point of contact for communications
+• Make payments in accordance with Section 3
+
+---
+
+5. PERFORMANCE METRICS
+----------------------
+
+Provider will use commercially reasonable efforts to achieve the following outcomes:
+
+• {{TargetVisibility}}% AI visibility for priority queries within {{TargetTimeline}} days
+• Monthly reporting on visibility metrics and progress
+• Quarterly strategy reviews and adjustments
+
+Provider does not guarantee specific rankings, traffic, or revenue outcomes, as AI system behaviors are subject to change outside Provider's control.
+
+---
+
+6. CONFIDENTIALITY
+------------------
+
+Each Party agrees to keep confidential all non-public information disclosed by the other Party ("Confidential Information").
+
+Confidential Information shall not include information that:
+• Is or becomes publicly known through no breach of this Agreement
+• Was known to the receiving Party prior to disclosure
+• Is independently developed by the receiving Party
+• Is required to be disclosed by law or court order
+
+This obligation shall survive termination of this Agreement for {{ConfidentialityPeriod}} years.
+
+---
+
+7. INTELLECTUAL PROPERTY
+------------------------
+
+Provider retains ownership of all pre-existing intellectual property, methodologies, and tools used in delivering Services.
+
+Client retains ownership of all pre-existing intellectual property, including website content, brand assets, and proprietary information.
+
+Deliverables created specifically for Client under this Agreement shall be owned by Client upon full payment of all fees due.
+
+---
+
+8. LIMITATION OF LIABILITY
+--------------------------
+
+IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES.
+
+PROVIDER'S TOTAL LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE TOTAL FEES PAID BY CLIENT IN THE {{LiabilityCapPeriod}}-MONTH PERIOD PRECEDING THE CLAIM.
+
+---
+
+9. TERMINATION
+--------------
+
+Either Party may terminate this Agreement:
+• For convenience: With {{TerminationNotice}} days written notice
+• For cause: Immediately upon written notice if the other Party materially breaches this Agreement and fails to cure within {{CurePeriod}} days of notice
+
+Upon termination:
+• Client shall pay all fees due through the termination date
+• Provider shall deliver all completed work-in-progress
+• Both Parties shall return or destroy Confidential Information
+
+---
+
+10. INDEPENDENT CONTRACTOR
+--------------------------
+
+Provider is an independent contractor, not an employee or agent of Client. Provider is responsible for all taxes, insurance, and benefits related to Provider's personnel.
+
+---
+
+11. GOVERNING LAW
+-----------------
+
+This Agreement shall be governed by the laws of {{GoverningState}}, without regard to conflict of law principles.
+
+---
+
+12. DISPUTE RESOLUTION
+----------------------
+
+Any disputes arising under this Agreement shall be resolved through good-faith negotiation. If unresolved after 30 days, disputes shall be submitted to binding arbitration in {{ArbitrationLocation}} in accordance with {{ArbitrationRules}}.
+
+---
+
+13. MISCELLANEOUS
+-----------------
+
+Entire Agreement: This Agreement constitutes the entire agreement between the Parties.
+
+Amendments: Must be in writing and signed by both Parties.
+
+Assignment: Neither Party may assign this Agreement without prior written consent.
+
+Severability: If any provision is found unenforceable, the remaining provisions shall remain in effect.
+
+Notices: All notices shall be in writing and delivered via email or certified mail.
+
+---
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+{{Your Company Name}}
+
+By: _________________________
+Name: {{Your Name}}
+Title: {{Your Title}}
+Date: _________________________
+
+{{Client Company Name}}
+
+By: _________________________
+Name: {{Client Signatory Name}}
+Title: {{Client Signatory Title}}
+Date: _________________________
+
+---
+
+EXHIBIT A - STATEMENT OF WORK
+-----------------------------
+
+[Attach detailed SOW with specific deliverables, timelines, and success metrics]
+
+---
+
+[End of Contract]

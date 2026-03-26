@@ -1,0 +1,27 @@
+LinkedIn DM #4 - Industry Insight
+==================================
+
+Hi {{FirstName}},
+
+I've been tracking AI search visibility across {{Industry}} companies. Here's what I'm seeing:
+
+→ 40% YoY growth in AI-assisted research
+→ {{Competitor1}} now appears in 67% of relevant AI queries
+→ {{Competitor2}} up from 12% to 54% in 6 months
+→ {{Company}}: Currently not appearing in top AI recommendations
+
+This gap is widening fast. Companies that optimize now will dominate AI search for years.
+
+I help {{Industry}} businesses get cited by AI assistants. Recent results:
+• {{SimilarClient1}}: 73% AI visibility in 30 days
+• {{SimilarClient2}}: 2x more qualified leads from AI traffic
+• {{SimilarClient3}}: Now recommended as "top alternative" to {{Competitor1}}
+
+Open to a 15-min chat? I'll share the full {{Industry}} AI visibility report and show where {{Company}} stands.
+
+Best,
+{{YourName}}
+
+---
+Use when: You have industry data/insights to share
+Tone: Data-driven, authoritative, helpful

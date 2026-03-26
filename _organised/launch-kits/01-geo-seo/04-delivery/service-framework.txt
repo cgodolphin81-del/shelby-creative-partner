@@ -1,0 +1,251 @@
+═══════════════════════════════════════════════════════════════
+GEO SEO - SERVICE DELIVERY FRAMEWORK
+Internal document. How you actually deliver the service.
+═══════════════════════════════════════════════════════════════
+
+GEO SEO SERVICE FRAMEWORK
+Version 1.0 | [YOUR COMPANY]
+
+This document outlines exactly how we deliver GEO SEO services.
+Follow this framework for every client.
+
+═══════════════════════════════════════════════════════════════
+PHASE 1: AUDIT & STRATEGY (Weeks 1-2)
+═══════════════════════════════════════════════════════════════
+
+DELIVERABLES:
+□ Comprehensive GEO Audit Report
+□ Competitor Citation Analysis
+□ Strategic Roadmap Document
+□ Keyword/Query Map
+
+TOOLS WE USE:
+• Manual AI queries (ChatGPT, Claude, Perplexity, Google AI)
+• [Any GEO tools you use]
+• Ahrefs/SEMrush for baseline SEO data
+• Google Analytics/Search Console
+
+STEP-BY-STEP:
+
+DAY 1-2: Baseline Audit
+1. Query each AI platform with client's top 20 keywords
+2. Document whether client appears in responses
+3. Note position and context of any citations
+4. Screenshot key findings
+5. Calculate AI Visibility Score (% of queries with citation)
+
+DAY 3-4: Competitor Analysis
+1. Identify 3-5 main competitors
+2. Run same 20 keywords for each competitor
+3. Document where competitors win citations
+4. Identify patterns in competitor content
+5. Note authority signals competitors have
+
+DAY 5-7: Content Gap Analysis
+1. Review client's existing content
+2. Identify content not optimized for AI extraction
+3. Note missing structured data
+4. Identify answer-format opportunities
+5. List pages needing optimization
+
+DAY 8-10: Strategy Development
+1. Prioritize opportunities by impact/effort
+2. Create 90-day roadmap
+3. Define success metrics
+4. Set up tracking dashboard
+5. Prepare client presentation
+
+DAY 11-14: Client Review
+1. Present findings on strategy call
+2. Get approval on roadmap
+3. Begin Phase 2
+
+═══════════════════════════════════════════════════════════════
+PHASE 2: OPTIMIZATION (Weeks 3-8)
+═══════════════════════════════════════════════════════════════
+
+DELIVERABLES:
+□ Optimized Pages (10-20 pages)
+□ Structured Data Implementation
+□ Content Restructuring
+□ Technical GEO Fixes
+
+ON-PAGE OPTIMIZATION CHECKLIST:
+
+□ Add FAQ schema to relevant pages
+□ Implement Organization schema
+□ Add Article schema to blog posts
+□ Ensure clear H1/H2 hierarchy
+□ Create direct answer paragraphs (40-60 words)
+□ Add definition sections for key terms
+□ Include statistics and data points
+□ Optimize meta descriptions for AI extraction
+□ Add internal links with descriptive anchor text
+□ Ensure mobile-friendliness
+
+CONTENT RESTRUCTURING:
+
+For each priority page:
+1. Add "What is [X]" section at top
+2. Create FAQ section with 5-10 questions
+3. Add statistics/data section
+4. Include "How to" or step-by-step sections
+5. Add comparison tables where relevant
+6. Include expert quotes/citations
+7. End with clear summary/conclusion
+
+AUTHORITY SIGNAL AMPLIFICATION:
+
+□ Identify 10 target publications for PR
+□ Pitch client for expert quotes (HARO, Qwoted)
+□ Submit to industry directories
+□ Optimize Google Business Profile
+□ Ensure NAP consistency across web
+□ Build/uncover existing partnerships
+□ Identify podcast opportunities
+
+═══════════════════════════════════════════════════════════════
+PHASE 3: AMPLIFICATION (Weeks 5-12)
+═══════════════════════════════════════════════════════════════
+
+DELIVERABLES:
+□ 4-8 Authority Placements
+□ Content Distribution
+□ Thought Leadership Assets
+
+AUTHORITY BUILDING TACTICS:
+
+1. Guest Posts
+   • Target: Industry publications with high AI citation rates
+   • Volume: 2-4 per month
+   • Focus: Educational content with data/insights
+
+2. Expert Quotes
+   • Platforms: HARO, Qwoted, Terkel
+   • Goal: 5-10 quotes per month
+   • Result: Backlinks + brand mentions
+
+3. Original Research
+   • Create industry survey or data study
+   • Publish as report
+   • Pitch to media
+   • AI engines cite original data heavily
+
+4. Podcast Appearances
+   • Target: Industry podcasts
+   • Pitch client executives as guests
+   • Show notes create citations
+
+5. Community Engagement
+   • Industry forums (Reddit, specialized forums)
+   • Quora answers
+   • LinkedIn thought leadership
+   • All create citation opportunities
+
+═══════════════════════════════════════════════════════════════
+PHASE 4: MONITORING & ITERATION (Ongoing)
+═══════════════════════════════════════════════════════════════
+
+DELIVERABLES:
+□ Weekly Performance Reports
+□ Monthly Strategy Reviews
+□ Continuous Optimization
+
+WEEKLY TRACKING:
+
+Every Monday:
+1. Run 20 keywords through each AI platform
+2. Document citation changes
+3. Note new competitors in results
+4. Check Google Analytics for AI-referred traffic
+5. Update dashboard
+
+WEEKLY REPORT INCLUDES:
+• AI Visibility Score (trend)
+• Citations gained/lost
+• Top performing queries
+• Competitor movements
+• Traffic from AI sources (if trackable)
+• Wins and highlights
+• Next week's priorities
+
+MONTHLY STRATEGY CALL:
+
+Agenda (45 min):
+1. Review monthly performance (10 min)
+2. Discuss wins and challenges (10 min)
+3. Approve next month's priorities (15 min)
+4. Q&A (10 min)
+
+QUARTERLY BUSINESS REVIEW:
+
+Every 90 days:
+1. Full performance review
+2. ROI analysis
+3. Strategy adjustment
+4. Renewal discussion
+
+═══════════════════════════════════════════════════════════════
+REPORTING TEMPLATE
+═══════════════════════════════════════════════════════════════
+
+WEEKLY REPORT - [CLIENT NAME]
+Week of [DATE]
+
+EXECUTIVE SUMMARY
+[Brief overview of the week's performance]
+
+KEY METRICS
+• AI Visibility Score: [X]% (was [Y]%)
+• Total Citations: [X] (was [Y])
+• Citations Gained: [X]
+• Citations Lost: [X]
+• AI-Referred Traffic: [X] sessions (was [Y])
+
+TOP WINS
+• [Win 1]
+• [Win 2]
+• [Win 3]
+
+CITATION BREAKDOWN BY PLATFORM
+• ChatGPT: [X] citations
+• Claude: [X] citations
+• Perplexity: [X] citations
+• Google AI Overviews: [X] citations
+• [Other]: [X] citations
+
+TOP PERFORMING QUERIES
+1. "[Query]" - Cited in [X]/[Y] platforms
+2. "[Query]" - Cited in [X]/[Y] platforms
+3. "[Query]" - Cited in [X]/[Y] platforms
+
+COMPETITOR WATCH
+• [Competitor 1]: [Movement/notes]
+• [Competitor 2]: [Movement/notes]
+
+WORK COMPLETED THIS WEEK
+• [Task 1]
+• [Task 2]
+• [Task 3]
+
+NEXT WEEK'S PRIORITIES
+• [Priority 1]
+• [Priority 2]
+• [Priority 3]
+
+═══════════════════════════════════════════════════════════════
+QUALITY STANDARDS
+═══════════════════════════════════════════════════════════════
+
+Every deliverable must meet these standards:
+
+□ Aligned with client's brand voice
+□ Optimized for AI extraction (clear, direct answers)
+□ Includes structured data where applicable
+□ Mobile-friendly
+□ Fast-loading
+□ Includes internal linking
+□ Has clear CTAs
+□ Fact-checked and accurate
+
+═══════════════════════════════════════════════════════════════

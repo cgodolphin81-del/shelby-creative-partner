@@ -1,0 +1,35 @@
+SUBJECT: {{ProductCategory}} shoppers asking AI about brands like yours
+
+Hi {{FirstName}},
+
+Quick observation: When someone asks ChatGPT or Perplexity "what's the best {{ProductCategory}} brand?" — {{Company}} isn't in the conversation.
+
+But {{Competitor1}} and {{Competitor2}} are getting recommended. Every. Single. Time.
+
+Here's why this matters:
+→ 40% of Gen Z starts product research with AI, not Google
+→ AI recommendations have 3x higher trust than traditional ads
+→ Once AI "learns" your brand isn't authoritative, it's hard to change
+
+I specialize in GEO (Generative Engine Optimization) — getting e-commerce brands cited by AI assistants.
+
+What we do:
+✓ Optimize product pages for AI citation patterns
+✓ Build authority signals AI systems trust
+✓ Get your brand in "best of" AI recommendations
+✓ Track AI visibility monthly (dashboard included)
+
+{{SimilarBrand}} implemented this and now appears in 68% of relevant AI product queries. Their AI-referred revenue: $47K last quarter.
+
+Open to a 15-min chat to see where {{Company}} stands in AI search?
+
+Best,
+{{YourName}}
+{{YourTitle}}
+
+---
+Pain points addressed:
+- Losing to competitors in AI product recommendations
+- Missing Gen Z / AI-native shoppers
+- Brand authority gap in AI systems
+- Revenue opportunity from AI-referred traffic

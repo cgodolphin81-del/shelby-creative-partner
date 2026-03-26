@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Share Your Compliment - Infinite Compliment Machine</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <style>
+        .share-generator {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        .share-preview {
+            background: linear-gradient(135deg, #FF6B9D 0%, #FF8E72 100%);
+            padding: 3rem;
+            border-radius: 24px;
+            text-align: center;
+            color: white;
+            margin: 2rem 0;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .share-preview::before {
+            content: '✨';
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            font-size: 2rem;
+            opacity: 0.5;
+        }
+        
+        .share-preview::after {
+            content: '✨';
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            font-size: 2rem;
+            opacity: 0.5;
+        }
+        
+        .share-preview-text {
+            font-size: 1.8rem;
+            font-weight: 700;
+            line-height: 1.5;
+            margin-bottom: 1.5rem;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .share-preview-footer {
+            font-size: 1rem;
+            opacity: 0.9;
+        }
+        
+        .download-btn {
+            background: linear-gradient(135deg, #FF6B9D 0%, #FF8E72 100%);
+            color: white;
+            padding: 1rem 2rem;
+            border: none;
+            border-radius: 16px;
+            font-size: 1.1rem;
+            font-weight: 700;
+            cursor: pointer;
+            margin: 1rem 0.5rem;
+        }
+        
+        .back-btn {
+            background: white;
+            color: #FF6B9D;
+            padding: 1rem 2rem;
+            border: 2px solid #FF6B9D;
+            border-radius: 16px;
+            font-size: 1.1rem;
+            font-weight: 700;
+            cursor: pointer;
+            margin: 1rem 0.5rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="share-generator">
+        <h1 style="text-align: center; color: #C44569; margin-bottom: 1rem;">Share Your Compliment</h1>
+        <p style="text-align: center; color: #666;">Create a beautiful image to share your compliment!</p>
+        
+        <div class="share-preview" id="share-preview">
+            <p class="share-preview-text" id="preview-text">
+                Your compliment will appear here...
+            </p>
+            <p class="share-preview-footer">
+                via Infinite Compliment Machine 💝
+            </p>
+        </div>
+        
+        <div style="text-align: center;">
+            <button class="download-btn" onclick="downloadImage()">📸 Download Image</button>
+            <button class="back-btn" onclick="window.location.href='../index.html'">← Back to Compliments</button>
+        </div>
+        
+        <div style="margin-top: 2rem; padding: 1.5rem; background: white; border-radius: 16px; box-shadow: 0 4px 20px rgba(255, 107, 157, 0.15);">
+            <h3 style="color: #C44569; margin-bottom: 1rem;">How to share:</h3>
+            <ol style="color: #666; line-height: 2;">
+                <li>Get your compliment on the main page</li>
+                <li>Click "Share" to copy the text</li>
+                <li>Download this image (or take a screenshot)</li>
+                <li>Post on social media with #InfiniteCompliments</li>
+            </ol>
+        </div>
+    </div>
+
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+    <script>
+        // Get compliment from URL or localStorage
+        function getCompliment() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const compliment = urlParams.get('text') || localStorage.getItem('lastCompliment') || 'You are amazing and the world is better with you in it!';
+            document.getElementById('preview-text').textContent = compliment;
+        }
+
+        // Download as image
+        function downloadImage() {
+            const element = document.getElementById('share-preview');
+            
+            html2canvas(element, {
+                backgroundColor: null,
+                scale: 2,
+                width: 600,
+                height: 400
+            }).then(canvas => {
+                const link = document.createElement('a');
+                link.download = 'my-compliment.png';
+                link.href = canvas.toDataURL('image/png');
+                link.click();
+            });
+        }
+
+        // Load on page load
+        getCompliment();
+    </script>
+</body>
+</html>

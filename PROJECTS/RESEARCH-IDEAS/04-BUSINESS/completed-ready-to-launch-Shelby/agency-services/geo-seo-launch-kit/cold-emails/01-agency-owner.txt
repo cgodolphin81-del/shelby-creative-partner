@@ -1,0 +1,36 @@
+SUBJECT: {{Company}} missing from AI search results
+
+Hi {{FirstName}},
+
+I was researching {{Industry}} companies in {{City}} and noticed {{Company}} doesn't appear when asking AI assistants like ChatGPT or Claude for recommendations.
+
+Here's what happens right now:
+❌ "Best {{Industry}} in {{City}}" → {{Competitor1}} and {{Competitor2}} get recommended
+❌ Your Google Business Profile isn't being cited by AI overviews
+❌ Potential clients asking AI assistants never hear about you
+
+The problem: AI search is growing 40% YoY, but most businesses haven't optimized for it yet.
+
+I help {{Industry}} businesses get cited by AI assistants. Recent results:
+→ {{SimilarClient}} appeared in 73% of relevant AI searches within 30 days
+→ {{AnotherClient}} saw 2x more qualified leads from AI-referred traffic
+
+Quick question: Are you currently tracking whether AI assistants recommend your business?
+
+If not, I'd love to run a free AI visibility audit for {{Company}}. Takes 5 minutes, no strings.
+
+Worth a quick chat next week?
+
+Best,
+{{YourName}}
+{{YourTitle}}
+{{YourPhone}}
+
+P.S. — {{SpecificObservation}}. This is exactly what we fix with GEO optimization.
+
+---
+Pain points addressed:
+- Losing visibility to competitors in AI search
+- Missing out on growing AI search traffic
+- Not tracking AI visibility (blind spot)
+- Competitors getting recommendations instead

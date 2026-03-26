@@ -1,0 +1,572 @@
+{
+  "chatbot_flow": {
+    "name": "E-commerce Customer Support Bot",
+    "platform": "ManyChat/Botpress Compatible",
+    "version": "1.0",
+    "purpose": "Handle common support queries, order tracking, returns, FAQs",
+    "estimated_build_time": "3-4 hours",
+    "use_cases": ["Website widget", "Facebook Messenger", "Instagram DM", "Shopify integration"]
+  },
+  "flow_structure": {
+    "entry_points": [
+      {
+        "id": "entry_1",
+        "trigger": "Keyword: 'order', 'tracking', 'return', 'refund', 'shipping'",
+        "action": "Go to Block 2"
+      },
+      {
+        "id": "entry_2",
+        "trigger": "Keyword: 'help', 'support', 'question'",
+        "action": "Go to Block 1"
+      },
+      {
+        "id": "entry_3",
+        "trigger": "Post-purchase (automatic)",
+        "action": "Go to Block 1"
+      }
+    ],
+    "blocks": [
+      {
+        "id": "block_1",
+        "name": "Welcome & Menu",
+        "type": "message",
+        "content": {
+          "text": "👋 Hi! Welcome to [Store Name] Support!\n\nI'm here to help you with:\n\n📦 Order tracking\n🔄 Returns & exchanges\n💰 Refunds\n🚚 Shipping info\n❓ General questions\n\nWhat can I help you with today?",
+          "buttons": [
+            {
+              "type": "quick_reply",
+              "title": "📦 Track Order",
+              "payload": "TRACK_ORDER"
+            },
+            {
+              "type": "quick_reply",
+              "title": "🔄 Return/Exchange",
+              "payload": "RETURN_REQUEST"
+            },
+            {
+              "type": "quick_reply",
+              "title": "🚚 Shipping Info",
+              "payload": "SHIPPING_INFO"
+            },
+            {
+              "type": "quick_reply",
+              "title": "❓ FAQ",
+              "payload": "FAQ_MENU"
+            },
+            {
+              "type": "quick_reply",
+              "title": "💬 Talk to Human",
+              "payload": "HUMAN_SUPPORT"
+            }
+          ]
+        },
+        "next_block_mapping": {
+          "TRACK_ORDER": "block_2",
+          "RETURN_REQUEST": "block_4",
+          "SHIPPING_INFO": "block_6",
+          "FAQ_MENU": "block_7",
+          "HUMAN_SUPPORT": "block_10"
+        }
+      },
+      {
+        "id": "block_2",
+        "name": "Order Tracking - Get Info",
+        "type": "message",
+        "content": {
+          "text": "📦 Let's track your order!\n\nI'll need your order number. You can find it in:\n• Your confirmation email\n• Your account dashboard\n• Your shipping confirmation\n\nIt looks like: #12345\n\nWhat's your order number?",
+          "input_type": "text",
+          "variable": "order_number",
+          "validation": "pattern: #[0-9]+ or [0-9]+",
+          "error_message": "Hmm, that doesn't look like an order number. It should be something like #12345. Can you try again?"
+        },
+        "next_block": "block_3"
+      },
+      {
+        "id": "block_3",
+        "name": "Order Tracking - Lookup",
+        "type": "action_block",
+        "actions": [
+          {
+            "type": "api_call",
+            "endpoint": "https://api.yourstore.com/orders/{{order_number}}",
+            "method": "GET",
+            "headers": {
+              "Authorization": "Bearer {{api_key}}",
+              "Content-Type": "application/json"
+            },
+            "response_mapping": {
+              "order_status": "{{order.status}}",
+              "tracking_number": "{{order.tracking_number}}",
+              "carrier": "{{order.carrier}}",
+              "estimated_delivery": "{{order.estimated_delivery}}",
+              "items": "{{order.items}}"
+            }
+          }
+        ],
+        "conditional_routing": {
+          "order_found": "block_3a",
+          "order_not_found": "block_3b"
+        }
+      },
+      {
+        "id": "block_3a",
+        "name": "Order Found - Display Status",
+        "type": "message",
+        "content": {
+          "text": "✅ Found your order #{{order_number}}!\n\n**Status:** {{order_status}}\n**Estimated Delivery:** {{estimated_delivery}}\n**Tracking:** {{tracking_number}}\n\n📍 **Current Location:** {{current_location}}\n\nYou can track it here:\n{{tracking_url}}\n\nAnything else I can help with?",
+          "buttons": [
+            {
+              "type": "url",
+              "title": "🔗 Track on Carrier Site",
+              "url": "{{tracking_url}}"
+            },
+            {
+              "type": "quick_reply",
+              "title": "📦 Another Order",
+              "payload": "TRACK_ORDER"
+            },
+            {
+              "type": "quick_reply",
+              "title": "✅ All Set",
+              "payload": "END_CHAT"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block_3b",
+        "name": "Order Not Found",
+        "type": "message",
+        "content": {
+          "text": "❌ Hmm, I couldn't find order #{{order_number}}.\n\nThis could be because:\n• The order number is incorrect\n• It was placed less than 24 hours ago\n• It was placed as a guest without an account\n\nCan you double-check the order number? Or I can connect you with a human who can help.",
+          "buttons": [
+            {
+              "type": "quick_reply",
+              "title": "🔄 Try Again",
+              "payload": "TRACK_ORDER"
+            },
+            {
+              "type": "quick_reply",
+              "title": "💬 Talk to Human",
+              "payload": "HUMAN_SUPPORT"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block_4",
+        "name": "Return/Exchange - Reason",
+        "type": "message",
+        "content": {
+          "text": "🔄 I can help with that!\n\nFirst, what's the reason for your return/exchange?",
+          "buttons": [
+            {
+              "type": "quick_reply",
+              "title": "📏 Wrong Size",
+              "payload": "RETURN_SIZE"
+            },
+            {
+              "type": "quick_reply",
+              "title": "🎨 Wrong Color/Style",
+              "payload": "RETURN_STYLE"
+            },
+            {
+              "type": "quick_reply",
+              "title": "⚠️ Damaged/Defective",
+              "payload": "RETURN_DAMAGED"
+            },
+            {
+              "type": "quick_reply",
+              "title": "💭 Changed My Mind",
+              "payload": "RETURN_MIND"
+            },
+            {
+              "type": "quick_reply",
+              "title": "⬅️ Back",
+              "payload": "WELCOME"
+            }
+          ]
+        },
+        "next_block_mapping": {
+          "RETURN_SIZE": "block_5",
+          "RETURN_STYLE": "block_5",
+          "RETURN_DAMAGED": "block_5_urgent",
+          "RETURN_MIND": "block_5"
+        }
+      },
+      {
+        "id": "block_5",
+        "name": "Return - Order Verification",
+        "type": "message",
+        "content": {
+          "text": "Got it. To process your return, I'll need:\n\n1️⃣ Your order number\n2️⃣ The item(s) you want to return\n\nWhat's your order number?",
+          "input_type": "text",
+          "variable": "return_order_number"
+        },
+        "next_block": "block_5a"
+      },
+      {
+        "id": "block_5a",
+        "name": "Return - Item Selection",
+        "type": "message",
+        "content": {
+          "text": "Thanks! Here are the items in order #{{return_order_number}}:\n\n{{order_items_list}}\n\nWhich item(s) would you like to return? (Reply with the item number or name)",
+          "input_type": "text",
+          "variable": "return_items"
+        },
+        "next_block": "block_5b"
+      },
+      {
+        "id": "block_5b",
+        "name": "Return - Confirmation & Label",
+        "type": "message",
+        "content": {
+          "text": "✅ Return request initiated!\n\n**Return Details:**\nOrder: #{{return_order_number}}\nItem(s): {{return_items}}\nReason: {{return_reason}}\n\n**Next Steps:**\n1. A prepaid return label has been emailed to {{customer_email}}\n2. Pack the item(s) securely\n3. Drop off at any {{carrier}} location\n4. Refund processed within 5-7 business days after we receive it\n\n**Return Window:** You have until {{return_deadline}} to send it back.\n\nQuestions about the return process?",
+          "buttons": [
+            {
+              "type": "url",
+              "title": "📧 Resend Label",
+              "url": "{{resend_label_link}}"
+            },
+            {
+              "type": "quick_reply",
+              "title": "❓ Return FAQ",
+              "payload": "RETURN_FAQ"
+            },
+            {
+              "type": "quick_reply",
+              "title": "✅ All Set",
+              "payload": "END_CHAT"
+            }
+          ]
+        },
+        "actions": [
+          {
+            "type": "webhook",
+            "url": "https://api.yourstore.com/returns",
+            "method": "POST",
+            "payload": {
+              "order_number": "{{return_order_number}}",
+              "items": "{{return_items}}",
+              "reason": "{{return_reason}}",
+              "customer_email": "{{customer_email}}"
+            }
+          },
+          {
+            "type": "email",
+            "to": "{{customer_email}}",
+            "template": "return_label",
+            "variables": {
+              "order_number": "{{return_order_number}}",
+              "items": "{{return_items}}",
+              "label_url": "{{return_label_url}}"
+            }
+          }
+        ]
+      },
+      {
+        "id": "block_5_urgent",
+        "name": "Damaged Item - Urgent Handling",
+        "type": "message",
+        "content": {
+          "text": "⚠️ Oh no! I'm sorry your item arrived damaged.\n\nWe'll make this right ASAP. Let me connect you with a specialist who can process an expedited replacement or refund.\n\nCan you share a quick photo of the damage? This helps us improve our packaging.",
+          "input_type": "image",
+          "variable": "damage_photo"
+        },
+        "next_block": "block_5c"
+      },
+      {
+        "id": "block_5c",
+        "name": "Damaged Item - Escalation",
+        "type": "message",
+        "content": {
+          "text": "Thank you for the photo. I've flagged this as urgent.\n\n**What happens next:**\n• A specialist will email you within 2 hours\n• Replacement ships same-day (or full refund)\n• No need to return the damaged item\n\n**Your reference:** #DAMAGED-{{order_number}}\n\nIs there anything else I can help with right now?",
+          "buttons": [
+            {
+              "type": "quick_reply",
+              "title": "❓ More Help",
+              "payload": "WELCOME"
+            },
+            {
+              "type": "quick_reply",
+              "title": "✅ That's All",
+              "payload": "END_CHAT"
+            }
+          ]
+        },
+        "actions": [
+          {
+            "type": "slack_alert",
+            "channel": "#support-urgent",
+            "message": "🚨 DAMAGED ITEM REPORT\nOrder: {{order_number}}\nCustomer: {{customer_email}}\nPhoto: {{damage_photo}}\nAction: Expedite replacement/refund"
+          }
+        ]
+      },
+      {
+        "id": "block_6",
+        "name": "Shipping Information",
+        "type": "message",
+        "content": {
+          "text": "🚚 **Shipping Info**\n\n**Processing Time:** 1-2 business days\n\n**Shipping Options:**\n• Standard (5-7 days) - FREE over $50\n• Express (2-3 days) - $9.99\n• Overnight (1 day) - $24.99\n\n**We ship to:** US, Canada, UK, EU\n\n**Tracking:** You'll receive a tracking email once your order ships.\n\n**International?** Duties & taxes may apply.\n\nMore questions about shipping?",
+          "buttons": [
+            {
+              "type": "quick_reply",
+              "title": "🌍 International Orders",
+              "payload": "SHIPPING_INTERNATIONAL"
+            },
+            {
+              "type": "quick_reply",
+              "title": "📦 Where's My Order?",
+              "payload": "TRACK_ORDER"
+            },
+            {
+              "type": "quick_reply",
+              "title": "⬅️ Back to Menu",
+              "payload": "WELCOME"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block_7",
+        "name": "FAQ Menu",
+        "type": "message",
+        "content": {
+          "text": "❓ **Frequently Asked Questions**\n\nWhat would you like to know about?",
+          "buttons": [
+            {
+              "type": "quick_reply",
+              "title": "💳 Payment Methods",
+              "payload": "FAQ_PAYMENT"
+            },
+            {
+              "type": "quick_reply",
+              "title": "🔄 Return Policy",
+              "payload": "FAQ_RETURNS"
+            },
+            {
+              "type": "quick_reply",
+              "title": "📏 Sizing Guide",
+              "payload": "FAQ_SIZING"
+            },
+            {
+              "type": "quick_reply",
+              "title": "🎁 Gift Cards",
+              "payload": "FAQ_GIFTCARDS"
+            },
+            {
+              "type": "quick_reply",
+              "title": "⬅️ Back",
+              "payload": "WELCOME"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block_7a",
+        "name": "FAQ - Payment",
+        "type": "message",
+        "content": {
+          "text": "💳 **Payment Methods**\n\nWe accept:\n• Visa, Mastercard, Amex, Discover\n• PayPal\n• Apple Pay / Google Pay\n• Shop Pay\n• Afterpay/Klarna (Buy now, pay later)\n\n**Security:** All payments are encrypted and secure.\n\n**Currency:** Prices in USD. Your bank may charge conversion fees.\n\nMore questions?",
+          "buttons": [
+            {
+              "type": "quick_reply",
+              "title": "❓ Another FAQ",
+              "payload": "FAQ_MENU"
+            },
+            {
+              "type": "quick_reply",
+              "title": "✅ All Set",
+              "payload": "END_CHAT"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block_7b",
+        "name": "FAQ - Returns",
+        "type": "message",
+        "content": {
+          "text": "🔄 **Return Policy**\n\n• **30-day** return window\n• Items must be unworn/unused with tags\n• Free returns (prepaid label provided)\n• Refund in 5-7 business days\n• Exchanges available for size/color\n\n**Final Sale:** Clearance items are final sale.\n\nWant to start a return?",
+          "buttons": [
+            {
+              "type": "quick_reply",
+              "title": "🔄 Start Return",
+              "payload": "RETURN_REQUEST"
+            },
+            {
+              "type": "quick_reply",
+              "title": "❓ Another FAQ",
+              "payload": "FAQ_MENU"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block_10",
+        "name": "Human Support Handoff",
+        "type": "message",
+        "content": {
+          "text": "💬 Let me connect you with a human!\n\n**Current wait time:** ~5 minutes\n\n**Options:**\n📧 Email: support@store.com (24hr response)\n📞 Phone: (555) 123-4567 (9am-6pm EST)\n💬 Live Chat: Stay here and I'll transfer you\n\nHow would you like to proceed?",
+          "buttons": [
+            {
+              "type": "quick_reply",
+              "title": "💬 Wait for Chat",
+              "payload": "QUEUE_CHAT"
+            },
+            {
+              "type": "quick_reply",
+              "title": "📧 Send Email",
+              "payload": "SEND_EMAIL"
+            },
+            {
+              "type": "quick_reply",
+              "title": "📞 Call Instead",
+              "payload": "END_CHAT"
+            }
+          ]
+        },
+        "actions": [
+          {
+            "type": "webhook",
+            "url": "https://api.yourstore.com/support/queue",
+            "method": "POST",
+            "payload": {
+              "customer_id": "{{customer_id}}",
+              "conversation_history": "{{conversation_log}}",
+              "priority": "normal"
+            }
+          },
+          {
+            "type": "slack_alert",
+            "channel": "#support-queue",
+            "message": "🙋 Customer requesting human support\nID: {{customer_id}}\nWait time: ~5 min"
+          }
+        ]
+      },
+      {
+        "id": "block_end",
+        "name": "End Chat",
+        "type": "message",
+        "content": {
+          "text": "Thanks for chatting with us! 😊\n\nIf you think of anything else, just message us again - we're here 24/7!\n\n**Quick Links:**\n🌐 Website: yourstore.com\n📧 Support: support@store.com\n📱 Instagram: @yourstore\n\nHave a great day!\n\n— The [Store Name] Team",
+          "buttons": [
+            {
+              "type": "url",
+              "title": "🛍️ Continue Shopping",
+              "url": "https://yourstore.com"
+            },
+            {
+              "type": "quick_reply",
+              "title": "🔄 Start Over",
+              "payload": "WELCOME"
+            }
+          ]
+        },
+        "actions": [
+          {
+            "type": "tag",
+            "value": "support_chat_completed"
+          }
+        ]
+      }
+    ]
+  },
+  "variables_to_capture": [
+    "customer_id",
+    "customer_email",
+    "order_number",
+    "order_status",
+    "tracking_number",
+    "return_items",
+    "return_reason",
+    "damage_photo",
+    "chat_category"
+  ],
+  "integrations_required": [
+    {
+      "name": "E-commerce API",
+      "purpose": "Order lookup, return processing",
+      "platform": "Shopify/WooCommerce/Magento"
+    },
+    {
+      "name": "Shipping API",
+      "purpose": "Tracking lookup, label generation",
+      "platform": "Shippo/EasyPost"
+    },
+    {
+      "name": "Email Platform",
+      "purpose": "Return labels, confirmations",
+      "service": "SendGrid/Mailgun"
+    },
+    {
+      "name": "Slack",
+      "purpose": "Urgent issue alerts",
+      "channel": "#support-urgent"
+    }
+  ],
+  "analytics_events": [
+    "support_chat_started",
+    "order_tracked",
+    "return_initiated",
+    "faq_viewed",
+    "human_handoff_requested",
+    "chat_resolved",
+    "escalation_created"
+  ],
+  "kd_base": [
+    {
+      "question": "What's your return policy?",
+      "answer": "30-day returns on unworn items with tags. Free prepaid labels provided."
+    },
+    {
+      "question": "How long does shipping take?",
+      "answer": "Standard 5-7 days, Express 2-3 days, Overnight 1 day. Free over $50."
+    },
+    {
+      "question": "Do you ship internationally?",
+      "answer": "Yes! We ship to US, Canada, UK, and EU. Duties may apply."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "All major cards, PayPal, Apple/Google Pay, Shop Pay, Afterpay/Klarna."
+    },
+    {
+      "question": "How do I track my order?",
+      "answer": "Check your shipping email for tracking number, or ask me with your order number!"
+    },
+    {
+      "question": "Can I change/cancel my order?",
+      "answer": "Contact us within 2 hours of ordering. After that, you can return once received."
+    },
+    {
+      "question": "Do you have gift cards?",
+      "answer": "Yes! Digital gift cards available from $25-$500. Delivered via email instantly."
+    },
+    {
+      "question": "What if my item is damaged?",
+      "answer": "So sorry! Send us a photo and we'll expedite a replacement or refund immediately."
+    }
+  ],
+  "fallback_responses": [
+    {
+      "trigger": "unrecognized_input",
+      "response": "Hmm, I'm not sure I understood. Can you pick from the options above or rephrase?"
+    },
+    {
+      "trigger": "repeated_unrecognized",
+      "response": "Let me connect you with a human who can help better. One moment!"
+    },
+    {
+      "trigger": "angry_language",
+      "response": "I understand you're frustrated, and I want to help. Let me connect you with a specialist right away."
+    }
+  ],
+  "compliance_notes": [
+    "Store conversation logs per data retention policy",
+    "Include GDPR/CCPA compliance for data collection",
+    "Display privacy policy link in welcome",
+    "Allow users to request data deletion",
+    "PCI compliance for any payment discussions (avoid collecting card info in chat)"
+  ]
+}

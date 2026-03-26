@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with vibrant, playful gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E91E63;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FF6B9D;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF1493;stop-opacity:1" />
+    </linearGradient>
+    <filter id="funGlow">
+      <feGaussianBlur stdDeviation="7" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="1200" height="1200" fill="url(#bgGradient)"/>
+  
+  <!-- Shrug girl - iconic pose -->
+  <g transform="translate(600,550)">
+    <!-- Head -->
+    <circle cx="0" cy="-80" r="50" fill="#FFD93D" opacity="0.95"/>
+    <path d="M-50,-80 Q-60,-100 -50,-120 Q-40,-140 -20,-140 Q0,-140 10,-120 Q20,-140 40,-140 Q60,-140 70,-120 Q80,-100 70,-80 Q90,-60 70,-40 Q50,-20 0,-20 Q-50,-20 -70,-40 Q-90,-60 -70,-80" fill="#FF6B6B"/>
+    <!-- Face - shrug expression -->
+    <circle cx="-15" cy="-85" r="8" fill="#333333"/>
+    <circle cx="15" cy="-85" r="8" fill="#333333"/>
+    <path d="M-10,-70 Q0,-65 10,-70" stroke="#333333" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <!-- Shoulders -->
+    <ellipse cx="0" cy="0" rx="70" ry="50" fill="#9B59B6"/>
+    <!-- Arms shrugged -->
+    <ellipse cx="-90" cy="-20" rx="18" ry="25" fill="#FFD93D" transform="rotate(30 -90 -20)"/>
+    <ellipse cx="90" cy="-20" rx="18" ry="25" fill="#FFD93D" transform="rotate(-30 90 -20)"/>
+    <!-- Hands up in shrug -->
+    <ellipse cx="-100" cy="-40" rx="12" ry="15" fill="#FFD93D" transform="rotate(30 -100 -40)"/>
+    <ellipse cx="100" cy="-40" rx="12" ry="15" fill="#FFD93D" transform="rotate(-30 100 -40)"/>
+  </g>
+  
+  <!-- Impulse items flying around -->
+  <g fill="#FFFFFF" opacity="0.9">
+    <!-- Shopping bag -->
+    <path d="M250,300 L260,280 L270,280 L280,300 L280,340 Q280,360 265,360 L255,360 Q240,360 240,340 Z" fill="#FF6B9D"/>
+    <path d="M255,280 Q260,270 265,280" fill="none" stroke="#E91E63" stroke-width="3"/>
+    
+    <!-- Credit card -->
+    <rect x="950" y="250" width="50" height="30" rx="3" fill="#9B59B6"/>
+    <rect x="955" y="260" width="25" height="4" fill="#FFFFFF"/>
+    
+    <!-- Cart -->
+    <rect x="220" y="950" width="40" height="35" rx="3" fill="#FFD93D"/>
+    <line x1="220" y1="950" x2="210" y2="970" stroke="#333333" stroke-width="3"/>
+    <line x1="260" y1="950" x2="270" y2="970" stroke="#333333" stroke-width="3"/>
+    
+    <!-- Package -->
+    <rect x="930" y="920" width="45" height="35" rx="2" fill="#FF6B9D"/>
+    <line x1="930" y1="937" x2="975" y2="937" stroke="#FFD93D" stroke-width="3"/>
+  </g>
+  
+  <!-- Broken impulse control icon -->
+  <g transform="translate(600,750)">
+    <circle cx="0" cy="0" r="40" fill="#FFFFFF" opacity="0.95" filter="url(#funGlow)"/>
+    <path d="M-15,-20 L15,20 M15,-20 L-15,20" stroke="#E91E63" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Main text - playful and bold -->
+  <text x="600" y="400" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#funGlow)">IMPULSE</text>
+  <text x="600" y="480" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#funGlow)">CONTROL?</text>
+  <text x="600" y="570" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#funGlow)">NEVER</text>
+  <text x="600" y="650" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#funGlow)">HEARD</text>
+  <text x="600" y="730" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#funGlow)">OF HER</text>
+  
+  <!-- Question mark decorations -->
+  <g fill="#FFFFFF" opacity="0.8" font-family="Arial, sans-serif" font-size="42" font-weight="bold">
+    <text x="180" y="400">?</text>
+    <text x="1020" y="350">?</text>
+    <text x="180" y="800">?</text>
+    <text x="1020" y="850">?</text>
+  </g>
+  
+  <!-- Hearts (impulse love) -->
+  <g fill="#FFFFFF" opacity="0.85">
+    <path d="M350,350 Q340,340 340,350 Q340,360 350,370 Q360,360 360,350 Q360,340 350,350 Z"/>
+    <path d="M850,300 Q840,290 840,300 Q840,310 850,320 Q860,310 860,300 Q860,290 850,300 Z"/>
+    <path d="M350,850 Q340,840 340,850 Q340,860 350,870 Q360,860 360,850 Q360,840 350,850 Z"/>
+    <path d="M850,900 Q840,890 840,900 Q840,910 850,920 Q860,910 860,900 Q860,890 850,900 Z"/>
+  </g>
+  
+  <!-- Sparkles -->
+  <g fill="#FFFFFF" opacity="0.85">
+    <path d="M500,200 L505,215 L520,215 L510,225 L515,240 L500,230 L485,240 L490,225 L480,215 L495,215 Z"/>
+    <path d="M700,180 L705,195 L720,195 L710,205 L715,220 L700,210 L685,220 L690,205 L680,195 L695,195 Z"/>
+    <path d="M500,1000 L505,1015 L520,1015 L510,1025 L515,1040 L500,1030 L485,1040 L490,1025 L480,1015 L495,1015 Z"/>
+    <path d="M700,1020 L705,1035 L720,1035 L710,1045 L715,1060 L700,1050 L685,1060 L690,1045 L680,1035 L695,1035 Z"/>
+  </g>
+  
+  <!-- Lightning bolts (impulse energy) -->
+  <g fill="#FFFFFF" opacity="0.85">
+    <polygon points="150,500 165,500 155,520 165,540 145,530 155,510" transform="translate(0,0)"/>
+    <polygon points="1050,600 1065,600 1055,620 1065,640 1045,630 1055,610" transform="translate(0,0)"/>
+    <polygon points="150,700 165,700 155,720 165,740 145,730 155,710" transform="translate(0,0)"/>
+    <polygon points="1050,500 1065,500 1055,520 1065,540 1045,530 1055,510" transform="translate(0,0)"/>
+  </g>
+  
+  <!-- Decorative exclamation marks -->
+  <g fill="#FFFFFF" opacity="0.9" font-family="Arial, sans-serif" font-size="36" font-weight="bold">
+    <text x="900" y="450">!</text>
+    <text x="300" y="850">!</text>
+    <text x="1000" y="700">!</text>
+    <text x="200" y="500">!</text>
+  </g>
+  
+  <!-- Shopping cart wheels (small details) -->
+  <g fill="#FFFFFF" opacity="0.7">
+    <circle cx="210" cy="970" r="5"/>
+    <circle cx="270" cy="970" r="5"/>
+  </g>
+</svg>

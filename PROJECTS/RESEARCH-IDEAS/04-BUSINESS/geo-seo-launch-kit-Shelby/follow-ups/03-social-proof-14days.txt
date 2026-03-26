@@ -1,0 +1,28 @@
+FOLLOW-UP EMAIL #3 - 14 Days (Social Proof)
+============================================
+
+SUBJECT: {{SimilarClient}} saw 73% AI visibility in 30 days
+
+Hi {{FirstName}},
+
+Quick update that might be relevant:
+
+{{SimilarClient}} ({{Industry}}, similar size to {{Company}}) started working with us 30 days ago.
+
+Results:
+→ Now appears in 73% of relevant AI searches
+→ 2x more qualified leads from AI-referred traffic
+→ Shorter sales cycles (clients come pre-educated)
+
+They had the same challenge {{Company}} faces — great offering, but invisible to AI assistants.
+
+I'd still love to run that free AI visibility audit for you. No cost, just insights on where {{Company}} stands and what's possible.
+
+Open to a quick chat?
+
+Best,
+{{YourName}}
+
+---
+Timing: 14 days after initial
+Tone: Social proof, results-focused, gentle nudge

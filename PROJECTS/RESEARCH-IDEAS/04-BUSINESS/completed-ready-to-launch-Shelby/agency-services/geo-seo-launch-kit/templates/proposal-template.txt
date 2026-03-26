@@ -1,0 +1,203 @@
+PROPOSAL TEMPLATE - Google Doc Format
+======================================
+
+[Copy this into Google Docs and customize]
+
+---
+
+{{Company Logo}}
+
+GEO SEO PROPOSAL
+For {{Client Company}}
+
+Prepared by: {{Your Name}}
+{{Your Company}}
+{{Date}}
+
+---
+
+EXECUTIVE SUMMARY
+-----------------
+
+{{Client Company}} is currently missing from AI search recommendations in the {{Industry}} category. When potential customers ask AI assistants like ChatGPT, Claude, or Perplexity for {{Industry}} recommendations, {{Competitor1}} and {{Competitor2}} appear consistently. {{Client Company}} does not.
+
+This proposal outlines a plan to establish {{Client Company}}'s presence in AI search results, capture AI-referred traffic, and compete effectively in the growing AI search landscape.
+
+Key Outcomes:
+• Appear in 70%+ of relevant AI search queries within 60 days
+• Increase AI-referred qualified leads by 2x
+• Establish authority signals that AI systems recognize and trust
+
+---
+
+THE OPPORTUNITY
+---------------
+
+AI Search Is Growing Rapidly
+
+• 40% year-over-year growth in AI-assisted research
+• 35% of consumers now use AI for product/service research
+• 75% of B2B buyers expected to use AI for vendor research by 2027 (Gartner)
+• AI recommendations have 3x higher trust than traditional advertising
+
+The Gap
+
+Our audit found {{Client Company}} currently appears in only {{CurrentVisibility}}% of relevant AI search queries. Meanwhile:
+
+• {{Competitor1}}: {{Competitor1Visibility}}% visibility
+• {{Competitor2}}: {{Competitor2Visibility}}% visibility
+• {{Competitor3}}: {{Competitor3Visibility}}% visibility
+
+This gap represents missed opportunities for qualified leads, brand awareness, and revenue.
+
+---
+
+OUR APPROACH: GEO SEO
+---------------------
+
+GEO (Generative Engine Optimization) is the practice of optimizing your online presence to be cited and recommended by AI assistants.
+
+Phase 1: Audit & Strategy (Weeks 1-2)
+-------------------------------------
+
+Deliverables:
+✓ Comprehensive AI Visibility Audit
+  - Current visibility across 5 AI systems (ChatGPT, Claude, Perplexity, Google AI Overviews, Gemini)
+  - Competitor benchmarking
+  - Gap analysis
+  - Opportunity scoring
+
+✓ Citation Strategy
+  - Identify high-impact citation sources
+  - Priority content optimization list
+  - Authority signal roadmap
+
+✓ Technical Foundation
+  - Structured data implementation
+  - Schema markup optimization
+  - AI-readable content formatting
+
+Phase 2: Implementation (Weeks 3-6)
+-----------------------------------
+
+Deliverables:
+✓ Content Optimization
+  - Optimize {{Number}} key pages for AI citation
+  - Create AI-friendly FAQ content
+  - Develop authority-building content pieces
+
+✓ Citation Building
+  - Secure citations from {{Number}} high-authority sources
+  - Industry directory optimization
+  - Review platform enhancement
+
+✓ Authority Signals
+  - Backlink strategy for AI recognition
+  - Brand mention amplification
+  - Thought leadership placement
+
+Phase 3: Monitoring & Optimization (Ongoing)
+--------------------------------------------
+
+Deliverables:
+✓ Monthly AI Visibility Reports
+  - Visibility percentage across AI systems
+  - Query-level performance tracking
+  - Competitor movement analysis
+
+✓ Continuous Optimization
+  - Monthly strategy adjustments
+  - New opportunity identification
+  - Algorithm update response
+
+---
+
+INVESTMENT
+----------
+
+Option 1: GEO SEO Launch Package
+$7,500 one-time + $2,500/month (3-month minimum)
+
+Includes:
+• Complete AI Visibility Audit
+• Full Phase 1 & 2 implementation
+• 3 months of Phase 3 monitoring
+• Monthly reporting and strategy calls
+
+Option 2: GEO SEO Accelerator
+$12,000 one-time + $4,000/month (3-month minimum)
+
+Includes:
+• Everything in Launch Package, plus:
+• Priority implementation (2-week accelerated timeline)
+• Advanced citation building (2x sources)
+• Bi-weekly strategy calls
+• Dedicated account manager
+
+Option 3: Enterprise GEO SEO
+Custom pricing
+
+Includes:
+• Everything in Accelerator, plus:
+• Multi-location/multi-brand support
+• Custom integrations
+• Weekly strategy calls
+• SLA guarantees
+
+---
+
+EXPECTED OUTCOMES
+-----------------
+
+Based on results with similar {{Industry}} companies:
+
+30 Days:
+• 40-50% AI visibility for priority queries
+• Initial citations established
+• Technical foundation complete
+
+60 Days:
+• 65-75% AI visibility for priority queries
+• Noticeable increase in AI-referred traffic
+• Competitor parity achieved
+
+90 Days:
+• 75-85% AI visibility for priority queries
+• 2x increase in qualified AI-referred leads
+• Authority signals recognized by all major AI systems
+
+---
+
+WHY {{YOUR COMPANY}}
+--------------------
+
+• Specialized in GEO SEO (not generalists)
+• Proven track record: {{Number}} clients, {{AverageVisibility}}% average visibility achieved
+• Data-driven approach with transparent reporting
+• Deep understanding of AI system behaviors
+• Fast implementation, measurable results
+
+---
+
+NEXT STEPS
+----------
+
+1. Review this proposal
+2. Schedule a 30-minute review call: {{CalendarLink}}
+3. Sign agreement and provide access
+4. Kickoff call within 48 hours
+5. Launch Phase 1 immediately
+
+---
+
+QUESTIONS?
+
+{{Your Name}}
+{{Your Title}}
+{{Your Email}}
+{{Your Phone}}
+{{Your Website}}
+
+---
+
+[End of Proposal]

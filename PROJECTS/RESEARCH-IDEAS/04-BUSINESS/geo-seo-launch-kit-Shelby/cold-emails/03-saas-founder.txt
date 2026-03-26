@@ -1,0 +1,40 @@
+SUBJECT: {{Company}} not showing up in AI tool recommendations
+
+Hi {{FirstName}},
+
+I've been tracking which {{Category}} tools AI assistants recommend. {{Company}} is noticeably absent.
+
+When users ask:
+• "What's the best {{Category}} software?" → {{Competitor1}}, {{Competitor2}}
+• "Alternatives to {{Competitor1}}?" → Still not {{Company}}
+• "{{Category}} tools for {{UseCase}}?" → Same competitors
+
+This is a growing problem. Gartner predicts 75% of B2B buyers will use AI for vendor research by 2027.
+
+GEO (Generative Engine Optimization) fixes this. We help SaaS companies get cited by:
+→ ChatGPT / GPT-4o
+→ Claude / Anthropic
+→ Perplexity
+→ Google AI Overviews
+→ Gemini
+
+{{SimilarSaaS}} worked with us. Results after 45 days:
+• Appeared in 81% of relevant AI tool queries
+• 34% increase in demo requests from AI-referred traffic
+• Now recommended as "top alternative" to {{Competitor1}}
+
+I can run a free AI visibility report for {{Company}} — shows exactly where you're missing and what competitors are doing differently.
+
+15 minutes next week?
+
+Best,
+{{YourName}}
+{{YourTitle}}
+{{CalendarLink}}
+
+---
+Pain points addressed:
+- Missing from B2B buyer AI research
+- Competitors dominating AI recommendations
+- Future-proofing for 2027 buyer behavior shift
+- Lost demo requests from AI traffic

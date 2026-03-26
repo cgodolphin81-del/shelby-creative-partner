@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with dark gradient to make fireworks pop -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#16213e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f3460;stop-opacity:1" />
+    </linearGradient>
+    <filter id="fireworkGlow">
+      <feGaussianBlur stdDeviation="10" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="1200" height="1200" fill="url(#skyGradient)"/>
+  
+  <!-- Firework explosions -->
+  <g opacity="0.95">
+    <!-- Firework 1 - Top Left -->
+    <g transform="translate(300,300)">
+      <circle cx="0" cy="0" r="80" fill="#FFD93D" filter="url(#fireworkGlow)"/>
+      <g stroke="#FFD93D" stroke-width="3" opacity="0.9">
+        <line x1="0" y1="0" x2="0" y2="-80"/>
+        <line x1="0" y1="0" x2="0" y2="80"/>
+        <line x1="0" y1="0" x2="-80" y2="0"/>
+        <line x1="0" y1="0" x2="80" y2="0"/>
+        <line x1="0" y1="0" x2="-57" y2="-57"/>
+        <line x1="0" y1="0" x2="57" y2="57"/>
+        <line x1="0" y1="0" x2="-57" y2="57"/>
+        <line x1="0" y1="0" x2="57" y2="-57"/>
+      </g>
+      <circle cx="-80" cy="0" r="6" fill="#FFFFFF"/>
+      <circle cx="80" cy="0" r="6" fill="#FFFFFF"/>
+      <circle cx="0" cy="-80" r="6" fill="#FFFFFF"/>
+      <circle cx="0" cy="80" r="6" fill="#FFFFFF"/>
+      <circle cx="-57" cy="-57" r="5" fill="#FFFFFF"/>
+      <circle cx="57" cy="57" r="5" fill="#FFFFFF"/>
+      <circle cx="-57" cy="57" r="5" fill="#FFFFFF"/>
+      <circle cx="57" cy="-57" r="5" fill="#FFFFFF"/>
+    </g>
+    
+    <!-- Firework 2 - Top Right -->
+    <g transform="translate(900,350)">
+      <circle cx="0" cy="0" r="100" fill="#FF6B6B" filter="url(#fireworkGlow)"/>
+      <g stroke="#FF6B6B" stroke-width="3" opacity="0.9">
+        <line x1="0" y1="0" x2="0" y2="-100"/>
+        <line x1="0" y1="0" x2="0" y2="100"/>
+        <line x1="0" y1="0" x2="-100" y2="0"/>
+        <line x1="0" y1="0" x2="100" y2="0"/>
+        <line x1="0" y1="0" x2="-71" y2="-71"/>
+        <line x1="0" y1="0" x2="71" y2="71"/>
+        <line x1="0" y1="0" x2="-71" y2="71"/>
+        <line x1="0" y1="0" x2="71" y2="-71"/>
+      </g>
+      <circle cx="-100" cy="0" r="7" fill="#FFFFFF"/>
+      <circle cx="100" cy="0" r="7" fill="#FFFFFF"/>
+      <circle cx="0" cy="-100" r="7" fill="#FFFFFF"/>
+      <circle cx="0" cy="100" r="7" fill="#FFFFFF"/>
+      <circle cx="-71" cy="-71" r="6" fill="#FFFFFF"/>
+      <circle cx="71" cy="71" r="6" fill="#FFFFFF"/>
+      <circle cx="-71" cy="71" r="6" fill="#FFFFFF"/>
+      <circle cx="71" cy="-71" r="6" fill="#FFFFFF"/>
+    </g>
+    
+    <!-- Firework 3 - Bottom Left -->
+    <g transform="translate(250,800)">
+      <circle cx="0" cy="0" r="90" fill="#6BCB77" filter="url(#fireworkGlow)"/>
+      <g stroke="#6BCB77" stroke-width="3" opacity="0.9">
+        <line x1="0" y1="0" x2="0" y2="-90"/>
+        <line x1="0" y1="0" x2="0" y2="90"/>
+        <line x1="0" y1="0" x2="-90" y2="0"/>
+        <line x1="0" y1="0" x2="90" y2="0"/>
+        <line x1="0" y1="0" x2="-64" y2="-64"/>
+        <line x1="0" y1="0" x2="64" y2="64"/>
+        <line x1="0" y1="0" x2="-64" y2="64"/>
+        <line x1="0" y1="0" x2="64" y2="-64"/>
+      </g>
+      <circle cx="-90" cy="0" r="7" fill="#FFFFFF"/>
+      <circle cx="90" cy="0" r="7" fill="#FFFFFF"/>
+      <circle cx="0" cy="-90" r="7" fill="#FFFFFF"/>
+      <circle cx="0" cy="90" r="7" fill="#FFFFFF"/>
+      <circle cx="-64" cy="-64" r="6" fill="#FFFFFF"/>
+      <circle cx="64" cy="64" r="6" fill="#FFFFFF"/>
+      <circle cx="-64" cy="64" r="6" fill="#FFFFFF"/>
+      <circle cx="64" cy="-64" r="6" fill="#FFFFFF"/>
+    </g>
+    
+    <!-- Firework 4 - Bottom Right -->
+    <g transform="translate(950,850)">
+      <circle cx="0" cy="0" r="70" fill="#A29BFE" filter="url(#fireworkGlow)"/>
+      <g stroke="#A29BFE" stroke-width="3" opacity="0.9">
+        <line x1="0" y1="0" x2="0" y2="-70"/>
+        <line x1="0" y1="0" x2="0" y2="70"/>
+        <line x1="0" y1="0" x2="-70" y2="0"/>
+        <line x1="0" y1="0" x2="70" y2="0"/>
+        <line x1="0" y1="0" x2="-50" y2="-50"/>
+        <line x1="0" y1="0" x2="50" y2="50"/>
+        <line x1="0" y1="0" x2="-50" y2="50"/>
+        <line x1="0" y1="0" x2="50" y2="-50"/>
+      </g>
+      <circle cx="-70" cy="0" r="6" fill="#FFFFFF"/>
+      <circle cx="70" cy="0" r="6" fill="#FFFFFF"/>
+      <circle cx="0" cy="-70" r="6" fill="#FFFFFF"/>
+      <circle cx="0" cy="70" r="6" fill="#FFFFFF"/>
+      <circle cx="-50" cy="-50" r="5" fill="#FFFFFF"/>
+      <circle cx="50" cy="50" r="5" fill="#FFFFFF"/>
+      <circle cx="-50" cy="50" r="5" fill="#FFFFFF"/>
+      <circle cx="50" cy="-50" r="5" fill="#FFFFFF"/>
+    </g>
+    
+    <!-- Firework 5 - Center Top -->
+    <g transform="translate(600,250)">
+      <circle cx="0" cy="0" r="60" fill="#FFD93D" filter="url(#fireworkGlow)"/>
+      <g stroke="#FFD93D" stroke-width="3" opacity="0.9">
+        <line x1="0" y1="0" x2="0" y2="-60"/>
+        <line x1="0" y1="0" x2="0" y2="60"/>
+        <line x1="0" y1="0" x2="-60" y2="0"/>
+        <line x1="0" y1="0" x2="60" y2="0"/>
+        <line x1="0" y1="0" x2="-42" y2="-42"/>
+        <line x1="0" y1="0" x2="42" y2="42"/>
+        <line x1="0" y1="0" x2="-42" y2="42"/>
+        <line x1="0" y1="0" x2="42" y2="-42"/>
+      </g>
+      <circle cx="-60" cy="0" r="5" fill="#FFFFFF"/>
+      <circle cx="60" cy="0" r="5" fill="#FFFFFF"/>
+      <circle cx="0" cy="-60" r="5" fill="#FFFFFF"/>
+      <circle cx="0" cy="60" r="5" fill="#FFFFFF"/>
+      <circle cx="-42" cy="-42" r="4" fill="#FFFFFF"/>
+      <circle cx="42" cy="42" r="4" fill="#FFFFFF"/>
+      <circle cx="-42" cy="42" r="4" fill="#FFFFFF"/>
+      <circle cx="42" cy="-42" r="4" fill="#FFFFFF"/>
+    </g>
+  </g>
+  
+  <!-- Brain in the middle -->
+  <g transform="translate(600,600)">
+    <!-- Brain outline -->
+    <ellipse cx="0" cy="0" rx="100" ry="80" fill="#FFFFFF" opacity="0.95"/>
+    <path d="M-100,0 Q-115,-40 -100,-80 Q-85,-120 -40,-120 Q5,-120 0,-80 Q5,-120 40,-120 Q85,-120 100,-80 Q115,-40 100,0 Q115,40 100,80 Q85,120 40,120 Q5,120 0,80 Q-5,120 -40,120 Q-85,120 -100,80 Q-115,40 -100,0" fill="#16213e"/>
+    
+    <!-- Brain texture lines -->
+    <path d="M-50,-60 Q0,-70 50,-60" stroke="#1a1a2e" stroke-width="2" fill="none"/>
+    <path d="M-55,-30 Q0,-40 55,-30" stroke="#1a1a2e" stroke-width="2" fill="none"/>
+    <path d="M-60,0 Q0,-10 60,0" stroke="#1a1a2e" stroke-width="2" fill="none"/>
+    <path d="M-55,30 Q0,20 55,30" stroke="#1a1a2e" stroke-width="2" fill="none"/>
+    <path d="M-50,60 Q0,70 50,60" stroke="#1a1a2e" stroke-width="2" fill="none"/>
+    
+    <!-- Exuberant face -->
+    <circle cx="-30" cy="-15" r="10" fill="#16213e"/>
+    <circle cx="30" cy="-15" r="10" fill="#16213e"/>
+    <path d="M-25,10 Q0,25 25,10" stroke="#16213e" stroke-width="4" fill="none" stroke-linecap="round"/>
+    
+    <!-- Sparkles around brain -->
+    <g fill="#FFFFFF" opacity="0.8">
+      <circle cx="-120" cy="-50" r="6"/>
+      <circle cx="120" cy="-50" r="7"/>
+      <circle cx="-130" cy="50" r="5"/>
+      <circle cx="130" cy="50" r="8"/>
+      <circle cx="0" cy="-110" r="7"/>
+      <circle cx="0" cy="110" r="6"/>
+    </g>
+  </g>
+  
+  <!-- Main text - bold and celebratory -->
+  <text x="600" y="920" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#fireworkGlow)">BRAIN</text>
+  <text x="600" y="1010" font-family="Arial, sans-serif" font-size="88" font-weight="bold" fill="#FFD93D" text-anchor="middle" filter="url(#fireworkGlow)">ON FIREWORKS</text>
+  
+  <!-- Stars in sky -->
+  <g fill="#FFFFFF" opacity="0.7">
+    <path d="M100,100 L105,115 L120,115 L108,125 L113,140 L100,130 L87,140 L92,125 L80,115 L95,115 Z"/>
+    <path d="M1100,150 L1105,165 L1120,165 L1108,175 L1113,190 L1100,180 L1087,190 L1092,175 L1080,165 L1095,165 Z"/>
+    <path d="M500,100 L505,115 L520,115 L508,125 L513,140 L500,130 L487,140 L492,125 L480,115 L495,115 Z"/>
+    <path d="M700,120 L705,135 L720,135 L708,145 L713,160 L700,150 L687,160 L692,145 L680,135 L695,135 Z"/>
+  </g>
+  
+  <!-- Smoke trails from firework launch -->
+  <g stroke="#FFFFFF" stroke-width="4" opacity="0.3" fill="none">
+    <path d="M280,800 Q290,700 300,300"/>
+    <path d="M880,800 Q890,700 900,350"/>
+    <path d="M230,1000 Q240,900 250,800"/>
+    <path d="M930,1000 Q940,900 950,850"/>
+    <path d="M580,900 Q590,800 600,250"/>
+  </g>
+  
+  <!-- Decorative sparkles -->
+  <g fill="#FFD93D" opacity="0.8">
+    <circle cx="450" cy="500" r="4"/>
+    <circle cx="750" cy="500" r="5"/>
+    <circle cx="450" cy="700" r="4"/>
+    <circle cx="750" cy="700" r="5"/>
+    <circle cx="600" cy="400" r="4"/>
+    <circle cx="600" cy="800" r="5"/>
+  </g>
+</svg>

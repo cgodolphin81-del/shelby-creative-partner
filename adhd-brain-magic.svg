@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B6B;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFE66D;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6BCB77;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="1200" height="1200" fill="url(#bgGradient)"/>
+  
+  <!-- Magical sparkles and swirls -->
+  <circle cx="600" cy="600" r="400" fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.6">
+    <animate attributeName="r" values="400;420;400" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Floating magical elements -->
+  <g fill="#FFFFFF" opacity="0.9">
+    <!-- Stars -->
+    <path d="M300,200 L310,240 L350,240 L320,265 L330,305 L300,280 L270,305 L280,265 L250,240 L290,240 Z"/>
+    <path d="M900,150 L910,180 L940,180 L915,195 L925,225 L900,205 L875,225 L885,195 L860,180 L890,180 Z"/>
+    <path d="M1000,400 L1005,420 L1025,420 L1010,430 L1015,450 L1000,440 L985,450 L990,430 L975,420 L995,420 Z"/>
+    
+    <!-- Moons -->
+    <path d="M200,500 Q220,480 240,500 Q220,520 200,500 Z" fill="#FFD93D"/>
+    <path d="M800,700 Q830,680 860,700 Q830,720 800,700 Z" fill="#FFD93D"/>
+  </g>
+  
+  <!-- Magic wand -->
+  <g transform="translate(600,600)">
+    <line x1="-50" y1="150" x2="50" y2="-150" stroke="#FF6B6B" stroke-width="8" stroke-linecap="round"/>
+    <polygon points="0,-150 10,-180 0,-200 -10,-180" fill="#FFD93D" filter="url(#glow)"/>
+  </g>
+  
+  <!-- Main text -->
+  <text x="600" y="520" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#glow)">ADHD BRAIN</text>
+  <text x="600" y="600" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#glow)">MAGIC</text>
+  
+  <!-- Decorative swirls -->
+  <path d="M150,150 Q200,100 250,150 Q300,200 250,250 Q200,300 150,250 Q100,200 150,150" fill="none" stroke="#FFFFFF" stroke-width="4" opacity="0.7"/>
+  <path d="M1050,150 Q1100,100 1150,150 Q1200,200 1150,250 Q1100,300 1050,250 Q1000,200 1050,150" fill="none" stroke="#FFFFFF" stroke-width="4" opacity="0.7"/>
+  <path d="M150,1050 Q200,1000 250,1050 Q300,1100 250,1150 Q200,1200 150,1150 Q100,1100 150,1050" fill="none" stroke="#FFFFFF" stroke-width="4" opacity="0.7"/>
+  <path d="M1050,1050 Q1100,1000 1150,1050 Q1200,1100 1150,1150 Q1100,1200 1050,1150 Q1000,1100 1050,1050" fill="none" stroke="#FFFFFF" stroke-width="4" opacity="0.7"/>
+  
+  <!-- Brains with magical aura -->
+  <g transform="translate(600,650)">
+    <ellipse cx="0" cy="0" rx="120" ry="100" fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.8">
+      <animate attributeName="opacity" values="0.6;0.9;0.6" dur="3s" repeatCount="indefinite"/>
+    </ellipse>
+    <!-- Brain outline simplified -->
+    <path d="M-60,-40 Q-80,-60 -60,-80 Q-40,-100 0,-100 Q40,-100 60,-80 Q80,-60 60,-40 Q100,0 60,40 Q80,60 60,80 Q40,100 0,100 Q-40,100 -60,80 Q-80,60 -60,40 Q-100,0 -60,-40" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  </g>
+  
+  <!-- Small decorative elements -->
+  <circle cx="400" cy="400" r="15" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="800" cy="800" r="20" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="400" cy="800" r="10" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="800" cy="400" r="18" fill="#FFFFFF" opacity="0.8"/>
+</svg>

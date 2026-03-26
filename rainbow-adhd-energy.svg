@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with rainbow gradient -->
+  <defs>
+    <linearGradient id="rainbowGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF0000;stop-opacity:1" />
+      <stop offset="16.6%" style="stop-color:#FF8000;stop-opacity:1" />
+      <stop offset="33.3%" style="stop-color:#FFFF00;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00FF00;stop-opacity:1" />
+      <stop offset="66.6%" style="stop-color:#0080FF;stop-opacity:1" />
+      <stop offset="83.3%" style="stop-color:#8000FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF0080;stop-opacity:1" />
+    </linearGradient>
+    <filter id="rainbowGlow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="1200" height="1200" fill="url(#rainbowGradient)"/>
+  
+  <!-- Rainbow energy waves -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="4" opacity="0.6">
+    <path d="M0,300 Q300,250 600,300 Q900,350 1200,300" stroke-width="6"/>
+    <path d="M0,500 Q300,450 600,500 Q900,550 1200,500" stroke-width="5"/>
+    <path d="M0,700 Q300,650 600,700 Q900,750 1200,700" stroke-width="6"/>
+    <path d="M0,900 Q300,850 600,900 Q900,950 1200,900" stroke-width="5"/>
+  </g>
+  
+  <!-- Energy bolts -->
+  <g fill="#FFFFFF" opacity="0.9">
+    <polygon points="200,400 220,400 210,425 220,450 200,440 210,415" transform="rotate(-10 210 425)"/>
+    <polygon points="1000,500 1020,500 1010,525 1020,550 1000,540 1010,515" transform="rotate(15 1010 525)"/>
+    <polygon points="250,700 270,700 260,725 270,750 250,740 260,715" transform="rotate(-20 260 725)"/>
+    <polygon points="950,800 970,800 960,825 970,850 950,840 960,815" transform="rotate(10 960 825)"/>
+  </g>
+  
+  <!-- Colorful brain with aura -->
+  <g transform="translate(600,550)">
+    <!-- Rainbow aura circles -->
+    <circle cx="0" cy="0" r="120" fill="none" stroke="#FF0000" stroke-width="3" opacity="0.7"/>
+    <circle cx="0" cy="0" r="135" fill="none" stroke="#FF8000" stroke-width="3" opacity="0.7"/>
+    <circle cx="0" cy="0" r="150" fill="none" stroke="#FFFF00" stroke-width="3" opacity="0.7"/>
+    <circle cx="0" cy="0" r="165" fill="none" stroke="#00FF00" stroke-width="3" opacity="0.7"/>
+    <circle cx="0" cy="0" r="180" fill="none" stroke="#0080FF" stroke-width="3" opacity="0.7"/>
+    
+    <!-- Brain -->
+    <ellipse cx="0" cy="0" rx="90" ry="75" fill="#FFFFFF" opacity="0.95"/>
+    <path d="M-90,0 Q-105,-35 -90,-70 Q-75,-105 -30,-105 Q15,-105 0,-70 Q15,-105 30,-105 Q75,-105 90,-70 Q105,-35 90,0 Q105,35 90,70 Q75,105 30,105 Q15,105 0,70 Q-15,105 -30,105 Q-75,105 -90,70 Q-105,35 -90,0" fill="#FFD93D"/>
+    <!-- Happy face -->
+    <circle cx="-25" cy="-10" r="8" fill="#333333"/>
+    <circle cx="25" cy="-10" r="8" fill="#333333"/>
+    <path d="M-20,10 Q0,20 20,10" stroke="#333333" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <!-- Rainbow lines inside brain -->
+    <path d="M-40,-50 Q0,-60 40,-50" stroke="#FF0000" stroke-width="2" fill="none"/>
+    <path d="M-35,-30 Q0,-40 35,-30" stroke="#FF8000" stroke-width="2" fill="none"/>
+    <path d="M-30,-10 Q0,-20 30,-10" stroke="#FFFF00" stroke-width="2" fill="none"/>
+    <path d="M-30,10 Q0,0 30,10" stroke="#00FF00" stroke-width="2" fill="none"/>
+    <path d="M-35,30 Q0,20 35,30" stroke="#0080FF" stroke-width="2" fill="none"/>
+    <path d="M-40,50 Q0,40 40,50" stroke="#8000FF" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Sparkles everywhere -->
+  <g fill="#FFFFFF" opacity="0.9">
+    <!-- Large sparkles -->
+    <path d="M300,250 L310,280 L340,280 L315,300 L325,330 L300,310 L275,330 L285,300 L260,280 L290,280 Z"/>
+    <path d="M900,300 L910,330 L940,330 L915,350 L925,380 L900,360 L875,380 L885,350 L860,330 L890,330 Z"/>
+    <path d="M300,950 L310,980 L340,980 L315,1000 L325,1030 L300,1010 L275,1030 L285,1000 L260,980 L290,980 Z"/>
+    <path d="M900,900 L910,930 L940,930 L915,950 L925,980 L900,960 L875,980 L885,950 L860,930 L890,930 Z"/>
+    
+    <!-- Small sparkles -->
+    <path d="M150,150 L155,165 L170,165 L160,172 L165,187 L150,177 L135,187 L140,172 L130,165 L145,165 Z"/>
+    <path d="M1050,150 L1055,165 L1070,165 L1060,172 L1065,187 L1050,177 L1035,187 L1040,172 L1030,165 L1045,165 Z"/>
+    <path d="M150,1050 L155,1065 L170,1065 L160,1072 L165,1087 L150,1077 L135,1087 L140,1072 L130,1065 L145,1065 Z"/>
+    <path d="M1050,1050 L1055,1065 L1070,1065 L1060,1072 L1065,1087 L1050,1077 L1035,1087 L1040,1072 L1030,1065 L1045,1065 Z"/>
+  </g>
+  
+  <!-- Energy dots -->
+  <g fill="#FFFFFF" opacity="0.8">
+    <circle cx="400" cy="400" r="12"/>
+    <circle cx="800" cy="400" r="15"/>
+    <circle cx="400" cy="800" r="10"/>
+    <circle cx="800" cy="800" r="18"/>
+    <circle cx="200" cy="600" r="8"/>
+    <circle cx="1000" cy="600" r="14"/>
+    <circle cx="600" cy="200" r="11"/>
+    <circle cx="600" cy="1000" r="16"/>
+  </g>
+  
+  <!-- Main text - rainbow gradient text effect -->
+  <text x="600" y="420" font-family="Arial, sans-serif" font-size="56" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#rainbowGlow)">RAINBOW</text>
+  <text x="600" y="510" font-family="Arial, sans-serif" font-size="84" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#rainbowGlow)">ADHD</text>
+  <text x="600" y="610" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#rainbowGlow)">ENERGY</text>
+  
+  <!-- Plus signs (positive energy) -->
+  <g fill="#FFFFFF" opacity="0.85">
+    <path d="M200,600 L220,600 L210,610 L220,620 L200,620 L210,610 L200,600"/>
+    <path d="M1000,600 L1020,600 L1010,610 L1020,620 L1000,620 L1010,610 L1000,600"/>
+    <path d="M600,200 L620,200 L610,210 L620,220 L600,220 L610,210 L600,200"/>
+    <path d="M600,1000 L620,1000 L610,1010 L620,1020 L600,1020 L610,1010 L600,1000"/>
+  </g>
+  
+  <!-- Decorative circles -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.5">
+    <circle cx="150" cy="150" r="30"/>
+    <circle cx="1050" cy="150" r="35"/>
+    <circle cx="150" cy="1050" r="32"/>
+    <circle cx="1050" cy="1050" r="28"/>
+  </g>
+  
+  <!-- Wavy energy lines -->
+  <g stroke="#FFFFFF" stroke-width="3" fill="none" opacity="0.6">
+    <path d="M50,200 Q100,180 150,200 Q200,220 250,200"/>
+    <path d="M950,200 Q900,180 850,200 Q800,220 750,200"/>
+    <path d="M50,1000 Q100,980 150,1000 Q200,1020 250,1000"/>
+    <path d="M950,1000 Q900,980 850,1000 Q800,1020 750,1000"/>
+  </g>
+</svg>

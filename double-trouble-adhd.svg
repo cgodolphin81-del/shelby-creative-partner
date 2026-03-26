@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with vibrant colors -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF1493;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FF6B6B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFD93D;stop-opacity:1" />
+    </linearGradient>
+    <filter id="chaosGlow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="1200" height="1200" fill="url(#bgGradient)"/>
+  
+  <!-- Chaotic background patterns -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.5">
+    <circle cx="400" cy="400" r="100"/>
+    <circle cx="800" cy="800" r="150"/>
+    <circle cx="300" cy="900" r="80"/>
+    <circle cx="900" cy="300" r="120"/>
+    <rect x="150" y="150" width="200" height="200" transform="rotate(45 250 250)"/>
+    <rect x="850" y="850" width="250" height="150" transform="rotate(-30 975 925)"/>
+  </g>
+  
+  <!-- Twin brain heads - side by side -->
+  <g transform="translate(600,600)">
+    <!-- Left brain -->
+    <ellipse cx="-100" cy="0" rx="90" ry="110" fill="#FF6B6B" opacity="0.9"/>
+    <path d="M-100,-90 Q-110,-110 -100,-130 Q-90,-150 -70,-150 Q-50,-150 -60,-130 Q-50,-110 -60,-90 Q-30,-70 -60,-50 Q-30,-30 -60,-10 Q-30,20 -60,40 Q-30,70 -60,90 Q-50,110 -70,110 Q-90,110 -100,90 Q-130,70 -100,50 Q-130,30 -100,0 Q-130,-30 -100,-90" fill="#FF1493"/>
+    <!-- Left face features -->
+    <circle cx="-115" cy="-20" r="12" fill="#FFFFFF"/>
+    <circle cx="-118" cy="-20" r="4" fill="#333333"/>
+    <circle cx="-105" cy="-25" r="4" fill="#FFFFFF"/>
+    <circle cx="-115" cy="-10" r="12" fill="#FFFFFF"/>
+    <circle cx="-118" cy="-10" r="4" fill="#333333"/>
+    <circle cx="-105" cy="-15" r="4" fill="#FFFFFF"/>
+    <path d="M-115,5 Q-105,15 -95,5" stroke="#333333" stroke-width="3" fill="none" stroke-linecap="round"/>
+    
+    <!-- Right brain -->
+    <ellipse cx="100" cy="0" rx="90" ry="110" fill="#FFD93D" opacity="0.9"/>
+    <path d="M100,-90 Q110,-110 100,-130 Q90,-150 70,-150 Q50,-150 60,-130 Q50,-110 60,-90 Q30,-70 60,-50 Q30,-30 60,-10 Q30,20 60,40 Q30,70 60,90 Q50,110 70,110 Q90,110 100,90 Q130,70 100,50 Q130,30 100,0 Q130,-30 100,-90" fill="#FF6B6B"/>
+    <!-- Right face features -->
+    <circle cx="115" cy="-20" r="12" fill="#FFFFFF"/>
+    <circle cx="118" cy="-20" r="4" fill="#333333"/>
+    <circle cx="105" cy="-25" r="4" fill="#FFFFFF"/>
+    <circle cx="115" cy="-10" r="12" fill="#FFFFFF"/>
+    <circle cx="118" cy="-10" r="4" fill="#333333"/>
+    <circle cx="105" cy="-15" r="4" fill="#FFFFFF"/>
+    <path d="M115,5 Q105,15 95,5" stroke="#333333" stroke-width="3" fill="none" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Lightning bolts between brains -->
+  <g fill="#FFFFFF" filter="url(#chaosGlow)">
+    <path d="M450,600 L470,580 L465,600 L480,600 L460,620 L470,600 L450,600"/>
+    <path d="M750,600 L730,620 L735,600 L720,600 L740,580 L730,600 L750,600"/>
+  </g>
+  
+  <!-- Main text - playful and bold -->
+  <text x="600" y="480" font-family="Arial, sans-serif" font-size="56" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#chaosGlow)">DOUBLE</text>
+  <text x="600" y="550" font-family="Arial, sans-serif" font-size="84" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#chaosGlow)">TROUBLE</text>
+  <text x="600" y="640" font-family="Arial, sans-serif" font-size="56" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#chaosGlow)">ADHD</text>
+  
+  <!-- Exclamation marks for energy -->
+  <g fill="#FFFFFF" opacity="0.9">
+    <text x="200" y="300" font-family="Arial, sans-serif" font-size="48" font-weight="bold">!</text>
+    <text x="1000" y="900" font-family="Arial, sans-serif" font-size="52" font-weight="bold">!</text>
+    <text x="1000" y="300" font-family="Arial, sans-serif" font-size="44" font-weight="bold">!</text>
+    <text x="200" y="900" font-family="Arial, sans-serif" font-size="46" font-weight="bold">!</text>
+  </g>
+  
+  <!-- Small stars around edges -->
+  <g fill="#FFFFFF" opacity="0.7">
+    <path d="M100,100 L105,120 L125,120 L110,132 L115,152 L100,140 L85,152 L90,132 L75,120 L95,120 Z"/>
+    <path d="M1100,100 L1105,120 L1125,120 L1110,132 L1115,152 L1100,140 L1085,152 L1090,132 L1075,120 L1095,120 Z"/>
+    <path d="M100,1100 L105,1120 L125,1120 L110,1132 L115,1152 L100,1140 L85,1152 L90,1132 L75,1120 L95,1120 Z"/>
+    <path d="M1100,1100 L1105,1120 L1125,1120 L1110,1132 L1115,1152 L1100,1140 L1085,1152 L1090,1132 L1075,1120 L1095,1120 Z"/>
+  </g>
+  
+  <!-- Chaos lines -->
+  <g stroke="#FFFFFF" stroke-width="4" opacity="0.6">
+    <path d="M200,600 Q250,550 300,600 Q350,650 300,700 Q250,750 200,700"/>
+    <path d="M1000,600 Q950,550 900,600 Q850,650 900,700 Q950,750 1000,700"/>
+  </g>
+</svg>

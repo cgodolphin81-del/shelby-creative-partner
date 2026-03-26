@@ -1,0 +1,305 @@
+AI VISIBILITY AUDIT REPORT TEMPLATE
+====================================
+
+[Copy this into Google Docs/Canva and customize with client branding]
+
+---
+
+{{Client Logo}}
+
+AI VISIBILITY AUDIT
+For {{Client Company}}
+
+{{Audit Date}}
+
+Prepared by: {{Your Company}}
+
+---
+
+EXECUTIVE SUMMARY
+-----------------
+
+{{Client Company}} currently appears in {{CurrentVisibility}}% of relevant AI search queries in the {{Industry}} category.
+
+Key Findings:
+• Primary competitors {{Competitor1}} and {{Competitor2}} appear in {{Competitor1Visibility}}% and {{Competitor2Visibility}}% of queries respectively
+• {{Client Company}} is missing from {{NumberOfMissingQueries}} high-value queries
+• Top gaps identified in: {{TopGapCategory1}}, {{TopGapCategory2}}
+• Quick wins available: {{NumberOfQuickWins}} immediate opportunities
+
+Recommendation: Implement GEO SEO strategy to achieve {{TargetVisibility}}% visibility within {{TargetTimeline}} days.
+
+---
+
+METHODOLOGY
+-----------
+
+This audit analyzed {{Client Company}}'s visibility across 5 major AI systems:
+
+1. ChatGPT (GPT-4o)
+2. Claude (Anthropic)
+3. Perplexity
+4. Google AI Overviews
+5. Gemini (Google)
+
+Test Queries: {{NumberOfQueries}} industry-relevant queries across 5 categories:
+• Category 1: {{Category1}} ({{NumberOfQueries1}} queries)
+• Category 2: {{Category2}} ({{NumberOfQueries2}} queries)
+• Category 3: {{Category3}} ({{NumberOfQueries3}} queries)
+• Category 4: {{Category4}} ({{NumberOfQueries4}} queries)
+• Category 5: {{Category5}} ({{NumberOfQueries5}} queries)
+
+Testing Period: {{StartDate}} - {{EndDate}}
+
+---
+
+OVERALL VISIBILITY SCORE
+------------------------
+
+{{Client Company}}: {{CurrentVisibility}}%
+{{Competitor1}}: {{Competitor1Visibility}}%
+{{Competitor2}}: {{Competitor2Visibility}}%
+{{Competitor3}}: {{Competitor3Visibility}}%
+Industry Average: {{IndustryAverage}}%
+
+[Insert bar chart visualization]
+
+---
+
+VISIBILITY BY AI SYSTEM
+-----------------------
+
+ChatGPT (GPT-4o):
+{{Client Company}}: {{Visibility}}%
+{{Competitor1}}: {{Visibility}}%
+{{Competitor2}}: {{Visibility}}%
+
+Claude (Anthropic):
+{{Client Company}}: {{Visibility}}%
+{{Competitor1}}: {{Visibility}}%
+{{Competitor2}}: {{Visibility}}%
+
+Perplexity:
+{{Client Company}}: {{Visibility}}%
+{{Competitor1}}: {{Visibility}}%
+{{Competitor2}}: {{Visibility}}%
+
+Google AI Overviews:
+{{Client Company}}: {{Visibility}}%
+{{Competitor1}}: {{Visibility}}%
+{{Competitor2}}: {{Visibility}}%
+
+Gemini (Google):
+{{Client Company}}: {{Visibility}}%
+{{Competitor1}}: {{Visibility}}%
+{{Competitor2}}: {{Visibility}}%
+
+---
+
+QUERY-LEVEL ANALYSIS
+--------------------
+
+QUERIES WHERE {{CLIENT COMPANY}} APPEARS:
+-----------------------------------------
+
+1. "{{Query1}}"
+   Appearing in: {{AISystems}}
+   Position: {{Position}}
+   Notes: {{Notes}}
+
+2. "{{Query2}}"
+   Appearing in: {{AISystems}}
+   Position: {{Position}}
+   Notes: {{Notes}}
+
+3. "{{Query3}}"
+   Appearing in: {{AISystems}}
+   Position: {{Position}}
+   Notes: {{Notes}}
+
+[Continue for all queries where client appears]
+
+---
+
+QUERIES WHERE {{CLIENT COMPANY}} IS MISSING:
+--------------------------------------------
+
+HIGH PRIORITY (High search volume, high commercial intent):
+
+1. "{{Query1}}"
+   Competitors appearing: {{Competitor1}}, {{Competitor2}}
+   Estimated monthly AI searches: {{Volume}}
+   Gap severity: HIGH
+
+2. "{{Query2}}"
+   Competitors appearing: {{Competitor1}}, {{Competitor3}}
+   Estimated monthly AI searches: {{Volume}}
+   Gap severity: HIGH
+
+3. "{{Query3}}"
+   Competitors appearing: {{Competitor2}}, {{Competitor3}}
+   Estimated monthly AI searches: {{Volume}}
+   Gap severity: HIGH
+
+MEDIUM PRIORITY:
+
+4. "{{Query4}}"
+   Competitors appearing: {{Competitor1}}
+   Estimated monthly AI searches: {{Volume}}
+   Gap severity: MEDIUM
+
+5. "{{Query5}}"
+   Competitors appearing: {{Competitor2}}
+   Estimated monthly AI searches: {{Volume}}
+   Gap severity: MEDIUM
+
+[Continue for all missing queries]
+
+---
+
+COMPETITOR ANALYSIS
+-------------------
+
+{{COMPETITOR1}}
+Visibility Score: {{Visibility}}%
+Strengths:
+• {{Strength1}}
+• {{Strength2}}
+• {{Strength3}}
+
+Weaknesses:
+• {{Weakness1}}
+• {{Weakness2}}
+
+Key Citation Sources:
+• {{Source1}}
+• {{Source2}}
+• {{Source3}}
+
+{{COMPETITOR2}}
+Visibility Score: {{Visibility}}%
+Strengths:
+• {{Strength1}}
+• {{Strength2}}
+• {{Strength3}}
+
+Weaknesses:
+• {{Weakness1}}
+• {{Weakness2}}
+
+Key Citation Sources:
+• {{Source1}}
+• {{Source2}}
+• {{Source3}}
+
+---
+
+GAP ANALYSIS
+------------
+
+GAP 1: {{GapName1}}
+Description: {{Description}}
+Impact: {{Impact}}
+Difficulty to Fix: {{Difficulty}}
+Priority: {{Priority}}
+
+GAP 2: {{GapName2}}
+Description: {{Description}}
+Impact: {{Impact}}
+Difficulty to Fix: {{Difficulty}}
+Priority: {{Priority}}
+
+GAP 3: {{GapName3}}
+Description: {{Description}}
+Impact: {{Impact}}
+Difficulty to Fix: {{Difficulty}}
+Priority: {{Priority}}
+
+[Continue for all identified gaps]
+
+---
+
+QUICK WINS (Implement within 2 weeks)
+-------------------------------------
+
+1. {{QuickWin1}}
+   Expected impact: {{Impact}}
+   Effort: Low
+   Timeline: {{Timeline}}
+
+2. {{QuickWin2}}
+   Expected impact: {{Impact}}
+   Effort: Low
+   Timeline: {{Timeline}}
+
+3. {{QuickWin3}}
+   Expected impact: {{Impact}}
+   Effort: Medium
+   Timeline: {{Timeline}}
+
+---
+
+RECOMMENDATIONS
+---------------
+
+IMMEDIATE (Weeks 1-2):
+• {{Recommendation1}}
+• {{Recommendation2}}
+• {{Recommendation3}}
+
+SHORT-TERM (Weeks 3-6):
+• {{Recommendation4}}
+• {{Recommendation5}}
+• {{Recommendation6}}
+
+LONG-TERM (Months 2-3):
+• {{Recommendation7}}
+• {{Recommendation8}}
+• {{Recommendation9}}
+
+---
+
+PROJECTED OUTCOMES
+------------------
+
+With full implementation of GEO SEO strategy:
+
+30 Days:
+• {{ProjectedVisibility30}}% AI visibility
+• {{ProjectedLeads30}} AI-referred leads
+• Competitor parity on {{NumberOfQueries}} queries
+
+60 Days:
+• {{ProjectedVisibility60}}% AI visibility
+• {{ProjectedLeads60}} AI-referred leads
+• Top 3 position on {{NumberOfQueries}} queries
+
+90 Days:
+• {{ProjectedVisibility90}}% AI visibility
+• {{ProjectedLeads90}} AI-referred leads
+• Market leadership in AI visibility
+
+---
+
+NEXT STEPS
+----------
+
+1. Review this audit report
+2. Schedule strategy call: {{CalendarLink}}
+3. Approve GEO SEO proposal
+4. Kickoff within 48 hours of approval
+5. Begin Phase 1 implementation
+
+---
+
+QUESTIONS?
+
+{{Your Name}}
+{{Your Title}}
+{{Your Email}}
+{{Your Phone}}
+{{Your Website}}
+
+---
+
+[End of Audit Report]

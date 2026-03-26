@@ -1,0 +1,417 @@
+{
+  "chatbot_flow": {
+    "name": "Lead Qualification Chatbot",
+    "platform": "ManyChat/Botpress Compatible",
+    "version": "1.0",
+    "purpose": "Qualify inbound leads, book meetings, capture contact info",
+    "estimated_build_time": "2-3 hours",
+    "use_cases": ["Website widget", "Facebook Messenger", "Instagram DM", "WhatsApp"]
+  },
+  "flow_structure": {
+    "entry_points": [
+      {
+        "id": "entry_1",
+        "trigger": "Keyword: 'pricing', 'demo', 'interested', 'start'",
+        "action": "Go to Block 1"
+      },
+      {
+        "id": "entry_2",
+        "trigger": "Click: 'Get Started' button",
+        "action": "Go to Block 1"
+      },
+      {
+        "id": "entry_3",
+        "trigger": "Click: 'Book Demo' CTA",
+        "action": "Go to Block 5 (Booking)"
+      }
+    ],
+    "blocks": [
+      {
+        "id": "block_1",
+        "name": "Welcome & Intent",
+        "type": "message",
+        "content": {
+          "text": "👋 Hi there! Thanks for your interest in [Company Name].\n\nI'm here to help you learn more about our AI automation solutions.\n\nWhat brings you here today?",
+          "buttons": [
+            {
+              "type": "quick_reply",
+              "title": "💰 See Pricing",
+              "payload": "PRICING_INFO"
+            },
+            {
+              "type": "quick_reply",
+              "title": "📅 Book a Demo",
+              "payload": "BOOK_DEMO"
+            },
+            {
+              "type": "quick_reply",
+              "title": "❓ Learn More",
+              "payload": "LEARN_MORE"
+            },
+            {
+              "type": "quick_reply",
+              "title": "💬 Talk to Human",
+              "payload": "HUMAN_SUPPORT"
+            }
+          ]
+        },
+        "next_block_mapping": {
+          "PRICING_INFO": "block_2",
+          "BOOK_DEMO": "block_5",
+          "LEARN_MORE": "block_3",
+          "HUMAN_SUPPORT": "block_8"
+        }
+      },
+      {
+        "id": "block_2",
+        "name": "Pricing Overview",
+        "type": "message",
+        "content": {
+          "text": "Great question! Here's our pricing:\n\n🤖 **Chatbot Development**: $2,500 - $8,000\n⚙️ **Workflow Automation**: $3,000 - $10,000\n📚 **AI Training**: $1,500 - $5,000\n\nEvery project includes:\n✅ Custom solution design\n✅ Implementation & training\n✅ 30 days support\n\nWant a custom quote for your needs?",
+          "buttons": [
+            {
+              "type": "quick_reply",
+              "title": "✅ Yes, Get Quote",
+              "payload": "GET_QUOTE"
+            },
+            {
+              "type": "quick_reply",
+              "title": "📅 Book Call",
+              "payload": "BOOK_DEMO"
+            },
+            {
+              "type": "url",
+              "title": "📄 View Full Pricing",
+              "url": "https://yourwebsite.com/pricing"
+            }
+          ]
+        },
+        "next_block_mapping": {
+          "GET_QUOTE": "block_4",
+          "BOOK_DEMO": "block_5"
+        }
+      },
+      {
+        "id": "block_3",
+        "name": "Learn More - Use Cases",
+        "type": "message",
+        "content": {
+          "text": "We help businesses automate:\n\n📩 **Customer Service** - 24/7 AI chatbots\n📊 **Lead Qualification** - Auto-capture & route leads\n📧 **Email Automation** - Smart sequences\n📈 **Sales Processes** - CRM + follow-up automation\n📝 **Content Distribution** - Multi-platform posting\n\nWhich area interests you most?",
+          "buttons": [
+            {
+              "type": "quick_reply",
+              "title": "📩 Customer Service",
+              "payload": "USE_CASE_SERVICE"
+            },
+            {
+              "type": "quick_reply",
+              "title": "📊 Lead Gen",
+              "payload": "USE_CASE_LEADS"
+            },
+            {
+              "type": "quick_reply",
+              "title": "📈 Sales Automation",
+              "payload": "USE_CASE_SALES"
+            },
+            {
+              "type": "quick_reply",
+              "title": "📅 Book Demo",
+              "payload": "BOOK_DEMO"
+            }
+          ]
+        },
+        "next_block_mapping": {
+          "USE_CASE_SERVICE": "block_3a",
+          "USE_CASE_LEADS": "block_3b",
+          "USE_CASE_SALES": "block_3c",
+          "BOOK_DEMO": "block_5"
+        }
+      },
+      {
+        "id": "block_3a",
+        "name": "Customer Service Detail",
+        "type": "message",
+        "content": {
+          "text": "📩 **Customer Service Automation**\n\nOur AI chatbots handle:\n• 80% of common questions instantly\n• 24/7 availability (no waiting)\n• Seamless handoff to humans when needed\n• Multi-language support\n\n**Results:** Clients see 40% reduction in support tickets and 3x faster response times.\n\nWant to see a demo?",
+          "buttons": [
+            {
+              "type": "quick_reply",
+              "title": "🎯 Yes, Show Me",
+              "payload": "BOOK_DEMO"
+            },
+            {
+              "type": "quick_reply",
+              "title": "📊 See Case Study",
+              "payload": "CASE_STUDY_SERVICE"
+            },
+            {
+              "type": "quick_reply",
+              "title": "⬅️ Back",
+              "payload": "LEARN_MORE"
+            }
+          ]
+        },
+        "next_block_mapping": {
+          "BOOK_DEMO": "block_5",
+          "CASE_STUDY_SERVICE": "block_3a_1",
+          "LEARN_MORE": "block_3"
+        }
+      },
+      {
+        "id": "block_4",
+        "name": "Qualification Questions",
+        "type": "message_sequence",
+        "content": {
+          "intro": "Perfect! Let me ask a few quick questions to give you an accurate quote.",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "First, what's your name?",
+              "input_type": "text",
+              "variable": "user_name",
+              "validation": "required"
+            },
+            {
+              "id": "q2",
+              "text": "Nice to meet you, {{user_name}}! What's your email address?",
+              "input_type": "email",
+              "variable": "user_email",
+              "validation": "email_format"
+            },
+            {
+              "id": "q3",
+              "text": "And your company name?",
+              "input_type": "text",
+              "variable": "company_name",
+              "validation": "required"
+            },
+            {
+              "id": "q4",
+              "text": "What's your team size?",
+              "input_type": "quick_reply",
+              "variable": "team_size",
+              "options": [
+                "Just me (1)",
+                "2-10 people",
+                "11-50 people",
+                "50+ people"
+              ]
+            },
+            {
+              "id": "q5",
+              "text": "What's your monthly budget range for automation?",
+              "input_type": "quick_reply",
+              "variable": "budget_range",
+              "options": [
+                "$500-1,500",
+                "$1,500-3,000",
+                "$3,000-7,000",
+                "$7,000+"
+              ]
+            },
+            {
+              "id": "q6",
+              "text": "When are you looking to get started?",
+              "input_type": "quick_reply",
+              "variable": "timeline",
+              "options": [
+                "ASAP (this week)",
+                "Within 2 weeks",
+                "Within a month",
+                "Just exploring"
+              ]
+            }
+          ]
+        },
+        "after_questions": "block_6"
+      },
+      {
+        "id": "block_5",
+        "name": "Booking Flow",
+        "type": "message",
+        "content": {
+          "text": "Awesome! Let's find a time that works for you.\n\nI'll share our calendar - you can pick any available slot that fits your schedule.\n\nThe call will be 30 minutes, and we'll cover:\n• Your current challenges\n• How we can help\n• Timeline & investment\n• Next steps\n\nReady to pick a time?",
+          "buttons": [
+            {
+              "type": "url",
+              "title": "📅 View Calendar",
+              "url": "https://calendly.com/your-link"
+            },
+            {
+              "type": "quick_reply",
+              "title": "📞 Call Instead",
+              "payload": "REQUEST_CALL"
+            }
+          ]
+        },
+        "after_booking": "block_7"
+      },
+      {
+        "id": "block_6",
+        "name": "Quote & Next Steps",
+        "type": "message",
+        "content": {
+          "text": "Thanks, {{user_name}}! Based on what you've shared:\n\n📋 **Company:** {{company_name}}\n👥 **Team Size:** {{team_size}}\n💰 **Budget:** {{budget_range}}\n⏰ **Timeline:** {{timeline}}\n\nI'm sending your info to our team. You'll receive a custom proposal within 24 hours at {{user_email}}.\n\nIn the meantime, want to book a quick call to discuss?",
+          "buttons": [
+            {
+              "type": "url",
+              "title": "📅 Book Call Now",
+              "url": "https://calendly.com/your-link"
+            },
+            {
+              "type": "quick_reply",
+              "title": "✅ Wait for Email",
+              "payload": "CONFIRM_WAIT"
+            }
+          ]
+        },
+        "actions": [
+          {
+            "type": "webhook",
+            "url": "https://your-webhook.com/lead-capture",
+            "method": "POST",
+            "payload": {
+              "name": "{{user_name}}",
+              "email": "{{user_email}}",
+              "company": "{{company_name}}",
+              "team_size": "{{team_size}}",
+              "budget": "{{budget_range}}",
+              "timeline": "{{timeline}}",
+              "source": "chatbot",
+              "timestamp": "{{now}}"
+            }
+          },
+          {
+            "type": "tag",
+            "value": "qualified_lead"
+          },
+          {
+            "type": "add_to_sequence",
+            "sequence_id": "follow_up_leads"
+          }
+        ]
+      },
+      {
+        "id": "block_7",
+        "name": "Booking Confirmation",
+        "type": "message",
+        "content": {
+          "text": "🎉 Perfect! You're all set.\n\nYou'll receive a calendar invite shortly with all the details.\n\n**What to expect:**\n📅 30-minute discovery call\n🎯 We'll discuss your goals\n💡 You'll get actionable recommendations\n📧 Follow-up proposal within 48 hours\n\nAnything else I can help with before we talk?",
+          "buttons": [
+            {
+              "type": "quick_reply",
+              "title": "❓ One More Question",
+              "payload": "BOOKING_QUESTION"
+            },
+            {
+              "type": "quick_reply",
+              "title": "✅ All Set, Thanks!",
+              "payload": "END_CHAT"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block_8",
+        "name": "Human Support Handoff",
+        "type": "message",
+        "content": {
+          "text": "No problem! Let me connect you with a human.\n\nYou can reach us:\n📧 Email: hello@company.com\n📞 Phone: (555) 123-4567\n💬 Live Chat: [Click here]\n\nOur team typically responds within 1 hour during business hours (9am-6pm EST).\n\nWant me to have someone reach out to you directly?",
+          "buttons": [
+            {
+              "type": "quick_reply",
+              "title": "✅ Yes, Contact Me",
+              "payload": "REQUEST_CONTACT"
+            },
+            {
+              "type": "quick_reply",
+              "title": "❌ I'll Reach Out",
+              "payload": "END_CHAT"
+            }
+          ]
+        }
+      },
+      {
+        "id": "block_end",
+        "name": "End Chat",
+        "type": "message",
+        "content": {
+          "text": "Great chatting with you! 😊\n\nFeel free to message us anytime if you have more questions.\n\nHave an awesome day!\n\n— The [Company Name] Team",
+          "buttons": [
+            {
+              "type": "url",
+              "title": "🌐 Visit Website",
+              "url": "https://yourwebsite.com"
+            },
+            {
+              "type": "quick_reply",
+              "title": "🔄 Start Over",
+              "payload": "RESTART"
+            }
+          ]
+        },
+        "actions": [
+          {
+            "type": "tag",
+            "value": "chat_completed"
+          }
+        ]
+      }
+    ]
+  },
+  "variables_to_capture": [
+    "user_name",
+    "user_email",
+    "company_name",
+    "team_size",
+    "budget_range",
+    "timeline",
+    "interest_area",
+    "booking_status"
+  ],
+  "integrations_required": [
+    {
+      "name": "CRM Webhook",
+      "purpose": "Send qualified leads to CRM",
+      "endpoint": "POST /leads"
+    },
+    {
+      "name": "Calendar",
+      "purpose": "Booking integration",
+      "service": "Calendly/Cal.com"
+    },
+    {
+      "name": "Email Platform",
+      "purpose": "Add to follow-up sequence",
+      "service": "ActiveCampaign/ConvertKit"
+    }
+  ],
+  "analytics_events": [
+    "chat_started",
+    "pricing_viewed",
+    "demo_booked",
+    "lead_qualified",
+    "human_handoff",
+    "chat_completed"
+  ],
+  "fallback_responses": [
+    {
+      "trigger": "unrecognized_input",
+      "response": "Hmm, I'm not sure I understood that. Could you rephrase or pick one of the options above?"
+    },
+    {
+      "trigger": "repeated_unrecognized",
+      "response": "Let me connect you with a human who can help better. Would you like that?"
+    },
+    {
+      "trigger": "off_topic",
+      "response": "I'm here to help with questions about our AI automation services. Want to learn more about what we do?"
+    }
+  ],
+  "compliance_notes": [
+    "Include GDPR consent checkbox before collecting email",
+    "Add unsubscribe option in follow-up emails",
+    "Store conversation logs per data retention policy",
+    "Display privacy policy link in welcome message"
+  ]
+}

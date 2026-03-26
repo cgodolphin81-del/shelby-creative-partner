@@ -1,0 +1,27 @@
+FOLLOW-UP EMAIL #4 - 21 Days (Breakup)
+=======================================
+
+SUBJECT: Should I close your file?
+
+Hi {{FirstName}},
+
+I've reached out a few times about AI search visibility for {{Company}}. Haven't heard back, so I'm assuming:
+
+→ This isn't a priority right now, OR
+→ You're already handling AI visibility internally, OR
+→ Timing just isn't right
+
+Totally get it. I'll stop following up.
+
+If AI search becomes a priority down the road, feel free to reach out. Happy to help when the time is right.
+
+One last thing: Here's a free resource I put together — "5 Signs You're Losing AI Search Visibility" → {{ResourceLink}}
+
+Might be useful even if we don't work together.
+
+All the best,
+{{YourName}}
+
+---
+Timing: 21 days after initial
+Tone: Respectful, graceful exit, leaves door open

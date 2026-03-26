@@ -1,0 +1,37 @@
+SUBJECT: Patients asking AI about {{Specialty}} - {{PracticeName}} not recommended
+
+Hi {{FirstName}},
+
+I noticed {{PracticeName}} doesn't appear when people ask AI assistants about {{Specialty}} care in {{City}}.
+
+Example: "Find a {{Specialty}} in {{City}}" returns {{Competitor1}} and {{Competitor2}}. Not {{PracticeName}}.
+
+This matters because:
+→ 35% of patients now research healthcare providers using AI
+→ AI recommendations heavily influence provider selection
+→ Once AI "learns" a practice, it consistently recommends them
+
+Your credentials and patient reviews are strong. The gap is AI visibility — AI systems aren't recognizing {{PracticeName}} as a top option.
+
+GEO (Generative Engine Optimization) for healthcare practices:
+
+→ Get your practice in AI provider recommendations
+→ Ensure AI knows your {{Specialties}} and {{InsuranceAccepted}}
+→ Build authority signals AI systems trust
+→ Track AI visibility (HIPAA-compliant approach)
+
+{{SimilarPractice}} now appears in 67% of relevant AI healthcare searches. New patient inquiries from AI-referred traffic: up 43% in 60 days.
+
+Worth discussing? I can run a free AI visibility audit for {{PracticeName}}.
+
+Best,
+{{YourName}}
+{{YourTitle}}
+{{YourPhone}}
+
+---
+Pain points addressed:
+- Losing new patients to AI-recommended competitors
+- Strong credentials but invisible to AI research
+- 35% of patients using AI for provider selection
+- Missing AI-referred new patient inquiries

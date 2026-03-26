@@ -1,0 +1,51 @@
+Keyword,Search Volume,Keyword Difficulty,Intent,Location Modifier,CPC,Current Ranking,Target Ranking,Priority,Notes,Content Type,URL to Optimize
+plumber near me,12000,45,Transactional,yes,$8.50,,,High,High commercial intent,Service Page,/services
+emergency plumber,8500,42,Transactional,no,$12.00,,,High,After-hours service,Service Page,/emergency-plumbing
+water heater repair,6200,38,Transactional,no,$9.50,,,High,Common service,Service Page,/water-heater-repair
+drain cleaning,5800,35,Transactional,no,$7.50,,,High,Regular maintenance,Service Page,/drain-cleaning
+plumber [city name],4500,40,Transactional,yes,$8.00,,,High,Core local keyword,Homepage,/
+best plumber in [city],3200,48,Commercial,yes,$9.00,,,High,Comparison intent,Blog Post,/blog/best-plumbers-city
+licensed plumber,2800,32,Commercial,no,$7.00,,,Medium,Credibility focus,About Page,/about
+affordable plumber,2500,36,Commercial,no,$6.50,,,Medium,Price-sensitive,Service Page,/pricing
+24 hour plumber,2200,44,Transactional,no,$11.00,,,High,Urgent need,Service Page,/emergency-plumbing
+residential plumber,1900,30,Commercial,no,$7.50,,,Medium,Target audience,Service Page,/residential
+commercial plumber,1800,35,Commercial,no,$10.00,,,Medium,B2B focus,Service Page,/commercial
+pipe repair,1600,28,Transactional,no,$8.00,,,Medium,Specific service,Service Page,/pipe-repair
+leak detection,1500,33,Transactional,no,$9.00,,,Medium,Specialized service,Service Page,/leak-detection
+toilet repair,1400,25,Transactional,no,$6.00,,,Low,Common issue,Blog Post,/blog/toilet-repair-guide
+faucet installation,1200,22,Transactional,no,$5.50,,,Low,DIY alternative,Service Page,/faucet-installation
+sewer line repair,1100,40,Transactional,no,$15.00,,,High,High-value service,Service Page,/sewer-repair
+garbage disposal repair,950,24,Transactional,no,$5.00,,,Low,Common appliance,Service Page,/garbage-disposal
+water heater installation,900,36,Transactional,no,$11.00,,,High,High-value service,Service Page,/water-heater-install
+bathroom plumbing,850,30,Commercial,no,$7.00,,,Medium,Renovation focus,Service Page,/bathroom-plumbing
+kitchen plumbing,800,28,Commercial,no,$6.50,,,Medium,Renovation focus,Service Page,/kitchen-plumbing
+plumbing inspection,750,26,Transactional,no,$6.00,,,Medium,Preventive,Service Page,/inspection
+repiping,700,38,Transactional,no,$12.00,,,High,Major project,Service Page,/repiping
+sump pump installation,650,32,Transactional,no,$8.50,,,Medium,Seasonal,Service Page,/sump-pump
+backflow prevention,600,30,Transactional,no,$7.50,,,Medium,Compliance,Service Page,/backflow
+tankless water heater,580,42,Commercial,no,$10.00,,,High,Trending,Product Page,/tankless-water-heaters
+hydro jetting,550,35,Transactional,no,$9.00,,,Medium,Specialized,Service Page,/hydro-jetting
+gas line repair,520,40,Transactional,no,$11.00,,,High,Safety-critical,Service Page,/gas-line-repair
+water filtration,500,34,Commercial,no,$8.00,,,Medium,Health focus,Product Page,/water-filtration
+slab leak repair,480,45,Transactional,no,$13.00,,,High,Specialized,Service Page,/slab-leak
+main sewer line,450,38,Transactional,no,$12.00,,,High,Critical repair,Service Page,/sewer-repair
+[city] plumbing company,420,35,Commercial,yes,$7.00,,,High,Branded local,Homepage,/
+plumbing services near me,400,42,Transactional,yes,$8.00,,,High,Near me intent,Homepage,/
+local plumber,380,30,Commercial,yes,$6.50,,,Medium,Local focus,Homepage,/
+plumber [neighborhood],350,28,Transactional,yes,$7.00,,,High,Hyperlocal,Location Page,/locations/[neighborhood]
+same day plumber,320,36,Transactional,no,$9.00,,,High,Urgency,Service Page,/emergency-plumbing
+certified plumber,300,25,Commercial,no,$6.00,,,Low,Credibility,About Page,/about
+family owned plumber,280,22,Commercial,no,$5.50,,,Low,USP,About Page,/about
+free estimate plumber,260,30,Transactional,no,$7.00,,,Medium,Lead gen,Service Page,/contact
+upfront pricing plumber,240,28,Commercial,no,$6.50,,,Medium,USP,Service Page,/pricing
+plumbing contractor,220,32,Commercial,no,$7.50,,,Medium,Professional,About Page,/about
+emergency plumbing near me,200,46,Transactional,yes,$13.00,,,High,Urgent local,Service Page,/emergency-plumbing
+water damage plumber,180,38,Transactional,no,$10.00,,,Medium,Related service,Service Page,/water-damage
+burst pipe repair,170,35,Transactional,no,$9.50,,,High,Emergency,Service Page,/burst-pipe
+clogged toilet repair,160,24,Transactional,no,$5.00,,,Low,Common issue,Blog Post,/blog/clogged-toilet
+shower installation,150,30,Transactional,no,$7.00,,,Medium,Renovation,Service Page,/shower-installation
+bathtub installation,140,28,Transactional,no,$6.50,,,Medium,Renovation,Service Page,/bathtub-installation
+dishwasher installation,130,22,Transactional,no,$4.50,,,Low,Appliance,Service Page,/dishwasher-install
+washing machine hookup,120,20,Transactional,no,$4.00,,,Low,Appliance,Service Page,/washer-hookup
+outdoor faucet repair,110,18,Transactional,no,$4.50,,,Low,Seasonal,Blog Post,/blog/outdoor-faucet
+winterize pipes,100,25,Transactional,no,$5.00,,,Low,Seasonal,Blog Post,/blog/winterize-pipes

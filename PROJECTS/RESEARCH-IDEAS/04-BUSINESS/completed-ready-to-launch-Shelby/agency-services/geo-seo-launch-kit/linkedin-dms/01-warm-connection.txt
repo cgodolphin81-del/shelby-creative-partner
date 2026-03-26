@@ -1,0 +1,21 @@
+LinkedIn DM #1 - Warm Connection
+=================================
+
+Hey {{FirstName}}! 👋
+
+Was just researching {{Industry}} companies and noticed {{Company}} isn't showing up when people ask AI assistants for recommendations in your space.
+
+{{Competitor1}} and {{Competitor2}} are getting recommended consistently. You're not.
+
+This is becoming a real visibility gap — AI search is growing fast and most businesses haven't optimized for it yet.
+
+I help companies get cited by AI (ChatGPT, Claude, Perplexity, etc.). {{SimilarClient}} now appears in 73% of relevant AI searches after working with us.
+
+Worth a quick chat to see where {{Company}} stands? I can run a free AI visibility audit.
+
+Let me know!
+{{YourName}}
+
+---
+Use when: You have a 2nd-degree connection or shared group
+Tone: Friendly, direct, value-focused

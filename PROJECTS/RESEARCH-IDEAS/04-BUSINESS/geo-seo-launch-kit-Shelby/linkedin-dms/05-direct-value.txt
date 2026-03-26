@@ -1,0 +1,29 @@
+LinkedIn DM #5 - Direct Value Offer
+====================================
+
+Hey {{FirstName}},
+
+Quick question: Have you checked whether AI assistants like ChatGPT or Claude recommend {{Company}} when people ask about {{Industry}}?
+
+I ask because I just tested this — and {{Company}} isn't showing up. {{Competitor1}} and {{Competitor2}} are.
+
+This is a growing problem. More buyers start their research with AI now, not Google. If AI doesn't know about you, those conversations never happen.
+
+I can run a free AI visibility audit for {{Company}}. Shows:
+✓ Where you appear (or don't) in AI search
+✓ Which competitors are winning
+✓ Specific gaps to fix
+✓ Quick wins you can implement
+
+Takes me 5 minutes. Zero cost. You get the report either way.
+
+Interested?
+
+Best,
+{{YourName}}
+{{YourTitle}}
+{{CalendarLink}}
+
+---
+Use when: Direct, no-fluff approach fits your style
+Tone: Straightforward, value-first, low-commitment

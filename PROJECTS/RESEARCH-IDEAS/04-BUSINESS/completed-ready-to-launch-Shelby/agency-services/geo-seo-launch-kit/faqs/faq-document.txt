@@ -1,0 +1,326 @@
+FAQ DOCUMENT - GEO SEO Services
+================================
+
+[Use this for your website FAQ section, proposal attachments, or sales conversations]
+
+---
+
+GENERAL QUESTIONS
+-----------------
+
+Q: WHAT IS GEO SEO?
+A: GEO (Generative Engine Optimization) is the practice of optimizing your online presence to be cited and recommended by AI assistants like ChatGPT, Claude, Perplexity, Google AI Overviews, and Gemini. Unlike traditional SEO which optimizes for Google search results, GEO optimizes for AI-generated recommendations.
+
+---
+
+Q: WHY DOES AI VISIBILITY MATTER?
+A: AI search is growing 40% year-over-year. More people are asking AI assistants for recommendations instead of Googling. If AI doesn't recommend your business, you're missing out on a rapidly growing channel of qualified leads. By 2027, Gartner predicts 75% of B2B buyers will use AI for vendor research.
+
+---
+
+Q: HOW IS GEO SEO DIFFERENT FROM TRADITIONAL SEO?
+A: Traditional SEO focuses on ranking in Google's search results. GEO SEO focuses on being cited by AI assistants. They're complementary — you need both. Think of it this way:
+• SEO: Optimizing for search engine algorithms
+• GEO: Optimizing for AI language models and recommendation systems
+
+---
+
+Q: DO I NEED BOTH SEO AND GEO?
+A: Yes. Traditional SEO drives organic search traffic. GEO drives AI-referred traffic. They work together. Many GEO optimizations (structured data, authoritative content, citations) also benefit traditional SEO.
+
+---
+
+Q: WHICH AI SYSTEMS DO YOU OPTIMIZE FOR?
+A: We optimize for the major AI assistants:
+• ChatGPT (OpenAI)
+• Claude (Anthropic)
+• Perplexity
+• Google AI Overviews
+• Gemini (Google)
+• Bing Chat / Copilot (Microsoft)
+
+We track your visibility across all of these and prioritize based on where your audience is most active.
+
+---
+
+RESULTS & TIMELINE
+------------------
+
+Q: HOW QUICKLY WILL I SEE RESULTS?
+A: Most clients see initial visibility improvements within 2-3 weeks. Significant results (65%+ visibility for priority queries) typically achieved within 60 days. Full program results (75-85% visibility) within 90 days.
+
+---
+
+Q: WHAT RESULTS CAN I EXPECT?
+A: Based on our client data:
+• 65-75% AI visibility within 60 days (Launch tier)
+• 75-85% AI visibility within 60 days (Accelerator tier)
+• 2-3x increase in AI-referred qualified leads
+• Shorter sales cycles (clients come pre-educated)
+• Competitor parity or better within 60 days
+
+Results vary based on industry, competition, and starting position.
+
+---
+
+Q: DO YOU GUARANTEE RESULTS?
+A: We guarantee our methodology, effort, and transparent reporting. Specific visibility outcomes depend on factors like competition intensity, industry dynamics, and your starting position. Our Accelerator and Enterprise tiers include visibility targets in the agreement.
+
+---
+
+Q: WHAT IF AI SYSTEMS CHANGE THEIR ALGORITHMS?
+A: AI systems do evolve, and we monitor this closely. Your monthly service includes algorithm update response — we adjust strategies based on observed changes. This is why ongoing monitoring and optimization is part of every plan.
+
+---
+
+PROCESS & REQUIREMENTS
+----------------------
+
+Q: WHAT DO YOU NEED FROM US TO GET STARTED?
+A: We need:
+• Access to your website CMS (to implement optimizations)
+• Google Analytics/Search Console access (for baseline data)
+• Key business information (services, differentiators, target audience)
+• 2-3 hours of your time during onboarding
+
+We handle the rest. Most clients are surprised by how hands-off the process is.
+
+---
+
+Q: HOW LONG DOES IMPLEMENTATION TAKE?
+A: 
+• Launch tier: 4-6 weeks for full implementation
+• Accelerator tier: 2-4 weeks (priority implementation)
+• Enterprise tier: Custom timeline based on scope
+
+You'll see initial changes within the first 2 weeks.
+
+---
+
+Q: WILL YOU NEED ACCESS TO OUR SOCIAL MEDIA OR AD ACCOUNTS?
+A: Generally no. GEO SEO focuses on your owned properties (website, content, citations) and earned media (citations, mentions, backlinks). We don't typically need access to paid ad accounts or social media unless part of a broader strategy.
+
+---
+
+Q: DO YOU CREATE CONTENT OR JUST OPTIMIZE EXISTING CONTENT?
+A: Both. We optimize your existing high-value pages for AI citation. We also create new authority-building content pieces as part of the Accelerator and Enterprise tiers. Content creation scope depends on your plan.
+
+---
+
+PRICING & CONTRACTS
+-------------------
+
+Q: HOW MUCH DOES GEO SEO COST?
+A: 
+• Launch: $7,500 setup + $2,500/month (3-month minimum)
+• Accelerator: $12,000 setup + $4,000/month (3-month minimum)
+• Enterprise: Custom pricing
+
+See our pricing page for detailed feature comparisons.
+
+---
+
+Q: WHY IS THERE A 3-MONTH MINIMUM?
+A: GEO SEO takes time to show results. AI systems need to recognize and index changes. Citation building takes weeks. Three months is the minimum viable timeline to achieve meaningful visibility improvements. Most clients stay 6-12 months to maintain and grow their position.
+
+---
+
+Q: CAN I CANCEL ANYTIME?
+A: After the 3-month minimum, you can cancel with 30 days' written notice. We ask for 30 days to wind down services and deliver final reports.
+
+---
+
+Q: DO YOU OFFER A MONEY-BACK GUARANTEE?
+A: We don't offer a money-back guarantee because results depend on many factors including your industry, competition, and starting position. However, we do guarantee:
+• Transparent reporting (you'll see exactly what we're doing)
+• Regular strategy calls (we adjust based on results)
+• Professional effort (we're invested in your success)
+
+If you're not seeing value, we'll work with you to adjust strategy or part ways amicably after the minimum term.
+
+---
+
+Q: DO YOU WORK WITH COMPETING BUSINESSES?
+A: We work with one client per industry per geographic market to avoid conflicts of interest. If we're already working with a competitor in your space, we'll let you know upfront and won't take you on as a client.
+
+---
+
+Q: WHAT PAYMENT METHODS DO YOU ACCEPT?
+A: We accept:
+• Credit cards (Visa, Mastercard, Amex)
+• ACH bank transfer
+• Wire transfer (for Enterprise clients)
+• Check (for US-based clients)
+
+Invoices are sent on the 1st of each month, net 15.
+
+---
+
+COMPETITIVE QUESTIONS
+---------------------
+
+Q: CAN'T WE JUST DO THIS IN-HOUSE?
+A: You could, but GEO SEO requires:
+• Specialized knowledge of AI system behaviors
+• Tools for tracking AI visibility (we've built proprietary systems)
+• Relationships with citation sources
+• Dedicated time and resources
+
+Most companies find it more effective to partner with specialists while focusing their team on core business activities.
+
+---
+
+Q: WHY SHOULD WE WORK WITH YOU VS. AN SEO AGENCY?
+A: Most SEO agencies are focused on traditional search. GEO is different — it requires understanding how AI language models work, what signals they prioritize, and how to get cited. We specialize exclusively in GEO SEO. It's all we do.
+
+---
+
+Q: WHAT IF WE ALREADY HAVE AN SEO AGENCY?
+A: Great! GEO complements traditional SEO. We can work alongside your existing agency. Many of our clients keep their SEO agency for traditional search while we handle AI visibility. We're happy to coordinate with them.
+
+---
+
+Q: HOW DO YOU COMPARE TO [COMPETITOR]?
+A: [Prepare specific differentiators based on your actual competitors. Common differentiators might include:]
+• We specialize exclusively in GEO (they're generalists)
+• Our proprietary visibility tracking technology
+• Faster implementation timelines
+• Better client results (show case studies)
+• More transparent reporting
+
+---
+
+TECHNICAL QUESTIONS
+-------------------
+
+Q: IS GEO SEO SAFE? WILL IT HURT MY EXISTING SEO?
+A: Yes, it's safe. GEO optimizations are white-hat and align with search engine guidelines. In fact, many GEO optimizations (structured data, high-quality content, authoritative citations) also benefit traditional SEO. We don't use any tactics that could penalize your site.
+
+---
+
+Q: DO YOU USE AI TO DO THE OPTIMIZATION?
+A: We use AI tools as part of our process (for research, content analysis, etc.), but all strategy and implementation is done by human experts. AI is a tool, not a replacement for expertise.
+
+---
+
+Q: WHAT TOOLS DO YOU USE?
+A: We use a combination of:
+• Proprietary AI visibility tracking tools
+• Industry-standard SEO tools (Ahrefs, SEMrush, etc.)
+• Custom citation tracking systems
+• Analytics platforms
+
+We don't require you to purchase any additional tools.
+
+---
+
+Q: WILL YOU MAKE CHANGES TO OUR WEBSITE?
+A: Yes, but only with your approval. We'll provide a list of recommended changes, explain the rationale, and implement once approved. For clients who prefer, we can provide instructions for your team to implement.
+
+---
+
+Q: DO YOU WORK WITH SPECIFIC PLATFORMS (WORDPRESS, SHOPIFY, ETC.)?
+A: Yes, we work with all major platforms:
+• WordPress
+• Shopify
+• Webflow
+• Squarespace
+• Wix
+• Custom CMS platforms
+
+We adapt our implementation approach based on your platform.
+
+---
+
+MEASUREMENT & REPORTING
+-----------------------
+
+Q: HOW DO YOU MEASURE AI VISIBILITY?
+A: We track visibility across 5+ AI systems using:
+• Automated query testing (daily)
+• Citation tracking
+• Mention monitoring
+• Competitor benchmarking
+
+You'll see your visibility percentage, query-level performance, and trends over time.
+
+---
+
+Q: WHAT DOES REPORTING LOOK LIKE?
+A: Monthly reports include:
+• Overall visibility score
+• Visibility by AI system
+• Query-level performance
+• Competitor comparison
+• Work completed
+• Results achieved
+• Next month's priorities
+
+Reports are delivered via PDF and discussed on monthly strategy calls.
+
+---
+
+Q: HOW OFTEN WILL WE COMMUNICATE?
+A: 
+• Launch tier: Monthly strategy calls
+• Accelerator tier: Bi-weekly strategy calls
+• Enterprise tier: Weekly strategy calls
+
+Plus email/Slack support as needed.
+
+---
+
+Q: CAN WE ACCESS REAL-TIME DATA?
+A: Accelerator and Enterprise clients get access to our client dashboard with near real-time visibility data. Launch tier clients receive monthly reports.
+
+---
+
+MISCELLANEOUS
+-------------
+
+Q: WHAT INDUSTRIES DO YOU WORK WITH?
+A: We work with:
+• B2B SaaS companies
+• Professional services (agencies, consultants, law firms)
+• E-commerce brands
+• Local businesses (multi-location)
+• Healthcare practices
+• Technology startups
+
+We don't work with: adult industries, gambling, or businesses that don't align with our values.
+
+---
+
+Q: DO YOU WORK WITH CLIENTS OUTSIDE THE US?
+A: Yes, we work with clients globally. Most of our clients are US-based, but we have clients in Canada, UK, Australia, and Europe. Timezone differences are manageable with async communication and flexible call scheduling.
+
+---
+
+Q: WHAT'S YOUR BIGGEST CLIENT? SMALLEST?
+A: [Customize with your actual data]
+• Largest: $50M+ revenue, enterprise tier
+• Smallest: $500K revenue, launch tier
+
+We work with companies at various stages. The common thread: they understand the importance of AI visibility and are ready to act.
+
+---
+
+Q: CAN WE TALK TO YOUR CURRENT CLIENTS?
+A: Yes! We're happy to provide references after we've had an initial conversation. We protect our clients' privacy upfront but can connect serious prospects with current clients in similar industries.
+
+---
+
+Q: WHAT'S THE NEXT STEP IF WE'RE INTERESTED?
+A: Book a free AI Visibility Audit call: {{CalendarLink}}
+
+We'll:
+1. Show you your current AI visibility
+2. Identify gaps and opportunities
+3. Discuss if GEO SEO is a good fit
+4. If yes, schedule a strategy call to discuss implementation
+
+No pressure, just insights.
+
+---
+
+[End of FAQ Document]

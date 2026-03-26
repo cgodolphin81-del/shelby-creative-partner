@@ -1,0 +1,21 @@
+LinkedIn DM #2 - After They Posted
+===================================
+
+Hi {{FirstName}},
+
+Great post about {{PostTopic}} — really resonated with me, especially the point about {{SpecificPoint}}.
+
+I noticed something interesting while researching {{Company}}: You're not appearing in AI search results for {{Industry}} recommendations. When people ask ChatGPT or Claude about {{Industry}} companies, {{Competitor1}} and {{Competitor2}} come up. Not you.
+
+Given your expertise in {{TheirExpertise}}, this seems like a gap worth fixing.
+
+I specialize in GEO (Generative Engine Optimization) — getting businesses cited by AI assistants. Happy to run a free AI visibility audit for {{Company}} if you're curious.
+
+No pressure at all. Just thought it might be valuable given your focus on {{PostTopic}}.
+
+Best,
+{{YourName}}
+
+---
+Use when: They recently posted about relevant topics
+Tone: Appreciative, helpful, non-salesy

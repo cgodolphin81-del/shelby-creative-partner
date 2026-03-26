@@ -1,0 +1,40 @@
+{
+  "name": "meme-generator-backend",
+  "version": "1.0.0",
+  "description": "AI Meme Generator Platform Backend",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "seed": "node src/scripts/seed-templates.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "mongoose": "^8.0.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.33.0",
+    "canvas": "^2.11.2",
+    "axios": "^1.6.0",
+    "openai": "^4.20.0",
+    "stripe": "^14.5.0",
+    "node-cron": "^3.0.3",
+    "twitter-api-v2": "^1.15.1",
+    "instagram-private-api": "^1.46.1",
+    "cheerio": "^1.0.0-rc.12",
+    "redis": "^4.6.10",
+    "socket.io": "^4.7.2",
+    "express-rate-limit": "^7.1.5",
+    "helmet": "^7.1.0",
+    "compression": "^1.7.4",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "jest": "^29.7.0"
+  }
+}

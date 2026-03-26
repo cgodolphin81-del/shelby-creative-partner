@@ -1,0 +1,186 @@
+PRICING PAGE - 3 Tiers
+======================
+
+[Copy this into your website/landing page builder]
+
+---
+
+GEO SEO PRICING
+Get Cited by AI Assistants. Drive Qualified Traffic.
+
+AI search is growing 40% YoY. Is your business visible when people ask ChatGPT, Claude, or Perplexity about companies like yours?
+
+---
+
+LAUNCH
+$7,500 setup + $2,500/month
+3-month minimum
+
+Perfect for small businesses and startups ready to establish AI visibility.
+
+WHAT'S INCLUDED:
+
+✓ AI Visibility Audit
+  - Current visibility analysis across 5 AI systems
+  - Competitor benchmarking
+  - Gap identification
+  - Opportunity scoring
+
+✓ Citation Strategy
+  - High-impact citation source identification
+  - Priority content optimization list
+  - Authority signal roadmap
+
+✓ Content Optimization
+  - Up to 10 key pages optimized for AI citation
+  - AI-friendly FAQ content
+  - Structured data implementation
+
+✓ Citation Building
+  - 15+ high-authority citations
+  - Industry directory optimization
+  - Review platform enhancement
+
+✓ Monthly Monitoring
+  - AI visibility tracking
+  - Monthly performance reports
+  - Strategy adjustment calls
+
+✓ Expected Outcomes
+  - 65-75% AI visibility in 60 days
+  - 2x AI-referred qualified leads
+  - Competitor parity achieved
+
+[GET STARTED] {{CalendarLink}}
+
+---
+
+ACCELERATOR
+$12,000 setup + $4,000/month
+3-month minimum
+
+For growing companies that need faster results and more comprehensive coverage.
+
+EVERYTHING IN LAUNCH, PLUS:
+
+✓ Priority Implementation
+  - 2-week accelerated timeline (vs. 4 weeks)
+  - Dedicated project manager
+  - Expedited deliverables
+
+✓ Expanded Content Optimization
+  - Up to 25 key pages optimized
+  - 5 authority-building content pieces
+  - Advanced schema markup
+
+✓ Enhanced Citation Building
+  - 30+ high-authority citations
+  - Thought leadership placements
+  - Brand mention amplification
+
+✓ Advanced Monitoring
+  - Bi-weekly strategy calls
+  - Real-time visibility dashboard access
+  - Competitor movement alerts
+
+✓ Dedicated Support
+  - Dedicated account manager
+  - Priority email support (4-hour response)
+  - Direct Slack channel
+
+✓ Expected Outcomes
+  - 75-85% AI visibility in 60 days
+  - 3x AI-referred qualified leads
+  - Market leadership in AI visibility
+
+[GET STARTED] {{CalendarLink}}
+
+---
+
+ENTERPRISE
+Custom Pricing
+
+For established brands and multi-location businesses requiring comprehensive AI visibility management.
+
+EVERYTHING IN ACCELERATOR, PLUS:
+
+✓ Multi-Location/Multi-Brand Support
+  - Unlimited location optimization
+  - Brand-specific strategies
+  - Consolidated reporting
+
+✓ Custom Integrations
+  - API access to visibility data
+  - Custom dashboard development
+  - CRM/analytics integration
+
+✓ Expanded Content Program
+  - Unlimited page optimization
+  - 10+ authority content pieces monthly
+  - PR and media placement support
+
+✓ Premium Citation Network
+  - 50+ high-authority citations
+  - Industry analyst relations
+  - Speaking opportunity placement
+
+✓ Executive Support
+  - Weekly strategy calls
+  - Quarterly business reviews
+  - Executive briefing documents
+
+✓ SLA Guarantees
+  - Visibility targets guaranteed
+  - Response time guarantees
+  - Performance commitments
+
+✓ Expected Outcomes
+  - 85-95% AI visibility in 60 days
+  - 4x+ AI-referred qualified leads
+  - Dominant AI market presence
+
+[CONTACT US] {{ContactLink}}
+
+---
+
+FAQ
+
+WHAT IS GEO SEO?
+GEO (Generative Engine Optimization) is the practice of optimizing your online presence to be cited and recommended by AI assistants like ChatGPT, Claude, Perplexity, and Google AI Overviews.
+
+HOW IS THIS DIFFERENT FROM TRADITIONAL SEO?
+Traditional SEO optimizes for Google search results. GEO optimizes for AI assistant recommendations. You need both — they complement each other.
+
+HOW QUICKLY WILL I SEE RESULTS?
+Most clients see initial visibility improvements within 2-3 weeks. Significant results (65%+ visibility) typically achieved within 60 days.
+
+WHAT IF AI SYSTEMS CHANGE THEIR ALGORITHMS?
+We continuously monitor AI system behaviors and adjust strategies accordingly. Your monthly service includes algorithm update response.
+
+DO YOU GUARANTEE RESULTS?
+We guarantee effort and methodology. Specific visibility outcomes depend on competition, industry, and starting position. Our Accelerator and Enterprise tiers include visibility targets.
+
+WHAT DO YOU NEED FROM US?
+Access to your website CMS, analytics, and key business information. We handle the rest. Most clients spend 2-3 hours total during onboarding.
+
+CAN I CANCEL ANYTIME?
+After the 3-month minimum, you can cancel with 30 days' notice. Most clients stay 6-12 months to maintain and grow their AI visibility.
+
+DO YOU WORK WITH COMPETITORS?
+We work with one client per industry per geographic market to avoid conflicts. If we're already working with a competitor in your space, we'll let you know upfront.
+
+---
+
+READY TO GET STARTED?
+
+Book a free AI Visibility Audit Call
+See where you stand vs. competitors
+No obligation, just insights
+
+[BOOK YOUR AUDIT] {{CalendarLink}}
+
+Or email us: {{YourEmail}}
+
+---
+
+[End of Pricing Page]

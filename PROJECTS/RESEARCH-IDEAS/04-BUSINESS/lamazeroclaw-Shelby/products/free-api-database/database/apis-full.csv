@@ -1,0 +1,126 @@
+id,name,category,description,endpoint,rate_limit,auth_type,pricing,affiliate_link,use_cases,status
+001,OpenAI API,text,Industry-leading LLM for text generation, embeddings, and more,https://api.openai.com/v1,3 RPM / 200 RPD (free tier),API Key,Freemium,https://platform.openai.com/signup,Chatbots, content generation, code assistance,Active
+002,Anthropic Claude,text,Advanced AI assistant with strong reasoning,https://api.anthropic.com,5 RPM (free tier),API Key,Freemium,https://www.anthropic.com/earlyaccess,Long-form content, analysis, coding,Active
+003,Google Gemini API,text,Google's multimodal AI model,https://generativelanguage.googleapis.com,60 RPM (free tier),API Key,Free,https://makersuite.google.com,Text generation, image analysis,Active
+004,Hugging Face Inference,text,Access thousands of open-source models,https://api-inference.huggingface.co,300 RPM (free),API Key,Free,https://huggingface.co,Text classification, translation, summarization,Active
+005,Cohere API,text,Enterprise-grade language AI,https://api.cohere.ai,100 RPM (trial),API Key,Freemium,https://dashboard.cohere.com,Text generation, embeddings, classification,Active
+006,Mistral AI API,text,Open-weight models with commercial use,https://api.mistral.ai,200 RPM (free tier),API Key,Freemium,https://console.mistral.ai,Text generation, embeddings,Active
+007,Groq API,text,Ultra-fast LLM inference,https://api.groq.com/openai/v1,30 RPM (free),API Key,Free,https://console.groq.com,Real-time chat, fast prototyping,Active
+008,Together AI,text,Open-source model hosting platform,https://api.together.xyz,100 RPM (free),API Key,Freemium,https://api.together.xyz,Model inference, fine-tuning,Active
+009,Perplexity API,text,Search-powered AI responses,https://api.perplexity.ai,20 RPM (free),API Key,Freemium,https://www.perplexity.ai,Research, fact-checking, Q&A,Active
+010,DeepSeek API,text,Advanced reasoning model,https://api.deepseek.com,100 RPM (free),API Key,Free,https://platform.deepseek.com,Code generation, reasoning,Active
+011,Stability AI,image,Generate images from text prompts,https://api.stability.ai,25 gen/month (free),API Key,Freemium,https://dreamstudio.ai,Art generation, design mockups,Active
+012,DALL-E 3,image,OpenAI's image generation model,https://api.openai.com/v1/images,3 gen/month (free),API Key,Freemium,https://platform.openai.com,Marketing visuals, illustrations,Active
+013,Leonardo AI,image,Game asset and art generation,https://cloud.leonardo.ai,150 tokens/day (free),API Key,Freemium,https://leonardo.ai,Game assets, concept art,Active
+014,Replicate API,image,Run ML models in the cloud,https://api.replicate.com,Varies by model,API Key,Pay-per-use,https://replicate.com,Image generation, video, audio,Active
+015,Clipdrop API,image,Image editing and enhancement tools,https://clipdrop.co/api,100 calls/month (free),API Key,Freemium,https://clipdrop.co,Background removal, upscaling,Active
+016,Remove.bg,image,Automatic background removal,https://api.remove.bg,50 previews/month (free),API Key,Freemium,https://www.remove.bg,E-commerce photos, portraits,Active
+017,DeepAI,image,Various image generation APIs,https://deepai.org/apis,Varies,API Key,Freemium,https://deepai.org,Art generation, style transfer,Active
+018,Imgix,image,Real-time image processing CDN,https://docs.imgix.com,Unlimited (free tier),API Key,Freemium,https://www.imgix.com,Image optimization, transformations,Active
+019,Cloudinary,image,Media management and transformation,https://cloudinary.com,25GB storage (free),API Key,Freemium,https://cloudinary.com,Media storage, optimization,Active
+20,ElevenLabs,audio,High-quality text-to-speech,https://api.elevenlabs.io,10K chars/month (free),API Key,Freemium,https://elevenlabs.io,Voiceovers, audiobooks,Active
+21,Murf AI,audio,Professional voice generation,https://murf.ai/api,10 min/month (free),API Key,Freemium,https://murf.ai,Presentations, videos,Active
+22,PlayHT,audio,Realistic AI voice generator,https://play.ht,12.5K chars/month (free),API Key,Freemium,https://play.ht,Podcasts, content creation,Active
+23,AssemblyAI,audio,Speech-to-text transcription,https://www.assemblyai.com,Free tier available,API Key,Freemium,https://www.assemblyai.com,Transcription, analysis,Active
+24,Deepgram,audio,Fast speech recognition API,https://deepgram.com,Free tier available,API Key,Freemium,https://deepgram.com,Transcription, voice apps,Active
+25,Whisper API,audio,OpenAI's speech recognition,https://api.openai.com/v1/audio,Varies by usage,API Key,Pay-per-use,https://platform.openai.com,Transcription, voice commands,Active
+26,Rev AI,audio,Speech-to-text with high accuracy,https://www.rev.ai,Free tier available,API Key,Freemium,https://www.rev.ai,Podcast transcription, captions,Active
+27,Azure Speech,audio,Microsoft's speech services,https://azure.microsoft.com,5 hours/month (free),API Key,Free,https://portal.azure.com,Speech recognition, synthesis,Active
+28,Google Cloud TTS,audio,Google's text-to-speech service,https://cloud.google.com/text-to-speech,1M chars/month (free),API Key,Free,https://cloud.google.com,Accessibility, voice apps,Active
+29,Amazon Polly,audio,AWS text-to-speech service,https://aws.amazon.com/polly,5M chars/month (free),API Key,Free,https://aws.amazon.com,Voice assistants, reading,Active
+30,Coqui TTS,audio,Open-source TTS engine,https://coqui.ai,Self-hosted,API Key,Free,https://coqui.ai,Custom voices, research,Active
+31,Runway ML,video,AI video generation and editing,https://runwayml.com,125 credits/month (free),API Key,Freemium,https://runwayml.com,Video editing, generation,Active
+32,Pika Labs,video,Text-to-video generation,https://pika.art,Discord-based,OAuth,Free,https://pika.art,Social content, prototypes,Active
+33,HeyGen,video,AI avatar and video creation,https://www.heygen.com,1 credit/month (free),API Key,Freemium,https://www.heygen.com,Marketing videos, presentations,Active
+34,D-ID,video,Talking head video generation,https://www.d-id.com,5 credits/month (free),API Key,Freemium,https://www.d-id.com,Avatars, presentations,Active
+35,Synthesia,video,AI video generation platform,https://www.synthesia.io,Demo available,API Key,Freemium,https://www.synthesia.io,Training videos, marketing,Active
+36,Luma Dream Machine,video,High-quality video generation,https://lumalabs.ai,30 gen/month (free),API Key,Free,https://lumalabs.ai,Creative content, prototypes,Active
+37,Kaiber,video,Music visualization and video AI,https://kaiber.ai,Trial available,API Key,Freemium,https://kaiber.ai,Music videos, art,Active
+38,Captions API,video,Auto-captioning for videos,https://www.captions.ai,Varies,API Key,Freemium,https://www.captions.ai,Social media, accessibility,Active
+39,FFmpeg.wasm,video,Browser-based video processing,https://ffmpegwasm.netlify.app,Self-hosted,None,Free,https://ffmpegwasm.netlify.app,Video editing, conversion,Active
+40,Shotstack,video,Cloud video editing API,https://shotstack.io,Free tier available,API Key,Freemium,https://shotstack.io,Automated videos, templates,Active
+41,Replit Ghostwriter,code,AI pair programming in browser,https://replit.com,Free tier,OAuth,Free,https://replit.com,Code completion, learning,Active
+42,GitHub Copilot,code,AI pair programmer,https://github.com/features/copilot,Free for students,OAuth,Freemium,https://github.com,Code completion, debugging,Active
+43,Amazon CodeWhisperer,code,AWS code generation tool,https://aws.amazon.com/codewhisperer,Free for individuals,API Key,Free,https://aws.amazon.com,Code suggestions, security,Active
+44,Tabnine,code,AI code completion,https://www.tabnine.com,Free tier,API Key,Freemium,https://www.tabnine.com,Code completion, team coding,Active
+45,Sourcegraph Cody,code,Code search and AI assistant,https://sourcegraph.com/cody,Free tier,OAuth,Free,https://sourcegraph.com,Code search, documentation,Active
+46,Codeium,code,Free AI coding assistant,https://codeium.com,Free,API Key,Free,https://codeium.com,Code completion, chat,Active
+47,Blackbox AI,code,Code generation and chat,https://www.blackbox.ai,Free tier,API Key,Free,https://www.blackbox.ai,Code generation, debugging,Active
+48,Phind,code,Search engine for developers,https://www.phind.com,Free tier,API Key,Free,https://www.phind.com,Code search, problem solving,Active
+49,Sweep AI,code,Automated code improvements,https://sweep.dev,Free tier,OAuth,Freemium,https://sweep.dev,Refactoring, bug fixes,Active
+50,Cursor,code,AI-first code editor,https://cursor.sh,Free tier,OAuth,Freemium,https://cursor.sh,Code editing, refactoring,Active
+51,Zapier AI,automation,Workflow automation with AI,https://zapier.com,100 tasks/month (free),OAuth,Freemium,https://zapier.com,Workflow automation, integrations,Active
+52,Make (Integromat),automation,Visual workflow automation,https://www.make.com,1000 ops/month (free),OAuth,Freemium,https://www.make.com,Complex workflows, data sync,Active
+53,n8n,automation,Workflow automation platform,https://n8n.io,Self-hosted free,API Key,Free,https://n8n.io,Custom workflows, integrations,Active
+54,Pipedream,automation,Developer integration platform,https://pipedream.com,333 runs/day (free),OAuth,Free,https://pipedream.com,API workflows, triggers,Active
+55,Bardeen,automation,AI-powered automation,https://www.bardeen.ai,Free tier,OAuth,Freemium,https://www.bardeen.ai,Web scraping, workflows,Active
+56,Airtable API,automation,Database with automation,https://airtable.com/api,1000 requests/hour (free),API Key,Free,https://airtable.com,Data management, workflows,Active
+57,Notion API,automation,Workspace automation,https://developers.notion.com,3 requests/second,API Key,Free,https://developers.notion.com,Content management, databases,Active
+58,Google Sheets API,automation,Spreadsheet automation,https://developers.google.com/sheets,300 requests/minute,OAuth,Free,https://developers.google.com,Data automation, reports,Active
+59,Microsoft Graph API,automation,Microsoft 365 integration,https://graph.microsoft.com,Varies,OAuth,Free,https://graph.microsoft.com,Office automation, data,Active
+60,Slack API,automation,Slack workspace automation,https://api.slack.com,Varies,OAuth,Free,https://api.slack.com,Bot integration, notifications,Active
+61,Midjourney,image,Art generation via Discord,https://midjourney.com,Discord-based,OAuth,Freemium,https://midjourney.com,Art, design, concepts,Active
+62,Adobe Firefly,image,Adobe's generative AI,https://firefly.adobe.com,25 gen/month (free),OAuth,Freemium,https://firefly.adobe.com,Design, commercial use,Active
+63,Canva API,image,Design automation platform,https://www.canva.com,Varies,OAuth,Freemium,https://www.canva.com,Social graphics, templates,Active
+64,Figma API,image,Design tool automation,https://www.figma.com/developers,Varies,OAuth,Free,https://www.figma.com,Design workflows, plugins,Active
+65,Unsplash API,image,Free high-quality photos,https://unsplash.com/developers,50 requests/hour,API Key,Free,https://unsplash.com,Stock photos, content,Active
+66,Pexels API,image,Free stock photos and videos,https://www.pexels.com/api,200 requests/hour,API Key,Free,https://www.pexels.com,Stock media, content,Active
+67,Shutterstock API,image,Stock media marketplace,https://developers.shutterstock.com,Varies,API Key,Freemium,https://developers.shutterstock.com,Stock photos, licensing,Active
+68,Getty Images API,image,Premium stock imagery,https://developers.gettyimages.com,Varies,API Key,Freemium,https://developers.gettyimages.com,Commercial imagery,Active
+69,TinEye API,image,Reverse image search,https://services.tineye.com,500 searches/month (free),API Key,Freemium,https://services.tineye.com,Image verification, search,Active
+70,Imagga,image,Image recognition and tagging,https://imagga.com,1000 API calls (free),API Key,Freemium,https://imagga.com,Auto-tagging, classification,Active
+71,Google Vision API,image,Image analysis and OCR,https://cloud.google.com/vision,1000 units/month (free),API Key,Free,https://cloud.google.com,OCR, object detection,Active
+72,Azure Computer Vision,image,Microsoft image analysis,https://azure.microsoft.com,5000 calls/month (free),API Key,Free,https://azure.microsoft.com,Image analysis, OCR,Active
+73,AWS Rekognition,image,AWS image and video analysis,https://aws.amazon.com/rekognition,5000 images/month (free),API Key,Free,https://aws.amazon.com,Facial analysis, moderation,Active
+74,Kairos,image,Facial recognition API,https://www.kairos.com,50 calls/month (free),API Key,Freemium,https://www.kairos.com,Facial recognition, verification,Active
+75,Banana Dev,image,Serverless GPU inference,https://www.banana.dev,Free tier,API Key,Freemium,https://www.banana.dev,Model deployment, inference,Active
+76,Hugging Face Spaces,image,Host ML demos and apps,https://huggingface.co/spaces,Free hosting,None,Free,https://huggingface.co,Demos, prototypes,Active
+77,Gradio,image,ML demo interface library,https://gradio.app,Self-hosted,None,Free,https://gradio.app,ML demos, testing,Active
+78,Modal,image,Serverless GPU cloud,https://modal.com,Free tier,API Key,Freemium,https://modal.com,ML workloads, training,Active
+79,Beam,image,Serverless GPU infrastructure,https://beam.cloud,Free tier,API Key,Freemium,https://beam.cloud,ML inference, batch jobs,Active
+80,Replicate,image,Run open-source models,https://replicate.com,Free tier,API Key,Pay-per-use,https://replicate.com,Image, video, audio models,Active
+81,LangChain,code,LLM application framework,https://langchain.com,Open source,None,Free,https://langchain.com,LLM apps, agents,Active
+82,LlamaIndex,code,Data framework for LLMs,https://www.llamaindex.ai,Open source,None,Free,https://www.llamaindex.ai,RAG, data indexing,Active
+83,Vectorize,code,Vector database API,https://vectorize.io,Free tier,API Key,Freemium,https://vectorize.io,Vector search, embeddings,Active
+84,Pinecone,code,Vector database service,https://www.pinecone.io,Free tier,API Key,Freemium,https://www.pinecone.io,Similarity search, RAG,Active
+85,Weaviate,code,Open-source vector database,https://weaviate.io,Free sandbox,API Key,Free,https://weaviate.io,Vector search, knowledge graphs,Active
+86,Qdrant,code,Vector similarity search,https://qdrant.tech,Free tier,API Key,Free,https://qdrant.tech,Search, recommendations,Active
+87,Milvus,code,Cloud-native vector database,https://milvus.io,Free tier,API Key,Free,https://milvus.io,Similarity search, AI apps,Active
+88,Chroma,code,Open-source embedding database,https://www.trychroma.com,Self-hosted,None,Free,https://www.trychroma.com,Embeddings, RAG,Active
+89,Voyage AI,code,Embedding models API,https://voyage.ai,Free tier,API Key,Freemium,https://voyage.ai,Embeddings, search,Active
+90,Jina AI,code,Neural search and embeddings,https://jina.ai,Free tier,API Key,Free,https://jina.ai,Search, embeddings,Active
+91,SerpAPI,automation,Google search results API,https://serpapi.com,100 searches/month (free),API Key,Freemium,https://serpapi.com,Search automation, SEO,Active
+92,Serper API,automation,Google Search API,https://serper.dev,2500 searches/month (free),API Key,Freemium,https://serper.dev,Search data, research,Active
+93,Brave Search API,automation,Privacy-focused search API,https://brave.com/search/api,2000 requests/month (free),API Key,Free,https://brave.com,Search, research,Active
+94,DuckDuckGo API,automation,Anonymous search API,https://duckduckgo.com/api,Unlimited,None,Free,https://duckduckgo.com,Privacy search, research,Active
+95,Bing Search API,automation,Microsoft search API,https://www.microsoft.com,1000 calls/month (free),API Key,Free,https://www.microsoft.com,Web search, news,Active
+96,NewsAPI,automation,News aggregation API,https://newsapi.org,100 requests/day (free),API Key,Free,https://newsapi.org,News apps, monitoring,Active
+97,Guardian API,automation,News content API,https://open-platform.theguardian.com,5000 requests/day (free),API Key,Free,https://open-platform.theguardian.com,News content, research,Active
+98,New York Times API,automation,NYT article metadata,https://developer.nytimes.com,Varies,API Key,Free,https://developer.nytimes.com,News research, content,Active
+99,Reddit API,automation,Reddit data access,https://www.reddit.com/dev/api,60 requests/minute,OAuth,Free,https://www.reddit.com,Social listening, research,Active
+100,Twitter API v2,automation,Twitter data and posting,https://developer.twitter.com,300 tweets/month (free),OAuth,Freemium,https://developer.twitter.com,Social media, monitoring,Active
+101,LinkedIn API,automation,LinkedIn data access,https://developer.linkedin.com,Varies,OAuth,Free,https://developer.linkedin.com,Professional data, recruiting,Active
+102,Discord API,automation,Discord bot integration,https://discord.com/developers,Varies,OAuth,Free,https://discord.com,Community bots, automation,Active
+103,Telegram Bot API,automation,Telegram bot platform,https://core.telegram.org,30 messages/second,API Key,Free,https://core.telegram.org,Bots, notifications,Active
+104,WhatsApp Business API,automation,WhatsApp messaging,https://business.whatsapp.com,Varies,API Key,Freemium,https://business.whatsapp.com,Customer service, notifications,Active
+105,Twilio API,automation,SMS and voice communications,https://www.twilio.com,Free trial credits,API Key,Freemium,https://www.twilio.com,SMS, voice, verification,Active
+106,SendGrid API,automation,Email delivery service,https://sendgrid.com,100 emails/day (free),API Key,Free,https://sendgrid.com,Transactional email, marketing,Active
+107,Mailgun API,automation,Email automation platform,https://www.mailgun.com,5000 emails/month (free),API Key,Free,https://www.mailgun.com,Email sending, tracking,Active
+108,Resend,automation,Email API for developers,https://resend.com,3000 emails/month (free),API Key,Free,https://resend.com,Transactional email, apps,Active
+109,Postmark,automation,Transactional email service,https://postmarkapp.com,100 emails/month (free),API Key,Freemium,https://postmarkapp.com,Email delivery, tracking,Active
+110,Stripe API,automation,Payment processing,https://stripe.com,Test mode free,API Key,Freemium,https://stripe.com,Payments, subscriptions,Active
+111,PayPal API,automation,Payment processing platform,https://developer.paypal.com,Sandbox free,OAuth,Freemium,https://developer.paypal.com,Payments, checkout,Active
+112,Plaid API,automation,Bank account connectivity,https://plaid.com,Development free,API Key,Freemium,https://plaid.com,Financial data, payments,Active
+113,CoinGecko API,automation,Cryptocurrency prices,https://www.coingecko.com,10-50 calls/min (free),API Key,Free,https://www.coingecko.com,Crypto prices, tracking,Active
+114,CoinMarketCap API,automation,Crypto market data,https://coinmarketcap.com/api,333 calls/day (free),API Key,Free,https://coinmarketcap.com,Crypto data, analysis,Active
+115,Alpha Vantage,automation,Stock market data API,https://www.alphavantage.co,25 calls/day (free),API Key,Free,https://www.alphavantage.co,Stock prices, forex,Active
+116,Finnhub,automation,Real-time stock API,https://finnhub.io,60 calls/minute (free),API Key,Free,https://finnhub.io,Stock data, news,Active
+117,IEX Cloud,automation,Financial market data,https://iexcloud.io,50000 messages/month (free),API Key,Freemium,https://iexcloud.io,Market data, analysis,Active
+118,Polygon.io,automation,Stock market API,https://polygon.io,5 calls/minute (free),API Key,Freemium,https://polygon.io,Market data, trading,Active
+119,WeatherAPI,automation,Weather data service,https://www.weatherapi.com,1M calls/month (free),API Key,Free,https://www.weatherapi.com,Weather forecasts, alerts,Active
+120,OpenWeatherMap,automation,Global weather data,https://openweathermap.org,60 calls/min (free),API Key,Free,https://openweathermap.org,Weather apps, forecasts,Active
+121,AccuWeather API,automation,Weather forecasts and alerts,https://developer.accuweather.com,50 calls/day (free),API Key,Freemium,https://developer.accuweather.com,Weather data, alerts,Active
+122,Mapbox API,automation,Maps and location services,https://www.mapbox.com,50000 loads/month (free),API Key,Free,https://www.mapbox.com,Maps, geocoding, navigation,Active
+123,Google Maps API,automation,Maps and places data,https://developers.google.com/maps,$200 credit/month,API Key,Free,https://developers.google.com,Maps, places, routes,Active
+124,Here Maps API,automation,Location services platform,https://www.here.com,250K transactions/month (free),API Key,Free,https://www.here.com,Maps, routing, geocoding,Active
+125,TomTom API,automation,Maps and traffic data,https://developer.tomtom.com,2500 calls/day (free),API Key,Free,https://developer.tomtom.com,Maps, traffic, routing,Active

@@ -1,0 +1,36 @@
+SUBJECT: {{RestaurantName}} missing from AI dining recommendations
+
+Hi {{FirstName}},
+
+I tested something interesting today. Asked ChatGPT:
+
+"Best {{CuisineType}} restaurants in {{City}} for {{Occasion}}"
+
+Results: {{Competitor1}}, {{Competitor2}}, {{Competitor3}}
+Missing: {{RestaurantName}}
+
+This is becoming a real issue. More diners are asking AI for restaurant recommendations instead of checking Yelp or Google. And AI is steering them away from you.
+
+Your food and reviews are excellent ({{Rating}} stars, {{ReviewCount}} reviews). But AI systems aren't recognizing {{RestaurantName}} as a top recommendation.
+
+What we do:
+→ Optimize your online presence for AI citation
+→ Get {{RestaurantName}} in AI "best restaurant" lists
+→ Ensure AI knows about your {{SignatureDish}} and {{UniqueFeature}}
+→ Track AI visibility monthly
+
+{{SimilarRestaurant}} started appearing in AI recommendations within 4 weeks. They now get 20-30 AI-referred reservations per month.
+
+Open to a quick chat about this?
+
+Best,
+{{YourName}}
+{{YourTitle}}
+{{YourPhone}}
+
+---
+Pain points addressed:
+- Losing diners to AI-recommended competitors
+- Excellent food/reviews but invisible to AI
+- Shift from traditional review sites to AI recommendations
+- Missing consistent AI-referred reservations

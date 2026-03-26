@@ -1,0 +1,231 @@
+═══════════════════════════════════════════════════════════════
+GEO SEO - DISCOVERY CALL SCRIPT
+45 minutes. Follow this exactly.
+═══════════════════════════════════════════════════════════════
+
+───────────────────────────────────────────────────────────────
+PRE-CALL PREP (Do this 15 min before call)
+───────────────────────────────────────────────────────────────
+
+□ Pull their GEO audit
+□ Check their website for current SEO/content
+□ Identify 2-3 competitors in AI search
+□ Note their top 3 services from website
+□ Have proposal template open
+□ Have Calendly ready for booking follow-up
+
+───────────────────────────────────────────────────────────────
+OPENING (Minutes 0-3)
+───────────────────────────────────────────────────────────────
+
+YOU: "Thanks for making time, [FIRST NAME]. I know your calendar is packed.
+
+Before I jump into anything, I want to make sure this is actually valuable for you. Can I ask a few quick questions about where [COMPANY NAME] is at with AI search visibility?"
+
+[WAIT FOR YES]
+
+YOU: "Perfect. Two quick things:
+
+1. This call is about you - I'll spend most of the time listening
+2. If it makes sense to work together, I'll tell you. If not, I'll tell you that too. Fair?"
+
+───────────────────────────────────────────────────────────────
+QUALIFYING QUESTIONS (Minutes 3-12)
+───────────────────────────────────────────────────────────────
+
+CURRENT STATE:
+
+1. "How is [COMPANY NAME] currently thinking about AI search - ChatGPT, Claude, Perplexity, Google AI Overviews?"
+
+2. "Have you noticed any changes in organic traffic or lead quality over the past 6 months?"
+
+3. "What's your current approach to SEO and content marketing?"
+
+PAIN POINTS:
+
+4. "What's your biggest frustration with your current marketing results?"
+
+5. "If you could wave a magic wand and fix one thing about your lead generation, what would it be?"
+
+DECISION PROCESS:
+
+6. "Have you explored any solutions for AI search optimization before? What happened?"
+
+7. "Who else is involved in decisions like this at [COMPANY NAME]?"
+
+8. "What would success look like 90 days from now?"
+
+[TAKE NOTES. Reference these later in the call.]
+
+───────────────────────────────────────────────────────────────
+PRESENTATION (Minutes 12-25)
+───────────────────────────────────────────────────────────────
+
+YOU: "Based on what you've shared, here's what I'm seeing..."
+
+[SHARE SCREEN - SHOW GEO AUDIT]
+
+1. CURRENT STATE (2 min)
+
+"Right now, you appear in [X]% of relevant AI responses. Your competitors are at [Y]%.
+
+The gap isn't your content quality - I reviewed your site and it's solid. It's optimization for how AI engines actually work. They use different signals than Google."
+
+2. THE OPPORTUNITY (3 min)
+
+"Companies that optimize for GEO typically see 3-5x more AI citations within 90 days.
+
+For you specifically, based on your [AVERAGE DEAL VALUE] deal size and [CURRENT LEAD VOLUME], capturing AI citations could mean [X] additional qualified leads per month.
+
+That's approximately $[X,XXX] in monthly pipeline."
+
+3. OUR APPROACH (5 min)
+
+[SHOW SIMPLE SLIDE OR DOCUMENT]
+
+"We use a 4-phase methodology:
+
+PHASE 1 - AUDIT (Weeks 1-2)
+• Comprehensive GEO audit across 5 AI platforms
+• Competitor citation analysis
+• Content gap analysis
+
+PHASE 2 - OPTIMIZE (Weeks 3-8)
+• On-page GEO optimization
+• Content restructuring for AI extraction
+• Authority signal amplification
+
+PHASE 3 - AMPLIFY (Weeks 5-12)
+• Strategic content distribution
+• Industry publication placements
+• Thought leadership positioning
+
+PHASE 4 - MONITOR (Ongoing)
+• Weekly AI visibility tracking
+• Citation monitoring
+• Continuous optimization"
+
+4. PROOF (3 min)
+
+[SHOW CASE STUDY SLIDE]
+
+"We've done this for [X] companies. Here's a recent example:
+
+[CLIENT NAME] was invisible in AI search. 90 days later:
+• 94% citation rate (up from 12%)
+• 67% of demo requests from AI-referred traffic
+• CEO called it their highest-ROI marketing investment"
+
+───────────────────────────────────────────────────────────────
+HANDLING OBJECTIONS (Minutes 25-35)
+───────────────────────────────────────────────────────────────
+
+BE READY FOR THESE:
+
+OBJECTION 1: "We need to think about it"
+
+YOU: "I completely understand. Can I ask - what would need to change for this to become a priority? Is it budget timing, or do you need to see something specific?"
+
+[LISTEN. Address the real concern.]
+
+OBJECTION 2: "This sounds expensive"
+
+YOU: "Fair question. What number are you thinking of?"
+
+[LET THEM SAY A NUMBER]
+
+YOU: "I hear you. Can I frame it differently? Our clients typically see [ROI METRIC]. At that rate, the investment pays for itself in [X] months. Does that change the calculus at all?"
+
+OBJECTION 3: "We're already working with an SEO agency"
+
+YOU: "That's great - and most SEO agencies aren't doing GEO yet. Traditional SEO and GEO are complementary, not replacements. We often partner with existing agencies.
+
+Would you be open to us doing a quick audit to show the gaps they might be missing?"
+
+OBJECTION 4: "Send me information"
+
+YOU: "Absolutely - I'll send over a detailed proposal. To make it relevant, can I ask: what's the one thing you'd need to see in that proposal to feel confident moving forward?"
+
+[This reveals the REAL objection.]
+
+───────────────────────────────────────────────────────────────
+CLOSE (Minutes 35-45)
+───────────────────────────────────────────────────────────────
+
+YOU: "[FIRST NAME], based on everything we've discussed, I think there's a real opportunity here. Here's what I'd recommend..."
+
+[PRESENT SPECIFIC RECOMMENDATION]
+
+"For a company at your stage, I'd recommend our [PACKAGE NAME] package. This includes:
+
+• Full GEO audit and strategy
+• On-page optimization for [X] pages
+• Authority building campaign
+• Weekly tracking and reporting
+• Dedicated account manager
+
+The investment is $[X,XXX]/month for 3 months. Most clients see ROI within the first 60 days.
+
+[PAUSE. Let them respond.]
+
+Does this feel like the right next step for [COMPANY NAME]?"
+
+[IF YES]
+
+YOU: "Great. Here's what happens next:
+
+1. I'll send over the proposal today
+2. You review it - any questions, just ask
+3. We sign and schedule kickoff
+4. We start the audit within 48 hours
+
+I can have the proposal to you within 2 hours. What's the best email?"
+
+[IF THEY NEED TO THINK]
+
+YOU: "Of course. What specifically do you need to think through? Is it the investment, the timeline, or something about the approach?"
+
+[ADDRESS THE CONCERN. Then:]
+
+YOU: "Tell you what - let me send the proposal so you have something concrete to review. No obligation. We can schedule a follow-up call for [DAY] to answer any questions. Does that work?"
+
+[BOOK THE FOLLOW-UP BEFORE HANGING UP]
+
+───────────────────────────────────────────────────────────────
+POST-CALL ACTIONS (Within 1 hour)
+───────────────────────────────────────────────────────────────
+
+□ Send personalized email recapping the call
+□ Attach proposal
+□ Include Calendly for follow-up
+□ Log all notes in CRM
+□ Set reminder for follow-up date
+
+───────────────────────────────────────────────────────────────
+CALL NOTES TEMPLATE
+───────────────────────────────────────────────────────────────
+
+Prospect: [NAME]
+Company: [COMPANY]
+Date: [DATE]
+
+Current State:
+- AI search awareness: [LOW/MEDIUM/HIGH]
+- Current marketing: [NOTES]
+- Pain points: [NOTES]
+
+Decision Process:
+- Budget: [RANGE]
+- Timeline: [TIMEFRAME]
+- Other decision makers: [NAMES]
+
+Objections Raised:
+- [OBJECTION 1]
+- [OBJECTION 2]
+
+Next Steps:
+- [ACTION 1]
+- [ACTION 2]
+- Follow-up date: [DATE]
+
+═══════════════════════════════════════════════════════════════

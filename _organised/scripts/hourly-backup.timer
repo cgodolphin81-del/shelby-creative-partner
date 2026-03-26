@@ -1,0 +1,16 @@
+[Unit]
+Description=Hourly Git Backup
+After=network.target
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash -c "cd /mnt/data/openclaw/workspace/.openclaw/workspace && /mnt/data/openclaw/workspace/.openclaw/workspace/scripts/hourly-backup.sh"
+WorkingDirectory=/mnt/data/openclaw/workspace/.openclaw/workspace
+
+[Timer]
+OnCalendar=*:00
+Persistent=true
+Unit=hourly-backup.service
+
+[Install]
+WantedBy=timers.target

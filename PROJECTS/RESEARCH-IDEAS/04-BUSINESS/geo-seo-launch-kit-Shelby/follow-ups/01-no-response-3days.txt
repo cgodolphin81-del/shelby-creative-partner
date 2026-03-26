@@ -1,0 +1,21 @@
+FOLLOW-UP EMAIL #1 - 3 Days After Initial
+==========================================
+
+SUBJECT: Re: {{OriginalSubject}}
+
+Hi {{FirstName}},
+
+Just bumping this up in case it got buried.
+
+Quick reminder: I noticed {{Company}} isn't appearing when people ask AI assistants for {{Industry}} recommendations. {{Competitor1}} and {{Competitor2}} are showing up consistently.
+
+I'd love to run a free AI visibility audit for you — takes 5 minutes, shows exactly where you're missing.
+
+Worth 15 minutes next week?
+
+Best,
+{{YourName}}
+
+---
+Timing: 3 days after initial email
+Tone: Light, friendly, no pressure

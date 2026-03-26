@@ -1,0 +1,12 @@
+[Unit]
+Description=Hourly GitHub Backup
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/mnt/data/openclaw/workspace/.openclaw/workspace/scripts/backup-to-github.sh
+WorkingDirectory=/mnt/data/openclaw/workspace/.openclaw/workspace
+
+[Install]
+WantedBy=multi-user.target

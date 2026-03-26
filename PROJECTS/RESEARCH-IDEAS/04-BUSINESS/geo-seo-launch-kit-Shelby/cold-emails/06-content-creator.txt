@@ -1,0 +1,36 @@
+SUBJECT: Your content isn't being cited by AI assistants
+
+Hi {{FirstName}},
+
+I've been tracking which {{Niche}} creators and resources AI assistants cite when users ask questions. {{Company}}/{{YourBrand}} rarely comes up.
+
+When someone asks ChatGPT or Claude about {{Topic}}, they're getting recommendations for:
+→ {{Competitor1}}
+→ {{Competitor2}}
+→ {{Competitor3}}
+
+But not you — even though your content on {{SpecificTopic}} is arguably better.
+
+The problem: AI systems learn from specific signals (citation patterns, authority markers, structured data). Great content alone isn't enough anymore.
+
+GEO optimization helps creators get cited by AI. We:
+
+→ Structure content for AI citation patterns
+→ Build authority signals AI systems recognize
+→ Get your resources in AI recommendations
+→ Track which AI systems cite you (and when)
+
+{{SimilarCreator}} implemented this. Now their content is cited in 40%+ of relevant AI conversations. Their newsletter signups from AI-referred traffic: 847 last month.
+
+Interested in seeing where your content stands in AI search?
+
+Best,
+{{YourName}}
+{{YourTitle}}
+
+---
+Pain points addressed:
+- Better content but less AI visibility than competitors
+- Missing AI-referred traffic and subscribers
+- Content not structured for AI citation
+- Competitors getting credit for similar topics

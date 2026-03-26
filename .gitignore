@@ -1,0 +1,27 @@
+# Secrets - DO NOT COMMIT
+.env
+SECRETS.md
+**/SECRETS.md
+*_organised/SECRETS.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Logs
+*.log

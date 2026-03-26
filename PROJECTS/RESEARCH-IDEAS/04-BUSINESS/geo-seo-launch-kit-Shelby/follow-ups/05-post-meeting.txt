@@ -1,0 +1,37 @@
+FOLLOW-UP EMAIL #5 - After Meeting/Call
+========================================
+
+SUBJECT: Great chatting + next steps for {{Company}}
+
+Hi {{FirstName}},
+
+Really enjoyed our conversation {{Day}}. Thanks for taking the time.
+
+Quick recap of what we discussed:
+→ {{Company}} isn't appearing in AI search for {{KeyQueries}}
+→ {{Competitor1}} and {{Competitor2}} are dominating those queries
+→ You're interested in fixing this gap within {{Timeline}}
+
+Next steps I mentioned:
+1. I'll send over the AI visibility audit report (attached)
+2. We'll review findings on a follow-up call
+3. If it makes sense, we'll discuss engagement options
+
+Attached: {{Company}}_AI_Visibility_Audit.pdf
+
+Key findings:
+• Currently appearing in {{CurrentVisibility}}% of relevant AI searches
+• Top gap: {{TopGap}}
+• Quick win: {{QuickWin}}
+• 30-day target: {{TargetVisibility}}% visibility
+
+When works for a 20-min follow-up? I can walk through the report and answer any questions.
+
+{{CalendarLink}}
+
+Best,
+{{YourName}}
+
+---
+Timing: Within 24 hours of meeting
+Tone: Professional, action-oriented, clear next steps

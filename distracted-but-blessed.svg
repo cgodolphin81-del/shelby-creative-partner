@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with warm, grateful gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F5DEB3;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFE4B5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFDAB9;stop-opacity:1" />
+    </linearGradient>
+    <filter id="gratitudeGlow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="1200" height="1200" fill="url(#bgGradient)"/>
+  
+  <!-- Distracted brain - eyes looking elsewhere -->
+  <g transform="translate(600,480)">
+    <!-- Brain outline -->
+    <ellipse cx="0" cy="0" rx="100" ry="85" fill="#9370DB" opacity="0.9"/>
+    <path d="M-100,0 Q-115,-45 -100,-85 Q-85,-125 -40,-125 Q5,-125 0,-85 Q5,-125 40,-125 Q85,-125 100,-85 Q115,-45 100,0 Q115,45 100,85 Q85,125 40,125 Q5,125 0,85 Q-5,125 -40,125 Q-85,125 -100,85 Q-115,45 -100,0" fill="#9370DB"/>
+    <!-- Face distracted, looking up and right -->
+    <circle cx="-35" cy="-20" r="9" fill="#333333"/>
+    <circle cx="35" cy="-20" r="9" fill="#333333"/>
+    <path d="M-30,-15 Q-25,-10 -30,-5" stroke="#333333" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M30,-15 Q25,-10 30,-5" stroke="#333333" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M-20,15 Q0,25 20,15" stroke="#333333" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <!-- Heart in chest -->
+    <path d="M-20,50 Q-30,40 -20,30 Q-10,20 0,35 Q10,20 20,30 Q30,40 20,50 Q10,65 0,50 Q-10,65 -20,50" fill="#FF6B9D" opacity="0.9"/>
+  </g>
+  
+  <!-- Things catching attention -->
+  <g fill="#FFFFFF" opacity="0.9">
+    <!-- Butterfly -->
+    <g transform="translate(300,300)">
+      <ellipse cx="0" cy="0" rx="8" ry="20" fill="#9370DB"/>
+      <ellipse cx="-25" cy="-10" rx="18" ry="25" fill="#FFD93D" transform="rotate(-25 -25 -10)"/>
+      <ellipse cx="25" cy="-10" rx="18" ry="25" fill="#FFD93D" transform="rotate(25 25 -10)"/>
+      <ellipse cx="-28" cy="10" rx="15" ry="20" fill="#9370DB" transform="rotate(-25 -28 10)"/>
+      <ellipse cx="28" cy="10" rx="15" ry="20" fill="#9370DB" transform="rotate(25 28 10)"/>
+    </g>
+    
+    <!-- Sparkle -->
+    <path d="M900,250 L910,280 L940,280 L915,300 L925,330 L900,310 L875,330 L885,300 L860,280 L890,280 Z"/>
+    
+    <!-- Feather -->
+    <path d="M250,900 Q240,890 250,880 Q260,870 270,880 Q280,890 270,900 Q260,910 250,900" fill="#FFFFFF" opacity="0.8"/>
+    <line x1="260" y1="890" x2="260" y2="920" stroke="#9370DB" stroke-width="2"/>
+    
+    <!-- Bird in distance -->
+    <path d="M950,850 L960,840 L970,850 L965,845 L975,840 L965,855 L975,865 L965,855 L960,865 L955,855 L950,860 L945,855 Z"/>
+  </g>
+  
+  <!-- Gratitude symbols -->
+  <g fill="#FFD93D" opacity="0.95">
+    <!-- Sun -->
+    <circle cx="900" cy="150" r="35"/>
+    <g stroke="#FFD93D" stroke-width="4" opacity="0.8">
+      <line x1="900" y1="100" x2="900" y2="80"/>
+      <line x1="900" y1="200" x2="900" y2="220"/>
+      <line x1="850" y1="150" x2="830" y2="150"/>
+      <line x1="950" y1="150" x2="970" y2="150"/>
+      <line x1="865" y1="115" x2="850" y2="100"/>
+      <line x1="935" y1="115" x2="950" y2="100"/>
+      <line x1="865" y1="185" x2="850" y2="200"/>
+      <line x1="935" y1="185" x2="950" y2="200"/>
+    </g>
+    
+    <!-- Heart cluster -->
+    <path d="M850,1050 Q840,1040 850,1030 Q860,1020 870,1035 Q880,1020 890,1030 Q900,1040 890,1050 Q880,1065 870,1050 Q860,1065 850,1050" transform="translate(0,0)"/>
+    <path d="M800,1030 Q790,1020 800,1010 Q810,1000 820,1015 Q830,1000 840,1010 Q850,1020 840,1030 Q830,1045 820,1030 Q810,1045 800,1030" transform="translate(-30,-20)"/>
+    <path d="M900,1030 Q890,1020 900,1010 Q910,1000 920,1015 Q930,1000 940,1010 Q950,1020 940,1030 Q930,1045 920,1030 Q910,1045 900,1030" transform="translate(30,-20)"/>
+  </g>
+  
+  <!-- Sparkles of gratitude -->
+  <g fill="#FFFFFF" opacity="0.85">
+    <path d="M200,400 L208,425 L235,425 L215,440 L223,465 L200,450 L177,465 L185,440 L165,425 L192,425 Z"/>
+    <path d="M1000,450 L1008,475 L1035,475 L1015,490 L1023,515 L1000,500 L977,515 L985,490 L965,475 L992,475 Z"/>
+    <path d="M250,1000 L258,1025 L285,1025 L265,1040 L273,1065 L250,1050 L227,1065 L235,1040 L215,1025 L242,1025 Z"/>
+    <path d="M950,1000 L958,1025 L985,1025 L965,1040 L973,1065 L950,1050 L927,1065 L935,1040 L915,1025 L942,1025 Z"/>
+  </g>
+  
+  <!-- Main text - warm and grateful -->
+  <text x="600" y="650" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#gratitudeGlow)">DISTRACTED</text>
+  <text x="600" y="740" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#gratitudeGlow)">BUT</text>
+  <text x="600" y="840" font-family="Arial, sans-serif" font-size="84" font-weight="bold" fill="#FFD93D" text-anchor="middle" filter="url(#gratitudeGlow)">BLESSED</text>
+  
+  <!-- Blessing/Gratitude icons -->
+  <g fill="#FFFFFF" opacity="0.85">
+    <!-- Hand heart -->
+    <path d="M150,200 Q140,190 145,180 Q150,170 160,180 Q170,170 175,180 Q180,190 170,200 Q160,215 160,195 Q160,215 150,200" transform="rotate(-15 160 190)"/>
+    <path d="M1050,200 Q1060,190 1055,180 Q1050,170 1040,180 Q1030,170 1025,180 Q1020,190 1030,200 Q1040,215 1040,195 Q1040,215 1050,200" transform="rotate(15 1040 190)"/>
+    
+    <!-- Stars -->
+    <path d="M150,1000 L158,1025 L185,1025 L165,1040 L173,1065 L150,1050 L127,1065 L135,1040 L115,1025 L142,1025 Z"/>
+    <path d="M1050,1000 L1058,1025 L1085,1025 L1065,1040 L1073,1065 L1050,1050 L1027,1065 L1035,1040 L1015,1025 L1042,1025 Z"/>
+  </g>
+  
+  <!-- Small text at bottom -->
+  <text x="600" y="1120" font-family="Arial, sans-serif" font-size="24" fill="#333333" text-anchor="middle">My mind wanders, but my heart is full ✨🙏</text>
+  
+  <!-- Decorative circles (representing scattered focus) -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.5">
+    <circle cx="400" cy="400" r="20"/>
+    <circle cx="800" cy="450" r="25"/>
+    <circle cx="400" cy="850" r="18"/>
+    <circle cx="800" cy="800" r="22"/>
+    <circle cx="200" cy="600" r="15"/>
+    <circle cx="1000" cy="650" r="18"/>
+  </g>
+  
+  <!-- Wandering path line -->
+  <path d="M200,600 Q300,550 400,600 Q500,650 450,700 Q400,750 350,700 Q300,650 350,600 Q400,550 450,600 Q500,650 600,600" fill="none" stroke="#FFFFFF" stroke-width="2" opacity="0.6"/>
+</svg>

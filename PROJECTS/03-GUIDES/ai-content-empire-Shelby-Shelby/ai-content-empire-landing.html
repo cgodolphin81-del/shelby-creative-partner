@@ -1,0 +1,1269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Create Your AI Content Empire. Stop guessing, start creating. The complete toolkit for AI-powered content creation that actually converts.">
+    <title>AI Content Empire | Create Without Limits</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --purple: #7C3AED;
+            --purple-dark: #6D28D9;
+            --purple-light: #A78BFA;
+            --orange: #F97316;
+            --orange-dark: #EA580C;
+            --orange-light: #FB923C;
+            --black: #0F172A;
+            --black-light: #1E293B;
+            --gray: #64748B;
+            --gray-light: #94A3B8;
+            --white: #FFFFFF;
+            --off-white: #F8FAFC;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            color: var(--black);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-weight: 700;
+            line-height: 1.2;
+        }
+
+        .mono {
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 16px 32px;
+            font-size: 16px;
+            font-weight: 600;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: none;
+            text-align: center;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--purple) 0%, var(--purple-dark) 100%);
+            color: var(--white);
+            box-shadow: 0 4px 14px rgba(124, 58, 237, 0.4);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(124, 58, 237, 0.5);
+        }
+
+        .btn-secondary {
+            background: linear-gradient(135deg, var(--orange) 0%, var(--orange-dark) 100%);
+            color: var(--white);
+            box-shadow: 0 4px 14px rgba(249, 115, 22, 0.4);
+        }
+
+        .btn-secondary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(249, 115, 22, 0.5);
+        }
+
+        .btn-large {
+            padding: 20px 40px;
+            font-size: 18px;
+        }
+
+        /* Header */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background: rgba(15, 23, 42, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 16px 0;
+            transition: all 0.3s ease;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: 800;
+            color: var(--white);
+            text-decoration: none;
+        }
+
+        .logo span {
+            color: var(--purple);
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 32px;
+            list-style: none;
+        }
+
+        .nav-links a {
+            color: var(--white);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: var(--purple-light);
+        }
+
+        .mobile-menu-btn {
+            display: none;
+            background: none;
+            border: none;
+            color: var(--white);
+            font-size: 24px;
+            cursor: pointer;
+        }
+
+        /* Hero Section */
+        .hero {
+            padding: 160px 0 100px;
+            background: linear-gradient(135deg, var(--black) 0%, var(--black-light) 100%);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -20%;
+            width: 800px;
+            height: 800px;
+            background: radial-gradient(circle, rgba(124, 58, 237, 0.15) 0%, transparent 70%);
+            animation: pulse 8s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); opacity: 0.5; }
+            50% { transform: scale(1.1); opacity: 0.8; }
+        }
+
+        .hero-content {
+            text-align: center;
+            max-width: 900px;
+            margin: 0 auto;
+            position: relative;
+            z-index: 1;
+        }
+
+        .hero-badge {
+            display: inline-block;
+            background: rgba(124, 58, 237, 0.1);
+            color: var(--purple-light);
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 24px;
+            border: 1px solid rgba(124, 58, 237, 0.3);
+        }
+
+        .hero h1 {
+            font-size: clamp(48px, 8vw, 80px);
+            color: var(--white);
+            margin-bottom: 24px;
+            line-height: 1.1;
+        }
+
+        .hero h1 .highlight {
+            background: linear-gradient(135deg, var(--purple-light) 0%, var(--orange-light) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero p {
+            font-size: clamp(18px, 3vw, 22px);
+            color: var(--gray-light);
+            margin-bottom: 40px;
+            line-height: 1.6;
+        }
+
+        .hero-cta {
+            display: flex;
+            gap: 16px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-bottom: 60px;
+        }
+
+        .hero-stats {
+            display: flex;
+            justify-content: center;
+            gap: 48px;
+            flex-wrap: wrap;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 42px;
+            font-weight: 800;
+            color: var(--purple-light);
+            display: block;
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: var(--gray-light);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        /* Problem Section */
+        .problem {
+            padding: 100px 0;
+            background: var(--white);
+        }
+
+        .section-header {
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto 60px;
+        }
+
+        .section-tag {
+            color: var(--purple);
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-size: 14px;
+            margin-bottom: 16px;
+            display: block;
+        }
+
+        .section-header h2 {
+            font-size: clamp(36px, 6vw, 56px);
+            color: var(--black);
+            margin-bottom: 20px;
+        }
+
+        .section-header p {
+            font-size: 20px;
+            color: var(--gray);
+        }
+
+        .problem-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 32px;
+            margin-top: 60px;
+        }
+
+        .problem-card {
+            background: var(--off-white);
+            padding: 40px;
+            border-radius: 16px;
+            border-left: 4px solid var(--orange);
+            transition: transform 0.3s ease;
+        }
+
+        .problem-card:hover {
+            transform: translateY(-4px);
+        }
+
+        .problem-icon {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+
+        .problem-card h3 {
+            font-size: 24px;
+            color: var(--black);
+            margin-bottom: 12px;
+        }
+
+        .problem-card p {
+            color: var(--gray);
+            font-size: 16px;
+        }
+
+        /* Solution Section */
+        .solution {
+            padding: 100px 0;
+            background: linear-gradient(135deg, var(--off-white) 0%, #EDE9FE 100%);
+        }
+
+        .solution-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 60px;
+            align-items: center;
+        }
+
+        .solution-content h2 {
+            font-size: clamp(32px, 5vw, 48px);
+            color: var(--black);
+            margin-bottom: 24px;
+        }
+
+        .solution-content p {
+            font-size: 18px;
+            color: var(--gray);
+            margin-bottom: 32px;
+        }
+
+        .solution-list {
+            list-style: none;
+            margin-bottom: 32px;
+        }
+
+        .solution-list li {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 16px;
+            font-size: 16px;
+            color: var(--black);
+        }
+
+        .checkmark {
+            color: var(--purple);
+            font-weight: 700;
+            font-size: 20px;
+        }
+
+        .solution-image {
+            background: linear-gradient(135deg, var(--purple) 0%, var(--orange) 100%);
+            border-radius: 24px;
+            padding: 60px;
+            text-align: center;
+            color: var(--white);
+        }
+
+        .solution-image h3 {
+            font-size: 36px;
+            margin-bottom: 16px;
+        }
+
+        .solution-image p {
+            font-size: 18px;
+            opacity: 0.9;
+        }
+
+        /* Features Section */
+        .features {
+            padding: 100px 0;
+            background: var(--white);
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 32px;
+        }
+
+        .feature-card {
+            background: var(--white);
+            border: 2px solid var(--off-white);
+            border-radius: 16px;
+            padding: 40px;
+            transition: all 0.3s ease;
+        }
+
+        .feature-card:hover {
+            border-color: var(--purple-light);
+            box-shadow: 0 8px 30px rgba(124, 58, 237, 0.15);
+            transform: translateY(-4px);
+        }
+
+        .feature-icon {
+            font-size: 40px;
+            margin-bottom: 20px;
+        }
+
+        .feature-card h3 {
+            font-size: 22px;
+            color: var(--black);
+            margin-bottom: 12px;
+        }
+
+        .feature-card p {
+            color: var(--gray);
+            font-size: 16px;
+        }
+
+        /* Social Proof */
+        .social-proof {
+            padding: 80px 0;
+            background: var(--black);
+        }
+
+        .testimonials {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 32px;
+            margin-top: 60px;
+        }
+
+        .testimonial-card {
+            background: var(--black-light);
+            padding: 40px;
+            border-radius: 16px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .testimonial-stars {
+            color: var(--orange);
+            font-size: 20px;
+            margin-bottom: 16px;
+        }
+
+        .testimonial-text {
+            color: var(--gray-light);
+            font-size: 18px;
+            margin-bottom: 24px;
+            line-height: 1.7;
+        }
+
+        .testimonial-author {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .author-avatar {
+            width: 56px;
+            height: 56px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--purple-light) 0%, var(--orange-light) 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            color: var(--white);
+            font-size: 20px;
+        }
+
+        .author-info h4 {
+            color: var(--white);
+            font-size: 16px;
+            margin-bottom: 4px;
+        }
+
+        .author-info p {
+            color: var(--gray);
+            font-size: 14px;
+        }
+
+        /* Lead Magnet */
+        .lead-magnet {
+            padding: 100px 0;
+            background: linear-gradient(135deg, var(--purple) 0%, var(--purple-dark) 100%);
+            color: var(--white);
+        }
+
+        .lead-magnet-content {
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .lead-magnet h2 {
+            font-size: clamp(32px, 5vw, 48px);
+            margin-bottom: 20px;
+        }
+
+        .lead-magnet p {
+            font-size: 20px;
+            opacity: 0.9;
+            margin-bottom: 40px;
+        }
+
+        .lead-form {
+            display: flex;
+            gap: 12px;
+            justify-content: center;
+            flex-wrap: wrap;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .lead-form input[type="email"] {
+            flex: 1;
+            min-width: 280px;
+            padding: 16px 24px;
+            font-size: 16px;
+            border: 2px solid rgba(255, 255, 255, 0.2);
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            color: var(--white);
+            outline: none;
+        }
+
+        .lead-form input[type="email"]::placeholder {
+            color: rgba(255, 255, 255, 0.6);
+        }
+
+        .lead-form input[type="email"]:focus {
+            border-color: var(--white);
+        }
+
+        /* Pricing Section */
+        .pricing {
+            padding: 100px 0;
+            background: var(--off-white);
+        }
+
+        .pricing-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 32px;
+            margin-top: 60px;
+        }
+
+        .pricing-card {
+            background: var(--white);
+            border-radius: 20px;
+            padding: 48px 40px;
+            position: relative;
+            border: 2px solid transparent;
+            transition: all 0.3s ease;
+        }
+
+        .pricing-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+        }
+
+        .pricing-card.popular {
+            border-color: var(--purple);
+            box-shadow: 0 8px 30px rgba(124, 58, 237, 0.2);
+        }
+
+        .popular-badge {
+            position: absolute;
+            top: -16px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: linear-gradient(135deg, var(--purple) 0%, var(--purple-dark) 100%);
+            color: var(--white);
+            padding: 8px 24px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .pricing-header {
+            text-align: center;
+            margin-bottom: 32px;
+        }
+
+        .pricing-name {
+            font-size: 20px;
+            color: var(--gray);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 16px;
+        }
+
+        .pricing-price {
+            font-size: 64px;
+            font-weight: 800;
+            color: var(--black);
+            margin-bottom: 8px;
+        }
+
+        .pricing-price span {
+            font-size: 20px;
+            color: var(--gray);
+            font-weight: 500;
+        }
+
+        .pricing-duration {
+            color: var(--gray);
+            font-size: 16px;
+        }
+
+        .pricing-features {
+            list-style: none;
+            margin-bottom: 32px;
+        }
+
+        .pricing-features li {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 16px;
+            color: var(--black);
+            font-size: 16px;
+        }
+
+        .pricing-features li .checkmark {
+            color: var(--purple);
+            font-size: 18px;
+        }
+
+        .pricing-features li.disabled {
+            color: var(--gray-light);
+            text-decoration: line-through;
+        }
+
+        .pricing-features li.disabled .checkmark {
+            color: var(--gray-light);
+        }
+
+        .pricing-btn {
+            width: 100%;
+        }
+
+        .pricing-card.popular .pricing-btn {
+            background: linear-gradient(135deg, var(--purple) 0%, var(--purple-dark) 100%);
+        }
+
+        /* FAQ Section */
+        .faq {
+            padding: 100px 0;
+            background: var(--white);
+        }
+
+        .faq-grid {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .faq-item {
+            border-bottom: 2px solid var(--off-white);
+            padding: 24px 0;
+        }
+
+        .faq-question {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            font-size: 20px;
+            font-weight: 600;
+            color: var(--black);
+            margin-bottom: 16px;
+        }
+
+        .faq-question::after {
+            content: '+';
+            font-size: 32px;
+            color: var(--purple);
+            font-weight: 400;
+            transition: transform 0.3s ease;
+        }
+
+        .faq-item.active .faq-question::after {
+            transform: rotate(45deg);
+        }
+
+        .faq-answer {
+            color: var(--gray);
+            font-size: 16px;
+            line-height: 1.7;
+            display: none;
+        }
+
+        .faq-item.active .faq-answer {
+            display: block;
+        }
+
+        /* CTA Section */
+        .cta {
+            padding: 100px 0;
+            background: linear-gradient(135deg, var(--black) 0%, var(--black-light) 100%);
+            text-align: center;
+            color: var(--white);
+        }
+
+        .cta h2 {
+            font-size: clamp(32px, 5vw, 56px);
+            margin-bottom: 20px;
+        }
+
+        .cta p {
+            font-size: 20px;
+            color: var(--gray-light);
+            max-width: 600px;
+            margin: 0 auto 40px;
+        }
+
+        .guarantee {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            background: rgba(255, 255, 255, 0.05);
+            padding: 16px 32px;
+            border-radius: 50px;
+            margin-top: 40px;
+            font-size: 16px;
+        }
+
+        .guarantee-icon {
+            font-size: 32px;
+        }
+
+        /* Footer */
+        footer {
+            background: var(--black);
+            color: var(--gray-light);
+            padding: 60px 0 32px;
+        }
+
+        .footer-content {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 40px;
+            margin-bottom: 40px;
+        }
+
+        .footer-column h4 {
+            color: var(--white);
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+
+        .footer-column ul {
+            list-style: none;
+        }
+
+        .footer-column ul li {
+            margin-bottom: 12px;
+        }
+
+        .footer-column a {
+            color: var(--gray-light);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .footer-column a:hover {
+            color: var(--purple-light);
+        }
+
+        .footer-bottom {
+            text-align: center;
+            padding-top: 32px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            font-size: 14px;
+        }
+
+        /* Mobile Responsive */
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+                position: absolute;
+                top: 100%;
+                left: 0;
+                right: 0;
+                background: var(--black);
+                flex-direction: column;
+                padding: 24px;
+                gap: 20px;
+            }
+
+            .nav-links.active {
+                display: flex;
+            }
+
+            .mobile-menu-btn {
+                display: block;
+            }
+
+            .hero {
+                padding: 120px 0 80px;
+            }
+
+            .hero-cta {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .btn {
+                width: 100%;
+                max-width: 320px;
+            }
+
+            .hero-stats {
+                gap: 32px;
+            }
+
+            .solution-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .lead-form {
+                flex-direction: column;
+            }
+
+            .lead-form input[type="email"] {
+                width: 100%;
+            }
+
+            .section-header h2 {
+                font-size: 36px;
+            }
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .animate-on-scroll {
+            opacity: 0;
+            animation: fadeInUp 0.6s ease forwards;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <nav>
+                <a href="#" class="logo">AI <span>Empire</span></a>
+                <ul class="nav-links">
+                    <li><a href="#problem">The Problem</a></li>
+                    <li><a href="#solution">The Solution</a></li>
+                    <li><a href="#features">Features</a></li>
+                    <li><a href="#pricing">Pricing</a></li>
+                    <li><a href="#faq">FAQ</a></li>
+                    <li><a href="#get-started" class="btn btn-primary" style="padding: 12px 24px;">Get Started</a></li>
+                </ul>
+                <button class="mobile-menu-btn" onclick="document.querySelector('.nav-links').classList.toggle('active')">☰</button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <span class="hero-badge">✨ Create Without Limits</span>
+                <h1>Turn AI Into Your <span class="highlight">Content Empire</span></h1>
+                <p>Stop guessing, start creating. The complete toolkit for AI-powered content that actually converts—so you can build an audience, grow revenue, and finally break free.</p>
+                <div class="hero-cta">
+                    <a href="#pricing" class="btn btn-primary btn-large">Get Instant Access →</a>
+                    <a href="#lead-magnet" class="btn btn-secondary btn-large">Free 7-Day Challenge</a>
+                </div>
+                <div class="hero-stats">
+                    <div class="stat-item">
+                        <span class="stat-number">10K+</span>
+                        <span class="stat-label">Creators</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">50M+</span>
+                        <span class="stat-label">Views Generated</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">4.9/5</span>
+                        <span class="stat-label">Rating</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Problem Section -->
+    <section id="problem" class="problem">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">The Reality</span>
+                <h2>Sound Familiar?</h2>
+                <p>You're not alone. Most creators hit the same walls.</p>
+            </div>
+            <div class="problem-grid">
+                <div class="problem-card">
+                    <div class="problem-icon">😫</div>
+                    <h3>Time Suck</h3>
+                    <p>Spending hours writing, editing, and optimizing—only to post once a week and wonder why nothing sticks.</p>
+                </div>
+                <div class="problem-card">
+                    <div class="problem-icon">🤷</div>
+                    <h3>AI Confusion</h3>
+                    <p>You've tried ChatGPT and other tools, but your output sounds robotic and generic. No one's showing you the real workflow.</p>
+                </div>
+                <div class="problem-card">
+                    <div class="problem-icon">📉</div>
+                    <h3>Stagnant Growth</h3>
+                    <p>Your audience isn't growing. Your engagement is flat. You're working harder but getting nowhere.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Solution Section -->
+    <section id="solution" class="solution">
+        <div class="container">
+            <div class="solution-grid">
+                <div class="solution-content">
+                    <span class="section-tag">The Fix</span>
+                    <h2>This Is Your Turnaround</h2>
+                    <p>The AI Content Empire isn't just another course—it's a complete system that shows you exactly how to use AI to create content that converts, at scale, without losing your voice.</p>
+                    <ul class="solution-list">
+                        <li><span class="checkmark">✓</span> Proven AI workflows that save 20+ hours/week</li>
+                        <li><span class="checkmark">✓</span> Viral content frameworks tested on 10K+ creators</li>
+                        <li><span class="checkmark">✓</span> Step-by-step videos, not theory</li>
+                        <li><span class="checkmark">✓</span> Community support and weekly coaching calls</li>
+                    </ul>
+                    <a href="#pricing" class="btn btn-primary">Start Your Empire →</a>
+                </div>
+                <div class="solution-image">
+                    <h3>"I doubled my revenue<br>in 30 days."</h3>
+                    <p>- Sarah J., Course Creator</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">What You Get</span>
+                <h2>Everything You Need to Succeed</h2>
+                <p>No fluff. Just tools, templates, and training that work.</p>
+            </div>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Viral Prompt Library</h3>
+                    <p>50+ battle-tested prompts that generate hooks, scripts, and captions that stop the scroll.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🎬</div>
+                    <h3>Video Script Templates</h3>
+                    <p>Plug-and-play frameworks for Reels, TikToks, and YouTube that keep viewers hooked.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📊</div>
+                    <h3>Analytics Dashboard</h3>
+                    <p>Know what's working. Track your growth with our AI-powered insights tool.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">⚡</div>
+                    <h3>Content Calendar AI</h3>
+                    <p>Generate a month's worth of content in 30 minutes. Never stare at a blank screen again.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🎨</div>
+                    <h3>Design Asset Pack</h3>
+                    <p>Ready-to-use templates for thumbnails, carousels, and social posts that look pro.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">👥</div>
+                    <h3>Private Community</h3>
+                    <p>Connect with 10K+ creators, share wins, get feedback, and grow together.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Social Proof -->
+    <section class="social-proof">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Success Stories</span>
+                <h2>Loved by Creators Worldwide</h2>
+            </div>
+            <div class="testimonials">
+                <div class="testimonial-card">
+                    <div class="testimonial-stars">★★★★★</div>
+                    <p class="testimonial-text">"I was stuck at 5K followers for months. After implementing the AI workflows, I hit 50K in 60 days. This paid for itself 10x over."</p>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">MJ</div>
+                        <div class="author-info">
+                            <h4>Marcus J.</h4>
+                            <p>Fitness Coach</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-card">
+                    <div class="testimonial-stars">★★★★★</div>
+                    <p class="testimonial-text">"The prompt library alone is worth the price. I save 15 hours a week and my engagement doubled. Absolute game-changer."</p>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">SL</div>
+                        <div class="author-info">
+                            <h4>Sarah L.</h4>
+                            <p>Marketing Consultant</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-card">
+                    <div class="testimonial-stars">★★★★★</div>
+                    <p class="testimonial-text">"I've taken every AI course out there. This is the only one that actually shows you the step-by-step process. Worth every penny."</p>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">DT</div>
+                        <div class="author-info">
+                            <h4>David T.</h4>
+                            <p>YouTube Creator</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Lead Magnet -->
+    <section id="lead-magnet" class="lead-magnet">
+        <div class="container">
+            <div class="lead-magnet-content">
+                <h2>Start Free: 7-Day AI Content Challenge</h2>
+                <p>Join 15,000+ creators. Get daily lessons + our viral prompts PDF. Zero cost. 100% value.</p>
+                <form class="lead-form" action="#" method="POST">
+                    <input type="email" placeholder="Enter your email" required>
+                    <button type="submit" class="btn btn-secondary">Start Free Challenge →</button>
+                </form>
+                <p style="margin-top: 20px; font-size: 14px; opacity: 0.8;">No spam. Unsubscribe anytime.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section id="pricing" class="pricing">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Invest In Yourself</span>
+                <h2>Choose Your Level</h2>
+                <p>Simple pricing. No hidden fees. 30-day money-back guarantee.</p>
+            </div>
+            <div class="pricing-grid">
+                <!-- Starter -->
+                <div class="pricing-card">
+                    <div class="pricing-header">
+                        <div class="pricing-name">Starter</div>
+                        <div class="pricing-price">$47</div>
+                        <div class="pricing-duration">One-time payment</div>
+                    </div>
+                    <ul class="pricing-features">
+                        <li><span class="checkmark">✓</span> DIY Content Toolkit</li>
+                        <li><span class="checkmark">✓</span> 50 Viral Prompts PDF</li>
+                        <li><span class="checkmark">✓</span> Basic Script Templates</li>
+                        <li><span class="checkmark">✓</span> 7-Day Email Course</li>
+                        <li class="disabled"><span class="checkmark">✗</span> Community Access</li>
+                        <li class="disabled"><span class="checkmark">✗</span> Coaching Calls</li>
+                    </ul>
+                    <a href="#" class="btn btn-secondary pricing-btn">Get Starter →</a>
+                </div>
+
+                <!-- Pro (Popular) -->
+                <div class="pricing-card popular">
+                    <div class="popular-badge">Most Popular</div>
+                    <div class="pricing-header">
+                        <div class="pricing-name">Pro</div>
+                        <div class="pricing-price">$147</div>
+                        <div class="pricing-duration">One-time payment</div>
+                    </div>
+                    <ul class="pricing-features">
+                        <li><span class="checkmark">✓</span> <strong>Everything in Starter</strong></li>
+                        <li><span class="checkmark">✓</span> MEGA Bundle (All Templates)</li>
+                        <li><span class="checkmark">✓</span> Complete Video Course</li>
+                        <li><span class="checkmark">✓</span> Analytics Dashboard</li>
+                        <li><span class="checkmark">✓</span> Private Community</li>
+                        <li><span class="checkmark">✓</span> Weekly Coaching Calls</li>
+                    </ul>
+                    <a href="#" class="btn btn-primary pricing-btn">Get Pro →</a>
+                </div>
+
+                <!-- Elite -->
+                <div class="pricing-card">
+                    <div class="pricing-header">
+                        <div class="pricing-name">Elite</div>
+                        <div class="pricing-price">$497</div>
+                        <div class="pricing-duration">One-time payment</div>
+                    </div>
+                    <ul class="pricing-features">
+                        <li><span class="checkmark">✓</span> <strong>Everything in Pro</strong></li>
+                        <li><span class="checkmark">✓</span> Empire Accelerator Program</li>
+                        <li><span class="checkmark">✓</span> 1:1 Coaching (3 sessions)</li>
+                        <li><span class="checkmark">✓</span> Personalized Strategy Call</li>
+                        <li><span class="checkmark">✓</span> Priority Support</li>
+                        <li><span class="checkmark">✓</span> Lifetime Updates</li>
+                    </ul>
+                    <a href="#" class="btn btn-secondary pricing-btn">Apply for Elite →</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section id="faq" class="faq">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Questions?</span>
+                <h2>Frequently Asked Questions</h2>
+            </div>
+            <div class="faq-grid">
+                <div class="faq-item">
+                    <div class="faq-question">Is this for beginners?</div>
+                    <div class="faq-answer">Absolutely. Whether you're just starting or have 100K followers, our systems adapt to your level. The Starter plan is perfect for beginners, while Elite gives you advanced scaling strategies.</div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">Do I need prior AI experience?</div>
+                    <div class="faq-answer">Nope! We start from zero and walk you through everything. Our step-by-step videos make AI accessible even if you've never used it before.</div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">What if this doesn't work for me?</div>
+                    <div class="faq-answer">We offer a 30-day money-back guarantee on all packages. If you implement the systems and don't see results, just email us for a full refund. No questions asked.</div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">How much time does this take?</div>
+                    <div class="faq-answer">Most students report saving 15-20 hours per week within the first month. The systems are designed for busy creators—expect to spend 2-3 hours/week maintaining your content.</div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">Are payments one-time or subscription?</div>
+                    <div class="faq-answer">All three tiers are one-time payments. You pay once and get lifetime access to all materials and updates. No monthly fees ever.</div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">What tools do I need?</div>
+                    <div class="faq-answer">Just a free AI account (we'll show you which ones work best), a smartphone or laptop, and an appetite to create. We cover all tool recommendations inside.</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section id="get-started" class="cta">
+        <div class="container">
+            <h2>Your Content Empire Awaits</h2>
+            <p>Stop overthinking. Start creating. Join thousands of creators who've already transformed their workflow and grown their audience.</p>
+            <a href="#pricing" class="btn btn-primary btn-large">Get Instant Access →</a>
+            <div class="guarantee">
+                <span class="guarantee-icon">🛡️</span>
+                <span>30-Day Money-Back Guarantee</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-column">
+                    <h4>AI Content Empire</h4>
+                    <p>Create Without Limits</p>
+                </div>
+                <div class="footer-column">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#problem">The Problem</a></li>
+                        <li><a href="#solution">The Solution</a></li>
+                        <li><a href="#pricing">Pricing</a></li>
+                        <li><a href="#faq">FAQ</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Terms of Service</a></li>
+                        <li><a href="#">Refund Policy</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Connect</h4>
+                    <ul>
+                        <li><a href="#">Instagram</a></li>
+                        <li><a href="#">YouTube</a></li>
+                        <li><a href="#">Twitter</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 AI Content Empire. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // FAQ Accordion
+        document.querySelectorAll('.faq-item').forEach(item => {
+            item.querySelector('.faq-question').addEventListener('click', () => {
+                item.classList.toggle('active');
+            });
+        });
+
+        // Smooth scroll for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Mobile menu toggle
+        document.querySelector('.mobile-menu-btn').addEventListener('click', () => {
+            document.querySelector('.nav-links').classList.toggle('active');
+        });
+
+        // Add animation on scroll
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('animate-on-scroll');
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.problem-card, .feature-card, .testimonial-card, .pricing-card').forEach(el => {
+            el.style.opacity = '0';
+            observer.observe(el);
+        });
+    </script>
+</body>
+</html>

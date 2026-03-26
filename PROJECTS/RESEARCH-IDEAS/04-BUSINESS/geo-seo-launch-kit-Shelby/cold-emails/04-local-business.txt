@@ -1,0 +1,35 @@
+SUBJECT: {{BusinessType}} in {{City}} - AI search visibility issue
+
+Hi {{FirstName}},
+
+I noticed something interesting today. When I asked ChatGPT:
+
+"Recommend a {{BusinessType}} in {{City}}"
+
+It suggested {{Competitor1}} and {{Competitor2}}. Not {{Company}}.
+
+This is happening more often. People are asking AI assistants for local recommendations instead of Googling. And AI is steering them to your competitors.
+
+The gap: Your Google reviews are great ({{ReviewCount}} reviews, {{Rating}} stars), but AI systems aren't picking up your business as a top recommendation.
+
+What we do:
+→ Optimize your online presence for AI citation
+→ Get your business in AI "best of" lists for {{City}}
+→ Track AI visibility monthly
+→ Fix gaps that keep you out of AI recommendations
+
+{{SimilarBusiness}} in {{NearbyCity}} started appearing in AI recommendations within 3 weeks. They now get 12-15 AI-referred customers per month.
+
+Want me to run a free AI visibility check for {{Company}}? I'll show you exactly what's missing.
+
+Best,
+{{YourName}}
+{{YourTitle}}
+{{YourPhone}}
+
+---
+Pain points addressed:
+- Losing local customers to AI-recommended competitors
+- Great reviews but still invisible to AI
+- Growing shift from Google to AI for local search
+- Missing steady stream of AI-referred customers

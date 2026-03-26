@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Marketing Automation Service | Done-For-You Email Campaigns</title>
+    <meta name="description" content="Professional email marketing automation service. We build, manage, and optimize your email campaigns while you focus on your business. Starting at $1,500/month.">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        /* Header */
+        header {
+            background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
+            color: white;
+            padding: 100px 0;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 3.5rem;
+            margin-bottom: 20px;
+            font-weight: 800;
+            line-height: 1.1;
+        }
+        
+        header .subtitle {
+            font-size: 1.4rem;
+            max-width: 800px;
+            margin: 0 auto 30px;
+            opacity: 0.95;
+        }
+        
+        .stats-row {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin: 40px 0;
+            flex-wrap: wrap;
+        }
+        
+        .stat {
+            text-align: center;
+        }
+        
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 800;
+            display: block;
+        }
+        
+        .stat-label {
+            font-size: 1rem;
+            opacity: 0.9;
+        }
+        
+        .cta-button {
+            display: inline-block;
+            background: #ffffff;
+            color: #f97316;
+            padding: 20px 45px;
+            font-size: 1.15rem;
+            font-weight: 700;
+            text-decoration: none;
+            border-radius: 10px;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+        }
+        
+        .cta-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+        }
+        
+        /* Services */
+        .services {
+            padding: 100px 0;
+            background: #f8fafc;
+        }
+        
+        .services h2 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 70px;
+        }
+        
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 40px;
+        }
+        
+        .service-card {
+            background: white;
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+            border-top: 4px solid #f97316;
+        }
+        
+        .service-icon {
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+        
+        .service-card h3 {
+            font-size: 1.4rem;
+            margin-bottom: 15px;
+            color: #1e293b;
+        }
+        
+        .service-card ul {
+            list-style: none;
+            margin-top: 20px;
+        }
+        
+        .service-card li {
+            padding: 8px 0;
+            color: #64748b;
+            padding-left: 25px;
+            position: relative;
+        }
+        
+        .service-card li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #f97316;
+            font-weight: 700;
+        }
+        
+        /* How It Works */
+        .how-it-works {
+            padding: 100px 0;
+        }
+        
+        .how-it-works h2 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 70px;
+        }
+        
+        .steps {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 40px;
+        }
+        
+        .step {
+            text-align: center;
+            padding: 30px;
+        }
+        
+        .step-number {
+            width: 70px;
+            height: 70px;
+            background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            font-weight: 800;
+            margin: 0 auto 25px;
+        }
+        
+        .step h3 {
+            font-size: 1.3rem;
+            margin-bottom: 15px;
+            color: #1e293b;
+        }
+        
+        .step p {
+            color: #64748b;
+        }
+        
+        /* Pricing */
+        .pricing {
+            padding: 100px 0;
+            background: #f8fafc;
+        }
+        
+        .pricing h2 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+        
+        .pricing-subtitle {
+            text-align: center;
+            font-size: 1.1rem;
+            color: #64748b;
+            margin-bottom: 70px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .pricing-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        .pricing-card {
+            background: white;
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+            text-align: center;
+            position: relative;
+        }
+        
+        .pricing-card.featured {
+            border: 3px solid #f97316;
+            transform: scale(1.05);
+        }
+        
+        .pricing-card.popular {
+            background: #f97316;
+            color: white;
+        }
+        
+        .pricing-card.popular h3,
+        .pricing-card.popular .price {
+            color: white;
+        }
+        
+        .pricing-card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+        }
+        
+        .price {
+            font-size: 3rem;
+            font-weight: 700;
+            color: #f97316;
+            margin-bottom: 10px;
+        }
+        
+        .price span {
+            font-size: 1rem;
+            font-weight: 400;
+            color: #64748b;
+        }
+        
+        .pricing-card.popular .price span {
+            color: rgba(255,255,255,0.8);
+        }
+        
+        .pricing-card ul {
+            list-style: none;
+            margin: 30px 0;
+            text-align: left;
+        }
+        
+        .pricing-card li {
+            padding: 12px 0;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        
+        .pricing-card.popular li {
+            border-bottom-color: rgba(255,255,255,0.2);
+        }
+        
+        .pricing-card li:before {
+            content: "✓ ";
+            color: #f97316;
+            font-weight: 700;
+        }
+        
+        .pricing-card.popular li:before {
+            color: white;
+        }
+        
+        .pricing-card .cta-button {
+            width: 100%;
+            margin-top: 20px;
+        }
+        
+        .pricing-card.popular .cta-button {
+            background: white;
+            color: #f97316;
+        }
+        
+        /* Results */
+        .results {
+            padding: 100px 0;
+        }
+        
+        .results h2 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 70px;
+        }
+        
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 40px;
+        }
+        
+        .result-card {
+            text-align: center;
+            padding: 30px;
+            background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+            border-radius: 16px;
+        }
+        
+        .result-card .value {
+            font-size: 3rem;
+            font-weight: 800;
+            color: #f97316;
+            display: block;
+            margin-bottom: 10px;
+        }
+        
+        .result-card .label {
+            font-size: 1.1rem;
+            color: #78350f;
+        }
+        
+        /* Testimonials */
+        .testimonials {
+            padding: 100px 0;
+            background: #f8fafc;
+        }
+        
+        .testimonials h2 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 70px;
+        }
+        
+        .testimonial-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 40px;
+        }
+        
+        .testimonial {
+            background: white;
+            padding: 35px;
+            border-radius: 16px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+        }
+        
+        .testimonial p {
+            font-style: italic;
+            margin-bottom: 20px;
+            color: #475569;
+            line-height: 1.8;
+        }
+        
+        .testimonial-author {
+            font-weight: 700;
+            color: #f97316;
+        }
+        
+        .testimonial-role {
+            font-size: 0.9rem;
+            color: #64748b;
+        }
+        
+        /* CTA Section */
+        .cta-section {
+            padding: 120px 0;
+            background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
+            color: white;
+            text-align: center;
+        }
+        
+        .cta-section h2 {
+            font-size: 2.8rem;
+            margin-bottom: 20px;
+        }
+        
+        .cta-section p {
+            font-size: 1.3rem;
+            max-width: 700px;
+            margin: 0 auto 50px;
+            opacity: 0.95;
+        }
+        
+        .cta-section .cta-button {
+            background: white;
+            color: #f97316;
+        }
+        
+        /* Footer */
+        footer {
+            background: #1e293b;
+            color: white;
+            padding: 50px 0;
+            text-align: center;
+        }
+        
+        footer p {
+            opacity: 0.7;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2.2rem;
+            }
+            
+            header .subtitle {
+                font-size: 1.1rem;
+            }
+            
+            .stats-row {
+                flex-direction: column;
+                gap: 20px;
+            }
+            
+            .pricing-card.featured {
+                transform: scale(1);
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <header>
+        <div class="container">
+            <h1>Email Marketing That Actually Converts</h1>
+            <p class="subtitle">Done-for-you email marketing automation service. We build, manage, and optimize your campaigns while you focus on running your business.</p>
+            
+            <div class="stats-row">
+                <div class="stat">
+                    <span class="stat-value">35%</span>
+                    <span class="stat-label">Avg Open Rate</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-value">4.5%</span>
+                    <span class="stat-label">Avg CTR</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-value">$42</span>
+                    <span class="stat-label">ROI per $1 Spent</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-value">24/7</span>
+                    <span class="stat-label">Automation</span>
+                </div>
+            </div>
+            
+            <div style="margin-top: 40px;">
+                <a href="#pricing" class="cta-button">Get Your Free Email Audit</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Services Section -->
+    <section class="services">
+        <div class="container">
+            <h2>What We Do</h2>
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="service-icon">📧</div>
+                    <h3>Email Sequence Creation</h3>
+                    <p>Custom email sequences that nurture leads and drive conversions.</p>
+                    <ul>
+                        <li>Welcome series (5 emails)</li>
+                        <li>Cart abandonment (3 emails)</li>
+                        <li>Re-engagement campaigns</li>
+                        <li>Post-purchase follow-ups</li>
+                        <li>Lead nurturing sequences</li>
+                    </ul>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">⚙️</div>
+                    <h3>Automation Setup</h3>
+                    <p>Set it and forget it. We build automations that work 24/7.</p>
+                    <ul>
+                        <li>Zapier integrations</li>
+                        <li>List segmentation</li>
+                        <li>Behavioral triggers</li>
+                        <li>Lead scoring</li>
+                        <li>CRM integration</li>
+                    </ul>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">📊</div>
+                    <h3>Analytics & Optimization</h3>
+                    <p>Data-driven improvements to maximize your email ROI.</p>
+                    <ul>
+                        <li>Performance dashboards</li>
+                        <li>A/B testing</li>
+                        <li>Deliverability optimization</li>
+                        <li>Monthly reporting</li>
+                        <li>Conversion tracking</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How It Works -->
+    <section class="how-it-works">
+        <div class="container">
+            <h2>How It Works</h2>
+            <div class="steps">
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <h3>Free Email Audit</h3>
+                    <p>We analyze your current email marketing, identify gaps, and create a custom strategy.</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <h3>Onboarding & Setup</h3>
+                    <p>Complete brand voice capture, audience profiling, and ESP configuration.</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">3</div>
+                    <h3>Campaign Creation</h3>
+                    <p>We write, design, and build your email sequences and automations.</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">4</div>
+                    <h3>Launch & Optimize</h3>
+                    <p>Campaigns go live. We monitor, test, and optimize for maximum results.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Results Section -->
+    <section class="results">
+        <div class="container">
+            <h2>Results Our Clients See</h2>
+            <div class="results-grid">
+                <div class="result-card">
+                    <span class="value">+127%</span>
+                    <span class="label">Open Rate Increase</span>
+                </div>
+                <div class="result-card">
+                    <span class="value">+89%</span>
+                    <span class="label">Click-Through Rate</span>
+                </div>
+                <div class="result-card">
+                    <span class="value">+215%</span>
+                    <span class="label">Email Revenue</span>
+                </div>
+                <div class="result-card">
+                    <span class="value">-43%</span>
+                    <span class="label">Unsubscribe Rate</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section class="pricing" id="pricing">
+        <div class="container">
+            <h2>Simple, Transparent Pricing</h2>
+            <p class="pricing-subtitle">Choose the package that fits your business. All plans include strategy, copywriting, design, and optimization.</p>
+            <div class="pricing-grid">
+                <div class="pricing-card">
+                    <h3>Starter</h3>
+                    <div class="price">$1,500<span>/month</span></div>
+                    <ul>
+                        <li>4 email campaigns/month</li>
+                        <li>1 automation sequence</li>
+                        <li>Basic segmentation</li>
+                        <li>Monthly performance report</li>
+                        <li>Email support</li>
+                        <li>Perfect for: Small businesses</li>
+                    </ul>
+                    <a href="https://calendly.com/" class="cta-button" target="_blank">Get Started</a>
+                </div>
+                <div class="pricing-card featured popular">
+                    <h3>Growth ⭐ Most Popular</h3>
+                    <div class="price">$3,000<span>/month</span></div>
+                    <ul>
+                        <li>8 email campaigns/month</li>
+                        <li>3 automation sequences</li>
+                        <li>Advanced segmentation</li>
+                        <li>A/B testing included</li>
+                        <li>Bi-weekly strategy calls</li>
+                        <li>Priority support</li>
+                        <li>Perfect for: Growing businesses</li>
+                    </ul>
+                    <a href="https://calendly.com/" class="cta-button" target="_blank">Get Started</a>
+                </div>
+                <div class="pricing-card">
+                    <h3>Scale</h3>
+                    <div class="price">$5,000<span>/month</span></div>
+                    <ul>
+                        <li>Unlimited campaigns</li>
+                        <li>Unlimited automations</li>
+                        <li>Advanced segmentation</li>
+                        <li>Weekly A/B testing</li>
+                        <li>Weekly strategy calls</li>
+                        <li>Dedicated account manager</li>
+                        <li>Custom integrations</li>
+                        <li>Perfect for: E-commerce brands</li>
+                    </ul>
+                    <a href="https://calendly.com/" class="cta-button" target="_blank">Get Started</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <h2>What Our Clients Say</h2>
+            <div class="testimonial-grid">
+                <div class="testimonial">
+                    <p>"Our email revenue increased by 215% in just 3 months. The team completely transformed our email marketing from an afterthought to our second-best revenue channel."</p>
+                    <div class="testimonial-author">Michael Torres</div>
+                    <div class="testimonial-role">CEO, E-Shop Pro</div>
+                </div>
+                <div class="testimonial">
+                    <p>"Finally, an email service that understands our brand voice. Every email sounds like us, not some generic template. Our engagement has never been higher."</p>
+                    <div class="testimonial-author">Sarah Kim</div>
+                    <div class="testimonial-role">Founder, Wellness Co.</div>
+                </div>
+                <div class="testimonial">
+                    <p>"The automation sequences they built run 24/7 and generate consistent revenue while I sleep. Best investment we've made this year."</p>
+                    <div class="testimonial-author">David Chen</div>
+                    <div class="testimonial-role">Owner, TechStart</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container">
+            <h2>Ready to Transform Your Email Marketing?</h2>
+            <p>Book a free 30-minute email audit. We'll analyze your current setup, identify opportunities, and show you exactly how we can help you grow.</p>
+            <div style="margin-top: 40px;">
+                <a href="https://calendly.com/" class="cta-button" target="_blank">Book Your Free Audit</a>
+            </div>
+            <p style="margin-top: 30px; font-size: 1rem; opacity: 0.8;">No pressure, no sales pitch—just actionable insights.</p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Email Marketing Automation Service. All rights reserved.</p>
+            <p style="margin-top: 10px; font-size: 0.9rem;">Professional email marketing that converts subscribers into customers.</p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,156 @@
+DISCOVERY CALL SCRIPT - Word for Word
+======================================
+
+Duration: 20-30 minutes
+Goal: Qualify fit, demonstrate value, book proposal review
+
+---
+
+OPENING (2 minutes)
+-------------------
+
+"Hey {{FirstName}}, thanks for making time today. How's your day going?"
+
+[Listen, build rapport]
+
+"Perfect. So here's what I'm thinking for our time today:
+
+I want to understand your current situation with search visibility and AI, show you what I found about {{Company}}'s AI presence, and if it makes sense, talk about how we could help.
+
+Does that sound good?
+
+Great. Let me start by learning a bit more about where things stand..."
+
+---
+
+DISCOVERY QUESTIONS (8-10 minutes)
+----------------------------------
+
+CURRENT STATE:
+
+"Tell me about how {{Company}} currently handles search visibility and online presence."
+
+[Listen actively, take notes]
+
+"Got it. And how's that been working for you? Any gaps you've noticed?"
+
+"Interesting. How do most of your customers find you today?"
+
+[Probe for: Organic search, referrals, paid ads, direct, etc.]
+
+"Makes sense. And what's your sense of how many people are using AI tools like ChatGPT or Claude to research companies like yours?"
+
+[Awareness check]
+
+PAIN POINTS:
+
+"Have you noticed any competitors showing up in AI recommendations that maybe shouldn't be? Or noticed {{Company}} missing when you'd expect to see it?"
+
+[Specific pain identification]
+
+"How much do you think that's costing you in terms of missed opportunities?"
+
+[Quantify the pain]
+
+"On a scale of 1-10, how much of a priority is fixing AI visibility for you right now?"
+
+[Qualify urgency]
+
+DECISION PROCESS:
+
+"If we could solve this, who else would be involved in that decision?"
+
+[Identify stakeholders]
+
+"And what would your timeline ideally look like for getting this addressed?"
+
+[Timeline qualification]
+
+---
+
+PRESENTATION (8-10 minutes)
+---------------------------
+
+"Thanks, this is really helpful. Let me share what I found about {{Company}}'s AI visibility..."
+
+[Share screen - AI Visibility Audit]
+
+"Here's what happens when I ask ChatGPT: '{{SampleQuery}}'"
+
+[Show results - competitors appear, {{Company}} doesn't]
+
+"And here's the same query with Claude..."
+
+[Show pattern]
+
+"So the pattern is clear: {{Competitor1}} and {{Competitor2}} are getting recommended consistently. {{Company}} isn't showing up."
+
+[Pause for reaction]
+
+"Here's why this matters:
+
+→ AI search is growing 40% year over year
+→ By 2027, Gartner predicts 75% of B2B buyers will use AI for vendor research
+→ Once AI 'learns' a brand, it consistently recommends them
+→ The gap is widening — early movers are locking in visibility
+
+The good news: This is fixable. And it's not about changing your product or service — it's about making sure AI systems recognize and cite you properly."
+
+[Transition to solution]
+
+"Here's how we help..."
+
+[Present GEO SEO approach - see proposal template for details]
+
+"{{SimilarClient}} had the same challenge. After working with us:
+→ 73% AI visibility in 30 days
+→ 2x more qualified leads from AI traffic
+→ Now recommended as a top option in their space"
+
+---
+
+QUALIFICATION & NEXT STEPS (5 minutes)
+--------------------------------------
+
+"Based on what we've discussed, does this feel like something that could help {{Company}}?"
+
+[Listen for buy-in]
+
+"Great. Here's what I'd suggest:
+
+I'll put together a proposal with:
+→ Specific recommendations for {{Company}}
+→ Timeline and milestones
+→ Investment options
+→ Expected outcomes
+
+We can review it together on a follow-up call. Does {{Day}} at {{Time}} work? Or feel free to book directly: {{CalendarLink}}"
+
+[Book the follow-up]
+
+"Perfect. I'll get that over to you by {{Date}}. Any questions before we wrap?"
+
+[Handle objections]
+
+"Excellent. Thanks again for your time, {{FirstName}}. Looking forward to continuing the conversation."
+
+---
+
+COMMON OBJECTIONS & RESPONSES
+-----------------------------
+
+"WE'RE FOCUSED ON TRADITIONAL SEO RIGHT NOW"
+→ "Totally get that. Traditional SEO is still important. GEO complements it — they work together. Think of GEO as optimizing for AI assistants specifically, while SEO optimizes for Google. You need both now."
+
+"THIS SOUNDS EXPENSIVE"
+→ "I understand budget is a consideration. Let me ask: What's the cost of NOT doing this? If AI search is growing 40% YoY and you're invisible, what's that worth in missed opportunities? Our clients typically see ROI within 60-90 days."
+
+"WE NEED TO THINK ABOUT IT"
+→ "Of course. What specifically do you need to think through? [Listen] Got it. Let me send over some additional info on that. When would be a good time to reconnect?"
+
+"SEND ME INFO FIRST"
+→ "Happy to. To make sure I send the right info, what's most important for you to see? [Listen] Perfect, I'll include that in the proposal. Can we schedule a quick review call for {{Day}}?"
+
+---
+
+END OF SCRIPT

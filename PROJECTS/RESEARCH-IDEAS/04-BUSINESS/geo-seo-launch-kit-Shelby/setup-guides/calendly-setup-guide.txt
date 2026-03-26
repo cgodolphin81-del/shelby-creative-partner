@@ -1,0 +1,394 @@
+CALENDLY SETUP GUIDE
+====================
+
+Step-by-step instructions for setting up your booking system
+
+---
+
+STEP 1: CREATE YOUR CALENDLY ACCOUNT
+------------------------------------
+
+1. Go to calendly.com
+2. Click "Sign Up Free"
+3. Choose your plan:
+   - Free: 1 event type, basic features
+   - Essentials ($10/mo): 6 event types, reminders
+   - Professional ($15/mo): Unlimited event types, workflows
+   - Teams ($20/mo/user): Team scheduling
+
+   RECOMMENDATION: Start with Professional plan
+
+4. Connect your calendar (Google, Outlook, or iCloud)
+5. Set your availability:
+   - Timezone: {{YourTimezone}}
+   - Working hours: {{YourWorkingHours}}
+   - Buffer time: 15 minutes between meetings
+
+---
+
+STEP 2: CREATE YOUR EVENT TYPES
+-------------------------------
+
+EVENT TYPE 1: Free AI Visibility Audit (15 minutes)
+---------------------------------------------------
+
+Event Name: Free AI Visibility Audit Call
+Location: Google Meet (auto-generated)
+Duration: 15 minutes
+
+Description:
+"Get a free AI visibility audit for your business. I'll show you:
+• Where you appear (or don't) in AI search results
+• Which competitors are winning AI recommendations
+• Specific gaps and quick wins
+
+No sales pitch, just insights. You'll get the audit report either way."
+
+Availability:
+- Monday-Friday, 9am-5pm {{YourTimezone}}
+- Minimum notice: 2 hours
+- Maximum notice: 14 days
+
+Questions for invitees:
+1. What's your company name? (Required)
+2. What's your website URL? (Required)
+3. What industry are you in? (Required)
+4. Who are your top 2-3 competitors? (Optional)
+5. What's your biggest challenge with AI/search visibility? (Optional)
+
+Confirmations:
+"Thanks for booking! Before our call:
+• I'll research your AI visibility beforehand
+• Have your calendar ready to schedule a follow-up if it makes sense
+• Join via the Google Meet link in your confirmation email
+
+See you soon!
+{{YourName}}"
+
+Reminders:
+- Email: 24 hours before
+- Email: 1 hour before
+- SMS: 1 hour before (if phone provided)
+
+---
+
+EVENT TYPE 2: GEO SEO Strategy Call (30 minutes)
+------------------------------------------------
+
+Event Name: GEO SEO Strategy Session
+Location: Google Meet (auto-generated)
+Duration: 30 minutes
+
+Description:
+"Ready to explore GEO SEO for your business? This call is for you if:
+• You've completed a free audit call
+• You're serious about improving AI visibility
+• You want to discuss implementation and investment
+
+We'll cover:
+• Your audit findings in detail
+• Recommended strategy and timeline
+• Investment options
+• Next steps
+
+Come with questions. Leave with a clear plan."
+
+Availability:
+- Tuesday-Thursday, 10am-4pm {{YourTimezone}}
+- Minimum notice: 24 hours
+- Maximum notice: 21 days
+
+Questions for invitees:
+1. What's your timeline for implementing GEO SEO? (Required)
+2. Who else is involved in this decision? (Required)
+3. What's your approximate budget range? (Dropdown: <$5K, $5-10K, $10-20K, $20K+)
+4. Any specific goals or concerns? (Optional)
+
+Confirmations:
+"Looking forward to our strategy session!
+
+Before we meet:
+• Review your AI Visibility Audit (attached)
+• Think about your goals and timeline
+• Include any decision-makers who should join
+
+See you soon!
+{{YourName}}"
+
+Attachments:
+- Attach the AI Visibility Audit PDF
+
+Reminders:
+- Email: 48 hours before
+- Email: 24 hours before
+- Email: 1 hour before
+
+---
+
+EVENT TYPE 3: Proposal Review Call (30 minutes)
+-----------------------------------------------
+
+Event Name: Proposal Review - {{ClientCompany}}
+Location: Google Meet (auto-generated)
+Duration: 30 minutes
+
+Description:
+"Let's review your GEO SEO proposal together. We'll:
+• Walk through recommendations
+• Answer any questions
+• Discuss timeline and next steps
+• Get you started if you're ready"
+
+Availability:
+- By invitation only (manual scheduling)
+- Or: Monday-Wednesday, 1pm-4pm {{YourTimezone}}
+
+Questions for invitees:
+1. Have you reviewed the proposal? (Yes/No)
+2. Any specific questions before our call? (Optional)
+3. Who else will be joining from your team? (Optional)
+
+Confirmations:
+"See you soon to review your proposal!
+
+I'll have the proposal ready to walk through. Feel free to invite any team members who should be part of the decision.
+
+{{YourName}}"
+
+Reminders:
+- Email: 24 hours before
+- Email: 1 hour before
+
+---
+
+STEP 3: CUSTOMIZE YOUR BOOKING PAGE
+-----------------------------------
+
+1. Go to Settings → Booking Page
+2. Customize:
+   - Profile photo: {{YourPhotoURL}}
+   - Company logo: {{YourLogoURL}}
+   - Timezone: {{YourTimezone}}
+   - Brand colors: {{YourBrandColors}}
+
+3. Add a welcome message:
+"Hi, I'm {{YourName}}. I help businesses get cited by AI assistants like ChatGPT and Claude.
+
+Book a time below for a free AI visibility audit or strategy session.
+
+Looking forward to connecting!"
+
+4. Add your contact info:
+   - Email: {{YourEmail}}
+   - Phone: {{YourPhone}}
+   - Website: {{YourWebsite}}
+
+---
+
+STEP 4: SET UP WORKFLOWS (PROFESSIONAL PLAN+)
+---------------------------------------------
+
+WORKFLOW 1: Post-Booking Follow-Up
+----------------------------------
+
+Trigger: Event booked
+Delay: Immediately
+Action: Send email
+
+Subject: "Thanks for booking! + quick prep"
+
+Body:
+"Hi {{invitee_name}},
+
+Thanks for booking a {{event_type}} call!
+
+Quick prep:
+• I'll research your AI visibility before we meet
+• Have your calendar handy in case we schedule a follow-up
+• Join via the Google Meet link in your confirmation
+
+See you {{event_date}}!
+
+{{YourName}}"
+
+---
+
+WORKFLOW 2: No-Show Follow-Up
+-----------------------------
+
+Trigger: Event no-show
+Delay: 1 hour after event time
+Action: Send email
+
+Subject: "Missed you! Reschedule?"
+
+Body:
+"Hi {{invitee_name}},
+
+Looks like we missed each other for our {{event_type}} call. No worries!
+
+If you'd still like to connect, here's my calendar:
+{{reschedule_link}}
+
+Or just reply to this email and we'll find a time.
+
+{{YourName}}"
+
+---
+
+WORKFLOW 3: Post-Call Follow-Up (Audit Call)
+--------------------------------------------
+
+Trigger: Event completed (Audit Call)
+Delay: 1 hour after event
+Action: Send email
+
+Subject: "Your AI Visibility Audit + next steps"
+
+Body:
+"Hi {{invitee_name}},
+
+Great chatting today! As promised, here's your AI Visibility Audit:
+
+[Attach: {{ClientCompany}}_AI_Visibility_Audit.pdf]
+
+Key takeaways:
+• Current visibility: {{CurrentVisibility}}%
+• Top gap: {{TopGap}}
+• Quick win: {{QuickWin}}
+
+If you'd like to discuss implementing GEO SEO, book a strategy call:
+{{strategy_call_link}}
+
+Any questions? Just reply to this email.
+
+{{YourName}}"
+
+---
+
+WORKFLOW 4: Post-Call Follow-Up (Strategy Call)
+-----------------------------------------------
+
+Trigger: Event completed (Strategy Call)
+Delay: 1 hour after event
+Action: Send email
+
+Subject: "Proposal + next steps"
+
+Body:
+"Hi {{invitee_name}},
+
+Thanks for the great conversation today!
+
+As discussed, here's your GEO SEO proposal:
+[Attach: {{ClientCompany}}_GEO_SEO_Proposal.pdf]
+
+Next steps:
+1. Review the proposal
+2. Book a proposal review call: {{proposal_review_link}}
+3. We'll answer questions and get you started
+
+Any questions before then? Just reply.
+
+{{YourName}}"
+
+---
+
+STEP 5: INTEGRATE WITH YOUR TOOLS
+---------------------------------
+
+GOOGLE CALENDAR:
+- Already connected in Step 1
+- Set working hours and buffers
+
+ZOOM/GOOGLE MEET:
+- Settings → Integrations → Connect
+- Auto-generate meeting links
+
+SLACK:
+- Settings → Integrations → Slack
+- Get notified when calls are booked
+
+CRM (HUBSPOT, PIPEDRIVE, ETC.):
+- Use Zapier or native integration
+- Auto-create contacts and deals
+
+EMAIL MARKETING:
+- Add invitees to your email list (with consent)
+- Tag by event type for segmentation
+
+---
+
+STEP 6: EMBED ON YOUR WEBSITE
+-----------------------------
+
+1. Go to Share → Add to Website
+2. Choose embedding option:
+   - Inline: Embeds calendar directly on page
+   - Popup: Calendar opens in popup window
+   - Text link: Simple "Book Now" link
+
+3. Copy the embed code
+
+4. Paste into your website:
+   - WordPress: Use Custom HTML block
+   - Webflow: Use Embed element
+   - Squarespace: Use Code block
+   - Custom: Paste in HTML where you want calendar
+
+5. Test the embedding
+
+---
+
+STEP 7: SHARE YOUR LINKS
+------------------------
+
+Primary booking link: {{YourCalendlyURL}}
+
+Audit call direct link: {{YourCalendlyURL}}/15min
+Strategy call direct link: {{YourCalendlyURL}}/30min
+Proposal review link: {{YourCalendlyURL}}/proposal
+
+Add these to:
+- Email signature
+- LinkedIn profile
+- Website contact page
+- Proposal documents
+- Follow-up emails
+
+---
+
+STEP 8: ANALYTICS & OPTIMIZATION
+--------------------------------
+
+Track these metrics monthly:
+
+1. Booking rate: Bookings / Page views
+2. No-show rate: No-shows / Bookings
+3. Conversion rate: Clients / Strategy calls
+4. Average time to close: First booking to signed contract
+
+Optimize based on data:
+- Low booking rate? Improve landing page copy
+- High no-show rate? Add more reminders
+- Low conversion? Refine qualification questions
+
+---
+
+CHECKLIST
+---------
+
+□ Calendly account created
+□ Calendar connected
+□ Availability set
+□ Event types created (Audit, Strategy, Proposal Review)
+□ Booking page customized
+□ Workflows set up
+□ Integrations connected
+□ Calendar embedded on website
+□ Links added to email signature and LinkedIn
+□ Test booking completed
+
+---
+
+[End of Calendly Setup Guide]

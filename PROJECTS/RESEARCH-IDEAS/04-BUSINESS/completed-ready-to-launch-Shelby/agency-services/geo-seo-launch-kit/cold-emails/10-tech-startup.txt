@@ -1,0 +1,40 @@
+SUBJECT: {{Company}} missing from AI tool comparisons
+
+Hi {{FirstName}},
+
+I've been tracking which {{Category}} solutions AI assistants recommend. {{Company}} is noticeably absent.
+
+When users ask:
+• "Best {{Category}} platform for {{UseCase}}?"
+• "{{Category}} tools like {{Competitor1}}?"
+• "What {{Category}} software should I use?"
+
+AI recommends: {{Competitor1}}, {{Competitor2}}, {{Competitor3}}
+Not: {{Company}}
+
+This is critical for startups. Early adopters and tech buyers use AI to research tools. If you're not in those conversations, you're losing qualified leads before they even visit your site.
+
+GEO (Generative Engine Optimization) helps startups get cited by AI:
+
+→ Get into AI "best of" lists for {{Category}}
+→ Position as top alternative to {{Competitor1}}
+→ Build authority signals AI systems trust
+→ Track AI visibility and citation patterns
+
+{{SimilarStartup}} implemented this pre-Series A. Now appears in 79% of relevant AI tool queries. Their AI-referred demo requests: 156 last quarter.
+
+Open to a quick chat about {{Company}}'s AI visibility?
+
+Best,
+{{YourName}}
+{{YourTitle}}
+{{YourPhone}}
+
+P.S. — {{SpecificObservationAboutTheirProduct}}. This is exactly the kind of differentiation AI should be surfacing.
+
+---
+Pain points addressed:
+- Missing from early adopter AI research
+- Losing to competitors in AI tool comparisons
+- Lost demo requests from AI-referred traffic
+- Product differentiation not recognized by AI

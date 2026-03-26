@@ -1,0 +1,42 @@
+SUBJECT: {{Company}} not appearing in AI searches for {{ServiceType}}
+
+Hi {{FirstName}},
+
+When potential clients ask AI assistants "Who should I hire for {{ServiceType}} in {{City}}?" — {{Company}} isn't in the conversation.
+
+{{Competitor1}} and {{Competitor2}} are. Consistently.
+
+This is a growing problem. Professional services buyers increasingly use AI to:
+→ Research firms before reaching out
+→ Get unbiased recommendations
+→ Compare options quickly
+
+If AI doesn't recommend you, those conversations never start.
+
+What we do (GEO - Generative Engine Optimization):
+
+→ Position {{Company}} in AI recommendation engines
+→ Build authority signals AI systems recognize
+→ Get cited when AI discusses {{ServiceType}}
+→ Track AI visibility monthly with detailed reports
+
+{{SimilarFirm}} implemented this. Results:
+• Now appears in 71% of relevant AI searches
+• 2.3x more qualified inbound inquiries
+• Shorter sales cycles (clients come pre-educated)
+
+I'd love to run a free AI visibility audit for {{Company}}. Shows exactly where you're missing and how to fix it.
+
+15 minutes next week?
+
+Best,
+{{YourName}}
+{{YourTitle}}
+{{CalendarLink}}
+
+---
+Pain points addressed:
+- Missing from professional services AI research
+- Competitors dominating AI recommendations
+- Lost qualified inbound inquiries
+- Longer sales cycles without AI pre-education

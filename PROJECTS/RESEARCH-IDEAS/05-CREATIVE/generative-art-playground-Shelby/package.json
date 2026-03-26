@@ -1,0 +1,36 @@
+{
+  "name": "generative-art-playground",
+  "version": "1.0.0",
+  "description": "Interactive AI Art Generation Platform with NFT Minting and Print-on-Demand",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "api": "node api/server.js",
+    "seed": "node scripts/seed-styles.js",
+    "deploy": "vercel"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.159.0",
+    "@react-three/fiber": "^8.15.0",
+    "@react-three/drei": "^9.92.0",
+    "fabric": "^5.3.0",
+    "axios": "^1.6.0",
+    "stripe": "^14.5.0",
+    "mongodb": "^6.3.0",
+    "ipfs-http-client": "^60.0.0",
+    "ethers": "^6.9.0",
+    "framer-motion": "^10.16.0",
+    "canvas-confetti": "^1.9.0",
+    "html2canvas": "^1.4.0",
+    "sharp": "^0.33.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0"
+  }
+}

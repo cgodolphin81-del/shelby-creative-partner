@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with warm, welcoming gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9B59B6;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#E0AAFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F39C12;stop-opacity:1" />
+    </linearGradient>
+    <filter id="clubGlow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="1200" height="1200" fill="url(#bgGradient)"/>
+  
+  <!-- Overthinking brain with thought bubbles -->
+  <g transform="translate(600,450)">
+    <!-- Brain outline -->
+    <ellipse cx="0" cy="0" rx="100" ry="80" fill="#E0AAFF" opacity="0.9"/>
+    <path d="M-100,0 Q-115,-40 -100,-80 Q-85,-120 -40,-120 Q5,-120 0,-80 Q5,-120 40,-120 Q85,-120 100,-80 Q115,-40 100,0 Q115,40 100,80 Q85,120 40,120 Q5,120 0,80 Q-5,120 -40,120 Q-85,120 -100,80 Q-115,40 -100,0" fill="#9B59B6"/>
+    <!-- Thoughtful face -->
+    <circle cx="-30" cy="-15" r="10" fill="#333333"/>
+    <circle cx="30" cy="-15" r="10" fill="#333333"/>
+    <path d="M-25,10 Q0,20 25,10" stroke="#333333" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <!-- Hand on chin (thinking pose) -->
+    <ellipse cx="50" cy="40" rx="20" ry="15" fill="#F39C12" transform="rotate(-20 50 40)"/>
+    <ellipse cx="60" cy="30" rx="12" ry="10" fill="#F39C12" transform="rotate(-20 60 30)"/>
+    <ellipse cx="70" cy="20" rx="10" ry="8" fill="#F39C12" transform="rotate(-20 70 20)"/>
+  </g>
+  
+  <!-- Thought bubbles with questions -->
+  <g fill="#FFFFFF" opacity="0.95">
+    <!-- Bubble 1 -->
+    <ellipse cx="300" cy="300" rx="40" ry="25"/>
+    <text x="300" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9B59B6" text-anchor="middle">WHY?</text>
+    
+    <!-- Bubble 2 -->
+    <ellipse cx="900" cy="250" rx="50" ry="30"/>
+    <text x="900" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#9B59B6" text-anchor="middle">WHAT IF?</text>
+    
+    <!-- Bubble 3 -->
+    <ellipse cx="250" cy="900" rx="45" ry="28"/>
+    <text x="250" y="905" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#9B59B6" text-anchor="middle">HOW?</text>
+    
+    <!-- Bubble 4 -->
+    <ellipse cx="950" cy="850" rx="55" ry="32"/>
+    <text x="950" y="860" font-family="Arial, sans-serif" font-size="17" font-weight="bold" fill="#9B59B6" text-anchor="middle">BUT...</text>
+    
+    <!-- Small bubbles -->
+    <ellipse cx="500" cy="200" rx="20" ry="15"/>
+    <text x="500" y="205" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#9B59B6" text-anchor="middle">AND?</text>
+    
+    <ellipse cx="700" cy="180" rx="22" ry="16"/>
+    <text x="700" y="185" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#9B59B6" text-anchor="middle">RIGHT?</text>
+  </g>
+  
+  <!-- Connection lines (thoughts connected) -->
+  <g stroke="#FFFFFF" stroke-width="2" opacity="0.4">
+    <path d="M300,325 Q350,350 400,325"/>
+    <path d="M900,280 Q850,320 800,300"/>
+    <path d="M250,928 Q300,950 350,928"/>
+    <path d="M950,882 Q900,920 850,900"/>
+    <path d="M600,530 Q550,450 500,215"/>
+    <path d="M600,530 Q650,450 700,195"/>
+  </g>
+  
+  <!-- Club badge -->
+  <g transform="translate(600,650)">
+    <circle cx="0" cy="0" r="80" fill="#FFFFFF" opacity="0.95" filter="url(#clubGlow)"/>
+    <circle cx="0" cy="0" r="65" fill="#E0AAFF" opacity="0.9"/>
+    <!-- Club ribbon -->
+    <path d="M-50,65 Q-30,80 0,65 Q30,80 50,65 L50,90 Q30,105 0,90 Q-30,105 -50,90 Z" fill="#F39C12"/>
+  </g>
+  
+  <!-- Club text -->
+  <text x="600" y="770" font-family="Arial, sans-serif" font-size="88" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#clubGlow)">CLUB</text>
+  
+  <!-- Overthinker text -->
+  <text x="600" y="880" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#clubGlow)">Overthinker</text>
+  
+  <!-- Welcome message -->
+  <text x="600" y="940" font-family="Arial, sans-serif" font-size="26" fill="#FFFFFF" text-anchor="middle" opacity="0.95">You Belong Here ✨</text>
+  
+  <!-- Community hearts -->
+  <g fill="#FF6B6B" opacity="0.9">
+    <path d="M200,200 Q190,190 190,200 Q190,210 200,220 Q210,210 210,200 Q210,190 200,200 Z"/>
+    <path d="M1000,250 Q990,240 990,250 Q990,260 1000,270 Q1010,260 1010,250 Q1010,240 1000,250 Z"/>
+    <path d="M200,1000 Q190,990 190,1000 Q190,1010 200,1020 Q210,1010 210,1000 Q210,990 200,1000 Z"/>
+    <path d="M1000,950 Q990,940 990,950 Q990,960 1000,970 Q1010,960 1010,950 Q1010,940 1000,950 Z"/>
+    <path d="M600,150 Q590,140 590,150 Q590,160 600,170 Q610,160 610,150 Q610,140 600,150 Z"/>
+  </g>
+  
+  <!-- Stars and sparkles -->
+  <g fill="#FFFFFF" opacity="0.8">
+    <path d="M400,100 L408,125 L435,125 L415,140 L423,165 L400,150 L377,165 L385,140 L365,125 L392,125 Z"/>
+    <path d="M800,1050 L808,1075 L835,1075 L815,1090 L823,1115 L800,1100 L777,1115 L785,1090 L765,1075 L792,1075 Z"/>
+    <circle cx="700" cy="400" r="6" fill="#FFFFFF"/>
+    <circle cx="500" cy="350" r="5" fill="#FFFFFF"/>
+    <circle cx="850" cy="600" r="7" fill="#FFFFFF"/>
+    <circle cx="350" cy="700" r="5" fill="#FFFFFF"/>
+  </g>
+  
+  <!-- Question mark decorations -->
+  <g fill="#FFFFFF" opacity="0.6" font-family="Arial, sans-serif" font-size="36" font-weight="bold">
+    <text x="150" y="500">?</text>
+    <text x="1050" y="550">?</text>
+    <text x="150" y="700">?</text>
+    <text x="1050" y="750">?</text>
+  </g>
+</svg>

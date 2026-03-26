@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6C5CE7;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#A29BFE;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F08FF8;stop-opacity:1" />
+    </linearGradient>
+    <filter id="authenticGlow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="1200" height="1200" fill="url(#bgGradient)"/>
+  
+  <!-- Camera/Lens elements (filter metaphor) -->
+  <g transform="translate(600,500)">
+    <!-- Camera lens outer ring -->
+    <circle cx="0" cy="0" r="100" fill="none" stroke="#FFFFFF" stroke-width="8" opacity="0.8">
+      <animate attributeName="opacity" values="0.5;0.9;0.5" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="85" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+    <circle cx="0" cy="0" r="70" fill="#6C5CE7" opacity="0.6"/>
+    
+    <!-- Lens reflections -->
+    <ellipse cx="30" cy="-30" rx="15" ry="8" fill="#FFFFFF" opacity="0.7" transform="rotate(-45 30 -30)"/>
+    <ellipse cx="-25" cy="35" rx="12" ry="6" fill="#FFFFFF" opacity="0.5" transform="rotate(30 -25 35)"/>
+    
+    <!-- Filter rings -->
+    <circle cx="0" cy="0" r="55" fill="none" stroke="#A29BFE" stroke-width="3" opacity="0.7"/>
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#F08FF8" stroke-width="2" opacity="0.6"/>
+  </g>
+  
+  <!-- Off switch icon -->
+  <g transform="translate(600,720)">
+    <circle cx="0" cy="0" r="30" fill="#FF6B6B" opacity="0.9"/>
+    <line x1="-10" y1="-15" x2="10" y2="15" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+    <line x1="10" y1="-15" x2="-10" y2="15" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Transparent/Authentic badges -->
+  <g fill="#FFFFFF" opacity="0.85">
+    <circle cx="300" cy="300" r="20"/>
+    <circle cx="900" cy="300" r="25"/>
+    <circle cx="300" cy="900" r="22"/>
+    <circle cx="900" cy="900" r="18"/>
+  </g>
+  
+  <!-- Brain with clear view -->
+  <g transform="translate(600,850)">
+    <ellipse cx="0" cy="0" rx="90" ry="70" fill="#A29BFE" opacity="0.9"/>
+    <path d="M-90,0 Q-100,-35 -90,-70 Q-80,-105 -45,-105 Q-10,-105 0,-70 Q10,-105 45,-105 Q80,-105 90,-70 Q100,-35 90,0 Q100,35 90,70 Q80,105 45,105 Q10,105 0,70 Q-10,105 -45,105 Q-80,105 -90,70 Q-100,35 -90,0" fill="#F08FF8"/>
+    <!-- Clear, honest face -->
+    <circle cx="-25" cy="-10" r="8" fill="#333333"/>
+    <circle cx="25" cy="-10" r="8" fill="#333333"/>
+    <path d="M-20,5 Q0,15 20,5" stroke="#333333" stroke-width="3" fill="none" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Main text - bold and direct -->
+  <text x="600" y="380" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#authenticGlow)">FOCUS</text>
+  <text x="600" y="460" font-family="Arial, sans-serif" font-size="84" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#authenticGlow)">FILTER</text>
+  <text x="600" y="550" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#authenticGlow)">OFF</text>
+  
+  <!-- Authentic badges in corners -->
+  <g transform="translate(100,100)">
+    <rect x="0" y="0" width="150" height="60" rx="10" fill="#FFFFFF" opacity="0.9"/>
+    <text x="75" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#6C5CE7" text-anchor="middle">AUTHENTIC</text>
+  </g>
+  
+  <g transform="translate(950,1000) rotate(180)">
+    <rect x="0" y="0" width="150" height="60" rx="10" fill="#FFFFFF" opacity="0.9"/>
+    <text x="75" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#6C5CE7" text-anchor="middle">REAL</text>
+  </g>
+  
+  <!-- No filter zone indicators -->
+  <g stroke="#FFFFFF" stroke-width="4" opacity="0.7">
+    <line x1="200" y1="200" x2="280" y2="200"/>
+    <line x1="920" y1="200" x2="1000" y2="200"/>
+    <line x1="200" y1="1000" x2="280" y2="1000"/>
+    <line x1="920" y1="1000" x2="1000" y2="1000"/>
+  </g>
+  
+  <!-- Dots around edge -->
+  <g fill="#FFFFFF" opacity="0.6">
+    <circle cx="600" cy="100" r="8"/>
+    <circle cx="600" cy="1100" r="8"/>
+    <circle cx="100" cy="600" r="8"/>
+    <circle cx="1100" cy="600" r="8"/>
+    <circle cx="200" cy="200" r="5"/>
+    <circle cx="1000" cy="200" r="6"/>
+    <circle cx="200" cy="1000" r="5"/>
+    <circle cx="1000" cy="1000" r="6"/>
+  </g>
+  
+  <!-- Small text at bottom -->
+  <text x="600" y="1150" font-family="Arial, sans-serif" font-size="22" fill="#FFFFFF" text-anchor="middle" opacity="0.9">No filters, no masks, just me ✨</text>
+  
+  <!-- Sparkles for authenticity -->
+  <g fill="#FFFFFF" opacity="0.8">
+    <path d="M400,150 L405,165 L420,165 L408,175 L413,190 L400,180 L387,190 L392,175 L380,165 L395,165 Z"/>
+    <path d="M800,1050 L805,1065 L820,1065 L808,1075 L813,1090 L800,1080 L787,1090 L792,1075 L780,1065 L795,1065 Z"/>
+  </g>
+</svg>

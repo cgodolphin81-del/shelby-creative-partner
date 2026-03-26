@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "skills": {
+    "wordpress-pro": {
+      "version": "0.1.0",
+      "installedAt": 1774295286527
+    },
+    "vercel-deploy": {
+      "version": "1.0.0",
+      "installedAt": 1774295290944
+    },
+    "github-pages-auto-deploy": {
+      "version": "1.0.0",
+      "installedAt": 1774295299556
+    },
+    "openclaw-github-assistant": {
+      "version": "2.0.1",
+      "installedAt": 1774295304240
+    },
+    "gumroad-pro": {
+      "version": "1.2.9",
+      "installedAt": 1774295341618
+    },
+    "instagram-content-generation": {
+      "version": "1.0.0",
+      "installedAt": 1774295658027
+    },
+    "twitter-post": {
+      "version": "1.0.0",
+      "installedAt": 1774295662546
+    },
+    "linkedin": {
+      "version": "1.0.0",
+      "installedAt": 1774295665124
+    },
+    "email-marketing": {
+      "version": "1.0.0",
+      "installedAt": 1774295667778
+    },
+    "social-pack": {
+      "version": "1.0.0",
+      "installedAt": 1774295702173
+    },
+    "facebook-page-manager": {
+      "version": "1.0.0",
+      "installedAt": 1774295731557
+    },
+    "agent-browser-stagehand": {
+      "version": "1.0.0",
+      "installedAt": 1774296542226
+    },
+    "pinchtab-browser-ops": {
+      "version": "0.1.4",
+      "installedAt": 1774296549257
+    },
+    "pinchtab": {
+      "version": "0.8.5",
+      "installedAt": 1774296671212
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1774297081545
+    },
+    "notion-api": {
+      "version": "1.1.0",
+      "installedAt": 1774297084222
+    }
+  }
+}

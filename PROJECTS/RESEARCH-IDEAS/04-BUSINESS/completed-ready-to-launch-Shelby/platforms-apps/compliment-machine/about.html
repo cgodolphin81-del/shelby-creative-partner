@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Infinite Compliment Machine</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        .about-content {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        .about-section {
+            background: white;
+            padding: 2rem;
+            border-radius: 24px;
+            box-shadow: 0 8px 30px rgba(255, 107, 157, 0.2);
+            margin-bottom: 1.5rem;
+        }
+        
+        .about-section h2 {
+            color: #C44569;
+            margin-bottom: 1rem;
+        }
+        
+        .about-section p {
+            color: #666;
+            line-height: 1.8;
+            margin-bottom: 1rem;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+            margin: 1.5rem 0;
+        }
+        
+        .stat-card {
+            background: linear-gradient(135deg, #FFE5D9 0%, #FFF9F5 100%);
+            padding: 1.5rem;
+            border-radius: 16px;
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #FF6B9D 0%, #FF8E72 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+        }
+        
+        .back-link {
+            display: inline-block;
+            color: #FF6B9D;
+            text-decoration: none;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+        
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="about-content">
+        <a href="index.html" class="back-link">← Back to Compliments</a>
+        
+        <header style="text-align: center; margin-bottom: 2rem;">
+            <h1 style="font-family: 'Pacifico', cursive; font-size: 2.5rem; background: linear-gradient(135deg, #FF6B9D 0%, #FF8E72 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+                💝 About This Project
+            </h1>
+        </header>
+        
+        <div class="about-section">
+            <h2>Why I Built This</h2>
+            <p>
+                The internet can be a heavy place sometimes. Between the ads, the tracking, the arguments, 
+                and the constant pressure to buy things... it's easy to forget that the web can also be 
+                a source of genuine joy and connection.
+            </p>
+            <p>
+                I built the Infinite Compliment Machine as an antidote to all that. No ads. No tracking. 
+                No monetization. Just a simple tool that reminds you that you matter, you're valued, 
+                and you deserve to hear something wonderful today.
+            </p>
+            <p>
+                Because sometimes, that's all we need.
+            </p>
+        </div>
+        
+        <div class="about-section">
+            <h2>How It Works</h2>
+            <p>
+                The app uses a database of 1000+ compliments, carefully crafted to be genuine, 
+                meaningful, and personalized. When you enter your name, mood, and interests, 
+                the algorithm selects a compliment that fits your current state.
+            </p>
+            <p>
+                Everything happens in your browser - nothing is sent to a server, nothing is stored 
+                permanently. Your privacy matters, even in a compliment machine.
+            </p>
+        </div>
+        
+        <div class="about-section">
+            <h2>The Tech</h2>
+            <p>
+                Built with vanilla JavaScript (no frameworks!), pure CSS animations, and a whole lot of love. 
+                The entire site is less than 100KB, loads in under a second, and works on any device.
+            </p>
+            <p>
+                Sometimes the best solutions are the simplest ones.
+            </p>
+        </div>
+        
+        <div class="about-section">
+            <h2>Impact So Far</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number" id="stat-visits">0</div>
+                    <div class="stat-label">Your Visits</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="stat-compliments">0</div>
+                    <div class="stat-label">Compliments You've Received</div>
+                </div>
+            </div>
+            <p style="text-align: center; margin-top: 1rem; font-style: italic; color: #999;">
+                (These are your personal stats - we don't track others!)
+            </p>
+        </div>
+        
+        <div class="about-section">
+            <h2>Support This Project</h2>
+            <p>
+                This project is free, forever. No paywalls, no premium features, no catches.
+            </p>
+            <p>
+                If it made you smile and you want to support the mission of spreading more kindness 
+                online, you can:
+            </p>
+            <ul style="color: #666; line-height: 2; margin-left: 1.5rem;">
+                <li>Share it with someone who needs a smile</li>
+                <li>Buy me a coffee at <a href="https://ko-fi.com/complimentmachine" target="_blank" style="color: #FF6B9D;">ko-fi.com/complimentmachine</a></li>
+                <li>Just... be kind to someone today</li>
+            </ul>
+        </div>
+        
+        <div class="about-section">
+            <h2>Get in Touch</h2>
+            <p>
+                Have feedback? Found a bug? Want to share how this made you feel?
+            </p>
+            <p>
+                I'd love to hear from you. This project is a labor of love, and your thoughts matter.
+            </p>
+            <p style="text-align: center; margin-top: 1.5rem;">
+                <a href="index.html" class="btn btn-primary" style="display: inline-block; text-decoration: none;">
+                    Get Your Compliment →
+                </a>
+            </p>
+        </div>
+        
+        <footer style="text-align: center; padding: 2rem; color: #999;">
+            <p>Made with 💖 for a kinder internet</p>
+            <p style="font-size: 0.9rem;">© 2024 Infinite Compliment Machine</p>
+        </footer>
+    </div>
+
+    <script>
+        // Load personal stats
+        const visits = localStorage.getItem('complimentMachine_visits') || 0;
+        const events = JSON.parse(localStorage.getItem('complimentMachine_events') || '[]');
+        const compliments = events.filter(e => e.event === 'compliment_generated').length;
+        
+        document.getElementById('stat-visits').textContent = visits;
+        document.getElementById('stat-compliments').textContent = compliments;
+    </script>
+</body>
+</html>

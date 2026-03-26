@@ -1,0 +1,36 @@
+SUBJECT: Your expertise isn't showing up in AI searches
+
+Hi {{FirstName}},
+
+I've been researching {{Expertise}} consultants and noticed {{Company}} doesn't appear when people ask AI assistants for recommendations.
+
+Example queries where you're missing:
+• "Who's a good {{Expertise}} consultant?"
+• "{{Expertise}} experts for {{Industry}}"
+• "Best {{Expertise}} advisors in {{Region}}"
+
+Meanwhile, {{Competitor1}} and {{Competitor2}} are getting recommended consistently.
+
+Here's the shift: High-value clients increasingly use AI to research consultants before reaching out. If AI doesn't know about you, those conversations never happen.
+
+GEO (Generative Engine Optimization) helps consultants like you get cited by AI systems. We:
+
+→ Position your expertise in AI knowledge bases
+→ Get you in "top consultant" AI recommendations
+→ Build authority signals AI systems trust
+→ Track your AI visibility over time
+
+{{SimilarConsultant}} now appears in 76% of relevant AI consultant searches. Their inbound quality improved significantly — clients come pre-sold on their expertise.
+
+Worth a 15-min conversation to explore this?
+
+Best,
+{{YourName}}
+{{YourTitle}}
+
+---
+Pain points addressed:
+- Missing from high-value client AI research
+- Competitors getting AI recommendations instead
+- Lost inbound opportunities from AI-referred clients
+- Expertise not recognized by AI systems

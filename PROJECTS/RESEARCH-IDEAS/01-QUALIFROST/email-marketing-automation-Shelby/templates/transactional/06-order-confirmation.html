@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Confirmation</title>
+</head>
+<body style="margin: 0; padding: 0; font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f4f4f4;">
+    <table role="presentation" style="width: 100%; border-collapse: collapse;">
+        <tr>
+            <td align="center" style="padding: 40px 0;">
+                <table role="presentation" style="max-width: 600px; width: 100%; border-collapse: collapse; background-color: #ffffff;">
+                    
+                    <!-- Success Header -->
+                    <tr>
+                        <td style="background-color: #27ae60; padding: 40px 30px; text-align: center;">
+                            <p style="margin: 0; font-size: 48px;">✓</p>
+                            <h1 style="margin: 15px 0 0 0; color: #ffffff; font-size: 26px;">Order Confirmed!</h1>
+                            <p style="margin: 10px 0 0 0; color: #abf5c1; font-size: 14px;">Order #[Order ID]</p>
+                        </td>
+                    </tr>
+                    
+                    <!-- Greeting -->
+                    <tr>
+                        <td style="padding: 30px 30px 20px 30px;">
+                            <p style="margin: 0; color: #555; font-size: 16px;">Hi [Customer Name],</p>
+                            <p style="margin: 15px 0 0 0; color: #555; font-size: 16px;">Thank you for your order! We've received it and will begin processing shortly.</p>
+                        </td>
+                    </tr>
+                    
+                    <!-- Order Summary -->
+                    <tr>
+                        <td style="padding: 0 30px 30px 30px;">
+                            <table role="presentation" style="width: 100%; border: 1px solid #e0e0e0; border-radius: 8px;">
+                                <tr>
+                                    <td style="background-color: #f8f9fa; padding: 15px; border-bottom: 1px solid #e0e0e0;">
+                                        <h3 style="margin: 0; color: #2c3e50; font-size: 16px;">Order Summary</h3>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 20px;">
+                                        <!-- Items -->
+                                        <table role="presentation" style="width: 100%;">
+                                            <tr>
+                                                <td style="padding: 10px 0; border-bottom: 1px solid #ecf0f1;">
+                                                    <table role="presentation" style="width: 100%;">
+                                                        <tr>
+                                                            <td style="width: 70%;">
+                                                                <p style="margin: 0; color: #2c3e50; font-size: 15px; font-weight: bold;">[Product Name]</p>
+                                                                <p style="margin: 5px 0 0 0; color: #777; font-size: 13px;">[Variant/Size] | Qty: [Quantity]</p>
+                                                            </td>
+                                                            <td style="width: 30%; text-align: right;">
+                                                                <p style="margin: 0; color: #2c3e50; font-size: 15px;">$[Price]</p>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <!-- Repeat for additional items -->
+                                        </table>
+                                        
+                                        <!-- Totals -->
+                                        <table role="presentation" style="width: 100%; margin-top: 15px;">
+                                            <tr>
+                                                <td style="padding: 8px 0; color: #555; font-size: 14px;">Subtotal</td>
+                                                <td style="padding: 8px 0; text-align: right; color: #2c3e50; font-size: 14px;">$[Subtotal]</td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding: 8px 0; color: #555; font-size: 14px;">Shipping</td>
+                                                <td style="padding: 8px 0; text-align: right; color: #2c3e50; font-size: 14px;">$[Shipping]</td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding: 8px 0; color: #555; font-size: 14px;">Tax</td>
+                                                <td style="padding: 8px 0; text-align: right; color: #2c3e50; font-size: 14px;">$[Tax]</td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding: 15px 0 5px 0; color: #2c3e50; font-size: 16px; font-weight: bold; border-top: 2px solid #e0e0e0;">Total</td>
+                                                <td style="padding: 15px 0 5px 0; text-align: right; color: #2c3e50; font-size: 18px; font-weight: bold; border-top: 2px solid #e0e0e0;">$[Total]</td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Shipping Info -->
+                    <tr>
+                        <td style="padding: 0 30px 30px 30px;">
+                            <table role="presentation" style="width: 100%;">
+                                <tr>
+                                    <td style="width: 50%; vertical-align: top; padding: 0 10px 0 0;">
+                                        <h4 style="margin: 0 0 10px 0; color: #2c3e50; font-size: 14px; text-transform: uppercase;">Shipping To:</h4>
+                                        <p style="margin: 0; color: #555; font-size: 14px; line-height: 1.6;">
+                                            [Customer Name]<br>
+                                            [Address Line 1]<br>
+                                            [Address Line 2]<br>
+                                            [City, State ZIP]<br>
+                                            [Country]
+                                        </p>
+                                    </td>
+                                    <td style="width: 50%; vertical-align: top; padding: 0 0 0 10px;">
+                                        <h4 style="margin: 0 0 10px 0; color: #2c3e50; font-size: 14px; text-transform: uppercase;">Payment Method:</h4>
+                                        <p style="margin: 0; color: #555; font-size: 14px; line-height: 1.6;">
+                                            [Card Type] ending in [Last 4]<br>
+                                            [Billing Address if different]
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- What's Next -->
+                    <tr>
+                        <td style="padding: 0 30px 30px 30px;">
+                            <table role="presentation" style="width: 100%; background-color: #f8f9fa; border-radius: 8px;">
+                                <tr>
+                                    <td style="padding: 20px;">
+                                        <h3 style="margin: 0 0 15px 0; color: #2c3e50; font-size: 16px;">What's Next?</h3>
+                                        <table role="presentation" style="width: 100%;">
+                                            <tr>
+                                                <td style="width: 30px; vertical-align: top;">
+                                                    <span style="color: #27ae60; font-weight: bold;">1.</span>
+                                                </td>
+                                                <td style="padding: 5px 0;">
+                                                    <p style="margin: 0; color: #555; font-size: 14px;">Order confirmation (you're here!)</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="width: 30px; vertical-align: top;">
+                                                    <span style="color: #95a5a6; font-weight: bold;">2.</span>
+                                                </td>
+                                                <td style="padding: 5px 0;">
+                                                    <p style="margin: 0; color: #555; font-size: 14px;">Shipping confirmation with tracking</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="width: 30px; vertical-align: top;">
+                                                    <span style="color: #95a5a6; font-weight: bold;">3.</span>
+                                                </td>
+                                                <td style="padding: 5px 0;">
+                                                    <p style="margin: 0; color: #555; font-size: 14px;">Delivery! 📦</p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Support -->
+                    <tr>
+                        <td style="padding: 0 30px 40px 30px; text-align: center;">
+                            <p style="margin: 0 0 15px 0; color: #555; font-size: 14px;">Need help with your order?</p>
+                            <a href="[Support URL]" style="display: inline-block; color: #3498db; text-decoration: none; font-weight: bold; font-size: 14px;">Contact Support →</a>
+                        </td>
+                    </tr>
+                    
+                    <!-- Footer -->
+                    <tr>
+                        <td style="background-color: #2c3e50; padding: 30px; text-align: center; font-size: 12px; color: #95a5a6;">
+                            <p style="margin: 0 0 10px 0;">[Company Name], [Address]</p>
+                            <p style="margin: 0;">Questions? Reply to this email or contact us at [Support Email]</p>
+                        </td>
+                    </tr>
+                    
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

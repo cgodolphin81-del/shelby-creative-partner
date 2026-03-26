@@ -1,0 +1,159 @@
+═══════════════════════════════════════════════════════════════
+GEO SEO - SERVICE AGREEMENT
+This is a template. Have a lawyer review before use.
+═══════════════════════════════════════════════════════════════
+
+SERVICE AGREEMENT
+GEO (Generative Engine Optimization) SERVICES
+
+This Agreement is entered into as of [DATE] ("Effective Date") by
+and between:
+
+[YOUR COMPANY NAME], with offices at [YOUR ADDRESS] ("Provider")
+
+and
+
+[CLIENT COMPANY NAME], with offices at [CLIENT ADDRESS] ("Client")
+
+───────────────────────────────────────────────────────────────
+1. SERVICES
+───────────────────────────────────────────────────────────────
+
+Provider agrees to deliver GEO (Generative Engine Optimization)
+services as outlined in Proposal dated [DATE], attached as
+Exhibit A and incorporated by reference.
+
+Services include:
+• AI visibility audit and analysis
+• On-page GEO optimization
+• Authority signal amplification
+• Content optimization for AI extraction
+• Performance tracking and reporting
+• Strategic consultation
+
+───────────────────────────────────────────────────────────────
+2. TERM
+───────────────────────────────────────────────────────────────
+
+Initial Term: 90 days from Effective Date
+Renewal: Month-to-month after Initial Term
+Termination: Either party may terminate with 30 days written
+notice after Initial Term
+
+───────────────────────────────────────────────────────────────
+3. COMPENSATION
+───────────────────────────────────────────────────────────────
+
+Client agrees to pay Provider as follows:
+
+Package: [PACKAGE NAME]
+Monthly Fee: $[X,XXX] USD
+Payment Terms: Net 15 days from invoice date
+First Payment: Due upon signing
+
+Late Payments: Invoices overdue by more than 15 days may
+result in suspension of services until payment is received.
+
+───────────────────────────────────────────────────────────────
+4. CLIENT RESPONSIBILITIES
+───────────────────────────────────────────────────────────────
+
+Client agrees to:
+• Provide timely access to website, analytics, and relevant
+  systems
+• Designate a single point of contact for approvals
+• Respond to Provider requests within 5 business days
+• Provide accurate and complete information
+
+───────────────────────────────────────────────────────────────
+5. INTELLECTUAL PROPERTY
+───────────────────────────────────────────────────────────────
+
+Work Product: All work product created by Provider specifically
+for Client shall be owned by Client upon full payment.
+
+Provider Tools: Provider retains ownership of all pre-existing
+tools, methodologies, and processes used in delivering services.
+
+Portfolio Rights: Provider may reference Client in portfolio
+and marketing materials unless otherwise agreed in writing.
+
+───────────────────────────────────────────────────────────────
+6. CONFIDENTIALITY
+───────────────────────────────────────────────────────────────
+
+Both parties agree to keep confidential all non-public
+information received from the other party. This obligation
+survives termination of this Agreement for 2 years.
+
+───────────────────────────────────────────────────────────────
+7. PERFORMANCE DISCLAIMER
+───────────────────────────────────────────────────────────────
+
+Provider will perform services in a professional manner
+consistent with industry standards. However, Provider does
+not guarantee specific rankings, traffic, or revenue results
+as these depend on multiple factors beyond Provider's control.
+
+───────────────────────────────────────────────────────────────
+8. LIMITATION OF LIABILITY
+───────────────────────────────────────────────────────────────
+
+Provider's total liability under this Agreement shall not
+exceed the total fees paid by Client in the 3 months
+preceding the claim.
+
+Provider shall not be liable for any indirect, incidental,
+special, or consequential damages.
+
+───────────────────────────────────────────────────────────────
+9. INDEPENDENT CONTRACTOR
+───────────────────────────────────────────────────────────────
+
+Provider is an independent contractor, not an employee of
+Client. Provider is responsible for all taxes, insurance,
+and benefits related to Provider's personnel.
+
+───────────────────────────────────────────────────────────────
+10. GOVERNING LAW
+───────────────────────────────────────────────────────────────
+
+This Agreement shall be governed by the laws of [STATE/COUNTRY].
+Any disputes shall be resolved in the courts of [JURISDICTION].
+
+───────────────────────────────────────────────────────────────
+11. ENTIRE AGREEMENT
+───────────────────────────────────────────────────────────────
+
+This Agreement, including Exhibit A (Proposal), constitutes
+the entire agreement between the parties and supersedes all
+prior agreements or understandings.
+
+───────────────────────────────────────────────────────────────
+SIGNATURES
+───────────────────────────────────────────────────────────────
+
+PROVIDER:
+[YOUR COMPANY NAME]
+
+Signature: _________________________
+Name: [YOUR NAME]
+Title: [YOUR TITLE]
+Date: _________________________
+
+CLIENT:
+[CLIENT COMPANY NAME]
+
+Signature: _________________________
+Name: _________________________
+Title: _________________________
+Date: _________________________
+
+───────────────────────────────────────────────────────────────
+EXHIBIT A: PROPOSAL (Attached)
+EXHIBIT B: STATEMENT OF WORK (If applicable)
+───────────────────────────────────────────────────────────────
+
+═══════════════════════════════════════════════════════════════
+NOTE: This is a template. Consult with an attorney before use.
+═══════════════════════════════════════════════════════════════

@@ -1,0 +1,23 @@
+LinkedIn DM #3 - Mutual Connection
+===================================
+
+Hey {{FirstName}},
+
+{{MutualConnection}} and I were just talking about AI search visibility — and your name came up.
+
+I've been helping {{Industry}} companies get cited by AI assistants (ChatGPT, Claude, Perplexity, etc.). Noticed {{Company}} isn't showing up in AI recommendations right now, while {{Competitor1}} and {{Competitor2}} are.
+
+This is becoming a meaningful gap as more buyers use AI for research.
+
+{{SimilarClient}} worked with us and now appears in 73% of relevant AI searches. Their AI-referred leads increased 2x in 45 days.
+
+Would you be open to a quick 15-min chat? I can show you exactly where {{Company}} stands in AI search — no cost, just insights.
+
+{{MutualConnection}} thought it might be worth exploring.
+
+Best,
+{{YourName}}
+
+---
+Use when: You have a strong mutual connection
+Tone: Warm, referred, low-pressure

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Get a personalized compliment that'll make your day brighter! ✨">
+    <meta name="theme-color" content="#FF6B9D">
+    
+    <!-- Open Graph / Social Sharing -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Infinite Compliment Machine">
+    <meta property="og:description" content="Get a personalized compliment that'll make your day brighter! ✨">
+    <meta property="og:image" content="assets/og-image.png">
+    <meta name="twitter:card" content="summary_large_image">
+    
+    <title>✨ Infinite Compliment Machine</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Pacifico&display=swap" rel="stylesheet">
+    
+    <!-- PWA -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Compliments">
+    <link rel="apple-touch-icon" href="assets/icon-192.png">
+</head>
+<body>
+    <!-- Floating Background Elements -->
+    <div class="background-shapes">
+        <div class="shape shape-1">✨</div>
+        <div class="shape shape-2">💖</div>
+        <div class="shape shape-3">🌟</div>
+        <div class="shape shape-4">💫</div>
+        <div class="shape shape-5">🦋</div>
+        <div class="shape shape-6">🌈</div>
+    </div>
+
+    <!-- Main Container -->
+    <main class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1 class="logo">
+                <span class="logo-icon">💝</span>
+                <span class="logo-text">Infinite Compliment Machine</span>
+            </h1>
+            <p class="tagline">Because you deserve to hear something wonderful today</p>
+        </header>
+
+        <!-- Step 1: Get Name -->
+        <section id="step-name" class="step active">
+            <div class="step-content">
+                <h2>Hey there! What's your name?</h2>
+                <div class="input-group">
+                    <input 
+                        type="text" 
+                        id="name-input" 
+                        placeholder="Your beautiful name" 
+                        maxlength="30"
+                        autocomplete="name"
+                    >
+                    <button id="name-submit" class="btn btn-primary">
+                        Next →
+                    </button>
+                </div>
+                <p class="hint">Don't worry, we don't store it 🤐</p>
+            </div>
+        </section>
+
+        <!-- Step 2: Mood Selection -->
+        <section id="step-mood" class="step">
+            <div class="step-content">
+                <h2>How are you feeling today?</h2>
+                <div class="mood-grid">
+                    <button class="mood-btn" data-mood="happy">
+                        <span class="mood-emoji">😊</span>
+                        <span class="mood-label">Happy</span>
+                    </button>
+                    <button class="mood-btn" data-mood="tired">
+                        <span class="mood-emoji">😴</span>
+                        <span class="mood-label">Tired</span>
+                    </button>
+                    <button class="mood-btn" data-mood="stressed">
+                        <span class="mood-emoji">😰</span>
+                        <span class="mood-label">Stressed</span>
+                    </button>
+                    <button class="mood-btn" data-mood="excited">
+                        <span class="mood-emoji">🤩</span>
+                        <span class="mood-label">Excited</span>
+                    </button>
+                    <button class="mood-btn" data-mood="calm">
+                        <span class="mood-emoji">😌</span>
+                        <span class="mood-label">Calm</span>
+                    </button>
+                    <button class="mood-btn" data-mood="needs-love">
+                        <span class="mood-emoji">💕</span>
+                        <span class="mood-label">Need Love</span>
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Step 3: Interests -->
+        <section id="step-interests" class="step">
+            <div class="step-content">
+                <h2>What makes you light up?</h2>
+                <p class="hint">Pick a few (or skip!)</p>
+                <div class="interests-grid">
+                    <button class="interest-btn" data-interest="art">🎨 Art</button>
+                    <button class="interest-btn" data-interest="music">🎵 Music</button>
+                    <button class="interest-btn" data-interest="tech">💻 Tech</button>
+                    <button class="interest-btn" data-interest="nature">🌿 Nature</button>
+                    <button class="interest-btn" data-interest="books">📚 Books</button>
+                    <button class="interest-btn" data-interest="fitness">💪 Fitness</button>
+                    <button class="interest-btn" data-interest="food">🍕 Food</button>
+                    <button class="interest-btn" data-interest="travel">✈️ Travel</button>
+                    <button class="interest-btn" data-interest="games">🎮 Games</button>
+                    <button class="interest-btn" data-interest="animals">🐾 Animals</button>
+                    <button class="interest-btn" data-interest="science">🔬 Science</button>
+                    <button class="interest-btn" data-interest="writing">✍️ Writing</button>
+                </div>
+                <button id="interests-skip" class="btn btn-secondary">Skip →</button>
+            </div>
+        </section>
+
+        <!-- Step 4: The Compliment! -->
+        <section id="step-compliment" class="step">
+            <div class="step-content compliment-container">
+                <div class="compliment-card">
+                    <div class="confetti-container" id="confetti"></div>
+                    <div class="compliment-header">
+                        <span class="sparkle">✨</span>
+                        <span class="compliment-for">For <span id="compliment-name"></span></span>
+                        <span class="sparkle">✨</span>
+                    </div>
+                    <div class="compliment-text" id="compliment-text">
+                        Loading your compliment...
+                    </div>
+                    <div class="compliment-actions">
+                        <button id="new-compliment" class="btn btn-primary">
+                            🔄 Another One!
+                        </button>
+                        <button id="share-compliment" class="btn btn-secondary">
+                            📤 Share
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Email Capture Modal -->
+    <div id="email-modal" class="modal">
+        <div class="modal-content">
+            <button class="modal-close" id="email-modal-close">&times;</button>
+            <h3>💌 Daily Compliments?</h3>
+            <p>Get a fresh compliment in your inbox every morning!</p>
+            <form id="email-form">
+                <input 
+                    type="email" 
+                    id="email-input" 
+                    placeholder="your@email.com" 
+                    required
+                >
+                <button type="submit" class="btn btn-primary">Send Me Joy!</button>
+            </form>
+            <p class="hint">No spam, just love. Unsubscribe anytime.</p>
+        </div>
+    </div>
+
+    <!-- Share Modal -->
+    <div id="share-modal" class="modal">
+        <div class="modal-content">
+            <button class="modal-close" id="share-modal-close">&times;</button>
+            <h3>Share the Love!</h3>
+            <div class="share-card" id="share-card">
+                <p class="share-compliment" id="share-compliment-text"></p>
+                <p class="share-footer">via Infinite Compliment Machine 💝</p>
+            </div>
+            <div class="share-buttons">
+                <button id="share-twitter" class="btn btn-twitter">
+                    🐦 Twitter
+                </button>
+                <button id="share-facebook" class="btn btn-facebook">
+                    📘 Facebook
+                </button>
+                <button id="copy-link" class="btn btn-secondary">
+                    📋 Copy Link
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Ko-fi Button -->
+    <div class="kofi-container">
+        <a href='https://ko-fi.com/complimentmachine' target='_blank' rel='noopener'>
+            <img height='45' style='border:0px;height:45px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+        </a>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>Made with 💖 for a kinder internet</p>
+        <div class="footer-links">
+            <button id="daily-compliments" class="link-btn">Daily Compliments</button>
+            <a href="#" class="link-btn">About</a>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="js/compliments.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/analytics.js"></script>
+    
+    <!-- PWA Service Worker -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/sw.js')
+                    .then((registration) => {
+                        console.log('SW registered:', registration.scope);
+                    })
+                    .catch((error) => {
+                        console.log('SW registration failed:', error);
+                    });
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+[Unit]
+Description=Run GitHub backup every hour
+Requires=backup.service
+
+[Timer]
+OnBootSec=2min
+OnUnitActiveSec=1hour
+Persistent=true
+
+[Install]
+WantedBy=timers.target
