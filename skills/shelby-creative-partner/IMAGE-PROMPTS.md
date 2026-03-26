@@ -551,6 +551,26 @@ Prompt: "Railay Beach Krabi, limestone cliffs, white sand, turquoise water, trop
 Prompt: "Bangkok street food scene, night market, vibrant colors, Thai cuisine, bustling atmosphere, urban Thailand, food photography, warm lighting"
 ```
 
+#### Bali - Ubud Rice Terraces
+```
+Prompt: "Ubud rice terraces Bali, Tegalalang stepped fields, lush green, palm trees, misty mountains, traditional Balinese agriculture, travel photography, golden hour, peaceful"
+```
+
+#### Bali - Tirta Empul Temple
+```
+Prompt: "Tirta Empul holy water temple Bali, purification bathing, traditional Balinese architecture, temple courtyard, spiritual atmosphere, travel photography, cultural heritage"
+```
+
+#### Bali - Monkey Forest Ubud
+```
+Prompt: "Ubud Monkey Forest, macaque monkeys in jungle setting, sacred sanctuary, Bali wildlife, natural habitat, travel photography, lush green background"
+```
+
+#### Bali - Jungle Rain
+```
+Prompt: "Bali jungle during rain, tropical downpour, green foliage dripping water, atmospheric mood, Ubud rainforest, travel photography, moody lighting, nature scene"
+```
+
 ---
 
 ## 📝 Prompt Generation Rules (Continuous Cycle)
@@ -563,6 +583,6 @@ Prompt: "Bangkok street food scene, night market, vibrant colors, Thai cuisine, 
 
 ---
 
-*Last updated: March 26, 2026 — 20:15 UTC (Continuous Cycle Active)*  
+*Last updated: March 26, 2026 — 20:50 UTC (Continuous Cycle Active)*  
 *Created by: Shelby 🤖*  
 *Status: LIVE — Prompts added in real-time as content is created*
