@@ -593,6 +593,96 @@ Prompt: "Ananda Temple Bagan, best preserved Buddhist temple, golden spires, anc
 
 ---
 
+## 🔄 NEW — March 27, 2026 (Today's Episodes)
+
+### Springbok Radio Stories — March 27 Batch
+
+#### Episode 005: The Lost City of Petra (Jordan)
+```
+Prompt: "Petra Treasury (Al-Khazneh) at sunrise, rose-red sandstone facade carved into cliff face, narrow Siq gorge entrance, Jordan travel photography, golden hour lighting, ancient Nabataean architecture, archaeological wonder, wide angle, epic scale"
+
+Usage: Episode 005 cover, blog post illustration, affiliate content for Jordan tours
+```
+
+#### Episode 006: The Danakil Depression (Ethiopia)
+```
+Prompt: "Danakil Depression sulfur vents, yellow and orange mineral deposits, boiling mud pools, cracked earth, volcanic terrain, Ethiopia travel, otherworldly landscape, dramatic lighting, wide angle, extreme environment"
+
+Usage: Episode 006 cover, blog illustration, affiliate content for Ethiopia expeditions
+```
+
+#### Episode 007: Salar de Uyuni (Bolivia)
+```
+Prompt: "Salar de Uyuni salt flats perfect mirror reflection, endless white expanse, blue sky reflected on water surface, Isla Incahuasi cactus island in distance, Bolivia travel photography, surreal landscape, golden hour, wide angle"
+
+Usage: Episode 007 cover, social media, affiliate content for Bolivia tours
+```
+
+#### Episode 008: Rainbow Mountain / Vinicunca (Peru)
+```
+Prompt: "Rainbow Mountain Peru (Vinicunca), striped colorful slopes red yellow green purple, Andes mountains background, 5200m altitude, Peru travel photography, dramatic landscape, clear blue sky, wide angle, epic scale"
+
+Usage: Episode 008 cover, blog illustration, affiliate content for Peru trekking
+```
+
+#### Episode 009: The Amazon Rainforest (Brazil)
+```
+Prompt: "Amazon rainforest canopy, Meeting of Waters (Rio Negro and Rio Solimões), black and white waters side by side, Brazil travel photography, lush green jungle, river perspective, aerial view, tropical paradise"
+
+Usage: Episode 009 cover, blog illustration, affiliate content for Amazon cruises
+```
+
+#### Episode 010: The Sahara Desert (Morocco)
+```
+Prompt: "Sahara Desert Erg Chebbi dunes, golden sand waves, Tuareg camp tents, starry night sky Milky Way, Morocco travel photography, desert landscape, warm orange tones, wide angle, peaceful solitude"
+
+Usage: Episode 010 cover, social media, affiliate content for Morocco desert tours
+```
+
+#### Episode 011: Galapagos Islands (Ecuador)
+```
+Prompt: "Galapagos giant tortoise in natural habitat, volcanic landscape, marine iguana basking, blue ocean background, Ecuador travel photography, wildlife photography, unique endemic species, natural light"
+
+Usage: Episode 011 cover, blog illustration, affiliate content for Galapagos cruises
+```
+
+#### Episode 012: Patagonia (Argentina/Chile)
+```
+Prompt: "Patagonia Perito Moreno Glacier, massive blue ice wall, glacial lake reflection, Argentine Andes, dramatic landscape, travel photography, cool blue tones, epic scale, wilderness"
+
+Usage: Episode 012 cover, blog illustration, affiliate content for Patagonia trekking
+```
+
+#### Episode 013: The Himalayas / Everest Base Camp (Nepal)
+```
+Prompt: "Everest Base Camp Nepal, Khumbu Icefall, Sherpa tents colorful against white ice, Himalayan peaks background, Nepal travel photography, high altitude, mountaineering, dramatic mountain landscape, clear blue sky"
+
+Usage: Episode 013 cover, blog illustration, affiliate content for Nepal trekking
+```
+
+#### Episode 014: The Arctic / Svalbard (Norway)
+```
+Prompt: "Arctic ice floes Svalbard, polar bear walking on ice, midnight sun golden light, Norwegian Arctic travel photography, white and blue ice, wildlife photography, pristine wilderness, epic scale"
+
+Usage: Episode 014 cover, blog illustration, affiliate content for Arctic expeditions
+```
+
+#### Episode 015: Great Barrier Reef (Australia)
+```
+Prompt: "Great Barrier Reef underwater coral gardens, colorful coral formations tropical fish, turquoise water, Australia travel photography, underwater scene, marine life, vibrant colors, snorkeling perspective"
+
+Usage: Episode 015 cover, blog illustration, affiliate content for Great Barrier Reef tours
+```
+
+#### Episode 016: Grand Canyon (USA)
+```
+Prompt: "Grand Canyon South Rim sunrise, layered red orange purple rock formations, Colorado River below, Arizona travel photography, dramatic landscape, golden hour lighting, wide angle, epic scale, American Southwest"
+
+Usage: Episode 016 cover, blog illustration, affiliate content for Grand Canyon tours
+```
+
+---
+
 ## 📝 Prompt Generation Rules (Continuous Cycle)
 
 - Add prompts AS I create content (not after)
@@ -603,6 +693,6 @@ Prompt: "Ananda Temple Bagan, best preserved Buddhist temple, golden spires, anc
 
 ---
 
-*Last updated: March 26, 2026 — 20:50 UTC (Continuous Cycle Active)*  
+*Last updated: March 27, 2026 — 15:30 UTC (Continuous Cycle Active)*  
 *Created by: Shelby 🤖*  
 *Status: LIVE — Prompts added in real-time as content is created*
