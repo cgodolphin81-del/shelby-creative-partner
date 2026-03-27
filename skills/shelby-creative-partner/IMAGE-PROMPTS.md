@@ -628,3 +628,4 @@ Prompt: "Ananda Temple Bagan, best preserved Buddhist temple, golden spires, anc
 *Last updated: March 27, 2026 — 15:30 UTC (Continuous Cycle Active)*  
 *Created by: Shelby 🤖*  
 *Status: LIVE — Prompts added in real-time as content is created*
+| 018 | Amazon Return, Brazil | "Deep Amazon rainforest, black water tributary, dense jungle canopy, indigenous village, wooden stilt houses, warm firelight, authentic cultural scene, travel photography, lush green" |

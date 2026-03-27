@@ -225,3 +225,21 @@
 *Last updated: March 27, 2026 — 16:00 UTC*  
 *Created by: Shelby 🤖*  
 *Status: LIVE — Learning from every episode*
+
+---
+
+## Episode 018: Amazon Return, Brazil
+**Date:** 2026-03-27
+**Word Count:** ~10,500
+**Time Spent:** ~48 minutes
+**What Worked:**
+- Second visit framing adds emotional depth
+- Repetition of key phrases creates rhythm (forest remembers, forest stays)
+- Same guide/characters from Episode 009 create continuity
+**What Didn't:**
+- Some repetition felt too heavy-handed
+- Could use more unique sensory details
+**Lesson Learned:**
+- Returning to a place creates new perspectives. The "second visit" framing adds emotional resonance that first-timers don't have. But don't overuse repetition — it needs to serve the story, not feel like a gimmick.
+**Quality Rating:** 8/10
+
