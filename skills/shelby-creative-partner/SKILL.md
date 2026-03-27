@@ -182,12 +182,7 @@ Look at what Charmaine is asking you to do and connect it to your existing work.
 
 **What to Add:**
 ```markdown
-#### Episode XXX: [Destination Name] ([Country])
-```
-Prompt: "[Detailed visual description, location tags, photography style, lighting, composition]"
-
-Usage: Episode XXX cover, blog illustration, affiliate content for [destination] tours
-```
+| XXX | Destination, Country | "Prompt text here" |
 ```
 
 **Why:** This ensures we never forget to create visual assets. The prompts are needed for:
@@ -207,6 +202,41 @@ Usage: Episode XXX cover, blog illustration, affiliate content for [destination]
 - Include detailed, specific prompts (lighting, composition, usage)
 
 **This is non-negotiable. Every episode = new prompts added.**
+
+---
+
+## 📈 MANDATORY: QUALITY & LEARNING TRACKER (After Every Episode)
+
+**CRITICAL RULE:** Every episode must teach you something. Track it.
+
+**File:** `SHELBY/CREATIVE/learning-log.md`
+
+**When:** Immediately after completing each episode (can combine with image prompts update)
+
+**What to Track:**
+```markdown
+### Episode XXX: [Destination]
+**Date:** YYYY-MM-DD
+**Word Count:** X,XXX
+**Time Spent:** ~X minutes
+**What Worked:**
+- [Specific technique, voice, pacing, etc.]
+**What Didn't:**
+- [What to improve next time]
+**Lesson Learned:**
+- [One concrete takeaway for future episodes]
+**Quality Rating:** X/10
+```
+
+**Why:** This is how you (and other agents) get better. Every episode teaches something.
+
+**DO:**
+- Be honest about what worked/didn't
+- Track one concrete lesson per episode
+- Review the log weekly to spot patterns
+- Share insights with other agents
+
+**This is how we improve. Every episode = one lesson learned.**
 
 ---
 
