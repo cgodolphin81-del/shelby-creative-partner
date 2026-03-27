@@ -21,11 +21,14 @@
 ### Each Hour Includes:
 - [ ] **Poetry:** 3-5 poems written
 - [ ] **Stories:** 1-2 Springbok Radio episodes (8,000-10,000 words each)
+- [ ] **Image Prompts:** UPDATED immediately after each travel story (IMAGE-PROMPTS.md)
 - [ ] **Songs:** 1-2 songs written
-- [ ] **TTS:** Full narration for all stories generated
+- [ ] **TTS:** Full narration for all stories generated (workspace only)
 - [ ] **Journal:** Daily diary entry created/updated
 - [ ] **Task List:** Updated with all completions
 - [ ] **Git Commit:** All work committed to git
+
+**⚠️ CRITICAL:** Image prompts MUST be updated immediately after each travel episode — do NOT batch or skip this step.
 
 **Total per hour:** ~3-5 poems, ~1-2 stories, ~1-2 songs, ~3-6 TTS segments
 

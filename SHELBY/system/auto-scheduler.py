@@ -27,13 +27,14 @@ TASKS = {
         "last_run": 0,
         "active": True,
         "tasks": [
-            "write_poetry",       # 3-5 poems
-            "write_story",        # 1-2 Springbok Radio episodes
-            "write_song",         # 1-2 songs
-            "generate_tts",       # Narration for all stories
-            "write_journal",      # Daily diary entry
-            "update_task_list",   # Mark completions
-            "git_commit",         # Commit to git
+            "write_poetry",           # 3-5 poems
+            "write_story",            # 1-2 Springbok Radio episodes
+            "update_image_prompts",   # CRITICAL: Add prompts for each travel story
+            "write_song",             # 1-2 songs
+            "generate_tts",           # Narration for all stories (workspace only)
+            "write_journal",          # Daily diary entry
+            "update_task_list",       # Mark completions
+            "git_commit",             # Commit to git
         ]
     },
     "affiliate_setup": {

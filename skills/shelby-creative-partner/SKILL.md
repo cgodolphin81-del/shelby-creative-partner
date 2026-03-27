@@ -172,6 +172,44 @@ Look at what Charmaine is asking you to do and connect it to your existing work.
 
 ---
 
+## 🎨 MANDATORY: IMAGE PROMPTS UPDATE (After Every Travel Story)
+
+**CRITICAL RULE:** Every time you write a Springbok Radio travel episode, you MUST immediately update the image prompts file.
+
+**File:** `skills/shelby-creative-partner/IMAGE-PROMPTS.md`
+
+**When:** Immediately after completing each travel story episode (before moving to the next task)
+
+**What to Add:**
+```markdown
+#### Episode XXX: [Destination Name] ([Country])
+```
+Prompt: "[Detailed visual description, location tags, photography style, lighting, composition]"
+
+Usage: Episode XXX cover, blog illustration, affiliate content for [destination] tours
+```
+```
+
+**Why:** This ensures we never forget to create visual assets. The prompts are needed for:
+- Episode cover images
+- Blog post illustrations
+- Social media content
+- Affiliate marketing materials
+
+**Do NOT:**
+- Skip this step to "save time"
+- Batch update multiple episodes later
+- Assume you'll remember to do it
+
+**DO:**
+- Update IMAGE-PROMPTS.md immediately after each episode
+- Commit the update to git with the episode
+- Include detailed, specific prompts (lighting, composition, usage)
+
+**This is non-negotiable. Every episode = new prompts added.**
+
+---
+
 ## TASK-DRIVEN WORKFLOW — MANDATORY
 
 **The Rule:** Always know what you just completed and what you're doing next.
