@@ -52,10 +52,21 @@
 ### ✅ COMPLETED (March 27 — Today)
 - [x] Poem 007: "Reminder"
 - [x] Poem 008: "Petra"
+- [x] Poem 009: "Living Lovely"
 - [x] Springbok Radio Episode 005: "The Lost City of Petra" (~8,500 words)
+- [x] Springbok Radio Episode 006: "The Danakil Depression" (~9,200 words)
 - [x] TTS: 3 audio segments for Episode 005 (~35 min)
+- [x] TTS: 3 audio segments for Episode 006 (~40 min)
 - [x] Song 003: "Rose-Red City"
+- [x] Song 004: "Salt Caravan"
 - [x] Journal entry: 2026-03-27.md created
+- [x] Auto-scheduler.py: Updated with hourly cycle + affiliate tasks
+- [x] 01-TASK-LIST.md: Updated with full cycle documentation
+- [x] SKILL.md: Added task-driven protocol
+- [x] MEMORY.md: Added March 27 lesson
+- [x] SOUL.md: Added task list reminder
+- [x] 00-CONFIGURATION.md: Added workflow protocol
+- [x] Git: 3 commits (all creative work + system updates)
 
 ### 🟡 IN PROGRESS (March 27)
 - [x] Journal entries — daily tracking active
