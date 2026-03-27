@@ -31,6 +31,7 @@ TASKS = {
             "write_story",            # 1-2 Springbok Radio episodes
             "update_image_prompts",   # CRITICAL: Add prompts for each travel story
             "update_learning_log",    # CRITICAL: Track lessons from each episode
+            "update_fashion_designs", # CRITICAL: Add fashion concept per episode
             "write_song",             # 1-2 songs
             "generate_tts",           # Narration for all stories (workspace only)
             "write_journal",          # Daily diary entry

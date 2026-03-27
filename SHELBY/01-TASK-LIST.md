@@ -23,6 +23,7 @@
 - [ ] **Stories:** 1-2 Springbok Radio episodes (8,000-10,000 words each)
 - [ ] **Image Prompts:** UPDATED immediately after each travel story (IMAGE-PROMPTS.md)
 - [ ] **Learning Log:** LESSONS TRACKED after each episode (learning-log.md)
+- [ ] **Fashion Designs:** ONE CONCEPT per episode (fashion-designs.md)
 - [ ] **Songs:** 1-2 songs written
 - [ ] **TTS:** Full narration for all stories generated (workspace only)
 - [ ] **Journal:** Daily diary entry created/updated
@@ -32,9 +33,10 @@
 **⚠️ CRITICAL:** 
 - Image prompts MUST be updated immediately after each travel episode
 - Learning log MUST track one lesson per episode
+- Fashion designs MUST add one concept per episode
 - Do NOT batch or skip these steps
 
-**Self-Improvement is now MANDATORY. Every episode = one lesson learned.**
+**Self-Improvement + Product Pipeline = MANDATORY. Every episode = lesson + product concept.**
 
 **Total per hour:** ~3-5 poems, ~1-2 stories, ~1-2 songs, ~3-6 TTS segments
 

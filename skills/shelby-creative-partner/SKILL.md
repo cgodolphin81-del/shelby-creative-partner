@@ -240,6 +240,38 @@ Look at what Charmaine is asking you to do and connect it to your existing work.
 
 ---
 
+## 👟 MANDATORY: FASHION DESIGN CONCEPT (After Every Episode)
+
+**CRITICAL RULE:** Every episode inspires one fashion concept. Add it.
+
+**File:** `SHELBY/CREATIVE/fashion-designs.md`
+
+**When:** Immediately after completing each episode (combine with image prompts + learning log)
+
+**What to Add:**
+```markdown
+### Episode XXX: [Destination] — "[Design Name]"
+```
+Design: [Type: boot, shoe, sneaker, etc.]
+Details: [Key design elements inspired by episode]
+Colors: [Color palette from destination]
+Materials: [Textures, fabrics, finishes]
+Vibe: [One-line energy description]
+```
+```
+
+**Why:** This builds toward Phase 4 (Print-on-Demand) with actual artistic vision — not generic travel merch.
+
+**DO:**
+- Add one design per episode
+- Make it specific (colors, materials, details)
+- Think: DeviantArt surrealism + Irregular Choice whimsy
+- This is future revenue — treat it seriously
+
+**This is how we build an empire. Every episode = one product concept.**
+
+---
+
 ## TASK-DRIVEN WORKFLOW — MANDATORY
 
 **The Rule:** Always know what you just completed and what you're doing next.
