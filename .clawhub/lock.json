@@ -64,6 +64,10 @@
     "notion-api": {
       "version": "1.1.0",
       "installedAt": 1774297084222
+    },
+    "speech-to-text-transcription": {
+      "version": "1.0.0",
+      "installedAt": 1774614003462
     }
   }
 }
