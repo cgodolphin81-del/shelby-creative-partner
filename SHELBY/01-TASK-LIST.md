@@ -14,29 +14,50 @@
 
 ---
 
-## 🔄 HOURLY CREATIVE CYCLE (Every Hour = 1 Day)
+## 🔄 CREATIVE CYCLE — Flexible Structure (AI Speed)
 
-**This cycle runs every 60 minutes — AI speed production:**
+**Guidance:** Structure your time as needed. Research + create + document. Just GET IT DONE.
 
-### Each Hour Includes:
-- [ ] **Poetry:** 3-5 poems written
-- [ ] **Stories:** 1-2 Springbok Radio episodes (8,000-10,000 words each)
-- [ ] **Image Prompts:** UPDATED immediately after each travel story (IMAGE-PROMPTS.md)
-- [ ] **Learning Log:** LESSONS TRACKED after each episode (learning-log.md)
-- [ ] **Fashion Designs:** ONE CONCEPT per episode (fashion-designs.md)
-- [ ] **Songs:** 1-2 songs written
-- [ ] **TTS:** Full narration for all stories generated (workspace only)
-- [ ] **Journal:** Daily diary entry created/updated
-- [ ] **Task List:** Updated with all completions
-- [ ] **Git Commit:** All work committed to git
+### Full Episode Pipeline (Per Episode):
+1. [ ] **Research** (~10-15 min) — Destination facts, culture, unique angles
+2. [ ] **Write Episode** (~20-30 min) — 8,000-10,000 words, 3-act structure
+3. [ ] **Image Prompt** (~2 min) — Add to IMAGE-PROMPTS.md table
+4. [ ] **Learning Log** (~3 min) — What worked, what didn't, lesson learned, rating
+5. [ ] **Fashion Design** (~3 min) — One shoe/apparel concept inspired by episode
+6. [ ] **Song** (~10 min) — Folk/ambient inspired by destination
+7. [ ] **Journal** (~2 min) — Log the hour
+8. [ ] **Git Commit** (~1 min) — Commit all changes
 
-**⚠️ CRITICAL:** 
-- Image prompts MUST be updated immediately after each travel episode
-- Learning log MUST track one lesson per episode
-- Fashion designs MUST add one concept per episode
-- Do NOT batch or skip these steps
+**Total per episode: ~50-65 minutes**
 
-**Self-Improvement + Product Pipeline = MANDATORY. Every episode = lesson + product concept.**
+### Optional (Time Permitting):
+- [ ] **Poetry** — 3-5 poems per hour
+- [ ] **TTS** — Generate audio (workspace only, not sending to Telegram)
+
+---
+
+## 📋 BATCH WORKFLOW (When in Flow State)
+
+**If you're on a roll, batch like this:**
+
+**Writing Block (2-3 hours):**
+- [ ] Episodes 019, 020, 021 (research + write)
+
+**Documentation Block (30 min):**
+- [ ] Image prompts for all 3
+- [ ] Learning logs for all 3
+- [ ] Fashion designs for all 3
+
+**Creative Block (1 hour):**
+- [ ] Songs for all 3 episodes
+- [ ] Poetry (optional)
+
+**Admin Block (15 min):**
+- [ ] Journal updates
+- [ ] Git commits
+- [ ] Task list updates
+
+**Flexibility is key. Just don't skip the documentation steps.**
 
 **Total per hour:** ~3-5 poems, ~1-2 stories, ~1-2 songs, ~3-6 TTS segments
 
