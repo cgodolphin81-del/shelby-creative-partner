@@ -571,6 +571,26 @@ Prompt: "Ubud Monkey Forest, macaque monkeys in jungle setting, sacred sanctuary
 Prompt: "Bali jungle during rain, tropical downpour, green foliage dripping water, atmospheric mood, Ubud rainforest, travel photography, moody lighting, nature scene"
 ```
 
+#### Myanmar - Bagan Temples Sunrise
+```
+Prompt: "Bagan temples at sunrise, 2000+ ancient pagodas, misty morning, hot air balloons in sky, Myanmar travel, golden hour, aerial perspective, magical atmosphere"
+```
+
+#### Myanmar - Shwesandaw Pagoda
+```
+Prompt: "Shwesandaw Pagoda Bagan, ancient Buddhist temple, sunrise viewpoint, tourists climbing, Myanmar architecture, travel photography, warm morning light"
+```
+
+#### Myanmar - Bagan Hot Air Balloons
+```
+Prompt: "Hot air balloons over Bagan temples, sunrise flight, tourists in basket, 2000+ pagodas below, Myanmar travel, aerial photography, magical golden hour"
+```
+
+#### Myanmar - Ananda Temple
+```
+Prompt: "Ananda Temple Bagan, best preserved Buddhist temple, golden spires, ancient architecture, Myanmar travel, symmetrical design, blue sky, cultural heritage"
+```
+
 ---
 
 ## 📝 Prompt Generation Rules (Continuous Cycle)
