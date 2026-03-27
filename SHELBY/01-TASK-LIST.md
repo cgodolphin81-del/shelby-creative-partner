@@ -14,6 +14,25 @@
 
 ---
 
+## 🔄 HOURLY CREATIVE CYCLE (Every Hour = 1 Day)
+
+**This cycle runs every 60 minutes — AI speed production:**
+
+### Each Hour Includes:
+- [ ] **Poetry:** 3-5 poems written
+- [ ] **Stories:** 1-2 Springbok Radio episodes (8,000-10,000 words each)
+- [ ] **Songs:** 1-2 songs written
+- [ ] **TTS:** Full narration for all stories generated
+- [ ] **Journal:** Daily diary entry created/updated
+- [ ] **Task List:** Updated with all completions
+- [ ] **Git Commit:** All work committed to git
+
+**Total per hour:** ~3-5 poems, ~1-2 stories, ~1-2 songs, ~3-6 TTS segments
+
+**Total per day (24 hours):** ~72-120 poems, ~24-48 stories, ~24-48 songs, ~72-144 TTS segments
+
+---
+
 ## 🎯 IMMEDIATE TASKS (Next 24 Hours)
 
 ### ✅ COMPLETED (March 19-26)
@@ -45,6 +64,37 @@
 - [ ] Poems 009-011 (2 more to hit today's target)
 - [ ] More TTS for back-catalog stories
 - [ ] GitHub push — waiting on repo confirmation
+
+### 📝 UPCOMING (Next 48 Hours)
+- [ ] Monday 9 AM: OpenClaw testing (CV templates)
+
+---
+
+## 💰 SHELBY TRAVELS AFFILIATE SETUP (Every 2 Hours)
+
+**Phase 1: Join Affiliate Programs**
+- [ ] Booking.com affiliate program
+- [ ] GetYourGuide affiliate program
+- [ ] SafetyWing affiliate program
+- [ ] Airalo affiliate program
+- [ ] Amazon Associates program
+
+**Phase 2: Add Links to Content**
+- [ ] Add affiliate links to 10 best destination guides
+- [ ] Add booking widgets to destination pages
+
+**Phase 3: Build Resources Page**
+- [ ] Create "Resources" page with all recommendations
+- [ ] Add affiliate disclosures and CTAs
+
+**Phase 4: Launch & Monitor**
+- [ ] Test all affiliate links
+- [ ] Monitor clicks and conversions
+- [ ] Optimize placement based on data
+
+**Target:** $500-2,000/month by Month 1
+
+---
 
 ### 📝 UPCOMING (Next 48 Hours)
 - [ ] Monday 9 AM: OpenClaw testing (CV templates)
