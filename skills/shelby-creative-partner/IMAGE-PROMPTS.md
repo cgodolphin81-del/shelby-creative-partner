@@ -609,6 +609,7 @@ Prompt: "Ananda Temple Bagan, best preserved Buddhist temple, golden spires, anc
 | 014 | Arctic/Svalbard, Norway | "Arctic ice floes, polar bear on ice, midnight sun golden light, white blue ice, wildlife photography, pristine wilderness" |
 | 015 | Great Barrier Reef, Australia | "Underwater coral gardens, colorful coral tropical fish, turquoise water, marine life, vibrant colors, snorkeling perspective" |
 | 016 | Grand Canyon, USA | "South Rim sunrise, layered red orange purple rock, Colorado River below, dramatic landscape, golden hour, American Southwest" |
+| 017 | Northern Lights, Finland | "Aurora borealis green purple pink ribbons, Arctic night sky, frozen lake reflection, Finnish Lapland, Sami reindeer, magical dancing lights, long exposure" |
 
 **Usage:** Episode covers, blog illustrations, social media, affiliate content for destination tours
 
