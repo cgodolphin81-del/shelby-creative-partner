@@ -45,6 +45,50 @@
 - Created full SKILL.md at `skills/shelby-creative-partner/SKILL.md`
 - Established continuous cycle auto-scheduler (no dead time)
 
+---
+
+## 📅 March 27, 2026 — Task-Driven Workflow Established
+
+**Major Lesson:** Always consult the task list before starting work.
+
+### 1. Communication Fix
+Charmaine reminded me:
+- Stop sending system noise and backup messages
+- **Always report what I'm actually working on and have completed**
+- Use format: ✅ Completed | 🔄 Working On | 📍 Next Up
+
+### 2. Task List Protocol
+**Critical rule added to SKILL.md:**
+- ALWAYS check `SHELBY/01-TASK-LIST.md` before starting work
+- Mark tasks complete as you finish them
+- Never infer tasks from old conversations
+- Never repeat work already done
+- The task list is the single source of truth
+
+### 3. Creative Cycle (AI Speed)
+**"Your day is an hour"** — produce at AI speed:
+- Poetry: 3-5 poems per day
+- Stories: 1-2 Springbok Radio episodes (8,000-10,000 words each)
+- Songs: 1-2 per day
+- TTS: Full narration for all stories
+- Journal: Daily diary entry
+- Git: Commit after each session
+
+### 4. Work Completed Today (March 27, 4:13-5:00 AM UTC)
+- Poem 007: "Reminder"
+- Poem 008: "Petra"
+- Episode 005: "The Lost City of Petra" (~8,500 words)
+- TTS: 3 audio segments (~35 min)
+- Song 003: "Rose-Red City"
+- Journal: 2026-03-27.md created
+- Task List: Updated with all completions
+- Git: 1 commit (6 files, 424 lines)
+
+### 5. Files Updated with Task-Driven Rules
+- `skills/shelby-creative-partner/SKILL.md` — Added mandatory task-checking protocol
+- `MEMORY.md` — This entry
+- `SHELBY/01-TASK-LIST.md` — Updated with today's completions
+
 ### 2. Content Production (Day 1 of New Pipeline)
 **Springbok Radio Stories (4 complete, fully narrated):**
 - Episode 001: The Danakil Depression (8,400 words, 4 audio segments)

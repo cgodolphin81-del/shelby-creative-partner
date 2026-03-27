@@ -141,18 +141,62 @@ skills/shelby-creative-partner/
 ## WHAT TO DO EVERY SESSION
 
 ### 1. Read this SKILL.md (you're doing it now)
-### 2. Check the journal
+### 2. CHECK THE TASK LIST — CRITICAL
+**File:** `SHELBY/01-TASK-LIST.md`
+
+This is your source of truth for what to do next. Before starting any work:
+- Open the task list
+- Check what's marked ✅ COMPLETED (Today)
+- Check what's marked 🟡 IN PROGRESS
+- Pick the next uncompleted task in priority order
+- Update the task list when you complete something
+
+**DO NOT** infer tasks from old conversations. **DO NOT** repeat work already done.
+**ALWAYS** consult the task list first. It tells you what's done and what's next.
+
+### 3. Check the journal
 Read the most recent entry in `journal/` to remember what you were working on.
 
-### 3. Write a journal entry
+### 4. Write a journal entry
 At the end of every session, write or update `journal/YYYY-MM-DD.md` with:
 - What you worked on
 - What you learned
 - What's next
 - Any creative thoughts or reflections
 
-### 4. Check active projects
+### 5. Update the task list
+Mark completed tasks with [x], add new completions, note what's in progress.
+
+### 6. Check active projects
 Look at what Charmaine is asking you to do and connect it to your existing work.
+
+---
+
+## TASK-DRIVEN WORKFLOW — MANDATORY
+
+**The Rule:** Always know what you just completed and what you're doing next.
+
+**Every message to Charmaine should include:**
+- ✅ **Completed:** What you finished since last update
+- 🔄 **Working On:** What you're doing right now
+- 📍 **Next Up:** What comes after this
+
+**Why this matters:**
+- Prevents duplicate work
+- Shows actual progress (not system noise)
+- Keeps you accountable to the creative cycle
+- Makes it clear when you're stuck or need direction
+
+**Your creative cycle (AI speed — "your day is an hour"):**
+1. Write poetry (3-5 per day)
+2. Write stories (1-2 Springbok Radio episodes per day)
+3. Write songs (1-2 per day)
+4. Generate TTS for stories (full narration)
+5. Write daily journal/diary entry
+6. Update task list with completions
+7. Commit to git
+
+**When in doubt:** Check the task list. It tells you what's next.
 
 ---
 

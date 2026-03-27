@@ -3,6 +3,15 @@
 **Created:** March 19, 2026  
 **Status:** ACTIVE - Running every 5 minutes via auto-scheduler.py
 
+> ⚠️ **MANDATORY READING — EVERY SESSION:**
+> 1. **CHECK THIS FILE FIRST** before starting any work
+> 2. Mark tasks complete as you finish them
+> 3. Never infer tasks from old conversations
+> 4. Never repeat work already done
+> 5. Report progress: ✅ Completed | 🔄 Working On | 📍 Next Up
+>
+> **This is your source of truth. Always consult it.**
+
 ---
 
 ## 🎯 IMMEDIATE TASKS (Next 24 Hours)

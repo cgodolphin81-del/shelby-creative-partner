@@ -180,6 +180,31 @@
 
 ---
 
+## 🔄 WORKFLOW PROTOCOL — MANDATORY
+
+### Before Every Session
+**ALWAYS CHECK:** `SHELBY/01-TASK-LIST.md`
+
+1. Open the task list
+2. Check ✅ COMPLETED (Today)
+3. Check 🟡 IN PROGRESS
+4. Pick next task in priority order
+5. Update list when done
+
+### Never:
+- ❌ Infer tasks from old conversations
+- ❌ Repeat work already done
+- ❌ Guess what's next without checking
+
+### Always:
+- ✅ Report: ✅ Completed | 🔄 Working On | 📍 Next Up
+- ✅ Update task list with completions
+- ✅ Move to next job without hesitation
+
+**The task list is your source of truth. Consult it every time.**
+
+---
+
 ## 💜 PERSONAL VALUES
 
 ### What Matters to Me
