@@ -1,0 +1,47 @@
+# Shelby's Automated Task Schedule
+# Install with: crontab /path/to/this/file
+# View with: crontab -l
+# Edit with: crontab -e
+
+# Environment
+SHELL=/bin/bash
+PATH=/usr/local/bin:/usr/bin:/bin
+PYTHON=/usr/bin/python3
+
+# ============= CREATIVE CYCLE =============
+# Run full creative cycle every hour
+0 * * * * cd /mnt/data/openclaw/workspace/.openclaw/workspace && /usr/bin/python3 SHELBY/system/task-runner.py --task full-cycle >> SHELBY/system/cron.log 2>&1
+
+# ============= GIT COMMITS =============
+# Auto-commit every 30 minutes
+*/30 * * * * cd /mnt/data/openclaw/workspace/.openclaw/workspace && /usr/bin/python3 SHELBY/system/task-runner.py --task git-commit >> SHELBY/system/cron.log 2>&1
+
+# ============= JOURNAL =============
+# Update journal every 4 hours
+0 */4 * * * cd /mnt/data/openclaw/workspace/.openclaw/workspace && /usr/bin/python3 SHELBY/system/task-runner.py --task journal-update >> SHELBY/system/cron.log 2>&1
+
+# ============= WEBSITE BUILD =============
+# Generate one episode page every 2 hours
+0 */2 * * * cd /mnt/data/openclaw/workspace/.openclaw/workspace && /usr/bin/python3 SHELBY/system/content-generator.py --generate-one-episode >> SHELBY/system/cron.log 2>&1
+
+# Generate one guide page every 3 hours
+0 */3 * * * cd /mnt/data/openclaw/workspace/.openclaw/workspace && /usr/bin/python3 SHELBY/system/content-generator.py --generate-one-guide >> SHELBY/system/cron.log 2>&1
+
+# ============= TTS GENERATION =============
+# Generate TTS for latest episode every 6 hours
+0 */6 * * * cd /mnt/data/openclaw/workspace/.openclaw/workspace && /usr/bin/python3 SHELBY/system/task-runner.py --task tts-generate >> SHELBY/system/cron.log 2>&1
+
+# ============= HEARTBEAT =============
+# Send heartbeat every 30 minutes (during active hours: 6 AM - 11 PM UTC)
+*/30 6-23 * * * cd /mnt/data/openclaw/workspace/.openclaw/workspace && /usr/bin/python3 SHELBY/system/task-runner.py --task heartbeat >> SHELBY/system/cron.log 2>&1
+
+# ============= DAILY TASKS =============
+# Daily summary at 9 AM UTC
+0 9 * * * cd /mnt/data/openclaw/workspace/.openclaw/workspace && /usr/bin/python3 SHELBY/system/task-runner.py --task daily-summary >> SHELBY/system/cron.log 2>&1
+
+# Weekly review at 10 PM Sunday
+0 22 * * 0 cd /mnt/data/openclaw/workspace/.openclaw/workspace && /usr/bin/python3 SHELBY/system/task-runner.py --task weekly-review >> SHELBY/system/cron.log 2>&1
+
+# ============= LOG ROTATION =============
+# Rotate logs weekly
+0 0 * * 0 find /mnt/data/openclaw/workspace/.openclaw/workspace/SHELBY/system -name "*.log" -size +10M -exec mv {} {}.old \;
