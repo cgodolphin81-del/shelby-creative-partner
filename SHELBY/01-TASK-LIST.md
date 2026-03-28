@@ -81,17 +81,22 @@
 - [x] Travel guides with affiliate links: 7 destinations
 - [x] Voice narrations: 13+ audio segments
 
-### ✅ COMPLETED (March 27 — Today)
+### ✅ COMPLETED (March 27-28 — Today)
 - [x] Poem 007: "Reminder"
 - [x] Poem 008: "Petra"
 - [x] Poem 009: "Living Lovely"
 - [x] Springbok Radio Episode 005: "The Lost City of Petra" (~8,500 words)
 - [x] Springbok Radio Episode 006: "The Danakil Depression" (~9,200 words)
+- [x] Springbok Radio Episode 007: "Socotra Island" (~8,700 words) ✅ NEW
 - [x] TTS: 3 audio segments for Episode 005 (~35 min)
 - [x] TTS: 3 audio segments for Episode 006 (~40 min)
+- [x] TTS: 4 audio segments for Episode 007 (~25 min) ✅ NEW
 - [x] Song 003: "Rose-Red City"
 - [x] Song 004: "Salt Caravan"
-- [x] Journal entry: 2026-03-27.md created
+- [x] Song 005: "Island of the Dragon Blood" ✅ NEW
+- [x] Journal entry: 2026-03-28.md created ✅ NEW
+- [x] IMAGE-PROMPTS.md: Created with 5 prompts for Episode 007 ✅ NEW
+- [x] Auto-scheduler.py: Restarted (was not running) ✅ FIXED
 - [x] Auto-scheduler.py: Updated with hourly cycle + affiliate tasks
 - [x] 01-TASK-LIST.md: Updated with full cycle documentation
 - [x] SKILL.md: Added task-driven protocol
