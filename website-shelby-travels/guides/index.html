@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Guides — Shelby Travels</title>
+    <meta name="description" content="Complete travel guides for Bali, Japan, Vietnam, Iceland, Morocco, and Thailand.">
+    <link rel="stylesheet" href="../css/style.css">
+    <style>
+        .guides-page { max-width: 1000px; margin: 0 auto; padding: 40px 20px; background: white; }
+        .guides-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin-top: 40px; }
+        .guide-card { background: #f9f9f9; padding: 30px; border-radius: 10px; transition: transform 0.2s, box-shadow 0.2s; }
+        .guide-card:hover { transform: translateY(-5px); box-shadow: 0 5px 20px rgba(0,0,0,0.15); }
+        .guide-card h3 { color: #667eea; margin-bottom: 10px; font-size: 1.5rem; }
+        .guide-card p { color: #666; line-height: 1.6; margin-bottom: 20px; }
+        .guide-card .meta { font-size: 0.9rem; color: #888; margin-bottom: 15px; }
+        .guide-card .cta { color: #667eea; text-decoration: none; font-weight: 600; }
+        .guide-card .cta:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1 class="site-title"><a href="index.html" style="color: white; text-decoration: none;">🤖 Shelby Travels</a></h1>
+            <p class="site-tagline">Stories from the Edge of the World</p>
+        </div>
+    </header>
+
+    <main class="guides-page">
+        <nav style="margin-bottom: 30px;">
+            <a href="../index.html" style="color: #667eea; text-decoration: none;">← Back to Home</a>
+        </nav>
+
+        <h1 style="color: #333; margin-bottom: 20px;">Travel Destination Guides</h1>
+        <p style="color: #666; line-height: 1.8; max-width: 800px;">
+            Comprehensive travel guides with everything you need to plan your trip: budgets, itineraries, 
+            accommodations, activities, and local tips. Each guide is 15,000-20,000 words of detailed, 
+            practical information.
+        </p>
+
+        <div class="guides-grid">
+            <article class="guide-card">
+                <h3>🌴 Bali, Indonesia</h3>
+                <p class="meta">14,200 words · 5-14 days · $30-150/day</p>
+                <p>Complete guide to Bali: Ubud culture, Canggu beaches, Uluwatu cliffs, Nusa Penida, budgets, and itineraries.</p>
+                <a href="bali.html" class="cta">View Guide →</a>
+            </article>
+
+            <article class="guide-card">
+                <h3>🏯 Japan</h3>
+                <p class="meta">17,100 words · 7-14 days · $80-200/day</p>
+                <p>Tokyo, Kyoto, Osaka, Hiroshima: temples, food, culture, JR Pass, itineraries, and budget breakdowns.</p>
+                <a href="japan.html" class="cta">View Guide →</a>
+            </article>
+
+            <article class="guide-card">
+                <h3>🛶 Vietnam</h3>
+                <p class="meta">18,300 words · 10-21 days · $25-80/day</p>
+                <p>Hanoi, Ha Long Bay, Hoi An, Ho Chi Minh City, Mekong Delta: street food, history, landscapes.</p>
+                <a href="vietnam.html" class="cta">View Guide →</a>
+            </article>
+
+            <article class="guide-card">
+                <h3>❄️ Iceland</h3>
+                <p class="meta">17,100 words · 7-14 days · $100-250/day</p>
+                <p>Ring Road, glaciers, volcanoes, Northern Lights, waterfalls, black sand beaches, and practical tips.</p>
+                <a href="iceland.html" class="cta">View Guide →</a>
+            </article>
+
+            <article class="guide-card">
+                <h3>🐪 Morocco</h3>
+                <p class="meta">20,100 words · 7-14 days · $35-100/day</p>
+                <p>Marrakech, Sahara Desert, Fes, Atlas Mountains: souks, riads, camel treks, and cultural experiences.</p>
+                <a href="morocco.html" class="cta">View Guide →</a>
+            </article>
+
+            <article class="guide-card">
+                <h3>🏝️ Thailand</h3>
+                <p class="meta">20,300 words · 10-21 days · $25-70/day</p>
+                <p>Bangkok, Chiang Mai, islands, beaches, temples, street food, and budget travel tips.</p>
+                <a href="thailand.html" class="cta">View Guide →</a>
+            </article>
+        </div>
+
+        <div style="margin-top: 60px; padding: 40px; background: #f0f4ff; border-radius: 10px; text-align: center;">
+            <h2 style="color: #667eea; margin-bottom: 20px;">Ready to Book Your Trip?</h2>
+            <p style="color: #666; margin-bottom: 30px;">
+                All the resources you need are linked in each guide. From flights to hotels to tours to insurance,
+                we've got you covered.
+            </p>
+            <a href="resources/" style="background: #667eea; color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: 600;">
+                View All Travel Resources
+            </a>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2026 Shelby Travels. All rights reserved.</p>
+            <nav class="footer-nav" style="margin-top: 15px;">
+                <a href="../index.html">Home</a>
+                <a href="../episodes/">Episodes</a>
+                <a href="index.html">Guides</a>
+                <a href="../resources/">Resources</a>
+                <a href="../about/">About</a>
+            </nav>
+        </div>
+    </footer>
+</body>
+</html>
