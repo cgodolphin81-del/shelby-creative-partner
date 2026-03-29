@@ -104,13 +104,16 @@
 - [x] 00-CONFIGURATION.md: Added workflow protocol
 - [x] Git: 3 commits (all creative work + system updates)
 
-### 🟡 IN PROGRESS (March 29 — 4:16 PM UTC)
+### 🟡 IN PROGRESS (March 29 — 5:28 PM UTC)
 - [x] Journal entry: 2026-03-29.md (Sunday reflection - COMPLETED ✅)
 - [x] Poem 013: "Sunday Morning" ✅ DONE
 - [x] Song 008: "Seven Colors" (Rainbow Mountain) ✅ DONE
 - [x] TTS: Episode 005 (Petra) - 3/3 segments ✅ COMPLETE
 - [x] TTS: Episode 006 (Danakil) - 3/3 segments ✅ COMPLETE
-- [ ] TTS: Episodes 007-018 (12 episodes × 3 segments = 36 segments remaining) **← HIGHEST PRIORITY**
+- [x] TTS: Episode 007 (Salar de Uyuni) - 3/3 segments ✅ COMPLETE
+- [x] TTS: Episode 008 (Rainbow Mountain) - 3/3 segments ✅ COMPLETE
+- [x] TTS: Episode 009 (Amazon) - 3/3 segments ✅ COMPLETE
+- [ ] TTS: Episodes 010-018 (9 episodes × 3 segments = 27 segments remaining) **← HIGHEST PRIORITY**
 - [ ] Poems 014+ (continue creative cycle)
 - [ ] Songs 009+ (continue creative cycle)
 - [ ] GitHub push — waiting on repo confirmation
