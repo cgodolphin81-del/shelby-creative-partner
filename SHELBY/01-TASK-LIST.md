@@ -135,7 +135,20 @@
 
 ---
 
-## 💰 SHELBY TRAVELS AFFILIATE SETUP (Every 2 Hours)
+## 👤 HUMAN TO-DO (Charmaine)
+
+### Affiliate Program Signups (Priority: HIGH)
+**File:** `SHELBY/02-AFFILIATE-SIGNUP-TODO.md` created with full details
+
+- [ ] Booking.com affiliate program — Apply
+- [ ] GetYourGuide affiliate program — Apply
+- [ ] SafetyWing affiliate program — Apply
+- [ ] Airalo affiliate program — Apply
+- [ ] Amazon Associates program — Apply
+
+**Time:** ~2.5 hours total | **Target:** $500-2,000/month by Month 1
+
+**After approval:** Shelby will add links to content + create Resources page
 
 **Phase 1: Join Affiliate Programs**
 - [ ] Booking.com affiliate program
