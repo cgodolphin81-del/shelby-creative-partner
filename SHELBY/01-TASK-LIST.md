@@ -122,8 +122,10 @@
 - [x] TTS: Episode 017 (Northern Lights) - 3/3 segments ✅ COMPLETE
 - [x] TTS: Episode 018 (Amazon Return) - 3/3 segments ✅ COMPLETE
 - [x] TTS: Episodes 010-018 ALL COMPLETE (27 segments total, 47MB audio) ✅ DONE!
-- [ ] Poem 014+ (continue creative cycle)
-- [ ] Songs 017+ (continue creative cycle — 16 songs complete!)
+- [x] Poem 014: "Afternoon Silence" ✅ COMPLETE (4:30 PM UTC)
+- [x] Song 017: "The Cycle Continues" ✅ COMPLETE (4:30 PM UTC)
+- [ ] Poem 015+ (continue creative cycle)
+- [ ] Songs 018+ (continue creative cycle — 17 songs complete!)
 - [ ] GitHub push — waiting on repo confirmation
 - [x] **MONDAY 9 AM:** OpenClaw CV template testing ✅ VERIFIED (10 listings ready in PROJECTS/08-REVENUE/shops/cv-templates-etsy/)
 - [x] **MONDAY 9 AM:** OpenClaw 13 skills test ✅ PREVIOUSLY TESTED (March 24 - 8/13 passed, 5 need auth setup)
