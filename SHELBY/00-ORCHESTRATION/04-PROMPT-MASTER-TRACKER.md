@@ -114,13 +114,13 @@
 
 | Project | Total Prompts | Complete | Pending | Blocked |
 |---------|---------------|----------|---------|---------|
-| 001 CV Templates | 0 | 0 | 0 | 0 |
-| 002 Shelby Travels | 0 | 0 | 0 | 0 |
-| 003 Springbok Radio | 5 | 2 | 3 | 0 |
-| 004 AI Content Empire | 0 | 0 | 0 | 1 |
-| 005 Poetry Studio | 1 | 1 | 0 | 0 |
+| 001 CV Templates | 55 | 0 | 55 | 0 |
+| 002 Shelby Travels | 12 | 0 | 12 | 0 |
+| 003 Springbok Radio | 19 | 3 | 16 | 0 |
+| 004 AI Content Empire | 0 | 0 | 0 | 0 |
+| 005 Poetry Studio | 16 | 1 | 15 | 0 |
 | 006 Compliment Machine | 1 | 1 | 0 | 0 |
-| **TOTAL** | **7** | **4** | **3** | **1** |
+| **TOTAL** | **103** | **5** | **98** | **0** |
 
 ---
 
