@@ -6,16 +6,38 @@
 
 ---
 
+## 🚀 STRATEGY: PREP SPRINT (Now → April 5th)
+
+**Mode:** MAXIMUM PREPARATION at AI speed  
+**Why:** Unlimited model use period — prep EVERYTHING before rate limits hit  
+**Production Mode:** April 5th+ (deploy and execute all prepped work)
+
+---
+
+## 📊 5-DAY SPRINT TARGETS
+
+| Category | Target | Status |
+|----------|--------|--------|
+| CV Etsy Shop | 10 listings + 55 images | ✅ 65% Complete |
+| Springbok Radio | 19 episodes + podcast prep | 🟡 In Progress |
+| Travel Affiliate | 6 guides + link integration plan | 🟡 In Progress |
+| AI Content Empire | Product definition + launch plan | 🔴 Needs Definition |
+| Image Library | 100+ prompts generated | 🟡 In Progress |
+| Creative Content | Episodes, poems, songs, journal | 🟡 Continuous |
+
+---
+
 ## 🚨 CURRENT STATUS — 2026-03-31 13:50 UTC
 
 | Project | Status | Progress | Blocked By | Next Action | ETA |
 |---------|--------|----------|------------|-------------|-----|
-| **001 CV Templates Etsy** | 🚀 AUTONOMOUS | 55% | None | Drafting listings, selecting templates | 1-2 hrs |
-| **002 Shelby Travels Affiliate** | ⏸️ Blocked | 60% | HUMAN: 5 affiliate signups | Waiting on approvals | 1-2 weeks |
-| **003 Springbok Radio Podcast** | 🔍 Researching | 15% | None | Research platform requirements | 4-6 hrs |
-| **004 AI Content Empire** | 🛑 BLOCKED | 0% | HUMAN: Product definition | NEEDS DEFINITION | Unknown |
-| **005 Poetry Studio** | ✅ Complete | 100% | — | — | DONE |
-| **006 Compliment Machine** | ✅ Complete | 100% | — | — | DONE |
+| **001 CV Templates Etsy** | ✅ PREP COMPLETE | 65% | None | Listings + prompts done, deploy April 5 | Ready |
+| **002 Shelby Travels Affiliate** | 🔍 PREPPING | 60% | None | Researching program terms + integration | 2 hrs |
+| **003 Springbok Radio Podcast** | 🔍 PREPPING | 40% | None | Platform research + RSS prep | 2-3 hrs |
+| **004 AI Content Empire** | 🔴 NEEDS DEFINITION | 0% | Charmaine | Define product, then full prep | TBD |
+| **005 Poetry Studio** | ✅ Complete | 100% | — | LIVE | DONE |
+| **006 Compliment Machine** | ✅ Complete | 100% | — | LIVE | DONE |
+| **007 Creative Content** | 🚀 CONTINUOUS | — | None | Episodes, poems, songs, journal | Ongoing |
 
 ---
 
@@ -32,38 +54,38 @@ Total Progress:      ~50% (weighted by priority)
 
 ---
 
-## 🔥 CRITICAL PATH
+## 🔥 CRITICAL PATH (PREP SPRINT)
 
 **What's blocking us RIGHT NOW:**
 
-1. **AI Content Empire** — Charmaine needs to define:
+1. **AI Content Empire** — Need product definition to prep launch plan
    - What IS the product?
    - What does "launch" mean?
    - Price point? Target customer?
 
-2. **Shelby Travels Affiliate** — Charmaine needs to:
-   - Join 5 affiliate programs (Booking.com, GetYourGuide, SafetyWing, Airalo, Amazon)
+**NOT Blocking (Prep Mode):**
+- ✅ CV Etsy shop — Prep complete, deploy April 5
+- ✅ Affiliate programs — Can prep integration without signups
+- ✅ Podcast — Can prep everything, deploy when ready
 
 ---
 
-## ✅ CURRENT EXECUTION
+## ✅ CURRENT EXECUTION — PREP SPRINT MODE
 
-**Active Project:** 001 (CV Templates Etsy) — 55% Complete
+**Active:** All Projects — Maximum Prep Through April 5
 
-**Completed:**
-- ✅ Etsy fees research (10-11% base, 25% with offsite ads)
-- ✅ Pricing strategy ($9-12 single, $25-45 bundles)
-- ✅ Requirements documented
+**Completed Prep:**
+- ✅ CV Etsy: 10 listings + 55 image prompts
+- ✅ Production OS: 5 trackers, heartbeat system
+- ✅ Project plans: All 4 projects mapped
 
 **In Progress:**
-- 🔄 Drafting 10 SEO-optimized listing titles + descriptions
-- 🔄 Selecting best 10 templates from 320
-- 🔄 Creating image mockup prompts
+- 🔄 Springbok Radio podcast platform research
+- 🔄 Travel affiliate integration planning
+- 🔄 Creative content (episodes, poems, songs, journal)
+- 🔄 Image generation (all projects)
 
-**Next Steps:**
-- ⏳ Etsy account setup (when Charmaine ready)
-- ⏳ Generate mockup images
-- ⏳ Upload and publish
+**Mode:** Build everything now → Deploy April 5+
 
 ---
 
@@ -72,35 +94,12 @@ Total Progress:      ~50% (weighted by priority)
 | Time | Check | Status | Notes |
 |------|-------|--------|-------|
 | 13:50 | #1 | 🟢 System initialized | All trackers created |
-| 14:00 | #2 | ⏳ Awaiting direction | — |
-| 14:10 | #3 | ⏳ Awaiting direction | — |
-| 14:20 | #4 | ⏳ Awaiting direction | — |
-| 14:29 | #5 | 🟡 Ready to execute | Need green light on priorities |
-| 14:39 | #6 | ⏳ Awaiting direction | — |
-| 14:49 | #7 | ⏳ Awaiting direction | — |
-| 14:59 | #8 | 🟡 Ready to execute | 1 hour in, still blocked |
-| 15:09 | #9 | ⏳ Awaiting direction | — |
-| 15:16 | #9.5 | 🟢 HUMAN ENGAGED | Charmaine messaged: "hey, what are you doing?" |
-| 15:19 | #10 | 🟢 Awaiting decision | Explained blockers, recommended CV Etsy start |
-| 15:29 | #11 | 🟡 Ready to execute | Waiting on Etsy go-ahead |
-| 15:39 | #12 | ⏳ Awaiting decision | — |
-| 15:49 | #13 | ⏳ Awaiting decision | — |
-| 15:56 | #13.5 | 🟢 GREEN LIGHT | Charmaine: "yes go on then" — CV Etsy shop STARTED |
-| 15:59 | #14 | 🚀 EXECUTING | Shop setup in progress |
-| 16:02 | #15 | 🚀 EXECUTING | Research complete (fees + pricing) |
-| 16:04 | #16 | 🟡 Awaiting answer | Asked: Etsy account status? |
-| 16:14 | #17 | 🟡 Awaiting answer | — |
-| 16:24 | #18 | 🟡 Awaiting answer | — |
-| 16:34 | #19 | 🟡 Awaiting answer | 30 min since question asked |
-| 16:44 | #20 | 🟡 Awaiting answer | — |
-| 16:54 | #21 | 🟡 Awaiting answer | — |
-| 16:58 | #21.5 | 🟢 HUMAN DECISION | "No add to human to do and keep building" |
-| 17:00 | #22 | 🚀 AUTONOMOUS BUILD | Drafting listings, selecting templates |
-| 17:05 | #23 | 🚀 AUTONOMOUS BUILD | 10 listings + 55 image prompts COMPLETE |
-| 17:05 | #24 | 🚀 AUTONOMOUS BUILD | Status report delivered |
-| 17:15 | #25 | 🚀 AUTONOMOUS BUILD | System stable |
-| 17:25 | #26 | 🚀 AUTONOMOUS BUILD | System stable |
-| 17:35 | #27 | 🚀 AUTONOMOUS BUILD | Awaiting next direction |
+| 14:00-15:55 | #2-13 | ⏳ Various | Awaiting direction, then green light |
+| 15:56-17:05 | #13.5-24 | 🚀 CV Etsy Prep | 10 listings + 55 prompts created |
+| 17:05-18:05 | #25-30 | 🚀 Autonomous | System stable, awaiting direction |
+| 18:23 | #30.5 | 🟢 STRATEGY ALIGN | Charmaine: "Prep until April 5, then production" |
+| 18:29 | #30.6 | 🟢 GREEN LIGHT | "Keep making content" — FULL PREP MODE ACTIVATED |
+| 18:30 | #31 | 🚀 PREP SPRINT | All systems go — content + deployment prep |
 
 ---
 
@@ -116,13 +115,15 @@ Total Progress:      ~50% (weighted by priority)
 
 ## 🚨 BLOCKERS REQUIRING ATTENTION
 
-| Priority | Project | What's Needed | Who | Since |
-|----------|---------|---------------|-----|-------|
-| 🔴 CRITICAL | AI Content Empire | Product definition | Charmaine | 13:50 UTC |
-| 🟠 HIGH | Shelby Travels | 5 affiliate signups | Charmaine | 13:50 UTC |
-| 🟢 LOW | Springbok Radio | Hosting platform decision | Charmaine | 13:50 UTC |
+| Priority | Project | What's Needed | Who | Status |
+|----------|---------|---------------|-----|--------|
+| 🔴 CRITICAL | AI Content Empire | Product definition | Charmaine | ⏳ Pending |
+| 🟢 LOW | Springbok Radio | Hosting preference (optional) | Charmaine | ⏳ Can research autonomously |
 
-**Note:** CV Etsy shop proceeding autonomously — no blocker.
+**NOT Blockers (Prep Mode):**
+- ✅ CV Etsy — Prep complete, deploy later
+- ✅ Affiliate programs — Can prep without signups
+- ✅ All image generation — Can proceed autonomously
 
 ---
 
