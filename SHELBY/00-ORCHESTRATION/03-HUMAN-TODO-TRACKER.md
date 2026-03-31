@@ -27,7 +27,7 @@
 | H004 | Shelby Travels Affiliate | Join Airalo affiliate program | Need affiliate links for monetization | HIGH — $500-2K/mo potential | 2026-03-31 | ⏳ Pending |
 | H005 | Shelby Travels Affiliate | Join Amazon Associates program | Need affiliate links for monetization | HIGH — $500-2K/mo potential | 2026-03-31 | ⏳ Pending |
 | H006 | AI Content Empire | Define what the product IS | Cannot plan launch without knowing product | CRITICAL — blocks entire project | 2026-03-31 13:50 | ⏳ Pending |
-| H007 | CV Templates Etsy | Confirm Etsy account status | Need to know if account exists or needs creation | MEDIUM — affects shop setup time | 2026-03-31 13:50 | ⏳ Pending |
+| H007 | CV Templates Etsy | Confirm Etsy account status | Need to know if account exists or needs creation | MEDIUM — affects shop setup time | 2026-03-31 13:50 | ❓ ASKED (16:00) |
 | H008 | Springbok Radio Podcast | Decide on podcast hosting platform | Need to know: Anchor (free) vs paid hosting | LOW — can research options first | 2026-03-31 13:50 | ⏳ Pending |
 
 ---
@@ -74,5 +74,5 @@ Every 10 minutes, I will check this list and remind you:
 
 ---
 
-**Last Updated:** 2026-03-31 15:29 UTC  
-**Next Review:** 2026-03-31 15:39 UTC (10-min heartbeat)
+**Last Updated:** 2026-03-31 16:04 UTC  
+**Next Review:** 2026-03-31 16:14 UTC (10-min heartbeat)

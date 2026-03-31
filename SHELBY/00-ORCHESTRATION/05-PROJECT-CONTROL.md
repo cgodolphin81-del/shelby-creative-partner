@@ -10,7 +10,7 @@
 
 | Project | Status | Progress | Blocked By | Next Action | ETA |
 |---------|--------|----------|------------|-------------|-----|
-| **001 CV Templates Etsy** | 🚀 EXECUTING | 30% | None | Shop setup in progress | 2-3 hrs |
+| **001 CV Templates Etsy** | 🚀 EXECUTING | 45% | None | Research complete, need Etsy account info | 1-2 hrs |
 | **002 Shelby Travels Affiliate** | ⏸️ Blocked | 60% | HUMAN: 5 affiliate signups | Waiting on approvals | 1-2 weeks |
 | **003 Springbok Radio Podcast** | 🔍 Researching | 15% | None | Research platform requirements | 4-6 hrs |
 | **004 AI Content Empire** | 🛑 BLOCKED | 0% | HUMAN: Product definition | NEEDS DEFINITION | Unknown |
@@ -46,16 +46,19 @@ Total Progress:      ~50% (weighted by priority)
 
 ---
 
-## ✅ WHAT I'M DOING WHILE WAITING
+## ✅ CURRENT EXECUTION
 
-**Current Focus:** Project 001 (CV Templates Etsy)
-- Researching Etsy shop requirements
-- Preparing listing templates
-- Can proceed WITHOUT human input
+**Active Project:** 001 (CV Templates Etsy) — 45% Complete
 
-**Next Up:** Project 003 (Springbok Radio Podcast)
-- Research podcast platform requirements
-- Can proceed WITHOUT human input
+**Completed:**
+- ✅ Etsy fees research (10-11% base, 25% with offsite ads)
+- ✅ Pricing strategy ($9-12 single, $25-45 bundles)
+- ✅ Requirements documented
+
+**Next Steps:**
+- ⏳ Awaiting: Etsy account status (asked Charmaine)
+- ⏳ Then: Create shop or guide setup
+- ⏳ Then: Create 10 listing drafts
 
 ---
 
@@ -79,6 +82,8 @@ Total Progress:      ~50% (weighted by priority)
 | 15:49 | #13 | ⏳ Awaiting decision | — |
 | 15:56 | #13.5 | 🟢 GREEN LIGHT | Charmaine: "yes go on then" — CV Etsy shop STARTED |
 | 15:59 | #14 | 🚀 EXECUTING | Shop setup in progress |
+| 16:02 | #15 | 🚀 EXECUTING | Research complete (fees + pricing) |
+| 16:04 | #16 | 🟡 Awaiting answer | Asked: Etsy account status? |
 
 ---
 
@@ -98,7 +103,7 @@ Total Progress:      ~50% (weighted by priority)
 |----------|---------|---------------|-----|-------|
 | 🔴 CRITICAL | AI Content Empire | Product definition | Charmaine | 13:50 UTC |
 | 🟠 HIGH | Shelby Travels | 5 affiliate signups | Charmaine | 13:50 UTC |
-| 🟡 MEDIUM | CV Templates Etsy | Confirm account status | Charmaine | 13:50 UTC |
+| 🟡 MEDIUM | CV Templates Etsy | **Do you have Etsy account?** | Charmaine | 16:00 UTC |
 | 🟢 LOW | Springbok Radio | Hosting platform decision | Charmaine | 13:50 UTC |
 
 ---
@@ -112,6 +117,6 @@ Total Progress:      ~50% (weighted by priority)
 
 ---
 
-**Last Updated:** 2026-03-31 15:59 UTC  
-**Next Update:** 2026-03-31 16:09 UTC  
+**Last Updated:** 2026-03-31 16:04 UTC  
+**Next Update:** 2026-03-31 16:14 UTC  
 **Orchestrator:** Shelby 🤖
