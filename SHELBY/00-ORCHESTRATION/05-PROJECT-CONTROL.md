@@ -10,7 +10,7 @@
 
 | Project | Status | Progress | Blocked By | Next Action | ETA |
 |---------|--------|----------|------------|-------------|-----|
-| **001 CV Templates Etsy** | 🔍 Researching | 25% | None | Research Etsy fees + requirements | 2-3 hrs |
+| **001 CV Templates Etsy** | 🚀 EXECUTING | 30% | None | Shop setup in progress | 2-3 hrs |
 | **002 Shelby Travels Affiliate** | ⏸️ Blocked | 60% | HUMAN: 5 affiliate signups | Waiting on approvals | 1-2 weeks |
 | **003 Springbok Radio Podcast** | 🔍 Researching | 15% | None | Research platform requirements | 4-6 hrs |
 | **004 AI Content Empire** | 🛑 BLOCKED | 0% | HUMAN: Product definition | NEEDS DEFINITION | Unknown |
@@ -75,6 +75,10 @@ Total Progress:      ~50% (weighted by priority)
 | 15:16 | #9.5 | 🟢 HUMAN ENGAGED | Charmaine messaged: "hey, what are you doing?" |
 | 15:19 | #10 | 🟢 Awaiting decision | Explained blockers, recommended CV Etsy start |
 | 15:29 | #11 | 🟡 Ready to execute | Waiting on Etsy go-ahead |
+| 15:39 | #12 | ⏳ Awaiting decision | — |
+| 15:49 | #13 | ⏳ Awaiting decision | — |
+| 15:56 | #13.5 | 🟢 GREEN LIGHT | Charmaine: "yes go on then" — CV Etsy shop STARTED |
+| 15:59 | #14 | 🚀 EXECUTING | Shop setup in progress |
 
 ---
 
@@ -108,6 +112,6 @@ Total Progress:      ~50% (weighted by priority)
 
 ---
 
-**Last Updated:** 2026-03-31 15:29 UTC  
-**Next Update:** 2026-03-31 15:39 UTC  
+**Last Updated:** 2026-03-31 15:59 UTC  
+**Next Update:** 2026-03-31 16:09 UTC  
 **Orchestrator:** Shelby 🤖
