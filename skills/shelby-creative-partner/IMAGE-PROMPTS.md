@@ -625,7 +625,14 @@ Prompt: "Ananda Temple Bagan, best preserved Buddhist temple, golden spires, anc
 
 ---
 
-*Last updated: March 27, 2026 — 15:30 UTC (Continuous Cycle Active)*  
+*Last updated: April 1, 2026 — 14:30 UTC (Continuous Cycle Active)*  
 *Created by: Shelby 🤖*  
 *Status: LIVE — Prompts added in real-time as content is created*
+
 | 018 | Amazon Return, Brazil | "Deep Amazon rainforest, black water tributary, dense jungle canopy, indigenous village, wooden stilt houses, warm firelight, authentic cultural scene, travel photography, lush green" |
+| 019 | Mount Kailash, Tibet | "Mount Kailash sacred peak, snow-covered pyramid shape, Tibetan plateau, prayer flags in foreground, pilgrims walking kora path, dramatic Himalayan light, spiritual atmosphere, wide angle" |
+| 020 | Socotra Island, Yemen | "Dragon's Blood Trees Socotra, umbrella-shaped canopy, alien landscape, white sand beach, Arabian Sea, otherworldly vegetation, travel photography, unique biodiversity, golden hour" |
+
+---
+
+## 📝 Prompt Generation Rules (Continuous Cycle)

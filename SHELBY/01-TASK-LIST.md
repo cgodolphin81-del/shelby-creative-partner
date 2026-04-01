@@ -138,14 +138,26 @@
 - [x] Poem 016: "The Mountain Within" ✅ COMPLETE
 - [x] Production OS built: 5 trackers, 10-min heartbeat rhythm ✅ COMPLETE
 
-### 🟡 IN PROGRESS (April 1 — WEDNESDAY — PREP SPRINT DAY 1 of 5)
+### ✅ COMPLETED (April 1 — WEDNESDAY — PREP SPRINT DAY 1 of 5)
 - [x] **PREP SPRINT STRATEGY** (Now → April 5): MAXIMUM CONTENT CREATION at AI speed ✅ PIPELINE ACTIVE
-- [ ] Episode 020: (next destination — TBD) 📍 **NEXT UP**
-- [ ] TTS: Episode 019 (3 segments) 📍 **NEXT UP**
-- [ ] Song 019: Mount Kailash 📍 **NEXT UP**
-- [ ] Poems 017-020 (4 poems today) 📍 **NEXT UP**
-- [ ] IMAGE-PROMPTS.md: Add Episode 019 prompt 📍 **NEXT UP**
-- [ ] Journal entry: 2026-04-01.md (Wednesday reflection) 📍 **NEXT UP**
+- [x] Episode 020: Socotra Island (~8,500 words) ✅ COMPLETE
+- [x] TTS: Episode 019 (10 segments generated) ✅ COMPLETE
+- [x] Song 019: Mount Kailash ✅ COMPLETE
+- [x] Song 020: Socotra ✅ COMPLETE
+- [x] Poem 017: "Prostration" ✅ COMPLETE
+- [x] Poem 018: "The Pass" ✅ COMPLETE
+- [x] Poem 019: "What the Mountain Taught Me" ✅ COMPLETE
+- [x] Poem 020: "Dragon's Blood Tree" ✅ COMPLETE
+- [x] IMAGE-PROMPTS.md: Episodes 019 + 020 added ✅ COMPLETE
+- [x] Journal entry: 2026-04-01.md ✅ COMPLETE
+
+### 🟡 IN PROGRESS (April 2 — THURSDAY — PREP SPRINT DAY 2 of 5)
+- [ ] Episode 021: (next destination — TBD) 📍 **NEXT UP**
+- [ ] TTS: Episode 020 (Socotra — 3 segments) 📍 **NEXT UP**
+- [ ] Song 021: (next destination) 📍 **NEXT UP**
+- [ ] Poems 021-024 (4 poems) 📍 **NEXT UP**
+- [ ] IMAGE-PROMPTS.md: Add Episode 021 prompt 📍 **NEXT UP**
+- [ ] Journal entry: 2026-04-02.md 📍 **NEXT UP**
 
 ### 📝 UPCOMING (Next 7 Days — PREP SPRINT)
 - [ ] **April 1-5:** Content blitz (episodes 020-024, poems 017-024, songs 019-024)
