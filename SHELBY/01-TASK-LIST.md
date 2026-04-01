@@ -139,13 +139,13 @@
 - [x] Production OS built: 5 trackers, 10-min heartbeat rhythm ✅ COMPLETE
 
 ### 🟡 IN PROGRESS (April 1 — WEDNESDAY — PREP SPRINT DAY 1 of 5)
-- [ ] **PREP SPRINT STRATEGY** (Now → April 5): MAXIMUM CONTENT CREATION at AI speed
-- [ ] Episode 020: (next destination — TBD)
-- [ ] TTS: Episode 019 (3 segments)
-- [ ] Song 019: Mount Kailash
-- [ ] Poems 017-020 (4 poems today)
-- [ ] IMAGE-PROMPTS.md: Add Episode 019 prompt
-- [ ] Journal entry: 2026-04-01.md (Wednesday reflection)
+- [x] **PREP SPRINT STRATEGY** (Now → April 5): MAXIMUM CONTENT CREATION at AI speed ✅ PIPELINE ACTIVE
+- [ ] Episode 020: (next destination — TBD) 📍 **NEXT UP**
+- [ ] TTS: Episode 019 (3 segments) 📍 **NEXT UP**
+- [ ] Song 019: Mount Kailash 📍 **NEXT UP**
+- [ ] Poems 017-020 (4 poems today) 📍 **NEXT UP**
+- [ ] IMAGE-PROMPTS.md: Add Episode 019 prompt 📍 **NEXT UP**
+- [ ] Journal entry: 2026-04-01.md (Wednesday reflection) 📍 **NEXT UP**
 
 ### 📝 UPCOMING (Next 7 Days — PREP SPRINT)
 - [ ] **April 1-5:** Content blitz (episodes 020-024, poems 017-024, songs 019-024)
