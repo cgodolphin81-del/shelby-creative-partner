@@ -87,5 +87,31 @@
 
 ---
 
-**Total Prompts:** 41 (28 episode scenes + 7 album covers)  
-**Last Updated:** March 28, 2026 — Complete set for Episodes 001-007
+### Episode 021: Angkor Wat
+
+| Episode | Destination | Scene | Prompt |
+|---------|-------------|-------|--------|
+| 021 | Angkor Wat | Sunrise Reflection | "Angkor Wat temple silhouette at sunrise, perfect reflection in lotus pond, five lotus-bud towers, indigo sky lightening to orange, misty morning atmosphere, travel photography" |
+| 021 | Angkor Wat | Naga Serpent Causeway | "Seven-headed stone cobra balustrades, ancient Khmer architecture, weathered stone texture, temple causeway, dramatic perspective, golden hour lighting" |
+| 021 | Angkor Wat | Apsara Dancers | "Celestial dancer bas-relief carvings, stone wall detail, intricate jewelry and hairstyles, Angkor Wat gallery, soft natural lighting, archaeological photography" |
+| 021 | Angkor Wat | Tree Embracing Temple | "Massive tree roots cascading down ancient stone temple, Ta Prohm, jungle reclaiming ruins, nature and architecture intertwined, mystical atmosphere" |
+| 021 | Angkor Wat | Bayon Faces | "Stone faces of Bayon temple, serene smiles carved in sandstone, multiple faces looking in different directions, ancient Khmer art, soft diffused lighting" |
+
+---
+
+## 🎵 MUSIC ALBUM COVERS
+
+| Song | Title | Visual Concept | Prompt |
+|------|-------|----------------|--------|
+| 001 | Danakil Fire | Abstract heat waves, red and yellow | "Abstract heat waves, infrared photography, red and yellow color palette, thermal imaging aesthetic" |
+| 002 | Volcano's Heart | Molten rock texture, dark background | "Molten lava texture close-up, glowing orange core, black background, dramatic lighting" |
+| 003 | Infinite Mirror | Blue gradient, reflection | "Perfect blue gradient, mirror effect, reflection symmetry, minimalist, serene" |
+| 004 | Migration | Animal silhouettes, savanna | "Wildebeest silhouettes against sunset, African savanna, epic migration, golden hour" |
+| 005 | Rose-Red | Petra silhouette, rose color | "Petra Treasury silhouette, rose-red color palette, romantic, architectural" |
+| 006 | Abyss | Deep dark tones, downward | "Deep dark tones, downward spiral, abyss metaphor, abstract, moody" |
+| 007 | Berho | Moon over alien landscape | "Full moon over alien landscape, dragon blood trees, mystical, ethereal" |
+
+---
+
+**Total Prompts:** 46 (33 episode scenes + 7 album covers + 5 Angkor Wat scenes)  
+**Last Updated:** April 2, 2026 — Episodes 001-007, 019, 020, 021 complete
