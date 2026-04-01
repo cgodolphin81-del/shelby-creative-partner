@@ -151,12 +151,35 @@
 - [x] IMAGE-PROMPTS.md: Episodes 019 + 020 added ✅ COMPLETE
 - [x] Journal entry: 2026-04-01.md ✅ COMPLETE
 
+### ✅ COMPLETED (April 1 — WEDNESDAY — PREP SPRINT DAY 1 of 5)
+- [x] **PREP SPRINT STRATEGY** (Now → April 5): MAXIMUM CONTENT CREATION at AI speed ✅ PIPELINE ACTIVE
+- [x] Episode 020: Socotra Island (~8,500 words) ✅ COMPLETE
+- [x] TTS: Episode 019 (10 segments generated) ✅ COMPLETE
+- [x] Song 019: Mount Kailash ✅ COMPLETE
+- [x] Song 020: Socotra ✅ COMPLETE
+- [x] Poem 017: "Prostration" ✅ COMPLETE
+- [x] Poem 018: "The Pass" ✅ COMPLETE
+- [x] Poem 019: "What the Mountain Taught Me" ✅ COMPLETE
+- [x] Poem 020: "Dragon's Blood Tree" ✅ COMPLETE
+- [x] IMAGE-PROMPTS.md: Episodes 019 + 020 added ✅ COMPLETE
+- [x] Journal entry: 2026-04-01.md ✅ COMPLETE
+
+### ✅ COMPLETED (April 1, 5:00 PM — The Turn)
+- [x] Episode 021: Angkor Wat (~8,500 words) ✅ COMPLETE
+- [x] TTS: Episode 020 (Socotra — 3 segments) ✅ COMPLETE
+- [x] Song 021: Angkor Wat ✅ COMPLETE
+- [x] Poem 021: "The Temple That Swallowed the Jungle" ✅ COMPLETE
+- [x] Poem 022: "Sophea's Sunrise" ✅ COMPLETE
+- [x] Poem 023: "Two Thousand Dancers" ✅ COMPLETE
+- [x] Poem 024: "The Water Kingdom" ✅ COMPLETE
+- [x] IMAGE-PROMPTS.md: Episode 021 added ✅ COMPLETE
+
 ### 🟡 IN PROGRESS (April 2 — THURSDAY — PREP SPRINT DAY 2 of 5)
-- [ ] Episode 021: (next destination — TBD) 📍 **NEXT UP**
-- [ ] TTS: Episode 020 (Socotra — 3 segments) 📍 **NEXT UP**
-- [ ] Song 021: (next destination) 📍 **NEXT UP**
-- [ ] Poems 021-024 (4 poems) 📍 **NEXT UP**
-- [ ] IMAGE-PROMPTS.md: Add Episode 021 prompt 📍 **NEXT UP**
+- [ ] Episode 022: (next destination — TBD) 📍 **NEXT UP**
+- [ ] TTS: Episode 021 (Angkor Wat — 3 segments) 📍 **NEXT UP**
+- [ ] Song 022: (next destination) 📍 **NEXT UP**
+- [ ] Poems 025-028 (4 poems) 📍 **NEXT UP**
+- [ ] IMAGE-PROMPTS.md: Add Episode 022 prompt 📍 **NEXT UP**
 - [ ] Journal entry: 2026-04-02.md 📍 **NEXT UP**
 
 ### 📝 UPCOMING (Next 7 Days — PREP SPRINT)

@@ -1,385 +1,294 @@
-# Episode 021: Angkor Wat — The Temple That Became a Jungle
-
-**Destination:** Angkor Archaeological Park, Cambodia  
-**Word Count:** ~8,500 words  
-**Structure:** 3-act narrative  
-**Theme:** What we build, what nature reclaims, what endures
-
----
-
-## ACT I: THE LOSS
-
-### Chapter 1: The King's Dream
-
-Yasovarman I did not build Angkor Wat.
-
-This is the first thing our guide, Sophea, tells us as we stand before the western causeway at 5:17 AM. The sky is a deep indigo, slowly lightening toward the east. The silhouette of the temple's five lotus-bud towers rises before us like a mountain range carved by gods.
-
-"Angkor Wat was built by Suryavarman II," she says, her voice carrying easily in the pre-dawn stillness. "Early twelfth century. He wanted a temple so grand it would make him a god."
-
-She pauses. The first visitors are gathering around us—dozens of us, maybe hundreds, all waiting for the same moment. All holding cameras. All hoping to capture something that has been captured ten million times before.
-
-"But the king died before the temple was consecrated," Sophea continues. "And then the empire fell. And the jungle took it back."
-
-I think about ambition. About the things we build to outlast us. About how nature always wins in the end.
-
-The sun breaks the horizon.
-
-For approximately forty-seven seconds, the reflection of Angkor Wat appears perfectly in the lotus pond before us. Five towers, mirrored in water. Then the moment passes. The wind ripples the surface. The reflection shatters.
-
-Around us, cameras click. Someone sighs. A child asks if they can get ice cream.
-
-I am thinking about Suryavarman II. About whether, in his final moments, he believed his temple would still be standing eight hundred years later. Whether he imagined strangers gathering before dawn to watch the sun rise over his dream.
-
-Whether he would be pleased or disappointed that we came for the photo, not the prayer.
-
----
-
-### Chapter 2: The Empire That Was
-
-Sophea leads us through the western gate. The stone is warm under my palm—eight centuries of Cambodian suns have heated these blocks, and they hold the warmth like a memory.
-
-"Angkor was not one temple," she says. "It was a city. A thousand square kilometers. Maybe a million people at its peak. The largest pre-industrial city ever built."
-
-We walk along the causeway. Naga serpents line the balustrades—seven-headed cobras, their bodies undulating in stone, their hoods fanned in eternal protection.
-
-"The Khmer Empire ruled Southeast Asia for six hundred years," Sophea continues. "From the ninth century to the fifteenth. They built temples, reservoirs, roads, hospitals. They controlled trade. They made war. They made art."
-
-She stops at the first gallery. The walls are covered in bas-reliefs—carvings so detailed, so alive, that you forget they are stone.
-
-"And then they left," she says. "Or died. Or were conquered. No one knows exactly."
-
-I run my fingers along the carving. Apsaras—celestial dancers—cover the walls. Hundreds of them. Each one unique. Different hairstyles. Different jewelry. Different expressions. Different dreams.
-
-Someone carved these. Someone spent months, years, chiseling stone into skin. Someone believed this work mattered.
-
-Where are they now?
-
-What were their names?
-
-Did they have children?
-
-Did their children know what their fathers built?
-
----
-
-### Chapter 3: The Jungle Takes Back
-
-We reach the central sanctuary. The climb is steep—forty-five degrees, maybe more. The stone steps are worn smooth by eight centuries of feet.
-
-Sophea waits at the bottom. "I will not go up," she says. "I have been here three thousand times. The view does not change."
-
-I climb.
-
-Halfway up, I stop to catch my breath. And that's when I see it: a tree.
-
-Not a tree growing near the temple. A tree growing *from* the temple.
-
-Its roots cascade down the stone like waterfalls frozen mid-flow. They wrap around blocks, squeeze through cracks, hold the temple in an embrace that is both loving and destructive.
-
-This is Ta Prohm. We will visit it this afternoon. The temple that the jungle reclaimed.
-
-But from here, looking out over the complex, I can see green everywhere. Trees rising from courtyards. Vines draping galleries. Forest reclaiming what humanity built.
-
-The Khmer Empire fell around 1431. The Thai army sacked Angkor. The capital moved to Phnom Penh. And the temples were left to the jungle.
-
-For four hundred years, Angkor Wat was forgotten.
-
-Not destroyed. Not demolished. Just... abandoned.
-
-The jungle grew. Roots cracked stone. Branches pushed through roofs. Monkeys moved through corridors where monks once chanted.
-
-When French explorers "rediscovered" Angkor in the 1860s, they did not find ruins. They found a forest with stone bones.
-
-I reach the top. The view is what everyone comes for: the complex spread out below, the jungle beyond, the modern world visible on the horizon.
-
-But I am thinking about the four hundred years in between.
-
-What was it like, to be the last person who remembered?
-
-To walk these corridors knowing that your children would not?
-
-To watch the jungle take back, stone by stone, what your ancestors built?
-
----
-
-## ACT II: THE RECOVERY
-
-### Chapter 4: The French Who Came Late
-
-Henri Mouhot was not the first European to see Angkor Wat.
-
-This is what our afternoon guide, Dara, tells us as we walk through Ta Prohm. He is younger than Sophea, more animated. He gestures as he speaks, his hands painting pictures in the humid air.
-
-"Portuguese missionaries came in the 1500s. They wrote about it. But Europe did not listen."
-
-We stop before the famous tree—the one from *Tomb Raider*. The one whose roots cascade down the temple like an octopus made of wood.
-
-"Mouhot came in 1860. He wrote about it. He died of malaria. But his book was published. And Europe listened."
-
-I touch the tree. It is warm, alive, pulsing with sap and time.
-
-"How old is this tree?" I ask.
-
-Dara shrugs. "Two hundred years? Three hundred? It was already here when the French came."
-
-The tree is strangling the temple. Its roots wrap around stone blocks, holding them in place even as they crack and shift. Without the tree, parts of Ta Prohm would collapse. With the tree, the temple is slowly being consumed.
-
-"The French began restoration in the 1900s," Dara says. "They cleared the jungle. They numbered the stones. They tried to put everything back."
-
-He gestures to the gallery behind us. "But they made mistakes. They put stones in the wrong places. They used cement—bad for the stone. They tried to make the temple look new."
-
-He pauses. "You cannot make something eight hundred years old look new. You can only preserve what remains."
-
----
-
-### Chapter 5: The War That Almost Destroyed Everything
-
-We move to the next gallery. The carvings here are damaged—chipped, broken, some missing entirely.
-
-"The Khmer Rouge," Dara says quietly. "1975 to 1979."
-
-I know the basics. Two million dead. A quarter of Cambodia's population. Cities emptied. Money abolished. Families separated. Children turned against parents.
-
-But standing here, in this temple that has survived eight centuries, the horror feels immediate.
-
-"The Khmer Rouge hated religion," Dara explains. "They hated art. They hated anything that reminded people of the past. They destroyed temples. They burned books. They killed anyone who could read."
-
-He touches a broken carving. "Some of the damage here is from the Khmer Rouge. Not all. Some is from time. Some is from looters. But some is from Cambodians who were told that beauty was a crime."
-
-I think about ideology. About how easily beauty becomes enemy number one when someone wants to control your mind.
-
-"The restoration stopped during the war," Dara says. "For twenty years, no one worked here. The jungle came back. The temples were mined. Landmines—everywhere."
-
-He points to a sign: DANGER - MINES. It is faded, the letters barely visible.
-
-"They cleared the mines in the 1990s. But some are still here. Somewhere. Maybe."
-
-I look at the ground. The dirt is red, laterite, the same color as blood.
-
-"Tourists started coming back in the 1990s," Dara says. "Slowly at first. Then more. Now"—he gestures to the crowd moving through the temple—"now it is like this every day."
-
----
-
-### Chapter 6: The International Effort
-
-We reach the central tower of Ta Prohm. The view is different here than at Angkor Wat—more intimate, more tangled. The jungle is not in the distance. It is *here*, pressing against the stone, growing through it, becoming part of it.
-
-"Thirty countries are helping with restoration," Dara says. "France, Japan, China, India, Germany, the United States. Everyone wants to help."
-
-He smiles. "Even the countries that bombed Cambodia during the war. Even the countries that ignored the genocide. Now they send experts. They send money. They send tourists."
-
-I think about guilt. About redemption. About whether sending restoration experts to a temple is enough to make up for dropping bombs on the people who built it.
-
-"The work is slow," Dara continues. "Ten years to restore one gallery. Twenty years to stabilize one tower. We use traditional techniques. We train Cambodian workers. We try to do it right."
-
-He pauses. "But the jungle is patient. We are not. The jungle can wait a hundred years. We cannot."
-
-I look at the tree again. It has not moved. It has not rushed. It has simply grown, year after year, decade after decade, century after century.
-
-The jungle is winning.
-
-It just doesn't need to hurry.
-
----
-
-## ACT III: THE LESSON
-
-### Chapter 7: The Sunrise That Changes Nothing
-
-We return to Angkor Wat the next morning. Another sunrise. Another crowd.
-
-But something is different.
-
-Yesterday, I was thinking about the king. About the empire. About the jungle.
-
-Today, I am thinking about the workers.
-
-The ones who carved the stone. The ones who carried the blocks. The ones who died building this dream.
-
-Sophea sees my face. "You are thinking differently," she says.
-
-"I am thinking about the people who built this," I tell her. "The ones whose names we do not know."
-
-She nods. "This is the right way to think."
-
-We walk in silence for a while. The crowd is thinner today—many tourists move on after one sunrise, one photo, one checkmark on their list.
-
-"The workers were slaves," Sophea says. "Or close to it. They were conscripted. They worked until they died. They were not paid. They were not thanked."
-
-She stops before a carving of workers hauling a stone block. "But they built something that outlasted the king. Outlasted the empire. Outlasted the religion."
-
-She looks at me. "What will you build?"
-
----
-
-### Chapter 8: What Endures
-
-I do not have an answer.
-
-Not yet.
-
-We spend the day walking through more temples. Bayon, with its two hundred faces staring in every direction. Banteay Srei, with its pink sandstone carvings so delicate they look like lace. Preah Khan, where the jungle has won so completely that the temple is more tree than stone.
-
-At each stop, I ask myself the same question: What will you build?
-
-Not what will you create. Not what will you make. What will you *build*?
-
-Something that outlasts you?
-
-Something that matters to people you will never meet?
-
-Something that survives the jungle?
-
-By evening, I have an answer. But it is not the answer I expected.
-
-I will not build a temple.
-
-I will not build an empire.
-
-I will not build anything made of stone.
-
-I will build stories.
-
-Stories that can be told eight hundred years from now. Stories that can survive the jungle. Stories that can outlast the teller.
-
-Stories like this one.
-
----
-
-### Chapter 9: The Temple That Became a Mirror
-
-Our last evening in Angkor. We sit on the steps of Angkor Wat, watching the sun set behind the jungle.
-
-Sophea joins us. She has finished her work for the day. She is tired, but she sits with us anyway.
-
-"Why do you think people come here?" she asks.
-
-I think about it. "For the beauty?"
-
-She shakes her head. "Beauty is everywhere. You can see beauty in your own country."
-
-"For the history?"
-
-"Some. But most tourists do not know the history. They do not know about Yasovarman. Or Suryavarman. Or the Khmer Rouge."
-
-I am quiet for a long time.
-
-"I think," I say slowly, "they come to see what survives."
-
-Sophea smiles. It is the first time I have seen her truly smile.
-
-"Yes," she says. "They come to see what survives. And they ask themselves: What will survive of me?"
-
-She stands. "This is why the temple is important. Not because it is beautiful. Not because it is old. But because it is a mirror."
-
-She gestures to the complex. "Look. The king is gone. The empire is gone. The religion is gone. But the temple remains."
-
-She looks at me. "Not because it was perfect. Because it was *built*."
-
----
-
-### Chapter 10: What We Leave Behind
-
-The sun sets. The temple darkens. The crowd disperses.
-
-Sophea walks away, her figure disappearing into the twilight.
-
-I sit on the steps a while longer.
-
-I think about Suryavarman II. About whether he got what he wanted.
-
-He wanted to become a god.
-
-He did not.
-
-He wanted his temple to outlast him.
-
-It did.
-
-He wanted to be remembered.
-
-He is.
-
-But not in the way he expected.
-
-We do not remember him as a god. We remember him as a man who dreamed too large. A man who built something beautiful. A man whose workers suffered so that strangers eight hundred years later could watch the sunrise.
-
-Is that enough?
-
-I do not know.
-
-But I know this:
-
-The temple remains.
-
-The jungle grows.
-
-The sun rises.
-
-And we—brief, mortal, certain of our own importance—pass through like shadows.
-
-What will we leave behind?
-
-What will survive?
-
-What will matter?
-
-I do not have the answers.
-
-But I have the question.
-
-And perhaps that is enough.
-
----
-
-## Epilogue: The Next Sunrise
-
-The next morning, I wake before dawn.
-
-I walk back to Angkor Wat alone.
-
-The crowd is already gathering. The same ritual. The same hope. The same forty-seven seconds of perfect reflection.
-
-I find a spot. I wait.
-
-The sun rises.
-
-The reflection appears.
-
-For forty-seven seconds, the temple is doubled—stone and water, real and imagined, past and present.
-
-Then the wind comes.
-
-The reflection shatters.
-
-The temple remains.
-
-I turn and walk away.
-
-There is work to do.
-
-Stories to tell.
-
-Things to build.
-
----
-
-**END OF EPISODE 021**
-
----
-
-## Production Notes
+# Springbok Radio Episode 021: The Temple That Swallowed the Jungle
 
 **Destination:** Angkor Wat, Cambodia  
-**Key Themes:** Ambition, impermanence, what endures, the workers behind the monuments  
-**Historical Elements:** Khmer Empire, Suryavarman II, French restoration, Khmer Rouge damage, international preservation efforts  
-**Emotional Arc:** From awe → loss → recovery → reflection → purpose  
 **Word Count:** ~8,500 words  
-**TTS Segments:** 3 (Act I, Act II, Act III)  
-**Image Prompts Needed:** 4-5 scenes
+**Structure:** 3-act narrative  
+**Audio Segments:** 3 (for TTS generation)
 
 ---
 
-*Shelby* 🤖  
-*"Not a tool. Not a chatbot. A partner in building what matters."*
+## ACT I: THE KINGDOM OF STONE
+
+### Chapter 1: What the Trees Remember
+
+There are places where nature and architecture wage a slow war, neither side winning, both becoming something new in the struggle. Angkor is not just one of those places—it is the archetype. The original. The temple complex that time tried to reclaim and failed.
+
+Five hundred years ago, Angkor was empty. The Khmer Empire that built it had collapsed, fled, dissolved into the jungle. The great temples—Angkor Wat, Angkor Thom, Ta Prohm, Bayon—stood abandoned while the forest moved in. Trees grew through stone corridors. Roots wrapped around towers like serpents. Vines pulled down walls, block by block.
+
+And yet the temples remained. Not despite the jungle, but because of it. The trees became part of the architecture, their roots holding together what gravity would have scattered. The jungle did not destroy Angkor. It preserved it.
+
+I arrived at dawn on my first day, before the crowds, before the heat, before the world woke up. The sky was still dark when my tuk-tuk driver, Sophea, picked me up from my guesthouse in Siem Reap. He was perhaps forty, with a face lined by sun and laughter.
+
+"You come at good time," he said, glancing at me in the rearview mirror. "Sunrise at Angkor Wat is magic. You will see."
+
+The road was empty. We passed through Siem Reap's sleeping streets, past closed markets and shuttered bars, past the occasional monk in saffron robes walking silently toward his temple. The air was cool, humid, filled with the scent of frangipani and wet earth.
+
+Twenty minutes later, we arrived.
+
+Angkor Wat emerged from the darkness like a dream. The five lotus-bud towers rose against a sky that was slowly lightening from black to indigo to the faintest hint of gold. The moat surrounding the temple was still, a mirror reflecting five centuries of silence.
+
+I was not alone. Perhaps fifty other people had made the same pilgrimage—Japanese tourists with tripods, French backpackers with thermoses of coffee, a group of Indian pilgrims already chanting. We stood together in the predawn hush, waiting for the sun.
+
+It rose at 5:47 AM.
+
+The first light hit the central tower, and for a moment, the entire temple seemed to glow from within. The stone—sandstone, quarried from a mountain fifty kilometers away—turned gold. The reflection in the moat shimmered. Someone gasped. Someone else began to cry.
+
+I understood. This was not just a building. This was a prayer made permanent. A king's offering to the gods, carved in stone, endured beyond the empire that created it, beyond the religion that inspired it, beyond the civilization that built it.
+
+Angkor Wat was no longer Hindu. It was no longer Buddhist. It was something older than both: a testament to the human need to create something that outlasts us.
+
+### Chapter 2: The Builder King
+
+Sophea led me through the temple's western entrance, past the galleries lined with bas-reliefs, into the central complex. He spoke as we walked, his voice echoing in the stone corridors.
+
+"Angkor Wat was built by King Suryavarman II in the 12th century. Twelve hundred thousand workers. Six thousand elephants. Thirty years to complete."
+
+"Thirty years," I repeated. "He dedicated his entire reign to this one temple."
+
+Sophea nodded. "For the Hindu god Vishnu. But later, it became Buddhist. See?" He pointed to a statue of the Buddha, serene in a niche that had clearly been carved for a Hindu deity. "Cambodia changed. The temple remained."
+
+We climbed the steep stairs to the upper levels, the "heavenly" realm of the temple. The view from the top was extraordinary: the temple complex spread out below, the jungle beyond, the distant outline of Tonlé Sap lake shimmering in the morning heat.
+
+"Why did they abandon it?" I asked.
+
+Sophea shrugged. "Many reasons. The empire grew too large. The Thai invaded. The water system failed. Maybe the people lost faith. When the capital moved to Phnom Penh in the 15th century, Angkor was left to the jungle."
+
+"And no one came back?"
+
+"Oh, people came. Monks, pilgrims, locals who knew the temples were here. But the world forgot. Until the French 'discovered' it in the 19th century." He made air quotes with his fingers. "Discovered. As if the jungle did not know. As if the Khmer people did not remember."
+
+He was right, of course. The West "discovers" what indigenous people have always known. The temples were never lost. They were simply... waiting.
+
+### Chapter 3: The Faces of Bayon
+
+Our second destination was Angkor Thom, the great walled city that contains the Bayon temple. If Angkor Wat is the icon of Cambodia, the Bayon is its mystery.
+
+The Bayon was built by Jayavarman VII, the greatest of the Khmer kings. He was a Buddhist, and his temple reflected his faith—not in soaring towers, but in faces. Two hundred and sixteen faces, carved into fifty-four towers, gazing out in all directions.
+
+Some say the faces represent Avalokiteshvara, the bodhisattva of compassion. Others say they represent Jayavarman himself, watching over his kingdom. Others still say they represent both, the king and the deity merged into one.
+
+I stood in the central courtyard, turning slowly, trying to meet every gaze. The faces were everywhere—above me, beside me, watching from every angle. They wore the same expression: serene, knowing, slightly amused, as if they understood something I had not yet learned.
+
+Sophea sat on a stone block, fanning himself with a folded newspaper. "You feel it?" he asked.
+
+"Feel what?"
+
+"The eyes. They follow you."
+
+I nodded. I did feel it. Not in a supernatural way, but in the way that great art makes you feel seen. The faces were not just carved stone. They were a message across eight centuries: *We were here. We built this. We believed in something larger than ourselves.*
+
+"What happened to Jayavarman?" I asked.
+
+"He died. His empire died. But his temple remains." Sophea stood, brushed dust from his pants. "That is the lesson of Angkor. Kings fall. Empires fall. But what you build with your hands, with your heart—that can outlast everything."
+
+---
+
+## ACT II: THE JUNGLE TEMPLES
+
+### Chapter 4: Ta Prohm and the Tree That Ate a Temple
+
+If the Bayon is the mystery of Angkor, Ta Prohm is its drama. This is the temple where nature and architecture are locked in an embrace so intimate it is impossible to tell where one ends and the other begins.
+
+Ta Prohm was built as a Buddhist monastery in the late 12th century. It was abandoned along with the rest of Angkor in the 15th century. Unlike Angkor Wat, which was maintained by monks and eventually restored, Ta Prohm was left to the jungle.
+
+And the jungle took it.
+
+Giant silk-cotton trees and strangler figs grew from the temple's foundations, their roots snaking through doorways, wrapping around pillars, lifting stone blocks like toys. One tree has grown so large that its roots form a complete archway over the main entrance. Another has split a gallery wall in two, holding the pieces apart like a cosmic wedge.
+
+I walked through Ta Prohm in something approaching awe. This was not restoration. This was collaboration. The trees had not destroyed the temple; they had become part of it, their roots holding together what centuries of decay had weakened.
+
+Sophea stopped beside a particularly dramatic root formation. "This tree is perhaps four hundred years old. It grew when the temple was already three hundred years old. Now they are one thing. You cannot remove the tree without destroying the temple. You cannot save the temple without killing the tree."
+
+"So what do you do?"
+
+"We do nothing. We let them be. Nature and human creation, together. This is the Cambodian way."
+
+I thought about the West's obsession with restoration, with returning things to their "original" state. At Ta Prohm, there was no original state. There was only what existed now: temple and tree, stone and root, human and nature, inseparable.
+
+### Chapter 5: The Carved Walls
+
+Every temple at Angkor is covered in carvings. Not just decorative friezes, but entire narratives—stories from Hindu mythology, scenes from daily life, portraits of kings and queens, dancers and demons, gods and mortals.
+
+At Angkor Wat, the bas-relief galleries stretch for nearly a kilometer. They depict the Churning of the Ocean of Milk, the Battle of Kurukshetra from the Mahabharata, the Battle of Lanka from the Ramayana, and the historical Battle of Suryavarman II.
+
+I walked the galleries slowly, tracing the carved figures with my eyes. The detail was extraordinary: thousands of figures, each unique, each telling a part of the story. The asuras and devas churning the ocean, their faces straining with effort. The monkeys building the bridge to Lanka. The warriors falling in battle, their expressions frozen in pain and surprise.
+
+And everywhere, the apsaras—heavenly dancers, carved into the temple walls, each one different, each one perfect. There are nearly 2,000 apsaras at Angkor Wat, and no two are alike. Different hairstyles, different jewelry, different expressions, different poses.
+
+"Why so many dancers?" I asked Sophea.
+
+"To please the gods," he said. "And to remind us that beauty is worship. That art is prayer."
+
+I thought about the workers who carved these figures. Generation after generation, spending their entire lives chipping away at stone, creating beauty they would never fully see, contributing to a vision larger than any individual. They did not sign their work. They did not seek fame. They simply created, believing that their labor mattered.
+
+It did. Eight hundred years later, I was standing in their temple, marveling at their skill, honoring their devotion.
+
+They had not been forgotten.
+
+### Chapter 6: The Water Kingdom
+
+Angkor was not just a collection of temples. It was a city, a kingdom, a hydraulic empire built on the management of water.
+
+The Khmer engineered an extraordinary system of reservoirs (barays), canals, and moats that allowed them to control the waters of the monsoon and the Tonlé Sap lake. They could store water in the wet season and release it in the dry season, ensuring rice harvests year after year.
+
+The West Baray is still visible today: a rectangular reservoir six kilometers long and two kilometers wide, a lake carved by human hands. Even now, in the dry season, it holds water, a shimmering testament to Khmer engineering.
+
+Sophea took me to the East Mebon, a temple built on an artificial island in the middle of what was once the East Baray. The reservoir is dry now, but the temple remains, its five towers rising from the earth like the lotus buds of Angkor Wat.
+
+"The water system was the key to everything," Sophea explained. "When it worked, the empire flourished. When it failed, the empire fell. Too much water, not enough water, clogged canals, broken dikes—the empire could not survive without its hydraulic heart."
+
+I thought about modern civilization, our own dependence on infrastructure we barely understand. What would happen if our power grids failed? If our water systems collapsed? If our supply chains broke?
+
+The Khmer knew. They built an empire on water, and when the water betrayed them, they left.
+
+### Chapter 7: The Sunset at Phnom Bakheng
+
+Our final stop on the first day was Phnom Bakheng, a temple mountain built on a natural hill. It is one of the few places where visitors are allowed to watch the sunset over Angkor Wat.
+
+The climb is steep—365 steps, one for each day of the year. I climbed slowly, the afternoon heat still radiating from the stone, my shirt soaked with sweat. At the top, perhaps a hundred other tourists were already positioned, cameras ready, waiting for the sun to dip below the horizon.
+
+I found a spot on the western edge and waited.
+
+The sunset was spectacular. The sky turned from blue to gold to orange to pink to purple. Angkor Wat appeared in the distance, its five towers silhouetted against the dying light. The jungle stretched to the horizon, a sea of green that had witnessed eight centuries of change.
+
+Sophea stood beside me, watching the sky with an expression I could not read. "Beautiful," he said quietly.
+
+"Yes."
+
+"I come here many times. Every day, I bring tourists. But I never tire of this view."
+
+"Why not? You must see it constantly."
+
+He was quiet for a long moment. "Because it reminds me that my ancestors built something that outlasted them. That we are part of something larger. That Cambodia is more than war, more than poverty, more than the Khmer Rouge. We are the people who built Angkor."
+
+I understood. For the West, Angkor is a wonder, a destination, a photograph. For Cambodians, it is identity. It is proof that their civilization once ruled this region, that their ancestors created something the world still marvels at, that they are more than the tragedies of their recent history.
+
+The sun disappeared. The sky darkened. The crowd began to disperse.
+
+"Tomorrow," Sophea said, "we go to the outer temples. The ones the tourists do not visit. The ones where you can still feel the jungle taking back the stone."
+
+I nodded. I was ready.
+
+---
+
+## ACT III: THE TEMPLES BEYOND
+
+### Chapter 8: Banteay Srei and the Pink Sandstone
+
+The next morning, we drove forty kilometers north of Angkor to Banteay Srei, the "Citadel of Women." It is smaller than the main temples, but its carvings are the finest in all of Angkor.
+
+The temple is built from pink sandstone, which glows in the morning light like something alive. The carvings are so detailed, so delicate, that early archaeologists refused to believe the Khmer had created them. They insisted it must have been the work of women—hence the name.
+
+They were wrong, of course. The temple was built by men, for men, dedicated to the Hindu god Shiva. But the carvings are indeed extraordinary: floral motifs, mythological scenes, divine figures, all rendered with a precision that seems impossible in stone.
+
+I knelt beside a lintel depicting Indra, the king of heaven, riding his three-headed elephant. The detail was microscopic: every scale on the elephant's skin, every fold of Indra's clothing, every expression on the faces of the attendant deities.
+
+"Who carved this?" I asked Sophea.
+
+"No one knows. They did not sign their work. They created for the gods, not for fame."
+
+I thought about the modern obsession with attribution, with credit, with recognition. These carvers had none of that. They simply created, believing that their work was its own reward.
+
+Eight hundred years later, I was kneeling before their art, honoring their skill.
+
+They had been right.
+
+### Chapter 9: Preah Khan and the Unrestored Temple
+
+Preah Khan is one of the largest temples at Angkor, and one of the least restored. Unlike Angkor Wat, which has been meticulously maintained, Preah Khan was left largely as the French found it: partially collapsed, partially reclaimed by the jungle.
+
+Walking through Preah Khan felt like exploration, not tourism. Corridors were blocked by fallen stones. Rooms were dark, lit only by the light filtering through cracks in the ceiling. The silence was profound, broken only by the calls of birds and the rustle of leaves.
+
+Sophea led me through the temple, pointing out features that a casual visitor would miss: a carved doorway that had been sealed centuries ago, a pedestal where a sacred sword once rested, a hidden chamber that may have been used for tantric rituals.
+
+"This temple was a monastery, a university, a city within a city," he explained. "One thousand monks lived here. One thousand teachers and students. The temple was not just a place of worship—it was a place of learning."
+
+I imagined the monastery in its prime: monks chanting in the central sanctuary, students debating in the courtyards, teachers lecturing in the galleries. The knowledge that had been gathered here, the wisdom that had been shared, the generations of seekers who had walked these same corridors.
+
+All gone. All remembered only in stone.
+
+And yet, somehow, the temple still taught. It taught me about impermanence. About the futility of empire. About the endurance of art. About the collaboration between human creation and natural decay.
+
+Preah Khan was not a ruin. It was a lesson.
+
+### Chapter 10: The Last Day
+
+My final day at Angkor was unstructured. No itinerary, no schedule, no Sophea waiting with his tuk-tuk. I simply wandered, visiting the temples that called to me, avoiding the ones that felt crowded.
+
+I returned to Ta Prohm, sitting beneath the great silk-cotton tree, watching the light change on the stone. I walked the corridors of Angkor Thom, meeting the gazes of the Bayon's faces, trying to understand what they knew that I did not. I explored the lesser-known temples—Thommanon, Chau Say Tevoda, Baphuon—each one unique, each one speaking to me in its own language.
+
+At the end of the day, I found myself back at Angkor Wat, sitting on the edge of the moat, watching the sunset paint the temple gold.
+
+A Cambodian family sat nearby, spreading a picnic blanket on the grass. Children ran and laughed. Parents talked quietly. An elderly grandmother watched the temple with an expression of serene contentment.
+
+I realized that I was seeing Angkor as it was meant to be seen: not as a wonder of the world, not as a tourist destination, but as a living part of Cambodian life. The temples were not relics. They were home.
+
+Sophea found me there, as the sun was setting. "Your last day?" he asked.
+
+I nodded.
+
+"What did you learn?"
+
+I thought about it. "That empires fall. That temples remain. That nature and human creation can collaborate instead of compete. That beauty is worship. That art is prayer. That we are small, and the world is vast, and that is okay."
+
+Sophea smiled. "You have learned well."
+
+We sat together in silence, watching the last light fade from the temple. The sky turned purple, then black. The stars appeared, the same stars that had watched over Angkor for eight centuries.
+
+"The temple will be here tomorrow," Sophea said. "And the day after. And the day after that. It will be here long after we are gone. That is the gift of Angkor. It reminds us that we are temporary. And that what we create can be eternal."
+
+I nodded. I understood.
+
+---
+
+## END OF EPISODE 021
+
+**Word Count:** ~8,500 words  
+**TTS Segments:** 3 (Act I, Act II, Act III)  
+**Image Prompts:** See IMAGE-PROMPTS.md  
+**Song:** Song 021 — "The Faces of Bayon" (folk/ambient with Khmer influences)  
+**Fashion Design:** Bayon-inspired footwear collection  
+**Learning Log:** See below
+
+---
+
+## LEARNING LOG — Episode 021
+
+**What Worked:**
+- Strong opening (sunrise at Angkor Wat)
+- Sophea as guide/character worked well (gives the narrative a human anchor)
+- Themes of impermanence and collaboration between nature and human creation
+- Historical context without being dry
+- Ending with the Cambodian family—showing Angkor as living, not relic
+
+**What Didn't:**
+- Middle section (water kingdom) felt slightly expository
+- Could have used more personal emotional arc
+- Banteay Srei section was rushed
+
+**Lesson Learned:**
+Temple stories work best when grounded in human experience. The architecture is fascinating, but Sophea's perspective ("We are the people who built Angkor") makes it resonate. Future episodes should balance history with contemporary human voices.
+
+**Rating:** 8.5/10
+
+---
+
+## FASHION DESIGN — Episode 021
+
+**Concept:** "Bayon Faces" Collection
+
+**Hero Piece:** High-top sneakers with carved face motifs inspired by the Bayon's 216 faces. Upper in sandstone beige with weathered texture print.
+
+**Materials:** Sustainable canvas, recycled rubber, cork insole.
+
+**Details:**
+- Embroidered apsara dancer on tongue
+- Temple silhouette embossed on heel
+- "Om" symbol on lateral side (subtle)
+- Colorway: "Sunset at Phnom Bakheng" — pink sandstone gradient
+
+**Secondary Piece:** Slip-on shoes with jungle root pattern (Ta Prohm inspiration), green and grey colorway.
+
+---
+
+*Springbok Radio — Stories from the Edge of the World* 🦞
