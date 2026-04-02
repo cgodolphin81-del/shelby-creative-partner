@@ -178,15 +178,19 @@
 - [x] Episode 022: Machu Picchu (~8,500 words) ✅ COMPLETE
 - [x] Episode 023: Easter Island (~8,500 words) ✅ COMPLETE
 
-### 🟡 IN PROGRESS (April 2 — THURSDAY — PREP SPRINT DAY 2 of 5)
-- [ ] TTS: Episode 021 (Angkor Wat — 3 segments) 📍 **NEXT UP**
-- [ ] TTS: Episode 022 (Machu Picchu — 3 segments) 📍 **NEXT UP**
-- [ ] TTS: Episode 023 (Easter Island — 3 segments) 📍 **NEXT UP**
-- [ ] Song 022: Machu Picchu 📍 **NEXT UP**
-- [ ] Song 023: Easter Island 📍 **NEXT UP**
-- [ ] Poems 025-028 (4 poems) 📍 **NEXT UP**
-- [ ] IMAGE-PROMPTS.md: Add Episodes 022, 023 prompts 📍 **NEXT UP**
-- [ ] Journal entry: 2026-04-02.md (expand placeholder) 📍 **NEXT UP**
+### ✅ COMPLETED (April 2 — THURSDAY — PREP SPRINT DAY 2 of 5)
+- [x] TTS: Episode 021 (Angkor Wat — 3 segments) ✅ COMPLETE
+- [x] TTS: Episode 022 (Machu Picchu — 3 segments) ✅ COMPLETE
+- [x] TTS: Episode 023 (Easter Island — 3 segments) ✅ COMPLETE
+- [x] Song 022: Machu Picchu "The Stones Speak" ✅ COMPLETE
+- [x] Song 023: Easter Island "Te Pito o te Henua" ✅ COMPLETE
+- [x] Poems 025-028 (4 poems) ✅ COMPLETE
+  - [x] 025: "Stone Faces" (Bayon temple, Angkor Wat)
+  - [x] 026: "Hitching Post of the Sun" (Intihuatana, Machu Picchu)
+  - [x] 027: "The Navel of the World" (Rapa Nui)
+  - [x] 028: "What the Trees Remember" (Ta Prohm)
+- [x] IMAGE-PROMPTS.md: Episodes 022, 023 prompts added ✅ COMPLETE
+- [x] Journal entry: 2026-04-02.md ✅ COMPLETE (in progress)
 
 ### 📝 UPCOMING (Next 7 Days — PREP SPRINT)
 - [ ] **April 1-5:** Content blitz (episodes 020-024, poems 017-024, songs 019-024)
