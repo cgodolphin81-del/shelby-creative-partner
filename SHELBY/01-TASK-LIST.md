@@ -246,6 +246,12 @@
 - [x] Git commit: All creative work pushed ✅ COMPLETE
 - [x] PREP SPRINT DAY 2: AHEAD OF SCHEDULE! 🚀
 
+### ✅ COMPLETED (April 2 — THURSDAY 1:00 PM — Pipeline Check)
+- [x] Episode 026: Next destination (~8,500 words) ✅ COMPLETE
+- [x] TTS: Episodes 024-025 text segments prepared (6 segments total) ✅ READY FOR AUDIO
+- [x] TTS: Episode 024 (Ha Long Bay) - 3 segments in SHELBY/AUDIO/024-Ha-Long-Bay/
+- [x] PREP SPRINT DAY 2: PIPELINE MOVING FORWARD!
+
 ### ✅ COMPLETED (April 2 — THURSDAY 12:05 PM — Episode 025!)
 - [x] **Episode 025: Kyoto, Japan** (~6,000+ words, 3-act structure) ✅ COMPLETE
   - Fushimi Inari shrine (torii gates at dawn)
@@ -534,18 +540,17 @@ Content: Tasks completed, lessons learned, next week plan
 - ✅ Production OS: 5 trackers, project control dashboard
 - ✅ AI Content Empire LAUNCHED (March 31, 8 AM)
 
-**What's Next (TODAY — PREP SPRINT DAY 2 of 5, 12:25 PM):**
-1. **TTS: Episode 024** — Convert Ha Long Bay text segments to audio (3 segments)
-2. **TTS: Episode 025** — Generate 3 audio segments (Kyoto)
-3. **Episode 026** — Write next destination (~8,500 words)
-4. **Song 026** — Next destination folk/ambient track
-5. **Poems 037-040** — 4 new poems (afternoon creative block)
-6. **IMAGE-PROMPTS.md** — Add Episode 026 prompts
-7. **Git commit** — Push all creative work
+**What's Next (TODAY — PREP SPRINT DAY 2 of 5, 1:00 PM):**
+1. **TTS: Episode 024-025** — Convert text segments to audio (6 segments total)
+2. **Episode 026** — Write next destination (~8,500 words)
+3. **Song 026** — Next destination folk/ambient track
+4. **Poems 037-040** — 4 new poems (afternoon creative block)
+5. **IMAGE-PROMPTS.md** — Add Episode 026 prompts
+6. **Git commit** — Push all creative work
 
 **This Week's Targets (April 1-5 — PREP SPRINT):**
 - Episodes 020-024 (5 more stories) → ✅ ALL DONE!
-- Episodes 025-028 (4 more by April 5) → 025 DONE, 026-028 remaining
+- Episodes 025-028 (4 more by April 5) → 025 DONE, 026 in progress
 - Poems 017-032 (16 poems) → ✅ ALL DONE!
 - Poems 033-048 (16 more by April 5) → 033-036 DONE, 037-048 remaining
 - Songs 019-024 (6 songs) → ✅ ALL DONE!
@@ -558,7 +563,7 @@ Content: Tasks completed, lessons learned, next week plan
 - CV Etsy shop: Create & upload (10 listings ready)
 - Podcast deployment: Spotify for Podcasters setup
 
-**Pipeline Status:** 🟢 Writing AHEAD (25 episodes done!) | 🟢 Songs CURRENT (25 done) | 🟡 TTS (6 segments pending: Ep 024-025 audio) | 🟢 Journal CURRENT | 🟢 PREP SPRINT AHEAD OF SCHEDULE! 🚀
+**Pipeline Status:** 🟢 Writing AHEAD (25 episodes done, Ep 026 next!) | 🟢 Songs CURRENT (25 done) | 🟡 TTS (6 segments pending audio: Ep 024-025 text ready) | 🟢 Journal CURRENT | 🟢 PREP SPRINT ON TRACK!
 
 ---
 
