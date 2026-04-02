@@ -159,15 +159,15 @@
 
 ---
 
-### Episode 025: Kyoto, Japan
+### Episode 025: Cappadocia, Turkey
 
 | Episode | Destination | Scene | Prompt |
 |---------|-------------|-------|--------|
-| 025 | Kyoto | Fushimi Inari Torii Gates | "Endless tunnel of vermilion torii gates winding up Mount Inari, thousands of sacred gates, sunlight filtering through, Shinto shrine path, Kyoto Japan, iconic travel photography, golden hour" |
-| 025 | Kyoto | Arashiyama Bamboo Grove | "Towering bamboo stalks reaching toward sky, filtered green light, serene forest path, Arashiyama district, Kyoto, peaceful atmosphere, nature photography, soft diffused lighting" |
-| 025 | Kyoto | Gion Geisha District | "Traditional wooden machiya houses, cobblestone streets, paper lanterns glowing at dusk, geisha or maiko in kimono walking, Gion district, Kyoto, evening atmosphere, cultural photography" |
-| 025 | Kyoto | Kinkaku-ji Golden Pavilion | "Three-story golden pavilion reflecting in mirror pond, covered in gold leaf, surrounded by maple trees, Kinkaku-ji temple, Kyoto, iconic architecture, autumn colors or cherry blossoms, travel photography" |
-| 025 | Kyoto | Tea Ceremony Master | "Elderly tea ceremony master in traditional kimono, whisking matcha in tatami room, ceremonial utensils, bamboo tea scoop, serene expression, Japanese cultural heritage, documentary portrait, soft natural lighting" |
+| 025 | Cappadocia | Balloon at Dawn | "Dozens of hot air balloons rising over Cappadocia valley at sunrise, fairy chimneys glowing rose-red, golden light, Göreme Turkey, aerial view, National Geographic travel photography, magical morning atmosphere" |
+| 025 | Cappadocia | Fairy Chimneys Valley | "Tall volcanic rock spires with stone caps, fairy chimneys peribacaları, Cappadocia central Anatolia, soft tuff rock formations, golden hour, dramatic landscape photography, otherworldly terrain" |
+| 025 | Cappadocia | Derinkuyu Underground City | "Interior of underground city tunnel, narrow stone corridor, carved into volcanic tuff, flashlight illumination, ancient stone walls, Derinkuyu eight levels deep, historical archaeology photography" |
+| 025 | Cappadocia | The Rolling Stone | "Massive circular stone door rolled across underground entrance, Derinkuyu underground city, ancient defensive mechanism, rough-hewn stone, narrow passageway, archaeological detail, dramatic lighting" |
+| 025 | Cappadocia | Mehmet the Pilot | "Turkish balloon pilot, fifty years old, weathered face, hands that have flown three thousand balloons, standing on balloon basket, Cappadocia valley in background, documentary portrait, golden hour" |
 
 ---
 
@@ -185,5 +185,5 @@
 
 ---
 
-**Total Prompts:** 66 (53 episode scenes + 7 album covers + 5 Angkor Wat scenes + 5 Kyoto scenes)  
+**Total Prompts:** 66 (53 episode scenes + 7 album covers + 5 Angkor Wat scenes)  
 **Last Updated:** April 2, 2026 — Episodes 001-007, 019, 020, 021, 022, 023, 024, 025 complete

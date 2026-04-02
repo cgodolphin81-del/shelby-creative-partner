@@ -202,6 +202,17 @@
   - [x] 032: "Hidden Lagoon" (Cong Do lagoon, kayaking)
 - [x] IMAGE-PROMPTS.md: Episode 024 prompts added ✅ COMPLETE
 
+### ✅ COMPLETED (April 2 — THURSDAY 12:20 PM — Cappadocia Cycle)
+- [x] Episode 025: Cappadocia (~8,500 words) ✅ COMPLETE
+- [x] Song 025: "Underground City" (Cappadocia) ✅ COMPLETE
+- [x] Poems 033-036 (4 poems) ✅ COMPLETE
+  - [x] 033: "Fairy Chimneys" (erosion as creation)
+  - [x] 034: "Eight Levels Down" (Derinkuyu underground city)
+  - [x] 035: "Balloon at Dawn" (Mehmet, the flight)
+  - [x] 036: "What Lies Beneath" (surface vs. deep)
+- [x] IMAGE-PROMPTS.md: Episode 025 prompts added ✅ COMPLETE
+- [x] Git commit: All Cappadocia work ✅ COMPLETE
+
 ### ✅ COMPLETED (April 2 — THURSDAY 11:56 AM — Pipeline Check)
 - [x] Episodes 001-024 COMPLETE (24 Springbok Radio stories!)
 - [x] Poems 001-032 COMPLETE (32 poems!)
