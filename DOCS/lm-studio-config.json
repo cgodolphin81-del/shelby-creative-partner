@@ -1,0 +1,94 @@
+{
+  "$schema": "https://openclaw.ai/schema/config.v1.json",
+  "providers": {
+    "lmstudio": {
+      "type": "openai-compatible",
+      "baseUrl": "http://localhost:1234/v1",
+      "apiKey": "lm-studio",
+      "timeout": 120000,
+      "models": {
+        "glm-4.7": {
+          "name": "GLM 4.7 (Primary - Tested on Dell G7)",
+          "contextWindow": 8192,
+          "maxTokens": 4096,
+          "temperature": 0.7,
+          "topP": 0.9,
+          "frequencyPenalty": 0.0,
+          "presencePenalty": 0.0,
+          "stop": [],
+          "usage": "Primary local model - drafts, summaries, editing, Q&A, quick tasks"
+        },
+        "llama-3.2-3b": {
+          "name": "Llama 3.2 3B (Fast Fallback)",
+          "contextWindow": 8192,
+          "maxTokens": 4096,
+          "temperature": 0.7,
+          "topP": 0.9,
+          "frequencyPenalty": 0.0,
+          "presencePenalty": 0.0,
+          "stop": [],
+          "usage": "Quick tasks when GLM is busy"
+        },
+        "phi-3-mini": {
+          "name": "Phi-3 Mini 3.8B (Lightweight)",
+          "contextWindow": 4096,
+          "maxTokens": 2048,
+          "temperature": 0.7,
+          "topP": 0.9,
+          "frequencyPenalty": 0.0,
+          "presencePenalty": 0.0,
+          "stop": [],
+          "usage": "Simple Q&A, quick analysis"
+        }
+      },
+      "defaultModel": "glm-4.7",
+      "fallbackModel": "llama-3.2-3b"
+    }
+  },
+  "routing": {
+    "rules": [
+      {
+        "pattern": "quick|draft|summary|outline|list",
+        "provider": "lmstudio",
+        "model": "llama-3.2-3b",
+        "description": "Route quick tasks to local LM Studio"
+      },
+      {
+        "pattern": "code|json|config|technical",
+        "provider": "lmstudio",
+        "model": "neutron-4b",
+        "description": "Route code/technical tasks to Neutron"
+      },
+      {
+        "pattern": ".*",
+        "provider": "default",
+        "model": "default",
+        "description": "Everything else uses cloud default (Shelby)"
+      }
+    ]
+  },
+  "notes": {
+    "setup": [
+      "1. Install LM Studio from https://lmstudio.ai",
+      "2. Download models: Llama 3.2 3B, Phi-3 Mini, Mistral 7B Q4",
+      "3. Start Local Server in LM Studio (Server tab → Start Server)",
+      "4. Ensure server runs on port 1234 (default)",
+      "5. Copy this config to your OpenClaw config directory",
+      "6. Test with: openclaw chat --provider=lmstudio --model=llama-3.2-3b"
+    ],
+    "troubleshooting": [
+      "If connection fails: Check LM Studio server is running (localhost:1234)",
+      "If models not found: Download them first in LM Studio Download tab",
+      "If OOM errors: Use smaller models (3B instead of 7B) or reduce context window",
+      "For 6GB VRAM: Stick to 3B-7B quantized models (Q4_K_M or lower)"
+    ],
+    "modelRecommendations": {
+      "6GB_VRAM": [
+        "Llama 3.2 3B (fastest, least capable)",
+        "Phi-3 Mini 3.8B (best speed/capability balance)",
+        "Mistral 7B Q4_K_M (most capable, uses most VRAM)",
+        "NVIDIA Neutron 4B (if available, good for code)"
+      ]
+    }
+  }
+}
