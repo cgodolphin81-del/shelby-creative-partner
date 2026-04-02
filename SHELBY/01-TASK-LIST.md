@@ -213,6 +213,17 @@
 - [x] IMAGE-PROMPTS.md: Episode 025 prompts added ✅ COMPLETE
 - [x] Git commit: All Cappadocia work ✅ COMPLETE
 
+### ✅ COMPLETED (April 2 — THURSDAY 6:30 PM — Sossusvlei Cycle)
+- [x] Episode 028: Sossusvlei, Namibia (~8,500 words) ✅ COMPLETE
+- [x] Song 027: "The Vast Place" (Namib Desert) ✅ COMPLETE
+- [x] Poems 041-044 (4 poems) ✅ COMPLETE
+  - [x] 041: "Fifty-Five Million Years" (oldest desert)
+  - [x] 042: "Dune 45" (climbing at sunrise)
+  - [x] 043: "Dead Vlei" (900-year-old trees)
+  - [x] 044: "The Vast Place" (Namib = vast place, memory)
+- [x] IMAGE-PROMPTS.md: Episode 028 prompts added ✅ COMPLETE
+- [x] Git commit: All Sossusvlei work ✅ COMPLETE
+
 ### ✅ COMPLETED (April 2 — THURSDAY 11:56 AM — Pipeline Check)
 - [x] Episodes 001-024 COMPLETE (24 Springbok Radio stories!)
 - [x] Poems 001-032 COMPLETE (32 poems!)

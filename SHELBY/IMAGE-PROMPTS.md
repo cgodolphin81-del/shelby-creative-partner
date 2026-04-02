@@ -210,5 +210,31 @@
 
 ---
 
-**Total Prompts:** 72 (59 episode scenes + 7 album covers + 5 Angkor Wat scenes)  
-**Last Updated:** April 2, 2026 — Episodes 001-007, 019, 020, 021, 022, 023, 024, 025, 026 complete
+### Episode 028: Sossusvlei, Namibia
+
+| Episode | Destination | Scene | Prompt |
+|---------|-------------|-------|--------|
+| 028 | Sossusvlei | Dune 45 Sunrise | "Massive red sand dune at sunrise, Dune 45, glowing orange and fire-red, dramatic shadows, Sossusvlei Namibia, oldest desert on Earth, aerial view, National Geographic travel photography, golden hour" |
+| 028 | Sossusvlei | Dead Vlei Trees | "Blackened 900-year-old camel thorn trees standing in white clay pan, Dead Vlei, surreal landscape, red dunes in background, Namibia, otherworldly photography, harsh midday light" |
+| 028 | Sossusvlei | Sand Dune Ripples | "Close-up of wind-sculpted sand ripples, red-orange sand, wave patterns, Sossusvlei dunes, abstract nature photography, texture detail, golden hour side lighting" |
+| 028 | Sossusvlei | Desert Fox | "Bat-eared fox in Namib desert, pale sand-colored fur, large ears, watching cautiously, Sossusvlei wildlife, documentary photography, natural desert habitat" |
+| 028 | Sossusvlei | Johannes the Guide | "Namibian desert guide, fifty years old, skin color of the desert, eyes that have seen many sunrises, standing on red dune, Sossusvlei background, documentary portrait, golden hour" |
+
+---
+
+## 🎵 MUSIC ALBUM COVERS
+
+| Song | Title | Visual Concept | Prompt |
+|------|-------|----------------|--------|
+| 001 | Danakil Fire | Abstract heat waves, red and yellow | "Abstract heat waves, infrared photography, red and yellow color palette, thermal imaging aesthetic" |
+| 002 | Volcano's Heart | Molten rock texture, dark background | "Molten lava texture close-up, glowing orange core, black background, dramatic lighting" |
+| 003 | Infinite Mirror | Blue gradient, reflection | "Perfect blue gradient, mirror effect, reflection symmetry, minimalist, serene" |
+| 004 | Migration | Animal silhouettes, savanna | "Wildebeest silhouettes against sunset, African savanna, epic migration, golden hour" |
+| 005 | Rose-Red | Petra silhouette, rose color | "Petra Treasury silhouette, rose-red color palette, romantic, architectural" |
+| 006 | Abyss | Deep dark tones, downward | "Deep dark tones, downward spiral, abyss metaphor, abstract, moody" |
+| 007 | Berho | Moon over alien landscape | "Full moon over alien landscape, dragon blood trees, mystical, ethereal" |
+
+---
+
+**Total Prompts:** 77 (64 episode scenes + 7 album covers + 5 Angkor Wat scenes + 5 Iceland scenes)  
+**Last Updated:** April 2, 2026 — Episodes 001-007, 019, 020, 021, 022, 023, 024, 025, 026, 028 complete
