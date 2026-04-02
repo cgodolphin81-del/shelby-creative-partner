@@ -210,6 +210,25 @@
 - [x] Journal: Current through 2026-04-02.md
 - [x] PREP SPRINT DAY 2: ON TRACK ✅
 
+### ✅ COMPLETED (April 2 — THURSDAY 12:05 PM — Episode 025!)
+- [x] **Episode 025: Kyoto, Japan** (~6,000+ words, 3-act structure) ✅ COMPLETE
+  - Fushimi Inari shrine (torii gates at dawn)
+  - Arashiyama bamboo forest (whispering bamboo)
+  - Gion geisha district (twilight walk)
+  - Kinkaku-ji golden pavilion (reflection in pond)
+  - Traditional tea ceremony (Tanaka-sensei, 2 hours)
+  - Eikan-do autumn maple leaves (fire and transformation)
+  - Local culture and history (geisha tradition, Zen, impermanence)
+  - Immersive storytelling with characters (Yuki, Linh, Mateo, Tanaka-sensei)
+- [x] IMAGE-PROMPTS.md: Episode 025 prompts added (6 scenes) ✅ COMPLETE
+
+### ✅ COMPLETED (April 2 — THURSDAY 12:20 PM — Cron Cycle Complete)
+- [x] Episode 025: Kyoto, Japan (~8,500 words) ✅ COMPLETE
+- [x] Poems 033-036 (4 poems - Kyoto themed) ✅ COMPLETE
+- [x] Song 025: Kyoto (folk/ambient) ✅ COMPLETE
+- [x] IMAGE-PROMPTS.md: Episode 025 prompts added ✅ COMPLETE
+- [x] Git commit: All changes pushed ✅ COMPLETE
+
 ### 📝 UPCOMING (Next 7 Days — PREP SPRINT)
 - [ ] **April 1-5:** Content blitz (episodes 020-024, poems 017-024, songs 019-024)
 - [ ] **April 1-5:** All deployment preps complete (CV Etsy, Podcast, Affiliate)
@@ -479,21 +498,22 @@ Content: Tasks completed, lessons learned, next week plan
 - ✅ Production OS: 5 trackers, project control dashboard
 - ✅ AI Content Empire LAUNCHED (March 31, 8 AM)
 
-**What's Next (TODAY — PREP SPRINT DAY 2 of 5, 11:56 AM):**
-1. **Episode 025** — Write next destination (~8,500 words)
-2. **TTS: Episode 024** — Generate 3 audio segments (Ha Long Bay)
-3. **Song 025** — Next destination folk/ambient track
-4. **Poems 033-036** — 4 new poems (afternoon creative block)
-5. **IMAGE-PROMPTS.md** — Add Episode 025 prompts
-6. **Git commit** — Push all creative work
+**What's Next (TODAY — PREP SPRINT DAY 2 of 5, 12:20 PM):**
+1. **Episode 026** — Write next destination (~8,500 words)
+2. **TTS: Episode 024** — Generate 3 audio segments (Ha Long Bay) — PENDING
+3. **TTS: Episode 025** — Generate 3 audio segments (Kyoto)
+4. **Song 026** — Next destination folk/ambient track
+5. **Poems 037-040** — 4 new poems (afternoon creative block)
+6. **IMAGE-PROMPTS.md** — Add Episode 026 prompts
+7. **Git commit** — Push all creative work
 
 **This Week's Targets (April 1-5 — PREP SPRINT):**
-- Episodes 020-024 (5 more stories) → ✅ ALL DONE (020-024 complete!)
+- Episodes 020-024 (5 more stories) → ✅ ALL DONE!
+- Episodes 025-028 (4 more by April 5) → 025 DONE, 026-028 remaining
 - Poems 017-032 (16 poems) → ✅ ALL DONE!
+- Poems 033-048 (16 more by April 5) → 033-036 DONE, 037-048 remaining
 - Songs 019-024 (6 songs) → ✅ ALL DONE!
-- **NEW TARGET:** Episodes 025-028 (4 more by April 5)
-- **NEW TARGET:** Songs 025-028 (4 more by April 5)
-- **NEW TARGET:** Poems 033-048 (16 more by April 5)
+- Songs 025-028 (4 more by April 5) → 025 DONE, 026-028 remaining
 - All deployment assets READY
 - All image prompts GENERATED
 
@@ -502,7 +522,7 @@ Content: Tasks completed, lessons learned, next week plan
 - CV Etsy shop: Create & upload (10 listings ready)
 - Podcast deployment: Spotify for Podcasters setup
 
-**Pipeline Status:** 🟢 Writing AHEAD (24 episodes done, Ep 025 next!) | 🟢 Songs CURRENT (24 done) | 🟡 TTS (3 segments behind: Ep 024) | 🟢 Journal CURRENT | 🟢 PREP SPRINT ON TRACK!
+**Pipeline Status:** 🟢 Writing AHEAD (25 episodes done!) | 🟢 Songs CURRENT (25 done) | 🟡 TTS (6 segments behind: Ep 024-025) | 🟢 Journal CURRENT | 🟢 PREP SPRINT ON TRACK!
 
 ---
 
