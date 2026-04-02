@@ -97,6 +97,26 @@
 | 021 | Angkor Wat | Tree Embracing Temple | "Massive tree roots cascading down ancient stone temple, Ta Prohm, jungle reclaiming ruins, nature and architecture intertwined, mystical atmosphere" |
 | 021 | Angkor Wat | Bayon Faces | "Stone faces of Bayon temple, serene smiles carved in sandstone, multiple faces looking in different directions, ancient Khmer art, soft diffused lighting" |
 
+### Episode 022: Machu Picchu
+
+| Episode | Destination | Scene | Prompt |
+|---------|-------------|-------|--------|
+| 022 | Machu Picchu | City in the Clouds | "Machu Picchu emerging from morning mist, terraced ruins on mountain ridge, Huayna Picchu peak in background, dramatic clouds, golden hour lighting, National Geographic travel photography" |
+| 022 | Machu Picchu | Temple of the Sun | "Curved Inca stone temple, precise masonry without mortar, sunlight through sacred window, ancient architecture, warm stone textures, archaeological photography" |
+| 022 | Machu Picchu | Intihuatana Stone | "Hitching Post of the Sun, carved granite stone on rocky outcrop, spiritual center of Machu Picchu, Andes mountains in background, mystical atmosphere, soft diffused lighting" |
+| 022 | Machu Picchu | Huayna Picchu Summit | "View from Huayna Picchu peak looking down at Machu Picchu, Urubamba River winding through valley, Sacred Valley stretching to horizon, dramatic aerial perspective, epic landscape photography" |
+| 022 | Machu Picchu | Quechua Woman on Terraces | "Quechua woman planting potatoes on ancient agricultural terraces, traditional clothing, stone steps worn smooth, Machu Picchu ruins above, documentary portrait, golden hour" |
+
+### Episode 023: Easter Island
+
+| Episode | Destination | Scene | Prompt |
+|---------|-------------|-------|--------|
+| 023 | Easter Island | Moai at Tahai Sunset | "Single moai silhouette at Tahai ceremonial complex, facing the sea, orange and purple sunset sky, Pacific Ocean horizon, dramatic lighting, travel photography" |
+| 023 | Easter Island | Rano Raraku Quarry | "Hillside quarry with hundreds of moai in various stages of completion, half-carved faces emerging from volcanic tuff, grassy slopes, Easter Island landscape, archaeological photography" |
+| 023 | Easter Island | Ahu Tongariki Sunrise | "Fifteen moai standing in a row on ceremonial platform, backs to the ocean, orange sunrise sky, dramatic silhouettes, largest ahu on Easter Island, epic landscape photography" |
+| 023 | Easter Island | Orongo Petroglyphs | "Ancient petroglyphs carved into volcanic rock at Orongo village, Birdman symbols and canoes, cliff edge overlooking Pacific Ocean, cultural heritage, natural lighting" |
+| 023 | Easter Island | Mateo the Rapa Nui Guide | "Rapa Nui man with weathered face, deep-set eyes, wearing baseball cap and Rapa Nui shirt, moai or ocean background, documentary portrait, authentic island life" |
+
 ---
 
 ## 🎵 MUSIC ALBUM COVERS
@@ -113,5 +133,5 @@
 
 ---
 
-**Total Prompts:** 46 (33 episode scenes + 7 album covers + 5 Angkor Wat scenes)  
-**Last Updated:** April 2, 2026 — Episodes 001-007, 019, 020, 021 complete
+**Total Prompts:** 56 (43 episode scenes + 7 album covers + 5 Angkor Wat scenes)  
+**Last Updated:** April 2, 2026 — Episodes 001-007, 019, 020, 021, 022, 023 complete

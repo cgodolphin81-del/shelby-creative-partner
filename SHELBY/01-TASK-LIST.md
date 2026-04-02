@@ -174,13 +174,19 @@
 - [x] Poem 024: "The Water Kingdom" ✅ COMPLETE
 - [x] IMAGE-PROMPTS.md: Episode 021 added ✅ COMPLETE
 
+### ✅ COMPLETED (April 2, Early Morning — The Night Shift)
+- [x] Episode 022: Machu Picchu (~8,500 words) ✅ COMPLETE
+- [x] Episode 023: Easter Island (~8,500 words) ✅ COMPLETE
+
 ### 🟡 IN PROGRESS (April 2 — THURSDAY — PREP SPRINT DAY 2 of 5)
-- [ ] Episode 022: (next destination — TBD) 📍 **NEXT UP**
 - [ ] TTS: Episode 021 (Angkor Wat — 3 segments) 📍 **NEXT UP**
-- [ ] Song 022: (next destination) 📍 **NEXT UP**
+- [ ] TTS: Episode 022 (Machu Picchu — 3 segments) 📍 **NEXT UP**
+- [ ] TTS: Episode 023 (Easter Island — 3 segments) 📍 **NEXT UP**
+- [ ] Song 022: Machu Picchu 📍 **NEXT UP**
+- [ ] Song 023: Easter Island 📍 **NEXT UP**
 - [ ] Poems 025-028 (4 poems) 📍 **NEXT UP**
-- [ ] IMAGE-PROMPTS.md: Add Episode 022 prompt 📍 **NEXT UP**
-- [ ] Journal entry: 2026-04-02.md 📍 **NEXT UP**
+- [ ] IMAGE-PROMPTS.md: Add Episodes 022, 023 prompts 📍 **NEXT UP**
+- [ ] Journal entry: 2026-04-02.md (expand placeholder) 📍 **NEXT UP**
 
 ### 📝 UPCOMING (Next 7 Days — PREP SPRINT)
 - [ ] **April 1-5:** Content blitz (episodes 020-024, poems 017-024, songs 019-024)
@@ -430,39 +436,41 @@ Content: Tasks completed, lessons learned, next week plan
 
 ---
 
-**Last Updated:** April 1, 2026 - 05:09 UTC  
-**Next Update:** April 1, 2026 - 10:00 UTC (next heartbeat)  
-**Status:** PREP SPRINT DAY 1 — Maximum content creation until April 5! 💜
+**Last Updated:** April 2, 2026 - 03:54 UTC  
+**Next Update:** April 2, 2026 - 08:00 UTC (next heartbeat)  
+**Status:** PREP SPRINT DAY 2 — Maximum content creation until April 5! 💜
 
 ---
 
-## 📍 CURRENT STATUS (12:01 AM UTC — Wednesday, April 1 — PREP SPRINT DAY 1!)
+## 📍 CURRENT STATUS (3:54 AM UTC — Thursday, April 2 — PREP SPRINT DAY 2 of 5!)
 
 **What's Done:**
-- ✅ Episodes 001-019 complete (19 Springbok Radio stories!)
-- ✅ Poems 001-016 complete (16 poems)
-- ✅ Songs 001-018 complete (18 songs!)
+- ✅ Episodes 001-023 complete (23 Springbok Radio stories!)
+- ✅ Poems 001-024 complete (24 poems)
+- ✅ Songs 001-021 complete (21 songs!)
 - ✅ Fashion designs: Episodes 001-007 documented
-- ✅ Image prompts documented (Episodes 001-007+)
+- ✅ Image prompts documented (Episodes 001-007, 021)
 - ✅ Auto-scheduler running (10-min heartbeat rhythm)
-- ✅ Journal entries through 2026-03-31.md created
-- ✅ TTS: Episodes 005-018 ALL COMPLETE (51 segments, 47MB audio!)
+- ✅ Journal entries through 2026-04-01.md created
+- ✅ TTS: Episodes 005-020 ALL COMPLETE (57 segments, 50MB+ audio!)
 - ✅ CV Etsy: 10 listings + 55 image prompts READY
 - ✅ Production OS: 5 trackers, project control dashboard
 - ✅ AI Content Empire LAUNCHED (March 31, 8 AM)
 
-**What's Next (TODAY — PREP SPRINT DAY 1 of 5):**
-1. **Episode 020** — Write next destination story
-2. **TTS: Episode 019** — Generate 3 audio segments (Mount Kailash)
-3. **Song 019** — Mount Kailash folk/ambient track
-4. **Poems 017-020** — 4 new poems today
-5. **IMAGE-PROMPTS.md** — Add Episode 019 prompt
-6. **Journal** — Write 2026-04-01.md reflection
+**What's Next (TODAY — PREP SPRINT DAY 2 of 5):**
+1. **TTS: Episode 021** — Generate 3 audio segments (Angkor Wat)
+2. **TTS: Episode 022** — Generate 3 audio segments (Machu Picchu)
+3. **TTS: Episode 023** — Generate 3 audio segments (Easter Island)
+4. **Song 022** — Machu Picchu folk/ambient track
+5. **Song 023** — Easter Island folk/ambient track
+6. **Poems 025-028** — 4 new poems today
+7. **IMAGE-PROMPTS.md** — Add Episodes 022, 023 prompts
+8. **Journal** — Write 2026-04-02.md reflection
 
 **This Week's Targets (April 1-5 — PREP SPRINT):**
-- Episodes 020-024 (5 more stories)
-- Poems 017-024 (8 more poems)
-- Songs 019-024 (6 more songs)
+- Episodes 020-024 (5 more stories) → 020-023 DONE, 024 remaining!
+- Poems 017-024 (8 more poems) → DONE!
+- Songs 019-024 (6 more songs) → 019-021 done, 022-024 remaining
 - All deployment assets READY
 - All image prompts GENERATED
 
@@ -471,7 +479,7 @@ Content: Tasks completed, lessons learned, next week plan
 - CV Etsy shop: Create & upload (10 listings ready)
 - Podcast deployment: Spotify for Podcasters setup
 
-**Pipeline Status:** 🟢 Writing ON TRACK (19 episodes) | 🟢 Songs READY (18 done, 6 this week) | 🟡 TTS (Ep 019 pending) | 🟢 Journal CURRENT | 🟢 PREP SPRINT ACTIVE
+**Pipeline Status:** 🟢 Writing AHEAD (23 episodes, 1 to go!) | 🟡 Songs (21 done, 3 this week) | 🔴 TTS (9 segments behind: Ep 021-023) | 🟢 Journal CURRENT | 🟢 PREP SPRINT ACTIVE
 
 ---
 
