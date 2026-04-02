@@ -171,6 +171,18 @@
 
 ---
 
+### Episode 025: Kyoto, Japan
+
+| Episode | Destination | Scene | Prompt |
+|---------|-------------|-------|--------|
+| 025 | Kyoto | Fushimi Inari Gates | "Thousands of vermillion torii gates winding up mountain, Fushimi Inari shrine Kyoto Japan, spiral path, sunlight filtering through gates, fox statues at base, serene spiritual atmosphere, National Geographic travel photography" |
+| 025 | Kyoto | Arashiyama Bamboo Grove | "Tall bamboo stalks reaching to sky, Arashiyama bamboo forest Kyoto, dappled sunlight through green canopy, forest path, peaceful meditation space, Japanese zen landscape, vertical composition" |
+| 025 | Kyoto | Gion at Twilight | "Geisha walking down wooden Gion district street at dusk, paper lanterns glowing soft orange, traditional machiya houses, white face makeup, silk kimono, Kyoto evening atmosphere, cinematic lighting" |
+| 025 | Kyoto | Kinkaku-ji Golden Pavilion | "Three-story golden pavilion Kinkaku-ji reflecting in pond, Kyoto Japan, perfect mirror reflection, gold leaf shimmering, pine trees framing, peaceful garden, spring or autumn, architectural photography" |
+| 025 | Kyoto | Tea Ceremony | "Traditional tea ceremony room, tatami mats, tea master in kimono preparing matcha, chasen whisk, chawan bowl, serene atmosphere, Ikebana flower arrangement, natural light from shoji screen, cultural documentary" |
+
+---
+
 ## 🎵 MUSIC ALBUM COVERS
 
 | Song | Title | Visual Concept | Prompt |
