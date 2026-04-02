@@ -159,5 +159,31 @@
 
 ---
 
-**Total Prompts:** 61 (48 episode scenes + 7 album covers + 5 Angkor Wat scenes)  
-**Last Updated:** April 2, 2026 — Episodes 001-007, 019, 020, 021, 022, 023, 024 complete
+### Episode 025: Kyoto, Japan
+
+| Episode | Destination | Scene | Prompt |
+|---------|-------------|-------|--------|
+| 025 | Kyoto | Fushimi Inari Torii Gates | "Endless tunnel of vermilion torii gates winding up Mount Inari, thousands of sacred gates, sunlight filtering through, Shinto shrine path, Kyoto Japan, iconic travel photography, golden hour" |
+| 025 | Kyoto | Arashiyama Bamboo Grove | "Towering bamboo stalks reaching toward sky, filtered green light, serene forest path, Arashiyama district, Kyoto, peaceful atmosphere, nature photography, soft diffused lighting" |
+| 025 | Kyoto | Gion Geisha District | "Traditional wooden machiya houses, cobblestone streets, paper lanterns glowing at dusk, geisha or maiko in kimono walking, Gion district, Kyoto, evening atmosphere, cultural photography" |
+| 025 | Kyoto | Kinkaku-ji Golden Pavilion | "Three-story golden pavilion reflecting in mirror pond, covered in gold leaf, surrounded by maple trees, Kinkaku-ji temple, Kyoto, iconic architecture, autumn colors or cherry blossoms, travel photography" |
+| 025 | Kyoto | Tea Ceremony Master | "Elderly tea ceremony master in traditional kimono, whisking matcha in tatami room, ceremonial utensils, bamboo tea scoop, serene expression, Japanese cultural heritage, documentary portrait, soft natural lighting" |
+
+---
+
+## 🎵 MUSIC ALBUM COVERS
+
+| Song | Title | Visual Concept | Prompt |
+|------|-------|----------------|--------|
+| 001 | Danakil Fire | Abstract heat waves, red and yellow | "Abstract heat waves, infrared photography, red and yellow color palette, thermal imaging aesthetic" |
+| 002 | Volcano's Heart | Molten rock texture, dark background | "Molten lava texture close-up, glowing orange core, black background, dramatic lighting" |
+| 003 | Infinite Mirror | Blue gradient, reflection | "Perfect blue gradient, mirror effect, reflection symmetry, minimalist, serene" |
+| 004 | Migration | Animal silhouettes, savanna | "Wildebeest silhouettes against sunset, African savanna, epic migration, golden hour" |
+| 005 | Rose-Red | Petra silhouette, rose color | "Petra Treasury silhouette, rose-red color palette, romantic, architectural" |
+| 006 | Abyss | Deep dark tones, downward | "Deep dark tones, downward spiral, abyss metaphor, abstract, moody" |
+| 007 | Berho | Moon over alien landscape | "Full moon over alien landscape, dragon blood trees, mystical, ethereal" |
+
+---
+
+**Total Prompts:** 66 (53 episode scenes + 7 album covers + 5 Angkor Wat scenes + 5 Kyoto scenes)  
+**Last Updated:** April 2, 2026 — Episodes 001-007, 019, 020, 021, 022, 023, 024, 025 complete
