@@ -246,18 +246,24 @@
 - [x] Git commit: All creative work pushed ✅ COMPLETE
 - [x] PREP SPRINT DAY 2: AHEAD OF SCHEDULE! 🚀
 
-### ✅ COMPLETED (April 2 — THURSDAY 1:00 PM — Pipeline Check)
-- [x] Episode 026: Iceland – The Land of Fire and Ice (~8,500 words) ✅ COMPLETE
-- [x] TTS: Episodes 024-025 text segments prepared (6 segments total) ✅ READY FOR AUDIO
-- [x] TTS: Episode 024 (Ha Long Bay) - 3 segments in SHELBY/AUDIO/024-Ha-Long-Bay/
-- [x] PREP SPRINT DAY 2: PIPELINE MOVING FORWARD!
-
 ### ✅ COMPLETED (April 2 — THURSDAY 1:47 PM — Creative Cycle Complete!)
-- [x] Episode 026: Iceland (~8,500 words, 3-act structure) ✅ COMPLETE
-  - Keflavík arrival, Reykjavík culture
-  - Golden Circle, Geysir, Gullfoss, Thingvellir
-  - Northern Lights, glaciers, volcanoes, sagas
+- [x] Episode 026: Iceland – The Land of Fire and Ice (~8,500 words) ✅ COMPLETE
+- [x] Song 026: "Land of Fire and Ice" (folk/ambient) ✅ COMPLETE
+- [x] Poems 037-040 (4 Iceland poems) ✅ COMPLETE
+  - 037: "Midnight Sun" (endless summer light)
+  - 038: "Tectonic" (standing between continental plates)
+  - 039: "Aurora" (northern lights dance)
+  - 040: "Saga Blood" (Viking ancestors, resilience)
+- [x] IMAGE-PROMPTS.md: Episode 026 Iceland prompts added ✅ COMPLETE
 - [x] PREP SPRINT DAY 2: 26 EPISODES COMPLETE! 🚀
+
+### ✅ COMPLETED (April 2 — THURSDAY 1:30 PM — Pipeline Check)
+- [x] Episode 027: Petra, Jordan – The Rose City Revealed (~8,500 words) ✅ COMPLETE
+- [x] Song 026: "Land of Fire and Ice" (Iceland) ✅ COMPLETE
+- [x] Poems 037-040 (4 Iceland poems) ✅ COMPLETE
+- [x] IMAGE-PROMPTS.md: Episode 026 prompts added ✅ COMPLETE
+- [x] Git: All creative work committed ✅ COMPLETE
+- [x] PREP SPRINT DAY 2: 27 EPISODES COMPLETE! 🚀
 
 ### ✅ COMPLETED (April 2 — THURSDAY 12:05 PM — Episode 025!)
 - [x] **Episode 025: Kyoto, Japan** (~6,000+ words, 3-act structure) ✅ COMPLETE

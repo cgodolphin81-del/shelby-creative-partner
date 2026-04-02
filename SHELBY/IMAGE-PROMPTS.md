@@ -197,5 +197,18 @@
 
 ---
 
-**Total Prompts:** 66 (53 episode scenes + 7 album covers + 5 Angkor Wat scenes)  
-**Last Updated:** April 2, 2026 — Episodes 001-007, 019, 020, 021, 022, 023, 024, 025 complete
+### Episode 026: Iceland
+
+| Episode | Destination | Scene | Prompt |
+|---------|-------------|-------|--------|
+| 026 | Iceland | Keflavík Arrival | "Icelandic landscape from airplane window, black lava fields stretching to horizon, moss-covered volcanic rock, overcast Nordic sky, Keflavík airport approach, dramatic moody atmosphere, travel photography, cool blue and gray tones" |
+| 026 | Iceland | Reykjavík Colorful Streets | "Row of colorful corrugated iron houses, bright red blue yellow green facades, Reykjavík old town, cobblestone street, Nordic architecture, overcast sky, vibrant colors against gray backdrop, travel photography, street scene" |
+| 026 | Iceland | Golden Circle Geysir | "Strokkur geyser erupting, powerful water blast shooting skyward, steam clouds, turquoise mineral pools, Golden Circle Iceland, tourists silhouettes, dramatic action shot, natural wonder photography, dynamic moment" |
+| 026 | Iceland | Gullfoss Waterfall | "Massive two-tiered waterfall Gullfoss, powerful cascade plunging into canyon gorge, rainbow in mist, golden waterfall, Iceland highlands, dramatic scale, National Geographic landscape photography, raw natural power" |
+| 026 | Iceland | Thingvellir Tectonic Plates | "Silfra rift valley between North American and Eurasian tectonic plates, crystal clear glacial water, volcanic rock walls, Thingvellir National Park, geological wonder, blue and gray tones, otherworldly landscape, aerial perspective" |
+| 026 | Iceland | Northern Lights Aurora | "Green and purple aurora borealis dancing across night sky, starry Milky Way visible, snowy Icelandic landscape silhouette, volcanic mountains, long exposure astrophotography, magical northern lights, winter wonderland" |
+
+---
+
+**Total Prompts:** 72 (59 episode scenes + 7 album covers + 5 Angkor Wat scenes)  
+**Last Updated:** April 2, 2026 — Episodes 001-007, 019, 020, 021, 022, 023, 024, 025, 026 complete
