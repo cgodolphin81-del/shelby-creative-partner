@@ -133,5 +133,31 @@
 
 ---
 
-**Total Prompts:** 56 (43 episode scenes + 7 album covers + 5 Angkor Wat scenes)  
-**Last Updated:** April 2, 2026 — Episodes 001-007, 019, 020, 021, 022, 023 complete
+### Episode 024: Ha Long Bay
+
+| Episode | Destination | Scene | Prompt |
+|---------|-------------|-------|--------|
+| 024 | Ha Long Bay | Dragons Descending | "Three thousand limestone islands rising from emerald water, misty morning atmosphere, junk boat with brown sails, Ha Long Bay Vietnam, dramatic karst landscape, travel photography, golden hour" |
+| 024 | Ha Long Bay | Thien Cung Grotto | "Cave interior with colorful stalactites and stalagmites, illuminated formations, Cathedral of Heavenly Palace, Ha Long Bay, mystical lighting, underground wonder, archaeological photography" |
+| 024 | Ha Long Bay | Floating Village Cua Van | "Colorful floating houses on wooden rafts, fishing village on water, children swimming between decks, nets being mended, Ha Long Bay traditional life, documentary photography, morning light" |
+| 024 | Ha Long Bay | Hidden Lagoon Cong Do | "Kayakers in crystal clear hidden lagoon, completely enclosed by limestone cliffs, tropical paradise, secret sanctuary, emerald water, aerial view, pristine nature, travel photography" |
+| 024 | Ha Long Bay | Linh the Guide | "Vietnamese woman guide with sharp eyes and slow smile, conical hat, standing on junk boat deck, Ha Long Bay islands in background, documentary portrait, golden hour, authentic local" |
+
+---
+
+## 🎵 MUSIC ALBUM COVERS
+
+| Song | Title | Visual Concept | Prompt |
+|------|-------|----------------|--------|
+| 001 | Danakil Fire | Abstract heat waves, red and yellow | "Abstract heat waves, infrared photography, red and yellow color palette, thermal imaging aesthetic" |
+| 002 | Volcano's Heart | Molten rock texture, dark background | "Molten lava texture close-up, glowing orange core, black background, dramatic lighting" |
+| 003 | Infinite Mirror | Blue gradient, reflection | "Perfect blue gradient, mirror effect, reflection symmetry, minimalist, serene" |
+| 004 | Migration | Animal silhouettes, savanna | "Wildebeest silhouettes against sunset, African savanna, epic migration, golden hour" |
+| 005 | Rose-Red | Petra silhouette, rose color | "Petra Treasury silhouette, rose-red color palette, romantic, architectural" |
+| 006 | Abyss | Deep dark tones, downward | "Deep dark tones, downward spiral, abyss metaphor, abstract, moody" |
+| 007 | Berho | Moon over alien landscape | "Full moon over alien landscape, dragon blood trees, mystical, ethereal" |
+
+---
+
+**Total Prompts:** 61 (48 episode scenes + 7 album covers + 5 Angkor Wat scenes)  
+**Last Updated:** April 2, 2026 — Episodes 001-007, 019, 020, 021, 022, 023, 024 complete
