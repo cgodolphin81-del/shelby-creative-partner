@@ -222,6 +222,33 @@
 
 ---
 
+### Episode 029: Patagonia, The Edge of the World
+
+| Episode | Destination | Scene | Prompt |
+|---------|-------------|-------|--------|
+| 029 | Patagonia | Torres del Paine Towers | "Three granite spires rising from Patagonian plain, Torres del Paine Chile, black rock against indigo sky, Cuernos del Paine horn-shaped peak, turquoise lakes below, National Geographic travel photography, dramatic mountain landscape, golden hour" |
+| 029 | Patagonia | Perito Moreno Glacier | "Massive blue glacier wall thirty kilometers wide, Perito Moreno Argentina, ice calving into turquoise lake, dramatic ice formations, glacial silt water, Patagonian landscape, National Geographic photography, midday light" |
+| 029 | Patagonia | Guanaco Herd | "Wild guanaco herd grazing on Patagonian steppe, brown coats blending with dry grass, Andes mountains in background, wildlife documentary photography, golden hour, natural habitat" |
+| 029 | Patagonia | Andean Condor | "Andean condor soaring with twenty-foot wingspan, circling above Torres del Paine, black glossy feathers, thermal currents, Patagonian sky, wildlife photography, majestic bird of prey" |
+| 029 | Patagonia | Mateo the Gaucho Guide | "Patagonian gaucho guide, fifty years old, hands that have known lasso and reins, standing on red clay plain, Torres del Paine towers in background, documentary portrait, golden hour, authentic local" |
+
+---
+
+### Episode 030: Antarctica, The White Continent
+
+| Episode | Destination | Scene | Prompt |
+|---------|-------------|-------|--------|
+| 030 | Antarctica | Drake Passage Crossing | "Expedition ship crossing Drake Passage, rough grey ocean, forty-eight hour journey, Antarctic approach, stormy seas, National Geographic travel photography, dramatic maritime landscape" |
+| 030 | Antarctica | First Sight of Icebergs | "Wall of white ice rising from Antarctic sea, icebergs floating in dark water, blue icebergs, first sight of Antarctica, expedition ship on horizon, travel photography, overcast sky" |
+| 030 | Antarctica | Penguin Colony Landing | "Gentoo penguin colony on Antarctic shore, hundreds of black and white penguins, orange beaks, grey sand, zodiac boats in water, wildlife photography, chaotic colony, natural lighting" |
+| 030 | Antarctica | Kayaking Among Icebergs | "Kayakers paddling among towering blue icebergs, Antarctic Peninsula, ice formations fifty feet high, calm water, reflection, expedition photography, adventure travel" |
+| 030 | Antarctica | Humpback Whale Breach | "Humpback whale breaching Antarctic waters, twenty-foot body rising from dark ocean, massive splash, whales in Antarctica, wildlife photography, dramatic action shot" |
+| 030 | Antarctica | Research Station Ice Cores | "Blue ice core samples at Antarctic research station, scientists studying climate data, ice age air bubbles, scientific research, Antarctic Treaty zone, documentary photography" |
+| 030 | Antarctica | Standing at 60°S | "Silent white Antarctic landscape, ice stretching to horizon, grey sky, cold wind, 60°S latitude boundary, Antarctic Treaty zone, minimalist landscape photography, overcast" |
+| 030 | Antarctica | Dr. Elena Vasquez Expedition Leader | "Glaciologist expedition leader, forties, sharp eyes, warm smile, standing on Antarctic ice, research station in background, documentary portrait, scientific expedition" |
+
+---
+
 ## 🎵 MUSIC ALBUM COVERS
 
 | Song | Title | Visual Concept | Prompt |
@@ -236,5 +263,5 @@
 
 ---
 
-**Total Prompts:** 77 (64 episode scenes + 7 album covers + 5 Angkor Wat scenes + 5 Iceland scenes)  
-**Last Updated:** April 2, 2026 — Episodes 001-007, 019, 020, 021, 022, 023, 024, 025, 026, 028 complete
+**Total Prompts:** 90 (77 episode scenes + 7 album covers + 5 Angkor Wat scenes + 5 Iceland scenes + 5 Patagonia scenes + 8 Antarctica scenes)  
+**Last Updated:** April 3, 2026 — Episodes 001-007, 019, 020, 021, 022, 023, 024, 025, 026, 028, 029, 030 complete
