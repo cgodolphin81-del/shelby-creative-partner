@@ -308,5 +308,50 @@
 
 ---
 
-**Total Prompts:** 107 (90 previous + 9 Great Barrier Reef + 8 Grand Canyon)  
-**Last Updated:** April 3, 2026 — Episodes 001-007, 019-026, 028-032 complete
+### Episode 033: Bagan, Myanmar — The Plain of Temples
+
+| Episode | Destination | Scene | Prompt |
+|---------|-------------|-------|--------|
+| 033 | Bagan | Sunrise Balloon Over Temples | "Aerial view of 2,000+ Buddhist temples from hot air balloon, Bagan Myanmar plain at dawn, mist rising between ancient stupas, golden light, thousands of structures spanning centuries, travel photography, serene spiritual atmosphere" |
+| 033 | Bagan | Ananda Temple Exterior | "Ananda Temple 'the Beautiful One', symmetrical Buddhist temple, white stupa with golden spire, four standing Buddha statues in niches, 12th century architecture, Bagan Myanmar, golden hour lighting, religious pilgrimage site" |
+| 033 | Bagan | Ananda Temple Interior | "Interior of Ananda Temple, large standing Buddha statue, golden altar, devotees praying, candlelight flickering, incense smoke, Buddhist worship, intimate spiritual atmosphere, documentary photography" |
+| 033 | Bagan | Shwezigon Pagoda | "Shwezigon Pagoda, golden bell-shaped stupa, pilgrims circumambulating, sunset light reflecting off gold leaf, Bagan Myanmar, sacred Buddhist monument, devotional atmosphere, warm tones" |
+| 033 | Bagan | Thatbyinnyu Temple | "Thatbyinnyu Temple tallest structure in Bagan, two-story Buddhist temple, brick construction, 12th century, viewing platform, panoramic plain view, architectural photography, golden hour" |
+| 033 | Bagan | Monk U Thant Portrait | "Buddhist monk U Thant in maroon robes, weathered wise face, standing in temple courtyard, Bagan Myanmar, documentary portrait, natural lighting, spiritual dedication, living faith" |
+| 033 | Bagan | Elderly Pilgrim Woman | "Elderly Burmese woman pilgrim in traditional longyi, praying at temple shrine, hands pressed together, devotional expression, Bagan Myanmar, cultural documentary, intimate moment, golden light" |
+| 033 | Bagan | Sunset at Shwesandaw | "Sunset view from Shwesandaw Pagoda, crowds watching sun descend behind temples, orange and pink sky, silhouettes of stupas, Bagan Myanmar, contemplative atmosphere, travel photography" |
+| 033 | Bagan | Bhumi Splendor Fashion | "Model wearing Bhumi Splendor collection, earth-tone temple-inspired modest wear, Ananda tunic, Shwezigon wrap skirt, Thatbyinnyu layered robe, Bagan temple background, editorial fashion photography, golden hour" |
+
+---
+
+### Episode 034: Zhangjiajie, China — The Avatar Mountains
+
+| Episode | Destination | Scene | Prompt |
+|---------|-------------|-------|--------|
+| 034 | Zhangjiajie | Quartz-Sandstone Pillars | "Thousands of quartz-sandstone pillars rising from mist, Zhangjiajie National Forest Park, Wulingyuan, Hunan China, 200-800 meter tall stone columns, Avatar-inspired landscape, aerial view, National Geographic photography, ethereal atmosphere" |
+| 034 | Zhangjiajie | Glass Bridge | "Zhangjiajie Grand Canyon Glass Bridge, 430-meter span, 300-meter drop, tourists walking on transparent bridge, vertigo-inducing view, engineering marvel, adventure travel photography, dramatic perspective" |
+| 034 | Zhangjiajie | Bailong Elevator | "Bailong outdoor glass elevator ascending cliff face, 326-meter vertical lift, Zhangjiajie China, tourists inside glass walls, quartz-sandstone pillars visible, engineering and nature, adventure photography" |
+| 034 | Zhangjiajie | Plank Walk in the Sky | "Wooden plank walkway attached to cliff side, Zhangjiajie National Park, narrow path with chain railing, sheer drop below, misty valley, adventure hiking, dramatic perspective, travel photography" |
+| 034 | Zhangjiajie | Ms. Chen Tujia Guide | "Tujia ethnic guide Ms. Chen in traditional dress, standing on mountain overlook, Zhangjiajie pillars in background, indigenous connection to land, documentary portrait, golden hour, cultural heritage" |
+| 034 | Zhangjiajie | Hidden Valley Prayer Site | "Secret prayer site in Zhangjiajie valley, colorful prayer flags, Tujia spiritual offerings, forest setting, off tourist path, intimate cultural moment, documentary photography, natural lighting" |
+| 034 | Zhangjiajie | Tianzi Mountain Sunrise | "Sunrise from Tianzi Mountain summit, sea of clouds below, quartz-sandstone pillars emerging from mist, Zhangjiajie China, dawn light, ethereal landscape, National Geographic photography, transcendent atmosphere" |
+| 034 | Zhangjiajie | Mist Walker Fashion | "Model wearing Mist Walker hiking collection, summit jacket, plank walk pants, cloud sea vest, Zhangjiajie misty mountain background, editorial outdoor fashion photography, gray and green palette, adventure aesthetic" |
+
+---
+
+## 🎵 MUSIC ALBUM COVERS
+
+| Song | Title | Visual Concept | Prompt |
+|------|-------|----------------|--------|
+| 001 | Danakil Fire | Abstract heat waves, red and yellow | "Abstract heat waves, infrared photography, red and yellow color palette, thermal imaging aesthetic" |
+| 002 | Volcano's Heart | Molten rock texture, dark background | "Molten lava texture close-up, glowing orange core, black background, dramatic lighting" |
+| 003 | Infinite Mirror | Blue gradient, reflection | "Perfect blue gradient, mirror effect, reflection symmetry, minimalist, serene" |
+| 004 | Migration | Animal silhouettes, savanna | "Wildebeest silhouettes against sunset, African savanna, epic migration, golden hour" |
+| 005 | Rose-Red | Petra silhouette, rose color | "Petra Treasury silhouette, rose-red color palette, romantic, architectural" |
+| 006 | Abyss | Deep dark tones, downward | "Deep dark tones, downward spiral, abyss metaphor, abstract, moody" |
+| 007 | Berho | Moon over alien landscape | "Full moon over alien landscape, dragon blood trees, mystical, ethereal" |
+
+---
+
+**Total Prompts:** 124 (107 previous + 9 Bagan + 8 Zhangjiajie)  
+**Last Updated:** April 3, 2026 — Episodes 001-007, 019-026, 028-034 complete
