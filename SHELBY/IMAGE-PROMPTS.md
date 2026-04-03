@@ -263,5 +263,50 @@
 
 ---
 
-**Total Prompts:** 90 (77 episode scenes + 7 album covers + 5 Angkor Wat scenes + 5 Iceland scenes + 5 Patagonia scenes + 8 Antarctica scenes)  
-**Last Updated:** April 3, 2026 — Episodes 001-007, 019, 020, 021, 022, 023, 024, 025, 026, 028, 029, 030 complete
+### Episode 031: Great Barrier Reef, Australia
+
+| Episode | Destination | Scene | Prompt |
+|---------|-------------|-------|--------|
+| 031 | Great Barrier Reef | Cairns Dawn Approach | "Aerial view of Great Barrier Reef from airplane, turquoise coral sea, thousands of reef formations visible below, Cairns coastline in distance, Queensland Australia, travel photography, morning light, vibrant blue and green tones" |
+| 031 | Great Barrier Reef | First Snorkel Experience | "Underwater coral garden, vibrant colors, tropical fish swimming through branching coral, snorkeler silhouette above, Great Barrier Reef Australia, marine photography, crystal clear water, sunlight filtering through surface" |
+| 031 | Great Barrier Reef | Sea Turtle Encounter | "Green sea turtle gliding through coral reef, ancient eyes, patterned shell, underwater photography, Great Barrier Reef, peaceful marine life encounter, natural lighting from above" |
+| 031 | Great Barrier Reef | Coral Nursery | "Dr. Amara Singh marine biologist working at coral nursery, underwater scene, coral fragments attached to frames, restoration work, Lizard Island research station, scientific documentary photography" |
+| 031 | Great Barrier Reef | Crown-of-Thorns Starfish | "Crown-of-thorns starfish on coral, destructive outbreak, damaged coral beneath, Great Barrier Reef environmental challenge, underwater photography, conservation awareness" |
+| 031 | Great Barrier Reef | Uncle Billy Sea Country | "Indigenous Kuku Yalanji elder Uncle Billy on traditional boat, sea country waters, Torres Strait Islander connection to reef, documentary portrait, golden hour, cultural heritage" |
+| 031 | Great Barrier Reef | Night Watch with Amara | "Marine biologist on boat deck at night, stars reflected on calm water, Great Barrier Reef darkness, contemplative moment, conservation dedication, astrophotography" |
+| 031 | Great Barrier Reef | Super Coral Hope | "Healthy heat-resistant coral specimens, vibrant colors, coral restoration success, underwater macro photography, Great Barrier Reef conservation hope, scientific optimism" |
+| 031 | Great Barrier Reef | Maya Reef Armor Fashion | "Model wearing Reef Armor rash guard with coral-inspired patterns, five pattern series, technical swimwear design, ocean conservation fashion, tropical beach setting, editorial photography" |
+
+---
+
+### Episode 032: Grand Canyon, USA
+
+| Episode | Destination | Scene | Prompt |
+|---------|-------------|-------|--------|
+| 032 | Grand Canyon | Mather Point Sunrise | "First light over Grand Canyon South Rim, Mather Point viewpoint, layered red and orange rock formations stretching to horizon, dramatic shadows, early morning visitors silhouettes, National Park photography, golden hour" |
+| 032 | Grand Canyon | Bright Angel Trail Descent | "Hikers descending Bright Angel Trail, switchbacks carved into canyon wall, vast scale, geological layers visible, Grand Canyon National Park, adventure travel photography, midday sun" |
+| 032 | Grand Canyon | Geological Layers | "Close-up of canyon wall showing distinct geological strata, Kaibab limestone, Coconino sandstone, Hermit shale, Supai group, Redwall limestone, Vishnu Schist at bottom, educational geology photography" |
+| 032 | Grand Canyon | Canyon Tom Encounter | "Old-time canyon guide Canyon Tom at rest stop, weathered face, decades of trail experience, Bright Angel Trail background, documentary portrait, natural lighting" |
+| 032 | Grand Canyon | Plateau Point View | "View from Plateau Point looking down to Colorado River, thousand-foot drop, vast canyon expanse, hikers resting on rock ledge, Grand Canyon interior, adventure photography, dramatic perspective" |
+| 032 | Grand Canyon | Marcus Hopi Ranger | "Hopi park ranger Marcus in uniform, standing at canyon overlook, Indigenous connection to land, Grand Canyon South Rim, documentary portrait, golden hour, cultural heritage" |
+| 032 | Grand Canyon | Night Sky Milky Way | "Milky Way arching over Grand Canyon rim, starry night sky, canyon silhouette below, dark sky preserve, astrophotography, long exposure, cosmic scale" |
+| 032 | Grand Canyon | Canyon Collection Fashion | "Hiking boots and outdoor gear from Canyon Collection, gradient leather matching canyon colors, Tuyaat boots, Redwall jacket, Bright Angel daypack, editorial product photography, desert landscape background" |
+
+---
+
+## 🎵 MUSIC ALBUM COVERS
+
+| Song | Title | Visual Concept | Prompt |
+|------|-------|----------------|--------|
+| 001 | Danakil Fire | Abstract heat waves, red and yellow | "Abstract heat waves, infrared photography, red and yellow color palette, thermal imaging aesthetic" |
+| 002 | Volcano's Heart | Molten rock texture, dark background | "Molten lava texture close-up, glowing orange core, black background, dramatic lighting" |
+| 003 | Infinite Mirror | Blue gradient, reflection | "Perfect blue gradient, mirror effect, reflection symmetry, minimalist, serene" |
+| 004 | Migration | Animal silhouettes, savanna | "Wildebeest silhouettes against sunset, African savanna, epic migration, golden hour" |
+| 005 | Rose-Red | Petra silhouette, rose color | "Petra Treasury silhouette, rose-red color palette, romantic, architectural" |
+| 006 | Abyss | Deep dark tones, downward | "Deep dark tones, downward spiral, abyss metaphor, abstract, moody" |
+| 007 | Berho | Moon over alien landscape | "Full moon over alien landscape, dragon blood trees, mystical, ethereal" |
+
+---
+
+**Total Prompts:** 107 (90 previous + 9 Great Barrier Reef + 8 Grand Canyon)  
+**Last Updated:** April 3, 2026 — Episodes 001-007, 019-026, 028-032 complete
