@@ -355,3 +355,21 @@
 
 **Total Prompts:** 124 (107 previous + 9 Bagan + 8 Zhangjiajie)  
 **Last Updated:** April 3, 2026 — Episodes 001-007, 019-026, 028-034 complete
+
+---
+
+### Episode 035: Venice, Italy — The Floating City
+
+| Episode | Destination | Scene | Prompt |
+|---------|-------------|-------|--------|
+| 035 | Venice | St. Mark's Square at Dawn | "St. Mark's Square Piazza San Marco at dawn, empty plaza before crowds, golden light hitting Byzantine domes, St. Mark's Basilica silhouette, mist rising from lagoon, lone gondolier preparing boat, serene morning atmosphere, travel photography, magical blue hour transitioning to golden hour" |
+| 035 | Venice | Gondola on Grand Canal | "Traditional black gondola gliding on Grand Canal, gondolier in striped shirt standing at stern, ornate palazzos reflecting in water, Rialto Bridge in distance, golden hour lighting, Venice Italy, romantic travel photography, classic Venetian scene" |
+| 035 | Venice | Rialto Bridge | "Rialto Bridge Ponte di Rialto arched stone bridge spanning Grand Canal, bustling market stalls, vendors selling fresh produce, tourists and locals crossing, Venice Italy, architectural photography, golden hour, historic commerce center" |
+| 035 | Venice | Murano Glassblower | "Master glassblower in Murano workshop, molten glass glowing orange at end of blowpipe, traditional furnace in background, artisan shaping vessel with centuries-old techniques, Venice Italy, documentary photography, dramatic workshop lighting, cultural craftsmanship" |
+| 035 | Venice | Burano Colorful Houses | "Row of brightly painted houses on Burano island, vivid colors red blue yellow green pink, narrow canal in foreground, fishing nets drying, lace-making tradition, Venice lagoon, travel photography, cheerful vibrant atmosphere, iconic colorful architecture" |
+| 035 | Venice | Hidden Canal with Laundry Lines | "Secret narrow Venetian canal, colorful laundry hanging on lines between weathered buildings, small stone bridge, moss-covered walls, everyday Venice life, documentary photography, intimate local scene, natural lighting, authentic atmosphere" |
+
+---
+
+**Total Prompts:** 130 (124 previous + 6 Venice)  
+**Last Updated:** April 3, 2026 — Episodes 001-007, 019-026, 028-035 complete
