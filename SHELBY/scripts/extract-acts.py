@@ -11,8 +11,8 @@ def extract_acts(input_file, output_dir):
     with open(input_file, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Find all ACT sections
-    act_pattern = r'(## ACT [^\n]+.*?)(?=(## ACT |## EPILOGUE|---\n\n\*\*Audio Segments|\*\*END OF EPISODE|\Z))'
+    # Find all ACT sections - handle both "## ACT 1" and "# ACT I:" formats
+    act_pattern = r'((?:##|#) ACT [^\n]+.*?)(?=((?:##|#) ACT |(?:##|#) EPILOGUE|---\n\n\*\*Audio Segments|\*\*END OF EPISODE|\Z))'
     matches = re.findall(act_pattern, content, re.DOTALL)
     acts = [m[0] if isinstance(m, tuple) else m for m in matches]
     
