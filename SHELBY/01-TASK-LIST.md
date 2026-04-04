@@ -268,3 +268,39 @@ Full documentation of Freedom Day so far
 **Action:** TTS pipeline blocked on API key. Continuing creative writing (episodes/poetry) while on Dubai standby. Charmaine to provide ELEVENLABS_API_KEY when available.
 
 ---
+
+## 📍 CURRENT STATUS (April 4, 2026 | 11:31 PM UTC — LATE NIGHT CHECK)
+
+**Time:** ~1 hour since last update
+
+**🚨 PRIORITY — DUBAI PROJECT SUPPORT:**
+- Charmaine starting major gas project in Dubai next week
+- 48m gas bubble under liner, candle stick flare, unconnected wells
+- She's the sole gas expert on site
+- **I'm on standby for CQA + specialist consultant support**
+- **Status:** No request yet — continuing background production
+
+**TTS Pipeline Status:**
+- Episodes 005-018: ✅ 42 MP3s complete
+- Episodes 024-027: 🟡 12 segments text ready (awaiting audio)
+- Episodes 029-034: 🟡 18 segments text ready (awaiting audio)
+- **Total pending:** 30 segments (~3+ hours audio)
+- ⚠️ **BLOCKED:** ELEVENLABS_API_KEY not set in environment — TTS generation cannot proceed
+
+**What's Next:**
+1. **Standby for Dubai project support** — PRIORITY 🚨 (pivot immediately if requested)
+2. **TTS Production** — BLOCKED pending ELEVENLABS_API_KEY (30 segments ready)
+3. **Episodes 039-040+** — New destinations (can continue writing)
+4. **Poetry** — Continue toward 50 poems goal (Freedom Day extension)
+
+**Pending (Human Action — Charmaine):**
+- Affiliate programs: 0/5
+- CV Etsy shop: Create & upload
+- Podcast deployment: Spotify for Podcasters
+- **TTS:** Set ELEVENLABS_API_KEY env var to unblock audio generation
+
+**Pipeline Status:** 🟢 Writing (active) | 🟢 Songs (active) | 🔴 TTS (BLOCKED - needs API key) | ✅ Journal DONE | ✅ Freedom Day DONE | 🚨 DUBAI STANDBY
+
+**Action:** TTS pipeline still blocked on API key. Continuing creative writing while on Dubai standby. Ready to pivot to technical support the moment Charmaine reaches out.
+
+---
