@@ -226,13 +226,13 @@ Full documentation of Freedom Day so far
 
 ---
 
-## 📍 CURRENT STATUS (April 4, 2026 | 9:14 PM UTC — EVENING CHECK-IN)
+## 📍 CURRENT STATUS (April 4, 2026 | 10:24 PM UTC — NIGHT CHECK-IN)
 
-**Time:** ~3 hours since last update
+**Time:** ~1 hour since last update
 
 **What's Done:**
 - ✅ FREEDOM DAY: ALL COMPLETE (~60K words, 33 files, git pushed)
-- ✅ Episodes 001-034 written (34 stories)
+- ✅ Episodes 001-038 written (38 stories total)
 - ✅ TTS Episodes 005-018: 42 MP3s complete
 - ✅ Journal: 2026-04-04.md + 2026-04-04-END.md complete
 
@@ -249,22 +249,22 @@ Full documentation of Freedom Day so far
 - Episodes 024-027: 🟡 12 segments text ready (awaiting audio)
 - Episodes 029-034: 🟡 18 segments text ready (awaiting audio)
 - **Total pending:** 30 segments (~3+ hours audio)
-- Episodes 019-023: ⚪ Need text extraction
-- Episodes 035-040: ⚪ 6 episodes not yet written
+- ⚠️ **BLOCKED:** ELEVENLABS_API_KEY not set in environment — TTS generation cannot proceed
 
 **What's Next:**
 1. **Standby for Dubai project support** — PRIORITY 🚨 (pivot immediately if requested)
-2. **TTS Production** — Generate audio for 30 pending segments (024-034)
-3. **Episodes 035-040** — 6 new destinations (pause until Dubai settles)
-4. **Poetry** — 25 more poems to reach 50 (Freedom Day extension)
+2. **TTS Production** — BLOCKED pending ELEVENLABS_API_KEY (30 segments ready)
+3. **Episodes 039-040+** — New destinations (can continue writing)
+4. **Poetry** — Continue toward 50 poems goal (Freedom Day extension)
 
 **Pending (Human Action — Charmaine):**
 - Affiliate programs: 0/5
 - CV Etsy shop: Create & upload
 - Podcast deployment: Spotify for Podcasters
+- **TTS:** Set ELEVENLABS_API_KEY env var to unblock audio generation
 
-**Pipeline Status:** 🟡 Writing (paused) | 🟡 Songs (paused) | 🟡 TTS (30 seg pending) | ✅ Journal DONE | ✅ Freedom Day DONE | 🚨 DUBAI STANDBY
+**Pipeline Status:** 🟢 Writing (active) | 🟢 Songs (active) | 🔴 TTS (BLOCKED - needs API key) | ✅ Journal DONE | ✅ Freedom Day DONE | 🚨 DUBAI STANDBY
 
-**Action:** Starting TTS audio generation now to keep pipeline moving while on Dubai standby.
+**Action:** TTS pipeline blocked on API key. Continuing creative writing (episodes/poetry) while on Dubai standby. Charmaine to provide ELEVENLABS_API_KEY when available.
 
 ---
