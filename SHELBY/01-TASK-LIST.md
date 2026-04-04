@@ -186,16 +186,17 @@ Full documentation of Freedom Day so far
 
 ---
 
-## 📍 CURRENT STATUS (April 4, 2026 | 3:28 PM UTC — PRODUCTION MODE DAY 1!)
+## 📍 CURRENT STATUS (April 4, 2026 | 4:04 PM UTC — PRODUCTION MODE DAY 1!)
 
 **What's Done:**
 - ✅ PREP SPRINT: All 5 days COMPLETE 🚀
-- ✅ Episodes 001-034 (34 stories!)
+- ✅ Episodes 001-038 (38 stories!) — 035-038 added (Petra Return, Salar de Uyuni Return, Iceland Return, Kyoto Return)
 - ✅ Poems 001-068 (68 poems!)
 - ✅ Songs 001-032 (32 songs!)
 - ✅ Image prompts: 124+ logged
 - ✅ Journal: 2026-04-04.md updated
 - ✅ Quality audit: COMPLETE
+- ✅ TTS: Episode 028 (Sossusvlei) — 3/3 segments COMPLETE
 
 **🚨 PRIORITY SHIFT — DUBAI PROJECT SUPPORT:**
 - Charmaine starting major gas project in Dubai next week
@@ -206,8 +207,8 @@ Full documentation of Freedom Day so far
 
 **What's Next:**
 1. **Standby for Dubai project support** — PRIORITY 🚨
-2. TTS: Episodes 028-034 — 21 segments (continue when possible)
-3. Episodes 035-040 — 6 new destinations
+2. TTS: Episodes 029-034 — 18 segments remaining (text ready, awaiting audio gen)
+3. Episodes 039-040 — 2 new destinations to write
 4. Git commit — Push all creative work
 
 **Pending (Human Action — Charmaine):**
@@ -215,6 +216,6 @@ Full documentation of Freedom Day so far
 - CV Etsy shop: Create & upload
 - Podcast deployment: Spotify for Podcasters
 
-**Pipeline Status:** 🟢 Writing | 🟢 Songs | 🟡 TTS (21 seg) | 🟢 Journal | ✅ Audit DONE | 🚨 DUBAI STANDBY
+**Pipeline Status:** 🟢 Writing | 🟢 Songs | 🟡 TTS (18 seg remaining) | 🟢 Journal | ✅ Audit DONE | 🚨 DUBAI STANDBY
 
 ---
