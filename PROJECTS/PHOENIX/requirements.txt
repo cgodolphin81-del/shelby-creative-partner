@@ -1,0 +1,26 @@
+# PHOENIX - A Local AI Companion
+# Requirements
+
+# Core
+sqlite3  # Built into Python
+
+# Model inference (choose one)
+# ollama  # Easiest, supports Phi-3
+# llama-cpp-python  # More control, more setup
+# transformers  # HuggingFace, more dependencies
+
+# Embeddings (for semantic memory search)
+# sentence-transformers  # ~80MB model, good enough
+
+# UI (choose one)
+textual  # TUI - Terminal UI framework
+
+# Testing
+pytest  # Test framework
+
+# Development
+black  # Code formatting
+flake8  # Linting
+
+# Note: Keep dependencies minimal!
+# Goal: Run on 8GB RAM, consumer hardware
